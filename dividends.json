@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-07 00:33",
+ "updatedAt": "2026-08-07 07:32",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -1308,6 +1308,21 @@
    "collected_at": "2026-08-07 00:33"
   },
   {
+   "company": "Autoscope Technologies Corporation",
+   "exchange": "OTCQX",
+   "ticker": "AATC",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-08-20",
+   "payable_date": "2026-08-27",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340775/0/en/Autoscope-Technologies-Corporation-Announces-Financial-Results-and-Dividend-Declaration.html",
+   "collected_at": "2026-08-07 07:30"
+  },
+  {
    "company": "Landmark Bancorp, Inc.",
    "exchange": "Nasdaq",
    "ticker": "LARK",
@@ -1368,6 +1383,21 @@
    "collected_at": "2026-08-07 00:19"
   },
   {
+   "company": "Artesian Resources Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "ARTNA",
+   "security": "common",
+   "amount_per_share": 0.3199,
+   "currency": "USD",
+   "record_date": "2026-08-17",
+   "payable_date": "2026-08-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340612/30413/en/Artesian-Resources-Corporation-Declares-Third-Quarter-2026-Common-Stock-Dividend.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
    "company": "Aura Minerals Inc.",
    "exchange": "Nasdaq",
    "ticker": "AUGO",
@@ -1411,6 +1441,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/840489/000084048926000082/fcfs07232026exhibit991.htm",
    "collected_at": "2026-08-07 00:17"
+  },
+  {
+   "company": "Karat Packaging Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "KRT",
+   "security": "common",
+   "amount_per_share": 0.47,
+   "currency": "USD",
+   "record_date": "2026-08-21",
+   "payable_date": "2026-08-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340778/0/en/Karat-Packaging-Reports-Second-Quarter-2026-Financial-Results.html",
+   "collected_at": "2026-08-07 07:30"
   },
   {
    "company": "Louisiana-Pacific Corporation",
@@ -1548,6 +1593,21 @@
    "collected_at": "2026-08-07 00:21"
   },
   {
+   "company": "KLA Corporation",
+   "exchange": "NASDAQ",
+   "ticker": "KLAC",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "2026-08-17",
+   "payable_date": "2026-09-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/kla-declares-regular-cash-dividend-302845379.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
    "company": "Equinox Gold Corp.",
    "exchange": "TSX",
    "ticker": "EQX",
@@ -1563,6 +1623,21 @@
    "collected_at": "2026-08-06 23:58"
   },
   {
+   "company": "Natural Grocers by Vitamin Cottage, Inc.",
+   "exchange": "NYSE",
+   "ticker": "NGVC",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-08-17",
+   "payable_date": "2026-09-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/natural-grocers-by-vitamin-cottage-inc-declares-quarterly-dividend-302845274.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
    "company": "Cognex Corporation",
    "exchange": "NASDAQ",
    "ticker": "CGNX",
@@ -1576,6 +1651,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/851205/000085120526000061/cgnx-20260805.htm",
    "collected_at": "2026-08-07 00:29"
+  },
+  {
+   "company": "Chemed Corporation",
+   "exchange": "NYSE",
+   "ticker": "CHE",
+   "security": "common",
+   "amount_per_share": 0.7,
+   "currency": "USD",
+   "record_date": "2026-08-17",
+   "payable_date": "2026-09-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340530/0/en/Chemed-Corporation-Declares-Quarterly-Dividend-of-70-Cents.html",
+   "collected_at": "2026-08-07 07:31"
   },
   {
    "company": "COLUMBIA SPORTSWEAR COMPANY",
@@ -1636,6 +1726,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/somnigroup-announces-third-quarter-cash-dividend-302844179.html",
    "collected_at": "2026-08-06 23:59"
+  },
+  {
+   "company": "Wheaton Precious Metals Corp.",
+   "exchange": null,
+   "ticker": "WPM",
+   "security": "common",
+   "amount_per_share": 0.195,
+   "currency": "USD",
+   "record_date": "2026-08-20",
+   "payable_date": "2026-09-03",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/dividend-declaration---wheaton-precious-metals-announces-quarterly-dividend-302845411.html",
+   "collected_at": "2026-08-07 07:31"
   },
   {
    "company": "JPMorgan ETFs (Ireland) ICAV",
@@ -1998,6 +2103,21 @@
    "collected_at": "2026-08-07 00:29"
   },
   {
+   "company": "Microchip Technology Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "MCHP",
+   "security": "common",
+   "amount_per_share": 0.455,
+   "currency": "USD",
+   "record_date": "2026-08-24",
+   "payable_date": "2026-09-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340799/0/en/Microchip-Technology-Announces-Quarterly-Cash-Dividend-on-Common-Stock-of-45-5-Cents-Per-Share.html",
+   "collected_at": "2026-08-07 07:30"
+  },
+  {
    "company": "CDW Corporation",
    "exchange": "Nasdaq",
    "ticker": "CDW",
@@ -2208,6 +2328,66 @@
    "collected_at": "2026-08-07 00:20"
   },
   {
+   "company": "Canoe EIT Income Fund",
+   "exchange": "TSX",
+   "ticker": "EIT.PR.A",
+   "security": "preferred",
+   "amount_per_share": 0.3,
+   "currency": "CAD",
+   "record_date": "2026-08-21",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340815/0/en/Canoe-EIT-Income-Fund-Announces-August-2026-Monthly-Distribution-and-Quarterly-Preferred-Unit-Distributions.html",
+   "collected_at": "2026-08-07 07:30"
+  },
+  {
+   "company": "Canoe EIT Income Fund",
+   "exchange": "TSX",
+   "ticker": "EIT.PR.B",
+   "security": "preferred",
+   "amount_per_share": 0.3,
+   "currency": "CAD",
+   "record_date": "2026-08-21",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340815/0/en/Canoe-EIT-Income-Fund-Announces-August-2026-Monthly-Distribution-and-Quarterly-Preferred-Unit-Distributions.html",
+   "collected_at": "2026-08-07 07:30"
+  },
+  {
+   "company": "Canoe EIT Income Fund",
+   "exchange": "TSX",
+   "ticker": "EIT.PR.C",
+   "security": "preferred",
+   "amount_per_share": 0.3125,
+   "currency": "CAD",
+   "record_date": "2026-08-21",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340815/0/en/Canoe-EIT-Income-Fund-Announces-August-2026-Monthly-Distribution-and-Quarterly-Preferred-Unit-Distributions.html",
+   "collected_at": "2026-08-07 07:30"
+  },
+  {
+   "company": "Canoe EIT Income Fund",
+   "exchange": "TSX",
+   "ticker": "EIT.UN",
+   "security": "fund",
+   "amount_per_share": 0.1,
+   "currency": "CAD",
+   "record_date": "2026-08-21",
+   "payable_date": "2026-09-15",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340815/0/en/Canoe-EIT-Income-Fund-Announces-August-2026-Monthly-Distribution-and-Quarterly-Preferred-Unit-Distributions.html",
+   "collected_at": "2026-08-07 07:30"
+  },
+  {
    "company": "National Bank Holdings Corporation",
    "exchange": "NYSE",
    "ticker": "NBHC",
@@ -2356,6 +2536,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/80420/000008042026000103/ex992-powlq3xfy2026dividen.htm",
    "collected_at": "2026-08-07 00:15"
+  },
+  {
+   "company": "WillScot Holdings Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "WSC",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "2026-09-02",
+   "payable_date": "2026-09-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340688/0/en/WillScot-Declares-Quarterly-Cash-Dividend.html",
+   "collected_at": "2026-08-07 07:31"
   },
   {
    "company": "RB Global, Inc.",
@@ -2613,6 +2808,21 @@
    "collected_at": "2026-08-06 23:59"
   },
   {
+   "company": "Vaalco Energy, Inc.",
+   "exchange": "NYSE",
+   "ticker": "EGY",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "2026-08-21",
+   "payable_date": "2026-09-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340802/0/en/Vaalco-Energy-Inc-Declares-Third-Quarter-2026-Dividend.html",
+   "collected_at": "2026-08-07 07:30"
+  },
+  {
    "company": "NLI Holdings, Inc.",
    "exchange": "NYSE",
    "ticker": "NL",
@@ -2673,6 +2883,21 @@
    "collected_at": "2026-08-06 23:59"
   },
   {
+   "company": "Valhi, Inc.",
+   "exchange": "NYSE",
+   "ticker": "VHI",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "2026-09-03",
+   "payable_date": "2026-09-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340794/0/en/VALHI-DECLARES-QUARTERLY-DIVIDEND.html",
+   "collected_at": "2026-08-07 07:30"
+  },
+  {
    "company": "CME Group Inc.",
    "exchange": null,
    "ticker": "CME",
@@ -2686,6 +2911,126 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/cme-group-declares-quarterly-dividend-302844557.html",
    "collected_at": "2026-08-06 23:58"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "common",
+   "amount_per_share": 0.96,
+   "currency": "CAD",
+   "record_date": "2026-08-26",
+   "payable_date": "2026-09-29",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sun-life-declares-dividends-on-common-and-preferred-shares-payable-in-q3-2026-302845416.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "preferred",
+   "amount_per_share": 0.278125,
+   "currency": "CAD",
+   "record_date": "2026-08-26",
+   "payable_date": "2026-09-29",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sun-life-declares-dividends-on-common-and-preferred-shares-payable-in-q3-2026-302845416.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "preferred",
+   "amount_per_share": 0.28125,
+   "currency": "CAD",
+   "record_date": "2026-08-26",
+   "payable_date": "2026-09-29",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sun-life-declares-dividends-on-common-and-preferred-shares-payable-in-q3-2026-302845416.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "preferred",
+   "amount_per_share": 0.264375,
+   "currency": "CAD",
+   "record_date": "2026-08-26",
+   "payable_date": "2026-09-29",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sun-life-declares-dividends-on-common-and-preferred-shares-payable-in-q3-2026-302845416.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "preferred",
+   "amount_per_share": 0.23523,
+   "currency": "CAD",
+   "record_date": "2026-08-26",
+   "payable_date": "2026-09-29",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sun-life-declares-dividends-on-common-and-preferred-shares-payable-in-q3-2026-302845416.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "preferred",
+   "amount_per_share": 0.185438,
+   "currency": "CAD",
+   "record_date": "2026-08-26",
+   "payable_date": "2026-09-29",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sun-life-declares-dividends-on-common-and-preferred-shares-payable-in-q3-2026-302845416.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "preferred",
+   "amount_per_share": 0.283121,
+   "currency": "CAD",
+   "record_date": "2026-08-26",
+   "payable_date": "2026-09-29",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sun-life-declares-dividends-on-common-and-preferred-shares-payable-in-q3-2026-302845416.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
+   "company": "T. Rowe Price Group, Inc.",
+   "exchange": "NASDAQ-GS",
+   "ticker": "TROW",
+   "security": "common",
+   "amount_per_share": 1.3,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/t-rowe-price-group-inc-declares-quarterly-dividend-302845406.html",
+   "collected_at": "2026-08-07 07:31"
   },
   {
    "company": "Brookfield Property Partners",
@@ -2808,6 +3153,21 @@
    "collected_at": "2026-08-07 00:23"
   },
   {
+   "company": "Marriott International, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "MAR",
+   "security": "common",
+   "amount_per_share": 0.73,
+   "currency": "USD",
+   "record_date": "2026-08-20",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/marriott-international-declares-quarterly-cash-dividend-302845343.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
    "company": "MarketWise, Inc.",
    "exchange": "NASDAQ",
    "ticker": "MKTW",
@@ -2883,6 +3243,21 @@
    "collected_at": "2026-08-07 00:00"
   },
   {
+   "company": "Strawberry Fields REIT, Inc.",
+   "exchange": "NYSE AMERICAN",
+   "ticker": "STRW",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-09-16",
+   "payable_date": "2026-09-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340852/0/en/Strawberry-Fields-REIT-Announces-Q3-2026-Cash-Dividend-of-0-17-per-Common-Share.html",
+   "collected_at": "2026-08-07 07:30"
+  },
+  {
    "company": "WESTERN ALLIANCE BANCORPORATION",
    "exchange": "New York Stock Exchange",
    "ticker": "WAL PrA",
@@ -2943,6 +3318,21 @@
    "collected_at": "2026-08-07 00:33"
   },
   {
+   "company": "Consumers Energy",
+   "exchange": "NYSE",
+   "ticker": "CMS_pb",
+   "security": "preferred",
+   "amount_per_share": 1.125,
+   "currency": "USD",
+   "record_date": "2026-09-02",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/consumers-energy-the-principal-subsidiary-of-cms-energy-declares-quarterly-dividend-on-preferred-stock-302845180.html",
+   "collected_at": "2026-08-07 07:32"
+  },
+  {
    "company": "COMMUNITY TRUST BANCORP, INC.",
    "exchange": "NASDAQ",
    "ticker": "CTBI",
@@ -3001,6 +3391,21 @@
    "wire": "GNW",
    "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340254/37116/en/Regency-Centers-Declares-Quarterly-Dividends.html",
    "collected_at": "2026-08-06 23:56"
+  },
+  {
+   "company": "Chesapeake Utilities Corporation",
+   "exchange": "NYSE",
+   "ticker": "CPK",
+   "security": "common",
+   "amount_per_share": 0.735,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-10-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/chesapeake-utilities-corporation-announces-quarterly-dividend-302845346.html",
+   "collected_at": "2026-08-07 07:32"
   },
   {
    "company": "MSC Income Fund, Inc.",
@@ -3183,6 +3588,21 @@
    "collected_at": "2026-08-07 00:20"
   },
   {
+   "company": "CMS Energy",
+   "exchange": "NYSE",
+   "ticker": "CMS PRC",
+   "security": "preferred",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cms-energy-declares-quarterly-dividend-on-cumulative-redeemable-perpetual-preferred-stock-302845307.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
    "company": "F&G Annuities & Life, Inc.",
    "exchange": "NYSE",
    "ticker": "FG",
@@ -3258,6 +3678,21 @@
    "collected_at": "2026-08-06 23:57"
   },
   {
+   "company": "Roper Technologies, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "ROP",
+   "security": "common",
+   "amount_per_share": 0.91,
+   "currency": "USD",
+   "record_date": "2026-10-02",
+   "payable_date": "2026-10-21",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340655/0/en/Roper-Technologies-announces-dividend.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
    "company": "Rogers Sugar Inc.",
    "exchange": null,
    "ticker": "RSI",
@@ -3271,6 +3706,21 @@
    "wire": "GNW",
    "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340113/0/en/Rogers-Sugar-Inc-Declares-Dividend-to-Shareholders.html",
    "collected_at": "2026-08-06 23:57"
+  },
+  {
+   "company": "Globe Life Inc.",
+   "exchange": "NYSE",
+   "ticker": "GL",
+   "security": "common",
+   "amount_per_share": 0.33,
+   "currency": "USD",
+   "record_date": "2026-10-05",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/globe-life-inc-declares-dividend-302845484.html",
+   "collected_at": "2026-08-07 07:31"
   },
   {
    "company": "Regency Centers Corporation",
@@ -3378,6 +3828,36 @@
    "collected_at": "2026-08-06 23:59"
   },
   {
+   "company": "Tyson Foods, Inc.",
+   "exchange": "NYSE",
+   "ticker": "TSN",
+   "security": "common",
+   "amount_per_share": 0.51,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340715/7106/en/Tyson-Foods-Announces-Quarterly-Dividend.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
+   "company": "Tyson Foods, Inc.",
+   "exchange": "NYSE",
+   "ticker": "TSN",
+   "security": "common",
+   "amount_per_share": 0.459,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340715/7106/en/Tyson-Foods-Announces-Quarterly-Dividend.html",
+   "collected_at": "2026-08-07 07:31"
+  },
+  {
    "company": "MSC Income Fund, Inc.",
    "exchange": "NYSE",
    "ticker": "MSIF",
@@ -3438,5 +3918,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 229
+ "count": 261
 }
