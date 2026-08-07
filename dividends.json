@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-08 05:02",
+ "updatedAt": "2026-08-08 05:59",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -2478,6 +2478,36 @@
    "collected_at": "2026-08-07 00:29"
   },
   {
+   "company": "Haverty Furniture Companies, Inc.",
+   "exchange": "NYSE",
+   "ticker": "HVT",
+   "security": "common",
+   "amount_per_share": 0.33,
+   "currency": "USD",
+   "record_date": "2026-08-25",
+   "payable_date": "2026-09-09",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/havertys-furniture-third-quarter-2026-cash-dividend-and-additional-authorization-under-stock-repurchase-program-302846259.html",
+   "collected_at": "2026-08-08 05:59"
+  },
+  {
+   "company": "Haverty Furniture Companies, Inc.",
+   "exchange": "NYSE",
+   "ticker": "HVT.A",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "2026-08-25",
+   "payable_date": "2026-09-09",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/havertys-furniture-third-quarter-2026-cash-dividend-and-additional-authorization-under-stock-repurchase-program-302846259.html",
+   "collected_at": "2026-08-08 05:59"
+  },
+  {
    "company": "Microchip Technology Inc.",
    "exchange": "NASDAQ",
    "ticker": "MCHP",
@@ -2716,6 +2746,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/908255/000090825526000045/a07312026dividendrelease.htm",
    "collected_at": "2026-08-07 00:20"
+  },
+  {
+   "company": "Dover Corporation",
+   "exchange": "NYSE",
+   "ticker": "DOV",
+   "security": "common",
+   "amount_per_share": 0.525,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/dover-increases-dividend-302846351.html",
+   "collected_at": "2026-08-08 05:59"
   },
   {
    "company": "Canoe EIT Income Fund",
@@ -4383,5 +4428,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 292
+ "count": 295
 }
