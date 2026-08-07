@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-07 19:15",
+ "updatedAt": "2026-08-07 20:09",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -2148,6 +2148,21 @@
    "collected_at": "2026-08-07 00:16"
   },
   {
+   "company": "Essent Group Ltd.",
+   "exchange": "NYSE",
+   "ticker": "ESNT",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/07/3341014/0/en/essent-group-ltd-announces-second-quarter-2026-results-and-declares-quarterly-dividend.html",
+   "collected_at": "2026-08-07 20:09"
+  },
+  {
    "company": "LandBridge Company LLC",
    "exchange": "NYSE",
    "ticker": "LB",
@@ -3948,5 +3963,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 263
+ "count": 264
 }
