@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-07 18:15",
+ "updatedAt": "2026-08-07 19:15",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -1278,6 +1278,21 @@
    "collected_at": "2026-08-07 00:16"
   },
   {
+   "company": "Tetragon Financial Group Limited",
+   "exchange": "Euronext Amsterdam",
+   "ticker": "TFG",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-08-03",
+   "payable_date": "2026-08-26",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/tetragon-financial-group-limited-dividend-information-in-respect-of-q2-2026-302845985.html",
+   "collected_at": "2026-08-07 19:15"
+  },
+  {
    "company": "Western New England Bancorp, Inc.",
    "exchange": "NasdaqGS",
    "ticker": "WNEB",
@@ -2386,6 +2401,21 @@
    "wire": "GNW",
    "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340815/0/en/Canoe-EIT-Income-Fund-Announces-August-2026-Monthly-Distribution-and-Quarterly-Preferred-Unit-Distributions.html",
    "collected_at": "2026-08-07 07:30"
+  },
+  {
+   "company": "Embecta Corp.",
+   "exchange": "Nasdaq",
+   "ticker": "EMBC",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "2026-08-27",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/07/3340981/0/en/embecta-announces-quarterly-cash-dividend.html",
+   "collected_at": "2026-08-07 19:15"
   },
   {
    "company": "National Bank Holdings Corporation",
@@ -3918,5 +3948,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 261
+ "count": 263
 }
