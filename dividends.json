@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-08 02:08",
+ "updatedAt": "2026-08-08 03:03",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -3618,6 +3618,36 @@
    "collected_at": "2026-08-07 00:23"
   },
   {
+   "company": "New England Realty Associates Limited Partnership",
+   "exchange": "NYSE MKT",
+   "ticker": "NEN",
+   "security": "common",
+   "amount_per_share": 12.0,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/new-england-realty-associates-lp-announces-third-quarter-distribution-on-class-a-units-and-depositary-receipts-302846261.html",
+   "collected_at": "2026-08-08 03:03"
+  },
+  {
+   "company": "New England Realty Associates Limited Partnership",
+   "exchange": "NYSE MKT",
+   "ticker": "NEN",
+   "security": "other",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/new-england-realty-associates-lp-announces-third-quarter-distribution-on-class-a-units-and-depositary-receipts-302846261.html",
+   "collected_at": "2026-08-08 03:03"
+  },
+  {
    "company": "OUTFRONT Media Inc.",
    "exchange": "NYSE",
    "ticker": "OUT",
@@ -3811,6 +3841,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/chesapeake-utilities-corporation-announces-quarterly-dividend-302845346.html",
    "collected_at": "2026-08-07 07:32"
+  },
+  {
+   "company": "Illinois Tool Works Inc.",
+   "exchange": "NYSE",
+   "ticker": "ITW",
+   "security": "common",
+   "amount_per_share": 1.72,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-09",
+   "frequency": "annual",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/07/3341312/31446/en/itw-announces-7-dividend-increase-and-6-billion-share-repurchase-program.html",
+   "collected_at": "2026-08-08 03:03"
   },
   {
    "company": "MSC Income Fund, Inc.",
@@ -4323,5 +4368,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 288
+ "count": 291
 }
