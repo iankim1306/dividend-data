@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-08 03:03",
+ "updatedAt": "2026-08-08 04:16",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -1951,6 +1951,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/kla-declares-regular-cash-dividend-302845379.html",
    "collected_at": "2026-08-07 07:31"
+  },
+  {
+   "company": "Twin Disc, Incorporated",
+   "exchange": "NASDAQ",
+   "ticker": "TWIN",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "2026-08-18",
+   "payable_date": "2026-09-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/07/3341323/0/en/twin-disc-increases-quarterly-cash-dividend-25-to-0-05-per-share.html",
+   "collected_at": "2026-08-08 04:16"
   },
   {
    "company": "Equinox Gold Corp.",
@@ -4368,5 +4383,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 291
+ "count": 292
 }
