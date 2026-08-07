@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-07 20:58",
+ "updatedAt": "2026-08-07 22:40",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -1578,6 +1578,21 @@
    "collected_at": "2026-08-07 00:22"
   },
   {
+   "company": "Sabine Royalty Trust",
+   "exchange": "NYSE",
+   "ticker": "SBR",
+   "security": "common",
+   "amount_per_share": 0.61943,
+   "currency": "USD",
+   "record_date": "2026-08-17",
+   "payable_date": "2026-08-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sabine-royalty-trust-announces-monthly-cash-distribution-for-august-2026-302844651.html",
+   "collected_at": "2026-08-07 22:40"
+  },
+  {
    "company": "BRUKER CORPORATION",
    "exchange": "The Nasdaq Global Select Market",
    "ticker": "BRKRP",
@@ -2011,6 +2026,21 @@
    "wire": "GNW",
    "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340315/0/es/JPMorgan-ETFs-Ireland-ICAV-Declaraci%C3%B3n-de-dividendos.html",
    "collected_at": "2026-08-06 23:56"
+  },
+  {
+   "company": "Bath & Body Works, Inc.",
+   "exchange": "NYSE",
+   "ticker": "BBWI",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "2026-08-21",
+   "payable_date": "2026-09-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/07/3341086/0/en/bath-body-works-declares-cash-dividend.html",
+   "collected_at": "2026-08-07 22:40"
   },
   {
    "company": "BANK OF THE JAMES FINANCIAL GROUP, INC.",
@@ -3078,6 +3108,21 @@
    "collected_at": "2026-08-07 07:31"
   },
   {
+   "company": "AMETEK, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AME",
+   "security": "common",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ametek-declares-quarterly-dividend-302845459.html",
+   "collected_at": "2026-08-07 22:40"
+  },
+  {
    "company": "Brookfield Property Partners",
    "exchange": "Nasdaq",
    "ticker": "BPY",
@@ -3963,5 +4008,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 264
+ "count": 267
 }
