@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-08 06:57",
+ "updatedAt": "2026-08-08 07:56",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -2628,6 +2628,21 @@
    "collected_at": "2026-08-07 00:23"
   },
   {
+   "company": "Ashland, Inc.",
+   "exchange": "NYSE",
+   "ticker": "ASH",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "2026-09-01",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/07/3341406/0/en/ashland-board-authorizes-quarterly-dividend.html",
+   "collected_at": "2026-08-08 07:56"
+  },
+  {
    "company": "Bread Financial Holdings, Inc.",
    "exchange": "NYSE",
    "ticker": "BFH",
@@ -4428,5 +4443,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 295
+ "count": 296
 }
