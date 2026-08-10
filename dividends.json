@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-10 17:52",
+ "updatedAt": "2026-08-10 19:36",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -2643,6 +2643,21 @@
    "collected_at": "2026-08-08 07:56"
   },
   {
+   "company": "Barrick Mining Corporation",
+   "exchange": "NYSE",
+   "ticker": "B",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/10/3341621/0/en/barrick-declares-q2-dividend.html",
+   "collected_at": "2026-08-10 19:36"
+  },
+  {
    "company": "Bread Financial Holdings, Inc.",
    "exchange": "NYSE",
    "ticker": "BFH",
@@ -4443,5 +4458,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 296
+ "count": 297
 }
