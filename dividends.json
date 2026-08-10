@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-10 19:36",
+ "updatedAt": "2026-08-10 21:02",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -721,6 +721,51 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1499422/000143774926023874/ex_970512.htm",
    "collected_at": "2026-08-07 00:16"
+  },
+  {
+   "company": "YieldMax",
+   "exchange": null,
+   "ticker": "MSST",
+   "security": "fund",
+   "amount_per_share": 0.1124,
+   "currency": "USD",
+   "record_date": "2026-08-11",
+   "payable_date": "2026-08-12",
+   "frequency": "weekly",
+   "us_listed": false,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/10/3341669/0/en/yieldmax-etfs-announces-distributions-on-msst-nvit-and-test.html",
+   "collected_at": "2026-08-10 21:02"
+  },
+  {
+   "company": "YieldMax",
+   "exchange": null,
+   "ticker": "NVIT",
+   "security": "fund",
+   "amount_per_share": 0.2479,
+   "currency": "USD",
+   "record_date": "2026-08-11",
+   "payable_date": "2026-08-12",
+   "frequency": "weekly",
+   "us_listed": false,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/10/3341669/0/en/yieldmax-etfs-announces-distributions-on-msst-nvit-and-test.html",
+   "collected_at": "2026-08-10 21:02"
+  },
+  {
+   "company": "YieldMax",
+   "exchange": null,
+   "ticker": "TEST",
+   "security": "fund",
+   "amount_per_share": 0.1734,
+   "currency": "USD",
+   "record_date": "2026-08-11",
+   "payable_date": "2026-08-12",
+   "frequency": "weekly",
+   "us_listed": false,
+   "wire": "GNW",
+   "source_url": "https://www.globenewswire.com/news-release/2026/08/10/3341669/0/en/yieldmax-etfs-announces-distributions-on-msst-nvit-and-test.html",
+   "collected_at": "2026-08-10 21:02"
   },
   {
    "company": "Constellation Brands, Inc.",
@@ -4458,5 +4503,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 297
+ "count": 300
 }
