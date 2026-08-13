@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-13 09:00",
+ "updatedAt": "2026-08-13 10:39",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -1743,6 +1743,21 @@
    "collected_at": "2026-08-07 00:15"
   },
   {
+   "company": "Smithfield Foods, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "SFD",
+   "security": "common",
+   "amount_per_share": 0.3125,
+   "currency": "USD",
+   "record_date": "2026-08-13",
+   "payable_date": "2026-08-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/91388/000009138826000052/q22026pressrelease.htm",
+   "collected_at": "2026-08-13 10:39"
+  },
+  {
    "company": "S&T Bancorp, Inc.",
    "exchange": "NASDAQ",
    "ticker": "STBA",
@@ -2071,6 +2086,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302848767.html",
    "collected_at": "2026-08-12 06:07"
+  },
+  {
+   "company": "Flowco Holdings Inc.",
+   "exchange": "NYSE",
+   "ticker": "FLOC",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "2026-08-21",
+   "payable_date": "2026-08-31",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2035149/000119312526343188/floc-ex99_1.htm",
+   "collected_at": "2026-08-13 10:39"
   },
   {
    "company": "FS Credit Opportunities Corp.",
@@ -2793,6 +2823,21 @@
    "collected_at": "2026-08-13 06:06"
   },
   {
+   "company": "Cinemark Holdings, Inc.",
+   "exchange": "NYSE",
+   "ticker": "CNK",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "2026-08-26",
+   "payable_date": "2026-09-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1385280/000119312526347069/cnk-ex99_1.htm",
+   "collected_at": "2026-08-13 10:38"
+  },
+  {
    "company": "Haverty Furniture Companies, Inc.",
    "exchange": "NYSE",
    "ticker": "HVT",
@@ -3138,6 +3183,21 @@
    "collected_at": "2026-08-07 00:20"
   },
   {
+   "company": "CNB Financial Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "CCNE",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "2026-09-01",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/736772/000073677226000081/ccne8-11x2699x1xcommondivi.htm",
+   "collected_at": "2026-08-13 10:38"
+  },
+  {
    "company": "Dover Corporation",
    "exchange": "NYSE",
    "ticker": "DOV",
@@ -3286,6 +3346,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1174850/000117485026000157/nic-20260721.htm",
    "collected_at": "2026-08-07 00:33"
+  },
+  {
+   "company": "Old National Bancorp",
+   "exchange": "NASDAQ",
+   "ticker": "ONB",
+   "security": "common",
+   "amount_per_share": 0.145,
+   "currency": "USD",
+   "record_date": "2026-09-05",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/707179/000162828026056279/ex991dividendsannouncement.htm",
+   "collected_at": "2026-08-13 10:38"
+  },
+  {
+   "company": "Pangaea Logistics Solutions Ltd.",
+   "exchange": "Nasdaq",
+   "ticker": "PANL",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-09-01",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1606909/000162828026055346/q22026earningspressrelease.htm",
+   "collected_at": "2026-08-13 10:38"
   },
   {
    "company": "Stifel Financial Corporation",
@@ -3468,6 +3558,21 @@
    "collected_at": "2026-08-07 00:23"
   },
   {
+   "company": "California Resources Corporation",
+   "exchange": "NYSE",
+   "ticker": "CRC",
+   "security": "common",
+   "amount_per_share": 0.405,
+   "currency": "USD",
+   "record_date": "2026-09-04",
+   "payable_date": "2026-09-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1609253/000160925326000127/a2026q2erex991.htm",
+   "collected_at": "2026-08-13 10:39"
+  },
+  {
    "company": "Exponent, Inc.",
    "exchange": "Nasdaq",
    "ticker": "EXPO",
@@ -3496,6 +3601,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/745308/000110465926088142/joe-20260729x8k.htm",
    "collected_at": "2026-08-07 00:22"
+  },
+  {
+   "company": "Mueller Industries, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MLI",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": "2026-09-04",
+   "payable_date": "2026-09-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000036/ex-99_1q32026dividend.htm",
+   "collected_at": "2026-08-13 10:39"
   },
   {
    "company": "Stella-Jones Inc.",
@@ -3738,6 +3858,21 @@
    "collected_at": "2026-08-07 00:15"
   },
   {
+   "company": "Amcor",
+   "exchange": "NYSE",
+   "ticker": "AMCR",
+   "security": "common",
+   "amount_per_share": 0.65,
+   "currency": "USD",
+   "record_date": "2026-09-04",
+   "payable_date": "2026-09-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000020/amcor4q2026ex991-june302026.htm",
+   "collected_at": "2026-08-13 10:39"
+  },
+  {
    "company": "CNO Financial Group, Inc.",
    "exchange": "NYSE",
    "ticker": "CNO",
@@ -3768,6 +3903,36 @@
    "collected_at": "2026-08-07 07:30"
   },
   {
+   "company": "Vishay Intertechnology, Inc.",
+   "exchange": "New York Stock Exchange",
+   "ticker": "VSH",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-09-10",
+   "payable_date": "2026-09-24",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/103730/000010373026000068/vsh-20260812.htm",
+   "collected_at": "2026-08-13 10:38"
+  },
+  {
+   "company": "Auburn National Bancorporation, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "AUBN",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "2026-09-10",
+   "payable_date": "2026-09-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/750574/000119312526344014/d138330dex991.htm",
+   "collected_at": "2026-08-13 10:39"
+  },
+  {
    "company": "CME Group Inc.",
    "exchange": null,
    "ticker": "CME",
@@ -3781,6 +3946,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/cme-group-declares-quarterly-dividend-302844557.html",
    "collected_at": "2026-08-06 23:58"
+  },
+  {
+   "company": "Insteel Industries Inc.",
+   "exchange": "NYSE",
+   "ticker": "IIIN",
+   "security": "common",
+   "amount_per_share": 0.03,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-09-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764401/000143774926027019/ex_1002228.htm",
+   "collected_at": "2026-08-13 10:38"
   },
   {
    "company": "Hydro One Limited",
@@ -4413,6 +4593,21 @@
    "collected_at": "2026-08-07 00:19"
   },
   {
+   "company": "Crown Crafts, Inc.",
+   "exchange": "NASDAQ-CM",
+   "ticker": "CRWS",
+   "security": "common",
+   "amount_per_share": 0.03,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-10-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/25895/000143774926027336/ex_1001300.htm",
+   "collected_at": "2026-08-13 10:38"
+  },
+  {
    "company": "Genuine Parts Company",
    "exchange": "NYSE",
    "ticker": "GPC",
@@ -4456,6 +4651,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/chesapeake-utilities-corporation-announces-quarterly-dividend-302845346.html",
    "collected_at": "2026-08-07 07:32"
+  },
+  {
+   "company": "H&R BLOCK, INC.",
+   "exchange": "New York Stock Exchange",
+   "ticker": "HRB",
+   "security": "common",
+   "amount_per_share": 0.46,
+   "currency": "USD",
+   "record_date": "2026-09-03",
+   "payable_date": "2026-10-06",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/12659/000001265926000019/hrb-20260811.htm",
+   "collected_at": "2026-08-13 10:38"
   },
   {
    "company": "Illinois Tool Works Inc.",
@@ -4863,6 +5073,21 @@
    "collected_at": "2026-08-13 06:06"
   },
   {
+   "company": "Cisco",
+   "exchange": "NASDAQ",
+   "ticker": "CSCO",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "2026-10-02",
+   "payable_date": "2026-10-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000106/exhibit991pressrelease-q4f.htm",
+   "collected_at": "2026-08-13 10:39"
+  },
+  {
    "company": "Quest Diagnostics",
    "exchange": "NYSE",
    "ticker": "DGX",
@@ -5028,6 +5253,36 @@
    "collected_at": "2026-08-07 00:19"
   },
   {
+   "company": "Old National Bancorp",
+   "exchange": "NASDAQ",
+   "ticker": "ONBPO",
+   "security": "preferred",
+   "amount_per_share": 17.5,
+   "currency": "USD",
+   "record_date": "2026-11-05",
+   "payable_date": "2026-11-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/707179/000162828026056279/ex991dividendsannouncement.htm",
+   "collected_at": "2026-08-13 10:38"
+  },
+  {
+   "company": "Old National Bancorp",
+   "exchange": "NASDAQ",
+   "ticker": "ONBPP",
+   "security": "preferred",
+   "amount_per_share": 17.5,
+   "currency": "USD",
+   "record_date": "2026-11-05",
+   "payable_date": "2026-11-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/707179/000162828026056279/ex991dividendsannouncement.htm",
+   "collected_at": "2026-08-13 10:38"
+  },
+  {
    "company": "MSC Income Fund, Inc.",
    "exchange": "NYSE",
    "ticker": "MSIF",
@@ -5133,5 +5388,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 342
+ "count": 359
 }
