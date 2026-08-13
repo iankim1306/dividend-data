@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-14 03:18",
+ "updatedAt": "2026-08-14 06:19",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -19968,6 +19968,21 @@
    "collected_at": "2026-08-07 00:20"
   },
   {
+   "company": "Cboe Global Markets, Inc.",
+   "exchange": "Cboe",
+   "ticker": "CBOE",
+   "security": "common",
+   "amount_per_share": 0.86,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cboe-global-markets-declares-increased-third-quarter-2026-dividend-302851370.html",
+   "collected_at": "2026-08-14 06:18"
+  },
+  {
    "company": "CNB Financial Corporation",
    "exchange": "Nasdaq",
    "ticker": "CCNE",
@@ -20247,6 +20262,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/group-1-automotive-board-declares-quarterly-dividend-302848893.html",
    "collected_at": "2026-08-12 06:07"
+  },
+  {
+   "company": "HireQuest, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "HQI",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "2026-09-01",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/hirequest-inc-declares-quarterly-dividend-302851316.html",
+   "collected_at": "2026-08-14 06:19"
   },
   {
    "company": "Hyster-Yale, Inc.",
@@ -21161,6 +21191,21 @@
    "wire": "GNW",
    "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340802/0/en/Vaalco-Energy-Inc-Declares-Third-Quarter-2026-Dividend.html",
    "collected_at": "2026-08-07 07:30"
+  },
+  {
+   "company": "Lear Corporation",
+   "exchange": "NYSE",
+   "ticker": "LEA",
+   "security": "common",
+   "amount_per_share": 0.77,
+   "currency": "USD",
+   "record_date": "2026-09-02",
+   "payable_date": "2026-09-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/lear-declares-quarterly-cash-dividend-302851170.html",
+   "collected_at": "2026-08-14 06:18"
   },
   {
    "company": "NLI Holdings, Inc.",
@@ -22499,6 +22544,21 @@
    "collected_at": "2026-08-13 11:03"
   },
   {
+   "company": "Wyndham Hotels & Resorts, Inc.",
+   "exchange": "NYSE",
+   "ticker": "WH",
+   "security": "common",
+   "amount_per_share": 0.43,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/wyndham-hotels--resorts-declares-quarterly-cash-dividend-302851340.html",
+   "collected_at": "2026-08-14 06:18"
+  },
+  {
    "company": "IMPERIAL OIL LIMITED",
    "exchange": null,
    "ticker": null,
@@ -22661,6 +22721,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/893847/000089384726000084/q22026div-ex992626.htm",
    "collected_at": "2026-08-13 12:35"
+  },
+  {
+   "company": "MDU Resources Group, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MDU",
+   "security": "common",
+   "amount_per_share": 0.145,
+   "currency": "USD",
+   "record_date": "2026-09-10",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/mdu-resources-announces-increased-quarterly-dividend-302851114.html",
+   "collected_at": "2026-08-14 06:18"
   },
   {
    "company": "Northern Trust Corporation",
@@ -23208,6 +23283,21 @@
    "collected_at": "2026-08-07 00:20"
   },
   {
+   "company": "Boyd Gaming Corporation",
+   "exchange": "NYSE",
+   "ticker": "BYD",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/boyd-gaming-announces-quarterly-dividend-302851275.html",
+   "collected_at": "2026-08-14 06:19"
+  },
+  {
    "company": "Cardinal Health",
    "exchange": "NYSE",
    "ticker": "CAH",
@@ -23684,6 +23774,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/farmer-mac-declares-quarterly-dividends-on-common-and-preferred-stock-302850122.html",
    "collected_at": "2026-08-13 06:06"
+  },
+  {
+   "company": "First Industrial Realty Trust, Inc.",
+   "exchange": "NYSE",
+   "ticker": "FR",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/first-industrial-declares-common-stock-dividends-302851246.html",
+   "collected_at": "2026-08-14 06:18"
   },
   {
    "company": "Match Group",
@@ -24260,5 +24365,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 1638
+ "count": 1645
 }

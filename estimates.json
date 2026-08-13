@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-14 03:18",
+ "updatedAt": "2026-08-14 06:19",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 1415,
+ "count": 1412,
  "items": [
   {
    "company": "KB Home",
@@ -46,21 +46,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-01 $18.125",
-   "source_url": ""
-  },
-  {
-   "company": "HireQuest, Inc.",
-   "ticker": "HQI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.06,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-08-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-01 $0.06",
    "source_url": ""
   },
   {
@@ -949,21 +934,6 @@
    "source_url": ""
   },
   {
-   "company": "BOYD GAMING CORP",
-   "ticker": "BYD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Comcast Corporation",
    "ticker": "CMCSA",
    "exchange": "Nasdaq",
@@ -1336,21 +1306,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-23 $0.44",
-   "source_url": ""
-  },
-  {
-   "company": "FIRST INDUSTRIAL REALTY TRUST, INC.",
-   "ticker": "FR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-23 $0.5",
    "source_url": ""
   },
   {
@@ -3394,21 +3349,6 @@
    "source_url": ""
   },
   {
-   "company": "HireQuest, Inc.",
-   "ticker": "HQI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.06,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-01 $0.06",
-   "source_url": ""
-  },
-  {
    "company": "Maximus",
    "ticker": "MMS",
    "exchange": "NYSE",
@@ -4666,6 +4606,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $2.1",
+   "source_url": ""
+  },
+  {
+   "company": "HireQuest, Inc.",
+   "ticker": "HQI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.06",
    "source_url": ""
   },
   {
@@ -6709,21 +6664,6 @@
    "source_url": ""
   },
   {
-   "company": "BOYD GAMING CORP",
-   "ticker": "BYD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Comcast Corporation",
    "ticker": "CMCSA",
    "exchange": "Nasdaq",
@@ -6901,6 +6841,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.96",
+   "source_url": ""
+  },
+  {
+   "company": "Boyd Gaming Corporation",
+   "ticker": "BYD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.2",
    "source_url": ""
   },
   {
@@ -7189,6 +7144,21 @@
    "source_url": ""
   },
   {
+   "company": "First Industrial Realty Trust, Inc.",
+   "ticker": "FR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-19 $0.5",
+   "source_url": ""
+  },
+  {
    "company": "AMKOR TECHNOLOGY, INC.",
    "ticker": "AMKR",
    "exchange": "Nasdaq",
@@ -7351,21 +7321,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-23 $0.44",
-   "source_url": ""
-  },
-  {
-   "company": "FIRST INDUSTRIAL REALTY TRUST, INC.",
-   "ticker": "FR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-21",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-23 $0.5",
    "source_url": ""
   },
   {
@@ -9664,21 +9619,6 @@
    "source_url": ""
   },
   {
-   "company": "HireQuest, Inc.",
-   "ticker": "HQI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.06,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-01 $0.06",
-   "source_url": ""
-  },
-  {
    "company": "Maximus",
    "ticker": "MMS",
    "exchange": "NYSE",
@@ -10951,6 +10891,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $2.1",
+   "source_url": ""
+  },
+  {
+   "company": "HireQuest, Inc.",
+   "ticker": "HQI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.06",
    "source_url": ""
   },
   {
@@ -13009,21 +12964,6 @@
    "source_url": ""
   },
   {
-   "company": "BOYD GAMING CORP",
-   "ticker": "BYD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Comcast Corporation",
    "ticker": "CMCSA",
    "exchange": "Nasdaq",
@@ -13216,6 +13156,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.96",
+   "source_url": ""
+  },
+  {
+   "company": "Boyd Gaming Corporation",
+   "ticker": "BYD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.2",
    "source_url": ""
   },
   {
@@ -13489,6 +13444,21 @@
    "source_url": ""
   },
   {
+   "company": "First Industrial Realty Trust, Inc.",
+   "ticker": "FR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-19 $0.5",
+   "source_url": ""
+  },
+  {
    "company": "AMKOR TECHNOLOGY, INC.",
    "ticker": "AMKR",
    "exchange": "Nasdaq",
@@ -13681,21 +13651,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-23 $0.44",
-   "source_url": ""
-  },
-  {
-   "company": "FIRST INDUSTRIAL REALTY TRUST, INC.",
-   "ticker": "FR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-23 $0.5",
    "source_url": ""
   },
   {
@@ -15994,21 +15949,6 @@
    "source_url": ""
   },
   {
-   "company": "HireQuest, Inc.",
-   "ticker": "HQI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.06,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-01 $0.06",
-   "source_url": ""
-  },
-  {
    "company": "Maximus",
    "ticker": "MMS",
    "exchange": "NYSE",
@@ -17296,6 +17236,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $2.1",
+   "source_url": ""
+  },
+  {
+   "company": "HireQuest, Inc.",
+   "ticker": "HQI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.06",
    "source_url": ""
   },
   {
@@ -19369,21 +19324,6 @@
    "source_url": ""
   },
   {
-   "company": "BOYD GAMING CORP",
-   "ticker": "BYD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Comcast Corporation",
    "ticker": "CMCSA",
    "exchange": "Nasdaq",
@@ -19561,6 +19501,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.96",
+   "source_url": ""
+  },
+  {
+   "company": "Boyd Gaming Corporation",
+   "ticker": "BYD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.2",
    "source_url": ""
   },
   {
@@ -19849,6 +19804,21 @@
    "source_url": ""
   },
   {
+   "company": "First Industrial Realty Trust, Inc.",
+   "ticker": "FR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-19 $0.5",
+   "source_url": ""
+  },
+  {
    "company": "AMKOR TECHNOLOGY, INC.",
    "ticker": "AMKR",
    "exchange": "Nasdaq",
@@ -20041,21 +20011,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.10167",
-   "source_url": ""
-  },
-  {
-   "company": "FIRST INDUSTRIAL REALTY TRUST, INC.",
-   "ticker": "FR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-23 $0.5",
    "source_url": ""
   },
   {
