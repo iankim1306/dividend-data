@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-13 21:18",
+ "updatedAt": "2026-08-14 00:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -19759,6 +19759,21 @@
    "collected_at": "2026-08-13 12:29"
   },
   {
+   "company": "Autoliv, Inc.",
+   "exchange": "NYSE",
+   "ticker": "ALV",
+   "security": "common",
+   "amount_per_share": 0.87,
+   "currency": "USD",
+   "record_date": "2026-08-28",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/autoliv-declares-quarterly-dividend-302850971.html",
+   "collected_at": "2026-08-14 00:18"
+  },
+  {
    "company": "Ashland, Inc.",
    "exchange": "NYSE",
    "ticker": "ASH",
@@ -20600,6 +20615,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/795403/000110465926091726/wts-20260628x10q.htm",
    "collected_at": "2026-08-13 12:10"
+  },
+  {
+   "company": "Autoliv, Inc.",
+   "exchange": "Nasdaq Stockholm",
+   "ticker": "ALIV.sdb",
+   "security": "other",
+   "amount_per_share": 0.87,
+   "currency": "USD",
+   "record_date": "2026-08-28",
+   "payable_date": "2026-09-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/autoliv-declares-quarterly-dividend-302850971.html",
+   "collected_at": "2026-08-14 00:18"
   },
   {
    "company": "Equinix, Inc.",
@@ -22691,6 +22721,21 @@
    "collected_at": "2026-08-13 14:58"
   },
   {
+   "company": "Chubb Limited",
+   "exchange": "NYSE",
+   "ticker": "CB",
+   "security": "common",
+   "amount_per_share": 1.02,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-10-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/chubb-limited-board-declares-quarterly-dividend-302850922.html",
+   "collected_at": "2026-08-14 00:18"
+  },
+  {
    "company": "Crown Crafts, Inc.",
    "exchange": "NASDAQ-CM",
    "ticker": "CRWS",
@@ -24215,5 +24260,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 1635
+ "count": 1638
 }
