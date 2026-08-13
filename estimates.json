@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-13 18:18",
+ "updatedAt": "2026-08-13 21:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 1417,
+ "count": 1416,
  "items": [
   {
    "company": "EPR Properties",
@@ -346,21 +346,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-18 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "AAON, Inc.",
-   "ticker": "AAON",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-26 $0.1",
    "source_url": ""
   },
   {
@@ -5376,7 +5361,7 @@
   {
    "company": "AAON, Inc.",
    "ticker": "AAON",
-   "exchange": "Nasdaq",
+   "exchange": "NASDAQ",
    "security": "common",
    "amount_per_share": 0.1,
    "currency": "USD",
@@ -5385,7 +5370,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-26 $0.1",
+   "basis": "last confirmed 2026-09-25 $0.1",
    "source_url": ""
   },
   {
@@ -11676,7 +11661,7 @@
   {
    "company": "AAON, Inc.",
    "ticker": "AAON",
-   "exchange": "Nasdaq",
+   "exchange": "NASDAQ",
    "security": "common",
    "amount_per_share": 0.1,
    "currency": "USD",
@@ -11685,7 +11670,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-26 $0.1",
+   "basis": "last confirmed 2026-09-25 $0.1",
    "source_url": ""
   },
   {
@@ -18021,7 +18006,7 @@
   {
    "company": "AAON, Inc.",
    "ticker": "AAON",
-   "exchange": "Nasdaq",
+   "exchange": "NASDAQ",
    "security": "common",
    "amount_per_share": 0.1,
    "currency": "USD",
@@ -18030,7 +18015,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-26 $0.1",
+   "basis": "last confirmed 2026-09-25 $0.1",
    "source_url": ""
   },
   {
