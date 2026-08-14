@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-14 18:18",
+ "updatedAt": "2026-08-14 21:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 1802,
+ "count": 1805,
  "items": [
   {
    "company": "KB Home",
@@ -5551,6 +5551,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.17708",
+   "source_url": ""
+  },
+  {
+   "company": "Columbia Banking System, Inc.",
+   "ticker": "COLB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.37,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-14 $0.37",
    "source_url": ""
   },
   {
@@ -13546,6 +13561,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-15 $0.3515625",
+   "source_url": ""
+  },
+  {
+   "company": "Columbia Banking System, Inc.",
+   "ticker": "COLB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.37,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-14 $0.37",
    "source_url": ""
   },
   {
@@ -21571,6 +21601,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-15 $0.3515625",
+   "source_url": ""
+  },
+  {
+   "company": "Columbia Banking System, Inc.",
+   "ticker": "COLB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.37,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-14 $0.37",
    "source_url": ""
   },
   {
