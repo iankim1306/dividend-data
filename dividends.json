@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-15 00:21",
+ "updatedAt": "2026-08-15 03:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -27633,6 +27633,21 @@
    "collected_at": "2026-08-13 11:48"
   },
   {
+   "company": "Ameren Corporation",
+   "exchange": "NYSE",
+   "ticker": "AEE",
+   "security": "common",
+   "amount_per_share": 0.75,
+   "currency": "USD",
+   "record_date": "2026-09-08",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ameren-corporation-directors-declare-quarterly-dividend-302852009.html",
+   "collected_at": "2026-08-15 03:18"
+  },
+  {
    "company": "Farmer Mac",
    "exchange": "NYSE",
    "ticker": "AGM",
@@ -29163,6 +29178,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1692063/000169206326000031/a3q26dividendrelease.htm",
    "collected_at": "2026-08-07 00:21"
+  },
+  {
+   "company": "Steel Dynamics, Inc.",
+   "exchange": "NASDAQ/GS",
+   "ticker": "STLD",
+   "security": "common",
+   "amount_per_share": 0.53,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-09",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/steel-dynamics-announces-third-quarter-2026-cash-dividend-302851946.html",
+   "collected_at": "2026-08-15 03:18"
   },
   {
    "company": "Terreno Realty Corporation",
@@ -30860,5 +30890,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2078
+ "count": 2080
 }
