@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-14 21:18",
+ "updatedAt": "2026-08-15 00:21",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 1805,
+ "count": 1806,
  "items": [
   {
    "company": "KB Home",
@@ -27076,6 +27076,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-18 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "Citi",
+   "ticker": "C",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1000,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-15 $1000",
    "source_url": ""
   }
  ]
