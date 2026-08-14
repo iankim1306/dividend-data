@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-15 03:18",
+ "updatedAt": "2026-08-15 06:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -24983,6 +24983,21 @@
    "collected_at": "2026-08-13 14:16"
   },
   {
+   "company": "3M Company",
+   "exchange": "NYSE",
+   "ticker": "MMM",
+   "security": "common",
+   "amount_per_share": 0.78,
+   "currency": "USD",
+   "record_date": "2026-08-24",
+   "payable_date": "2026-09-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/3m-board-declares-quarterly-dividend-302852083.html",
+   "collected_at": "2026-08-15 06:18"
+  },
+  {
    "company": "Piper Sandler Companies",
    "exchange": "NYSE",
    "ticker": "PIPR",
@@ -25782,6 +25797,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/hyster-yale-declares-quarterly-dividend-302850040.html",
    "collected_at": "2026-08-13 04:30"
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "exchange": "NYSE",
+   "ticker": "IVR",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-08-25",
+   "payable_date": "2026-09-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-mortgage-capital-inc-august-2026-dividend-announcement-and-july-financial-update-302852135.html",
+   "collected_at": "2026-08-15 06:18"
   },
   {
    "company": "MCHP",
@@ -30890,5 +30920,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2080
+ "count": 2082
 }
