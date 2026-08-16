@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-16 21:18",
+ "updatedAt": "2026-08-17 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2072,
+ "count": 2074,
  "items": [
   {
    "company": "KB Home",
@@ -31081,6 +31081,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "First Community Corporation",
+   "ticker": "FCCO",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-18 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Cheniere Energy, Inc.",
+   "ticker": "LNG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.555,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-18 $0.555",
    "source_url": ""
   }
  ]
