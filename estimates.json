@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-17 21:18",
+ "updatedAt": "2026-08-18 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2074,
+ "count": 2079,
  "items": [
   {
    "company": "KB Home",
@@ -31111,6 +31111,81 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-18 $0.555",
+   "source_url": ""
+  },
+  {
+   "company": "Dolby Laboratories, Inc.",
+   "ticker": "DLB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-19 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "Entegris, Inc.",
+   "ticker": "ENTG",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-19 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Hanmi Financial Corporation",
+   "ticker": "HAFC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.28,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-19 $0.28",
+   "source_url": ""
+  },
+  {
+   "company": "Heritage Financial Corporation",
+   "ticker": "HFWA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-19 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "West Bancorporation, Inc.",
+   "ticker": "WTBA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-19 $0.26",
    "source_url": ""
   }
  ]
