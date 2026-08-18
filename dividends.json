@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-18 06:18",
+ "updatedAt": "2026-08-18 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -13342,6 +13342,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/795403/000110465926056325/wts-20260506xex99d1.htm",
    "collected_at": "2026-08-13 12:10"
+  },
+  {
+   "company": "American Water Works Company, Inc.",
+   "exchange": null,
+   "ticker": null,
+   "security": "common",
+   "amount_per_share": 0.895,
+   "currency": "USD",
+   "record_date": "2026-05-12",
+   "payable_date": "2026-06-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/78128/000119312526354055/d156812dex991.htm",
+   "collected_at": "2026-08-18 09:19"
   },
   {
    "company": "AdvanSix Inc.",
@@ -27264,6 +27279,21 @@
    "collected_at": "2026-08-13 14:33"
   },
   {
+   "company": "American Water Works Company, Inc.",
+   "exchange": null,
+   "ticker": null,
+   "security": "common",
+   "amount_per_share": 0.895,
+   "currency": "USD",
+   "record_date": "2026-08-11",
+   "payable_date": "2026-09-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/78128/000119312526354055/d156812dex991.htm",
+   "collected_at": "2026-08-18 09:19"
+  },
+  {
    "company": "Aflac Incorporated",
    "exchange": "NYSE",
    "ticker": "AFL",
@@ -27854,6 +27884,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000404/e26327_ex99-1.htm",
    "collected_at": "2026-08-13 11:01"
+  },
+  {
+   "company": "American Water Works Company, Inc.",
+   "exchange": "NYSE",
+   "ticker": "WTRG",
+   "security": "common",
+   "amount_per_share": 0.895,
+   "currency": "USD",
+   "record_date": "2026-08-11",
+   "payable_date": "2026-09-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/78128/000119312526354055/d156812dex991.htm",
+   "collected_at": "2026-08-18 09:30"
   },
   {
    "company": "AMERICAN STATES WATER COMPANY",
@@ -30494,6 +30539,66 @@
    "collected_at": "2026-08-13 12:40"
   },
   {
+   "company": "MetLife, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MET PRA",
+   "security": "preferred",
+   "amount_per_share": 0.31471411,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000052/ex991newsrelease081726.htm",
+   "collected_at": "2026-08-18 09:23"
+  },
+  {
+   "company": "MetLife, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MET PRD",
+   "security": "preferred",
+   "amount_per_share": 29.375,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-15",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000052/ex991newsrelease081726.htm",
+   "collected_at": "2026-08-18 09:23"
+  },
+  {
+   "company": "MetLife, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MET PRE",
+   "security": "preferred",
+   "amount_per_share": 351.5625,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000052/ex991newsrelease081726.htm",
+   "collected_at": "2026-08-18 09:23"
+  },
+  {
+   "company": "MetLife, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MET PRF",
+   "security": "preferred",
+   "amount_per_share": 296.875,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000052/ex991newsrelease081726.htm",
+   "collected_at": "2026-08-18 09:23"
+  },
+  {
    "company": "MESA LABORATORIES INC",
    "exchange": "Nasdaq",
    "ticker": "MLAB",
@@ -32123,6 +32228,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/cme-group-declares-quarterly-dividend-302844557.html",
    "collected_at": "2026-08-06 23:58"
+  },
+  {
+   "company": "Covenant Logistics Group, Inc.",
+   "exchange": "NYSE",
+   "ticker": "CVLG",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "2026-09-04",
+   "payable_date": "2026-09-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/928658/000100888626000205/exhibit991.htm",
+   "collected_at": "2026-08-18 09:19"
   },
   {
    "company": "Healthpeak Properties, Inc.",
@@ -36275,5 +36395,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2439
+ "count": 2447
 }

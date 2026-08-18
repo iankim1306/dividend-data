@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-18 06:18",
+ "updatedAt": "2026-08-18 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2079,
+ "count": 2087,
  "items": [
   {
    "company": "KB Home",
@@ -346,21 +346,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-23 $2.32",
-   "source_url": ""
-  },
-  {
-   "company": "COVENANT LOGISTICS GROUP, INC.",
-   "ticker": "CVLG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-26 $0.07",
    "source_url": ""
   },
   {
@@ -5149,18 +5134,18 @@
    "source_url": ""
   },
   {
-   "company": "Essential Utilities Inc.",
+   "company": "American Water Works Company, Inc.",
    "ticker": "WTRG",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.3606,
+   "amount_per_share": 0.895,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-12-01",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-01 $0.3606",
+   "basis": "last confirmed 2026-09-01 $0.895",
    "source_url": ""
   },
   {
@@ -6634,6 +6619,51 @@
    "source_url": ""
   },
   {
+   "company": "MetLife, Inc.",
+   "ticker": "MET PRA",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.31471411,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.31471411",
+   "source_url": ""
+  },
+  {
+   "company": "MetLife, Inc.",
+   "ticker": "MET PRE",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 351.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $351.5625",
+   "source_url": ""
+  },
+  {
+   "company": "MetLife, Inc.",
+   "ticker": "MET PRF",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 296.875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $296.875",
+   "source_url": ""
+  },
+  {
    "company": "Miller Industries, Inc.",
    "ticker": "MLR",
    "exchange": "NYSE",
@@ -7504,7 +7534,7 @@
    "source_url": ""
   },
   {
-   "company": "COVENANT LOGISTICS GROUP, INC.",
+   "company": "Covenant Logistics Group, Inc.",
    "ticker": "CVLG",
    "exchange": "NYSE",
    "security": "common",
@@ -7515,7 +7545,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-26 $0.07",
+   "basis": "last confirmed 2026-09-25 $0.07",
    "source_url": ""
   },
   {
@@ -14269,18 +14299,18 @@
    "source_url": ""
   },
   {
-   "company": "Essential Utilities Inc.",
+   "company": "American Water Works Company, Inc.",
    "ticker": "WTRG",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.3606,
+   "amount_per_share": 0.895,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-02",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-01 $0.3606",
+   "basis": "last confirmed 2026-09-01 $0.895",
    "source_url": ""
   },
   {
@@ -15769,6 +15799,51 @@
    "source_url": ""
   },
   {
+   "company": "MetLife, Inc.",
+   "ticker": "MET PRA",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.31471411,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.31471411",
+   "source_url": ""
+  },
+  {
+   "company": "MetLife, Inc.",
+   "ticker": "MET PRE",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 351.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $351.5625",
+   "source_url": ""
+  },
+  {
+   "company": "MetLife, Inc.",
+   "ticker": "MET PRF",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 296.875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $296.875",
+   "source_url": ""
+  },
+  {
    "company": "Miller Industries, Inc.",
    "ticker": "MLR",
    "exchange": "NYSE",
@@ -16669,7 +16744,7 @@
    "source_url": ""
   },
   {
-   "company": "COVENANT LOGISTICS GROUP, INC.",
+   "company": "Covenant Logistics Group, Inc.",
    "ticker": "CVLG",
    "exchange": "NYSE",
    "security": "common",
@@ -16680,7 +16755,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-26 $0.07",
+   "basis": "last confirmed 2026-09-25 $0.07",
    "source_url": ""
   },
   {
@@ -23419,18 +23494,18 @@
    "source_url": ""
   },
   {
-   "company": "Essential Utilities Inc.",
+   "company": "American Water Works Company, Inc.",
    "ticker": "WTRG",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.3606,
+   "amount_per_share": 0.895,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-01",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-01 $0.3606",
+   "basis": "last confirmed 2026-09-01 $0.895",
    "source_url": ""
   },
   {
@@ -24949,6 +25024,51 @@
    "source_url": ""
   },
   {
+   "company": "MetLife, Inc.",
+   "ticker": "MET PRA",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.31471411,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.31471411",
+   "source_url": ""
+  },
+  {
+   "company": "MetLife, Inc.",
+   "ticker": "MET PRE",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 351.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $351.5625",
+   "source_url": ""
+  },
+  {
+   "company": "MetLife, Inc.",
+   "ticker": "MET PRF",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 296.875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $296.875",
+   "source_url": ""
+  },
+  {
    "company": "Miller Industries, Inc.",
    "ticker": "MLR",
    "exchange": "NYSE",
@@ -25849,7 +25969,7 @@
    "source_url": ""
   },
   {
-   "company": "COVENANT LOGISTICS GROUP, INC.",
+   "company": "Covenant Logistics Group, Inc.",
    "ticker": "CVLG",
    "exchange": "NYSE",
    "security": "common",
@@ -25860,7 +25980,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-26 $0.07",
+   "basis": "last confirmed 2026-09-25 $0.07",
    "source_url": ""
   },
   {
