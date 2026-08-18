@@ -1,7 +1,22 @@
 {
- "updatedAt": "2026-08-18 15:18",
+ "updatedAt": "2026-08-18 15:26 KST",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
+  {
+   "company": "SPDR Portfolio S&P 500 High Dividend ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPYD",
+   "security": "fund",
+   "amount_per_share": 0.4571,
+   "currency": "USD",
+   "record_date": "2024-09-20",
+   "payable_date": "2024-09-24",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spyd/dividend/",
+   "collected_at": "2026-08-18T15:26:35+09:00"
+  },
   {
    "company": "Logitech International S.A.",
    "exchange": "Nasdaq",
@@ -93,6 +108,21 @@
    "collected_at": "2026-08-14 09:34"
   },
   {
+   "company": "Schwab U.S. Dividend Equity ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SCHD",
+   "security": "fund",
+   "amount_per_share": 0.2515,
+   "currency": "USD",
+   "record_date": "2024-09-25",
+   "payable_date": "2024-09-30",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/schd/dividend/",
+   "collected_at": "2026-08-18T15:26:30+09:00"
+  },
+  {
    "company": "New Jersey Resources",
    "exchange": "NYSE",
    "ticker": "NJR",
@@ -120,6 +150,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1287865/000119312526342583/mpt-20260630.htm",
    "collected_at": "2026-08-14 09:23"
+  },
+  {
+   "company": "Invesco QQQ Trust",
+   "exchange": "NASDAQ",
+   "ticker": "QQQ",
+   "security": "fund",
+   "amount_per_share": 0.67686,
+   "currency": "USD",
+   "record_date": "2024-09-23",
+   "payable_date": "2024-10-31",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/qqq/dividend/",
+   "collected_at": "2026-08-18T15:26:36+09:00"
+  },
+  {
+   "company": "SPDR S&P 500 ETF Trust",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPY",
+   "security": "fund",
+   "amount_per_share": 1.74553,
+   "currency": "USD",
+   "record_date": "2024-09-20",
+   "payable_date": "2024-10-31",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spy/dividend/",
+   "collected_at": "2026-08-18T15:26:34+09:00"
   },
   {
    "company": "Investcorp Credit Management BDC, Inc.",
@@ -212,6 +272,21 @@
    "collected_at": "2026-08-13 12:19"
   },
   {
+   "company": "Schwab U.S. Dividend Equity ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SCHD",
+   "security": "fund",
+   "amount_per_share": 0.2645,
+   "currency": "USD",
+   "record_date": "2024-12-11",
+   "payable_date": "2024-12-16",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/schd/dividend/",
+   "collected_at": "2026-08-18T15:26:30+09:00"
+  },
+  {
    "company": "FactSet Research Systems Inc.",
    "exchange": "NYSE",
    "ticker": "FDS",
@@ -287,6 +362,21 @@
    "collected_at": "2026-08-18T15:00:41+09:00"
   },
   {
+   "company": "SPDR Portfolio S&P 500 High Dividend ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPYD",
+   "security": "fund",
+   "amount_per_share": 0.54677,
+   "currency": "USD",
+   "record_date": "2024-12-20",
+   "payable_date": "2024-12-24",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spyd/dividend/",
+   "collected_at": "2026-08-18T15:26:35+09:00"
+  },
+  {
    "company": "New Mountain Finance Corporation",
    "exchange": "Nasdaq",
    "ticker": "NMFC",
@@ -300,6 +390,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1496099/000149609926000029/nmfc-20260630.htm",
    "collected_at": "2026-08-14 09:34"
+  },
+  {
+   "company": "Invesco QQQ Trust",
+   "exchange": "NASDAQ",
+   "ticker": "QQQ",
+   "security": "fund",
+   "amount_per_share": 0.83466,
+   "currency": "USD",
+   "record_date": "2024-12-23",
+   "payable_date": "2024-12-31",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/qqq/dividend/",
+   "collected_at": "2026-08-18T15:26:36+09:00"
   },
   {
    "company": "AMERICAN FINANCIAL GROUP, INC.",
@@ -539,6 +644,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/52827/000005282726000099/ryn-20260630.htm",
    "collected_at": "2026-08-15 09:37"
+  },
+  {
+   "company": "SPDR S&P 500 ETF Trust",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPY",
+   "security": "fund",
+   "amount_per_share": 1.96555,
+   "currency": "USD",
+   "record_date": "2024-12-20",
+   "payable_date": "2025-01-31",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spy/dividend/",
+   "collected_at": "2026-08-18T15:26:34+09:00"
   },
   {
    "company": "American Tower Corporation",
@@ -1051,6 +1171,21 @@
    "collected_at": "2026-08-14 09:30"
   },
   {
+   "company": "SPDR Portfolio S&P 500 High Dividend ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPYD",
+   "security": "fund",
+   "amount_per_share": 0.4189,
+   "currency": "USD",
+   "record_date": "2025-03-24",
+   "payable_date": "2025-03-26",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spyd/dividend/",
+   "collected_at": "2026-08-18T15:26:35+09:00"
+  },
+  {
    "company": "Expedia Group, Inc.",
    "exchange": "Nasdaq",
    "ticker": "EXPE",
@@ -1319,6 +1454,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1496099/000149609926000029/nmfc-20260630.htm",
    "collected_at": "2026-08-14 09:34"
+  },
+  {
+   "company": "Schwab U.S. Dividend Equity ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SCHD",
+   "security": "fund",
+   "amount_per_share": 0.2488,
+   "currency": "USD",
+   "record_date": "2025-03-26",
+   "payable_date": "2025-03-31",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/schd/dividend/",
+   "collected_at": "2026-08-18T15:26:30+09:00"
   },
   {
    "company": "BlackRock TCP Capital Corp.",
@@ -2010,6 +2160,21 @@
    "collected_at": "2026-08-13 12:08"
   },
   {
+   "company": "Invesco QQQ Trust",
+   "exchange": "NASDAQ",
+   "ticker": "QQQ",
+   "security": "fund",
+   "amount_per_share": 0.71571,
+   "currency": "USD",
+   "record_date": "2025-03-24",
+   "payable_date": "2025-04-30",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/qqq/dividend/",
+   "collected_at": "2026-08-18T15:26:36+09:00"
+  },
+  {
    "company": "ROCKY BRANDS, INC.",
    "exchange": "Nasdaq",
    "ticker": "RCKY",
@@ -2023,6 +2188,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/895456/000143774926014746/rcky20260331_10q.htm",
    "collected_at": "2026-08-13 12:37"
+  },
+  {
+   "company": "SPDR S&P 500 ETF Trust",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPY",
+   "security": "fund",
+   "amount_per_share": 1.69553,
+   "currency": "USD",
+   "record_date": "2025-03-21",
+   "payable_date": "2025-04-30",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spy/dividend/",
+   "collected_at": "2026-08-18T15:26:34+09:00"
   },
   {
    "company": "The First Bancorp, Inc.",
@@ -2670,6 +2850,21 @@
    "collected_at": "2026-08-13 14:56"
   },
   {
+   "company": "SPDR Portfolio S&P 500 High Dividend ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPYD",
+   "security": "fund",
+   "amount_per_share": 0.50004,
+   "currency": "USD",
+   "record_date": "2025-06-23",
+   "payable_date": "2025-06-25",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spyd/dividend/",
+   "collected_at": "2026-08-18T15:26:35+09:00"
+  },
+  {
    "company": "AAON, Inc.",
    "exchange": "Nasdaq",
    "ticker": "AAON",
@@ -3073,6 +3268,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1658566/000165856626000101/pr-20260630.htm",
    "collected_at": "2026-08-14 09:44"
+  },
+  {
+   "company": "Schwab U.S. Dividend Equity ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SCHD",
+   "security": "fund",
+   "amount_per_share": 0.2602,
+   "currency": "USD",
+   "record_date": "2025-06-25",
+   "payable_date": "2025-06-30",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/schd/dividend/",
+   "collected_at": "2026-08-18T15:26:30+09:00"
   },
   {
    "company": "BlackRock TCP Capital Corp.",
@@ -3734,6 +3944,36 @@
    "collected_at": "2026-08-13 12:08"
   },
   {
+   "company": "Invesco QQQ Trust",
+   "exchange": "NASDAQ",
+   "ticker": "QQQ",
+   "security": "fund",
+   "amount_per_share": 0.59111,
+   "currency": "USD",
+   "record_date": "2025-06-23",
+   "payable_date": "2025-07-31",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/qqq/dividend/",
+   "collected_at": "2026-08-18T15:26:36+09:00"
+  },
+  {
+   "company": "SPDR S&P 500 ETF Trust",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPY",
+   "security": "fund",
+   "amount_per_share": 1.76112,
+   "currency": "USD",
+   "record_date": "2025-06-20",
+   "payable_date": "2025-07-31",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spy/dividend/",
+   "collected_at": "2026-08-18T15:26:34+09:00"
+  },
+  {
    "company": "CROWN CRAFTS INC",
    "exchange": "Nasdaq",
    "ticker": "CRWS",
@@ -3897,6 +4137,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1698990/000169899026000019/mgy-20260630.htm",
    "collected_at": "2026-08-15 09:21"
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPI",
+   "security": "fund",
+   "amount_per_share": 0.36826,
+   "currency": "USD",
+   "record_date": "2025-09-02",
+   "payable_date": "2025-09-04",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepi/dividend/",
+   "collected_at": "2026-08-18T15:26:31+09:00"
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPQ",
+   "security": "fund",
+   "amount_per_share": 0.44195,
+   "currency": "USD",
+   "record_date": "2025-09-02",
+   "payable_date": "2025-09-04",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
+   "collected_at": "2026-08-18T15:26:32+09:00"
   },
   {
    "company": "LeMaitre Vascular, Inc.",
@@ -4094,6 +4364,21 @@
    "collected_at": "2026-08-13 14:32"
   },
   {
+   "company": "SPDR Portfolio S&P 500 High Dividend ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPYD",
+   "security": "fund",
+   "amount_per_share": 0.48876,
+   "currency": "USD",
+   "record_date": "2025-09-22",
+   "payable_date": "2025-09-24",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spyd/dividend/",
+   "collected_at": "2026-08-18T15:26:35+09:00"
+  },
+  {
    "company": "AAON, Inc.",
    "exchange": "Nasdaq",
    "ticker": "AAON",
@@ -4152,6 +4437,21 @@
    "wire": "ISSUER:Vanguard",
    "source_url": "https://investor.vanguard.com/investment-products/etfs/profile/distributions/voog",
    "collected_at": "2026-08-18T13:09:09+09:00"
+  },
+  {
+   "company": "Schwab U.S. Dividend Equity ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SCHD",
+   "security": "fund",
+   "amount_per_share": 0.2604,
+   "currency": "USD",
+   "record_date": "2025-09-24",
+   "payable_date": "2025-09-29",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/schd/dividend/",
+   "collected_at": "2026-08-18T15:26:30+09:00"
   },
   {
    "company": "BANNER CORPORATION",
@@ -4316,6 +4616,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1020569/000102056926000071/irm-20260630.htm",
    "collected_at": "2026-08-13 14:28"
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPI",
+   "security": "fund",
+   "amount_per_share": 0.36102,
+   "currency": "USD",
+   "record_date": "2025-10-01",
+   "payable_date": "2025-10-03",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepi/dividend/",
+   "collected_at": "2026-08-18T15:26:31+09:00"
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPQ",
+   "security": "fund",
+   "amount_per_share": 0.44612,
+   "currency": "USD",
+   "record_date": "2025-10-01",
+   "payable_date": "2025-10-03",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
+   "collected_at": "2026-08-18T15:26:32+09:00"
   },
   {
    "company": "Aramark",
@@ -4573,6 +4903,36 @@
    "collected_at": "2026-08-13 14:41"
   },
   {
+   "company": "Invesco QQQ Trust",
+   "exchange": "NASDAQ",
+   "ticker": "QQQ",
+   "security": "fund",
+   "amount_per_share": 0.69395,
+   "currency": "USD",
+   "record_date": "2025-09-22",
+   "payable_date": "2025-10-31",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/qqq/dividend/",
+   "collected_at": "2026-08-18T15:26:36+09:00"
+  },
+  {
+   "company": "SPDR S&P 500 ETF Trust",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPY",
+   "security": "fund",
+   "amount_per_share": 1.83111,
+   "currency": "USD",
+   "record_date": "2025-09-19",
+   "payable_date": "2025-10-31",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spy/dividend/",
+   "collected_at": "2026-08-18T15:26:34+09:00"
+  },
+  {
    "company": "Heritage Financial Corporation",
    "exchange": "Nasdaq",
    "ticker": "HFWA",
@@ -4586,6 +4946,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046025/000162828026054673/hfwa-20260630.htm",
    "collected_at": "2026-08-13 14:37"
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPI",
+   "security": "fund",
+   "amount_per_share": 0.34636,
+   "currency": "USD",
+   "record_date": "2025-11-03",
+   "payable_date": "2025-11-05",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepi/dividend/",
+   "collected_at": "2026-08-18T15:26:31+09:00"
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPQ",
+   "security": "fund",
+   "amount_per_share": 0.47553,
+   "currency": "USD",
+   "record_date": "2025-11-03",
+   "payable_date": "2025-11-05",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
+   "collected_at": "2026-08-18T15:26:32+09:00"
   },
   {
    "company": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
@@ -4723,6 +5113,36 @@
    "collected_at": "2026-08-13 12:38"
   },
   {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPI",
+   "security": "fund",
+   "amount_per_share": 0.3706,
+   "currency": "USD",
+   "record_date": "2025-12-01",
+   "payable_date": "2025-12-03",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepi/dividend/",
+   "collected_at": "2026-08-18T15:26:31+09:00"
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPQ",
+   "security": "fund",
+   "amount_per_share": 0.55323,
+   "currency": "USD",
+   "record_date": "2025-12-01",
+   "payable_date": "2025-12-03",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
+   "collected_at": "2026-08-18T15:26:32+09:00"
+  },
+  {
    "company": "LeMaitre Vascular, Inc.",
    "exchange": "Nasdaq",
    "ticker": "LMAT",
@@ -4841,6 +5261,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/849146/000119312526208922/lfvn-20260331.htm",
    "collected_at": "2026-08-13 12:22"
+  },
+  {
+   "company": "Schwab U.S. Dividend Equity ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SCHD",
+   "security": "fund",
+   "amount_per_share": 0.2782,
+   "currency": "USD",
+   "record_date": "2025-12-10",
+   "payable_date": "2025-12-15",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/schd/dividend/",
+   "collected_at": "2026-08-18T15:26:30+09:00"
   },
   {
    "company": "e Plus inc.",
@@ -4993,6 +5428,21 @@
    "collected_at": "2026-08-18T13:09:02+09:00"
   },
   {
+   "company": "SPDR Portfolio S&P 500 High Dividend ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPYD",
+   "security": "fund",
+   "amount_per_share": 0.54934,
+   "currency": "USD",
+   "record_date": "2025-12-22",
+   "payable_date": "2025-12-24",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spyd/dividend/",
+   "collected_at": "2026-08-18T15:26:35+09:00"
+  },
+  {
    "company": "Vanguard Dividend Appreciation ETF",
    "exchange": "NYSE ARCA",
    "ticker": "VIG",
@@ -5141,6 +5591,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1055160/000105516026000015/mfa-20260630.htm",
    "collected_at": "2026-08-13 14:41"
+  },
+  {
+   "company": "Invesco QQQ Trust",
+   "exchange": "NASDAQ",
+   "ticker": "QQQ",
+   "security": "fund",
+   "amount_per_share": 0.79408,
+   "currency": "USD",
+   "record_date": "2025-12-22",
+   "payable_date": "2025-12-31",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/qqq/dividend/",
+   "collected_at": "2026-08-18T15:26:36+09:00"
   },
   {
    "company": "AMERICAN FINANCIAL GROUP, INC.",
@@ -5396,6 +5861,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1584509/000158450926000122/cik0-20260703.htm",
    "collected_at": "2026-08-14 09:40"
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPI",
+   "security": "fund",
+   "amount_per_share": 0.42709,
+   "currency": "USD",
+   "record_date": "2025-12-31",
+   "payable_date": "2026-01-05",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepi/dividend/",
+   "collected_at": "2026-08-18T15:26:31+09:00"
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPQ",
+   "security": "fund",
+   "amount_per_share": 0.5761,
+   "currency": "USD",
+   "record_date": "2025-12-31",
+   "payable_date": "2026-01-05",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
+   "collected_at": "2026-08-18T15:26:32+09:00"
   },
   {
    "company": "IRON MOUNTAIN INCORPORATED",
@@ -6043,6 +6538,21 @@
    "collected_at": "2026-08-13 14:41"
   },
   {
+   "company": "SPDR S&P 500 ETF Trust",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPY",
+   "security": "fund",
+   "amount_per_share": 1.99337,
+   "currency": "USD",
+   "record_date": "2025-12-19",
+   "payable_date": "2026-01-30",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spy/dividend/",
+   "collected_at": "2026-08-18T15:26:34+09:00"
+  },
+  {
    "company": "NACCO Industries, Inc.",
    "exchange": "NYSE",
    "ticker": "NC",
@@ -6176,6 +6686,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1533615/000110465926093347/xrn-20260630x10q.htm",
    "collected_at": "2026-08-14 09:37"
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPI",
+   "security": "fund",
+   "amount_per_share": 0.34443,
+   "currency": "USD",
+   "record_date": "2026-02-02",
+   "payable_date": "2026-02-04",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepi/dividend/",
+   "collected_at": "2026-08-18T15:26:31+09:00"
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPQ",
+   "security": "fund",
+   "amount_per_share": 0.46572,
+   "currency": "USD",
+   "record_date": "2026-02-02",
+   "payable_date": "2026-02-04",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
+   "collected_at": "2026-08-18T15:26:32+09:00"
   },
   {
    "company": "LUXFER HOLDINGS PLC",
@@ -7167,6 +7707,36 @@
    "collected_at": "2026-08-13 14:55"
   },
   {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPI",
+   "security": "fund",
+   "amount_per_share": 0.35134,
+   "currency": "USD",
+   "record_date": "2026-03-02",
+   "payable_date": "2026-03-04",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepi/dividend/",
+   "collected_at": "2026-08-18T15:26:31+09:00"
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPQ",
+   "security": "fund",
+   "amount_per_share": 0.509,
+   "currency": "USD",
+   "record_date": "2026-03-02",
+   "payable_date": "2026-03-04",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
+   "collected_at": "2026-08-18T15:26:32+09:00"
+  },
+  {
    "company": "NexPoint Diversified Real Estate Trust",
    "exchange": "NYSE",
    "ticker": "NXDT",
@@ -7930,6 +8500,21 @@
    "collected_at": "2026-08-13 14:56"
   },
   {
+   "company": "SPDR Portfolio S&P 500 High Dividend ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPYD",
+   "security": "fund",
+   "amount_per_share": 0.44998,
+   "currency": "USD",
+   "record_date": "2026-03-23",
+   "payable_date": "2026-03-25",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spyd/dividend/",
+   "collected_at": "2026-08-18T15:26:35+09:00"
+  },
+  {
    "company": "TaskUs, Inc.",
    "exchange": "Nasdaq",
    "ticker": "TASK",
@@ -8140,6 +8725,21 @@
    "collected_at": "2026-08-14 09:45"
   },
   {
+   "company": "Invesco QQQ Trust",
+   "exchange": "NASDAQ",
+   "ticker": "QQQ",
+   "security": "fund",
+   "amount_per_share": 0.73282,
+   "currency": "USD",
+   "record_date": "2026-03-23",
+   "payable_date": "2026-03-27",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/qqq/dividend/",
+   "collected_at": "2026-08-18T15:26:36+09:00"
+  },
+  {
    "company": "Landstar System, Inc.",
    "exchange": "Nasdaq",
    "ticker": "LSTR",
@@ -8273,6 +8873,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1120193/000112019326000013/ndaq-20260630.htm",
    "collected_at": "2026-08-13 14:51"
+  },
+  {
+   "company": "Schwab U.S. Dividend Equity ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SCHD",
+   "security": "fund",
+   "amount_per_share": 0.2569,
+   "currency": "USD",
+   "record_date": "2026-03-25",
+   "payable_date": "2026-03-30",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/schd/dividend/",
+   "collected_at": "2026-08-18T15:26:30+09:00"
   },
   {
    "company": "Unknown",
@@ -9337,6 +9952,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000017/cb-20260630.htm",
    "collected_at": "2026-08-13 12:37"
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPI",
+   "security": "fund",
+   "amount_per_share": 0.4205,
+   "currency": "USD",
+   "record_date": "2026-04-01",
+   "payable_date": "2026-04-06",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepi/dividend/",
+   "collected_at": "2026-08-18T15:26:31+09:00"
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPQ",
+   "security": "fund",
+   "amount_per_share": 0.5586,
+   "currency": "USD",
+   "record_date": "2026-04-01",
+   "payable_date": "2026-04-06",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
+   "collected_at": "2026-08-18T15:26:32+09:00"
   },
   {
    "company": "NexPoint Diversified Real Estate Trust",
@@ -11510,6 +12155,21 @@
    "collected_at": "2026-08-13 14:45"
   },
   {
+   "company": "SPDR S&P 500 ETF Trust",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPY",
+   "security": "fund",
+   "amount_per_share": 1.797,
+   "currency": "USD",
+   "record_date": "2026-03-20",
+   "payable_date": "2026-04-30",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spy/dividend/",
+   "collected_at": "2026-08-18T15:26:34+09:00"
+  },
+  {
    "company": "Tompkins Financial Corporation",
    "exchange": "NYSE",
    "ticker": "TMP",
@@ -11834,6 +12494,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1143513/000114351326000009/glad-20260331.htm",
    "collected_at": "2026-08-13 14:55"
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPI",
+   "security": "fund",
+   "amount_per_share": 0.44761,
+   "currency": "USD",
+   "record_date": "2026-05-01",
+   "payable_date": "2026-05-05",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepi/dividend/",
+   "collected_at": "2026-08-18T15:26:31+09:00"
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPQ",
+   "security": "fund",
+   "amount_per_share": 0.59095,
+   "currency": "USD",
+   "record_date": "2026-05-01",
+   "payable_date": "2026-05-05",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
+   "collected_at": "2026-08-18T15:26:32+09:00"
   },
   {
    "company": "NexPoint Diversified Real Estate Trust",
@@ -14602,6 +15292,36 @@
    "collected_at": "2026-08-13 11:43"
   },
   {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPI",
+   "security": "fund",
+   "amount_per_share": 0.38921,
+   "currency": "USD",
+   "record_date": "2026-06-01",
+   "payable_date": "2026-06-03",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepi/dividend/",
+   "collected_at": "2026-08-18T15:26:31+09:00"
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPQ",
+   "security": "fund",
+   "amount_per_share": 0.56444,
+   "currency": "USD",
+   "record_date": "2026-06-01",
+   "payable_date": "2026-06-03",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
+   "collected_at": "2026-08-18T15:26:32+09:00"
+  },
+  {
    "company": "Natural Gas Services Group, Inc.",
    "exchange": "NYSE",
    "ticker": "NGS",
@@ -17171,6 +17891,21 @@
    "collected_at": "2026-08-14 09:23"
   },
   {
+   "company": "SPDR Portfolio S&P 500 High Dividend ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPYD",
+   "security": "fund",
+   "amount_per_share": 0.54285,
+   "currency": "USD",
+   "record_date": "2026-06-22",
+   "payable_date": "2026-06-24",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spyd/dividend/",
+   "collected_at": "2026-08-18T15:26:35+09:00"
+  },
+  {
    "company": "TFS Financial Corporation",
    "exchange": "NASDAQ",
    "ticker": "TFSL",
@@ -17914,6 +18649,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/912242/000091224226000024/mac-20260331.htm",
    "collected_at": "2026-08-13 12:42"
+  },
+  {
+   "company": "Schwab U.S. Dividend Equity ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "SCHD",
+   "security": "fund",
+   "amount_per_share": 0.2525,
+   "currency": "USD",
+   "record_date": "2026-06-24",
+   "payable_date": "2026-06-29",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/schd/dividend/",
+   "collected_at": "2026-08-18T15:26:30+09:00"
   },
   {
    "company": "NETWORK-1 TECHNOLOGIES, INC.",
@@ -19929,6 +20679,36 @@
    "collected_at": "2026-08-13 14:28"
   },
   {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPI",
+   "security": "fund",
+   "amount_per_share": 0.38716,
+   "currency": "USD",
+   "record_date": "2026-07-01",
+   "payable_date": "2026-07-06",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepi/dividend/",
+   "collected_at": "2026-08-18T15:26:31+09:00"
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPQ",
+   "security": "fund",
+   "amount_per_share": 0.63658,
+   "currency": "USD",
+   "record_date": "2026-07-01",
+   "payable_date": "2026-07-06",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
+   "collected_at": "2026-08-18T15:26:32+09:00"
+  },
+  {
    "company": "NexPoint Diversified Real Estate Trust",
    "exchange": "NYSE",
    "ticker": "NXDT",
@@ -20388,6 +21168,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/51253/000005125326000030/iff-20260630.htm",
    "collected_at": "2026-08-15 09:37"
+  },
+  {
+   "company": "Invesco QQQ Trust",
+   "exchange": "NASDAQ",
+   "ticker": "QQQ",
+   "security": "fund",
+   "amount_per_share": 0.81349,
+   "currency": "USD",
+   "record_date": "2026-06-22",
+   "payable_date": "2026-07-10",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/qqq/dividend/",
+   "collected_at": "2026-08-18T15:26:36+09:00"
   },
   {
    "company": "RALPH LAUREN CORPORATION",
@@ -23362,6 +24157,21 @@
    "collected_at": "2026-08-13 11:08"
   },
   {
+   "company": "SPDR S&P 500 ETF Trust",
+   "exchange": "NYSE ARCA",
+   "ticker": "SPY",
+   "security": "fund",
+   "amount_per_share": 1.90352,
+   "currency": "USD",
+   "record_date": "2026-06-18",
+   "payable_date": "2026-07-31",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/spy/dividend/",
+   "collected_at": "2026-08-18T15:26:34+09:00"
+  },
+  {
    "company": "The Timken Company",
    "exchange": "NYSE",
    "ticker": "TKR",
@@ -23865,6 +24675,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326200/000110465926091231/gnk-20260630x10q.htm",
    "collected_at": "2026-08-14 09:25"
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPI",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "2026-08-03",
+   "payable_date": "2026-08-05",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepi/dividend/",
+   "collected_at": "2026-08-18T15:26:31+09:00"
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "JEPQ",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "2026-08-03",
+   "payable_date": "2026-08-05",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
+   "collected_at": "2026-08-18T15:26:32+09:00"
   },
   {
    "company": "KAYNE ANDERSON BDC, INC.",
@@ -37790,5 +38630,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2540
+ "count": 2596
 }

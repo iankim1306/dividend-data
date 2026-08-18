@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-18 15:18",
+ "updatedAt": "2026-08-18 15:26",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2167,
+ "count": 2207,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -166,6 +166,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.08854",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-09-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-09-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
@@ -514,6 +544,21 @@
    "source_url": ""
   },
   {
+   "company": "SPDR Portfolio S&P 500 High Dividend ETF",
+   "ticker": "SPYD",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.54285,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-09-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-24 $0.54285",
+   "source_url": ""
+  },
+  {
    "company": "Flowers Foods, Inc.",
    "ticker": "FLO",
    "exchange": "NYSE",
@@ -616,6 +661,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-29 $0.296875",
+   "source_url": ""
+  },
+  {
+   "company": "Schwab U.S. Dividend Equity ETF",
+   "ticker": "SCHD",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.2525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-09-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-29 $0.2525",
    "source_url": ""
   },
   {
@@ -1279,6 +1339,36 @@
    "source_url": ""
   },
   {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
+   "source_url": ""
+  },
+  {
    "company": "Blackstone Real Estate Income Trust, Inc.",
    "ticker": "BSTT",
    "exchange": "OTC",
@@ -1441,6 +1531,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-10 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco QQQ Trust",
+   "ticker": "QQQ",
+   "exchange": "NASDAQ",
+   "security": "fund",
+   "amount_per_share": 0.81349,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-10 $0.81349",
    "source_url": ""
   },
   {
@@ -2869,6 +2974,21 @@
    "source_url": ""
   },
   {
+   "company": "SPDR S&P 500 ETF Trust",
+   "ticker": "SPY",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 1.90352,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-31 $1.90352",
+   "source_url": ""
+  },
+  {
    "company": "UDR, Inc.",
    "ticker": "UDR",
    "exchange": "NYSE",
@@ -3046,6 +3166,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
@@ -5674,6 +5824,36 @@
    "source_url": ""
   },
   {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
+   "source_url": ""
+  },
+  {
    "company": "Littelfuse Inc",
    "ticker": "LFUS",
    "exchange": "Nasdaq",
@@ -7819,6 +7999,21 @@
    "source_url": ""
   },
   {
+   "company": "SPDR Portfolio S&P 500 High Dividend ETF",
+   "ticker": "SPYD",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.54285,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-24 $0.54285",
+   "source_url": ""
+  },
+  {
    "company": "Healthpeak Properties, Inc.",
    "ticker": "DOC",
    "exchange": "NYSE",
@@ -8266,6 +8461,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-28 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Schwab U.S. Dividend Equity ETF",
+   "ticker": "SCHD",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.2525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-29 $0.2525",
    "source_url": ""
   },
   {
@@ -9739,6 +9949,36 @@
    "source_url": ""
   },
   {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
+   "source_url": ""
+  },
+  {
    "company": "LEAR CORP",
    "ticker": "LEAR",
    "exchange": "NYSE",
@@ -10021,6 +10261,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-09 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco QQQ Trust",
+   "ticker": "QQQ",
+   "exchange": "NASDAQ",
+   "security": "fund",
+   "amount_per_share": 0.81349,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-10 $0.81349",
    "source_url": ""
   },
   {
@@ -12094,6 +12349,21 @@
    "source_url": ""
   },
   {
+   "company": "SPDR S&P 500 ETF Trust",
+   "ticker": "SPY",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 1.90352,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-31 $1.90352",
+   "source_url": ""
+  },
+  {
    "company": "Chiron Real Estate Inc.",
    "ticker": "XRN",
    "exchange": "NYSE",
@@ -12301,6 +12571,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $375.0",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
@@ -15034,6 +15334,36 @@
    "source_url": ""
   },
   {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
+   "source_url": ""
+  },
+  {
    "company": "Natural Gas Services Group, Inc.",
    "ticker": "NGS",
    "exchange": "NYSE",
@@ -17344,6 +17674,21 @@
    "source_url": ""
   },
   {
+   "company": "SPDR Portfolio S&P 500 High Dividend ETF",
+   "ticker": "SPYD",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.54285,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-24 $0.54285",
+   "source_url": ""
+  },
+  {
    "company": "Genpact Limited",
    "ticker": "G",
    "exchange": "NYSE",
@@ -17866,6 +18211,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-28 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Schwab U.S. Dividend Equity ETF",
+   "ticker": "SCHD",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.2525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-29 $0.2525",
    "source_url": ""
   },
   {
@@ -19174,6 +19534,36 @@
    "source_url": ""
   },
   {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
+   "source_url": ""
+  },
+  {
    "company": "Restaurant Brands International Inc.",
    "ticker": "RBI",
    "exchange": "NYSE",
@@ -19501,6 +19891,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-09 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco QQQ Trust",
+   "ticker": "QQQ",
+   "exchange": "NASDAQ",
+   "security": "fund",
+   "amount_per_share": 0.81349,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-10 $0.81349",
    "source_url": ""
   },
   {
@@ -21619,6 +22024,21 @@
    "source_url": ""
   },
   {
+   "company": "SPDR S&P 500 ETF Trust",
+   "ticker": "SPY",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 1.90352,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-31 $1.90352",
+   "source_url": ""
+  },
+  {
    "company": "Chiron Real Estate Inc.",
    "ticker": "XRN",
    "exchange": "NYSE",
@@ -21706,6 +22126,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-05-01 $0.32",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
@@ -24319,6 +24769,36 @@
    "source_url": ""
   },
   {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
+   "source_url": ""
+  },
+  {
    "company": "Juniata Valley Financial Corp.",
    "ticker": "JUVF",
    "exchange": "OTCQX",
@@ -26869,6 +27349,21 @@
    "source_url": ""
   },
   {
+   "company": "SPDR Portfolio S&P 500 High Dividend ETF",
+   "ticker": "SPYD",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.54285,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-24 $0.54285",
+   "source_url": ""
+  },
+  {
    "company": "Genpact Limited",
    "ticker": "G",
    "exchange": "NYSE",
@@ -27406,6 +27901,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-28 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Schwab U.S. Dividend Equity ETF",
+   "ticker": "SCHD",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.2525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-29 $0.2525",
    "source_url": ""
   },
   {
@@ -28624,6 +29134,36 @@
    "source_url": ""
   },
   {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
+   "source_url": ""
+  },
+  {
    "company": "PROGRESSIVE CORP/OH",
    "ticker": "PGR",
    "exchange": "NYSE",
@@ -29086,6 +29626,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-09 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco QQQ Trust",
+   "ticker": "QQQ",
+   "exchange": "NASDAQ",
+   "security": "fund",
+   "amount_per_share": 0.81349,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-10 $0.81349",
    "source_url": ""
   },
   {
@@ -31204,6 +31759,21 @@
    "source_url": ""
   },
   {
+   "company": "SPDR S&P 500 ETF Trust",
+   "ticker": "SPY",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 1.90352,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-31 $1.90352",
+   "source_url": ""
+  },
+  {
    "company": "Chiron Real Estate Inc.",
    "ticker": "XRN",
    "exchange": "NYSE",
@@ -31276,6 +31846,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-01 $0.31",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
