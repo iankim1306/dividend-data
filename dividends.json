@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-19 03:18",
+ "updatedAt": "2026-08-19 06:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -33943,6 +33943,21 @@
    "collected_at": "2026-08-13 11:09"
   },
   {
+   "company": "M&T Bank Corporation",
+   "exchange": "NYSE",
+   "ticker": "MTB",
+   "security": "preferred",
+   "amount_per_share": 99.38,
+   "currency": "USD",
+   "record_date": "2026-09-01",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/mt-bank-corporation-announces-third-quarter-common-stock-dividend-302854541.html",
+   "collected_at": "2026-08-19 06:18"
+  },
+  {
    "company": "Neuberger Municipal Fund Inc.",
    "exchange": "NYSE American",
    "ticker": "NBH",
@@ -33986,6 +34001,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1174850/000117485026000157/nic-20260721.htm",
    "collected_at": "2026-08-07 00:33"
+  },
+  {
+   "company": "Realty Income Corporation",
+   "exchange": "NYSE",
+   "ticker": "O",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/realty-income-announces-674th-consecutive-common-stock-monthly-dividend-302854350.html",
+   "collected_at": "2026-08-19 06:18"
   },
   {
    "company": "Old National Bancorp",
@@ -36771,6 +36801,21 @@
    "collected_at": "2026-08-07 00:23"
   },
   {
+   "company": "M&T Bank Corporation",
+   "exchange": "NYSE",
+   "ticker": "MTB",
+   "security": "common",
+   "amount_per_share": 1.5,
+   "currency": "USD",
+   "record_date": "2026-09-01",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/mt-bank-corporation-announces-third-quarter-common-stock-dividend-302854541.html",
+   "collected_at": "2026-08-19 06:18"
+  },
+  {
    "company": "New England Realty Associates Limited Partnership",
    "exchange": "NYSE MKT",
    "ticker": "NEN",
@@ -37229,6 +37274,21 @@
    "collected_at": "2026-08-07 00:22"
   },
   {
+   "company": "Allspring Income Opportunities Fund",
+   "exchange": "NYSE American",
+   "ticker": "EAD",
+   "security": "common",
+   "amount_per_share": 0.0531,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-10-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/allspring-closed-end-funds-declare-monthly-and-quarterly-distributions-302853847.html",
+   "collected_at": "2026-08-19 06:18"
+  },
+  {
    "company": "EMERSON ELECTRIC CO.",
    "exchange": "NYSE",
    "ticker": "EMR",
@@ -37242,6 +37302,51 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/32604/000003260426000043/emr-20260630.htm",
    "collected_at": "2026-08-15 09:35"
+  },
+  {
+   "company": "Allspring Global Dividend Opportunity Fund",
+   "exchange": "NYSE American",
+   "ticker": "EOD",
+   "security": "common",
+   "amount_per_share": 0.14821,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/allspring-closed-end-funds-declare-monthly-and-quarterly-distributions-302853847.html",
+   "collected_at": "2026-08-19 06:18"
+  },
+  {
+   "company": "Allspring Multi-Sector Income Fund",
+   "exchange": "NYSE American",
+   "ticker": "ERC",
+   "security": "common",
+   "amount_per_share": 0.0726,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-10-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/allspring-closed-end-funds-declare-monthly-and-quarterly-distributions-302853847.html",
+   "collected_at": "2026-08-19 06:18"
+  },
+  {
+   "company": "Allspring Utilities and High Income Fund",
+   "exchange": "NYSE American",
+   "ticker": "ERH",
+   "security": "common",
+   "amount_per_share": 0.08794,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-10-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/allspring-closed-end-funds-declare-monthly-and-quarterly-distributions-302853847.html",
+   "collected_at": "2026-08-19 06:18"
   },
   {
    "company": "FIRST HORIZON CORP",
@@ -38658,6 +38763,21 @@
    "collected_at": "2026-08-15 09:20"
   },
   {
+   "company": "Public Service Company of New Mexico",
+   "exchange": "NYSE",
+   "ticker": "TXNM",
+   "security": "preferred",
+   "amount_per_share": 1.145,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/public-service-company-of-new-mexico-declares-preferred-dividend-302854542.html",
+   "collected_at": "2026-08-19 06:18"
+  },
+  {
    "company": "UMB Financial Corporation",
    "exchange": "Nasdaq",
    "ticker": "UMBFO",
@@ -39740,5 +39860,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2670
+ "count": 2678
 }

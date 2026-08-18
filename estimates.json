@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-19 03:18",
+ "updatedAt": "2026-08-19 06:19",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2267,
+ "count": 2278,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -2239,6 +2239,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.271",
+   "source_url": ""
+  },
+  {
    "company": "World Kinect Corporation",
    "ticker": "WKC",
    "exchange": "NYSE",
@@ -4081,6 +4096,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.271",
    "source_url": ""
   },
   {
@@ -6931,6 +6961,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-15 $0.72",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.271",
    "source_url": ""
   },
   {
@@ -11059,6 +11104,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.271",
+   "source_url": ""
+  },
+  {
    "company": "Pebblebrook Hotel Trust",
    "ticker": "PEB",
    "exchange": "NYSE",
@@ -13636,6 +13696,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $0.62",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.271",
    "source_url": ""
   },
   {
@@ -16666,6 +16741,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.271",
    "source_url": ""
   },
   {
@@ -20584,6 +20674,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.271",
+   "source_url": ""
+  },
+  {
    "company": "Stellus Capital Investment Corp",
    "ticker": "SCM",
    "exchange": "NYSE",
@@ -23311,6 +23416,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.271",
    "source_url": ""
   },
   {
@@ -26536,6 +26656,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.271",
    "source_url": ""
   },
   {
@@ -30454,6 +30589,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.271",
+   "source_url": ""
+  },
+  {
    "company": "Quanta Services, Inc.",
    "ticker": "PWR",
    "exchange": "NYSE",
@@ -33181,6 +33331,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-02-11 $0.01",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.271",
    "source_url": ""
   },
   {
