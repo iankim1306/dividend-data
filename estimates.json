@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-18 14:37",
+ "updatedAt": "2026-08-18 15:00",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2151,
+ "count": 2167,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -349,6 +349,36 @@
    "source_url": ""
   },
   {
+   "company": "iShares Core Dividend Growth ETF",
+   "ticker": "DGRO",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.330603,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-18 $0.330603",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Select Dividend ETF",
+   "ticker": "DVY",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 1.247215,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-18 $1.247215",
+   "source_url": ""
+  },
+  {
    "company": "FactSet Research Systems Inc.",
    "ticker": "FDS",
    "exchange": "NYSE",
@@ -361,6 +391,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-18 $1.16",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Core S&P 500 ETF",
+   "ticker": "IVV",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 1.995653,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-18 $1.995653",
    "source_url": ""
   },
   {
@@ -2131,6 +2176,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-18 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Core High Dividend ETF",
+   "ticker": "HDV",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.087389,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-20 $0.087389",
    "source_url": ""
   },
   {
@@ -7294,6 +7354,36 @@
    "source_url": ""
   },
   {
+   "company": "iShares Core Dividend Growth ETF",
+   "ticker": "DGRO",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.330603,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-18 $0.330603",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Select Dividend ETF",
+   "ticker": "DVY",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 1.247215,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-18 $1.247215",
+   "source_url": ""
+  },
+  {
    "company": "Expedia Group, Inc.",
    "ticker": "EXPE",
    "exchange": "Nasdaq",
@@ -7321,6 +7411,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-18 $1.16",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Core S&P 500 ETF",
+   "ticker": "IVV",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 1.995653,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-18 $1.995653",
    "source_url": ""
   },
   {
@@ -11146,6 +11251,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-19 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Core High Dividend ETF",
+   "ticker": "HDV",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.087389,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-20 $0.087389",
    "source_url": ""
   },
   {
@@ -16744,6 +16864,36 @@
    "source_url": ""
   },
   {
+   "company": "iShares Core Dividend Growth ETF",
+   "ticker": "DGRO",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.330603,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-18 $0.330603",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Select Dividend ETF",
+   "ticker": "DVY",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 1.247215,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-18 $1.247215",
+   "source_url": ""
+  },
+  {
    "company": "Expedia Group, Inc.",
    "ticker": "EXPE",
    "exchange": "Nasdaq",
@@ -16771,6 +16921,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-18 $1.16",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Core S&P 500 ETF",
+   "ticker": "IVV",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 1.995653,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-18 $1.995653",
    "source_url": ""
   },
   {
@@ -20566,6 +20731,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-19 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Core High Dividend ETF",
+   "ticker": "HDV",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.087389,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-20 $0.087389",
    "source_url": ""
   },
   {
@@ -26209,6 +26389,36 @@
    "source_url": ""
   },
   {
+   "company": "iShares Core Dividend Growth ETF",
+   "ticker": "DGRO",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.330603,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-18 $0.330603",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Select Dividend ETF",
+   "ticker": "DVY",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 1.247215,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-18 $1.247215",
+   "source_url": ""
+  },
+  {
    "company": "Expedia Group, Inc.",
    "ticker": "EXPE",
    "exchange": "Nasdaq",
@@ -26236,6 +26446,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-18 $1.16",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Core S&P 500 ETF",
+   "ticker": "IVV",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 1.995653,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-06-18 $1.995653",
    "source_url": ""
   },
   {
@@ -30151,6 +30376,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-19 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Core High Dividend ETF",
+   "ticker": "HDV",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.087389,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-20 $0.087389",
    "source_url": ""
   },
   {
