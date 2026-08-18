@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-18 15:26 KST",
+ "updatedAt": "2026-08-18 15:34 KST",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -2580,6 +2580,21 @@
    "collected_at": "2026-08-15 09:20"
   },
   {
+   "company": "Johnson & Johnson",
+   "exchange": "NYSE",
+   "ticker": "JNJ",
+   "security": "common",
+   "amount_per_share": 1.3,
+   "currency": "USD",
+   "record_date": "2025-05-27",
+   "payable_date": "2025-06-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/jnj-20250629.htm",
+   "collected_at": "2026-08-18 15:31"
+  },
+  {
    "company": "TRACTOR SUPPLY CO",
    "exchange": "Nasdaq",
    "ticker": "TSCO",
@@ -2668,6 +2683,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1578348/000119312526352658/icmb-20260630.htm",
    "collected_at": "2026-08-16 09:29"
+  },
+  {
+   "company": "PepsiCo, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "PEP",
+   "security": "common",
+   "amount_per_share": 5.69,
+   "currency": "USD",
+   "record_date": "2025-06-14",
+   "payable_date": "2025-06-15",
+   "frequency": "annual",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747625000044/pep-20250614.htm",
+   "collected_at": "2026-08-18 15:30"
   },
   {
    "company": "ManpowerGroup Inc.",
@@ -3974,6 +4004,21 @@
    "collected_at": "2026-08-18T15:26:34+09:00"
   },
   {
+   "company": "The Home Depot, Inc.",
+   "exchange": "NYSE",
+   "ticker": "HD",
+   "security": "common",
+   "amount_per_share": 2.3,
+   "currency": "USD",
+   "record_date": "2025-05-05",
+   "payable_date": "2025-08-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495025000217/hd-20250803.htm",
+   "collected_at": "2026-08-18 15:31"
+  },
+  {
    "company": "CROWN CRAFTS INC",
    "exchange": "Nasdaq",
    "ticker": "CRWS",
@@ -4079,6 +4124,21 @@
    "collected_at": "2026-08-13 12:00"
   },
   {
+   "company": "Amplify CWP Enhanced Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "DIVO",
+   "security": "fund",
+   "amount_per_share": 0.17488,
+   "currency": "USD",
+   "record_date": "2025-08-28",
+   "payable_date": "2025-08-29",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/divo/dividend/",
+   "collected_at": "2026-08-18T15:34:56+09:00"
+  },
+  {
    "company": "Jerash Holdings (US), Inc.",
    "exchange": "Nasdaq",
    "ticker": "JRSH",
@@ -4182,6 +4242,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1158895/000119312526333762/ck0001158895-20260630.htm",
    "collected_at": "2026-08-13 14:57"
+  },
+  {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "TLT",
+   "security": "fund",
+   "amount_per_share": 0.328083,
+   "currency": "USD",
+   "record_date": "2025-09-02",
+   "payable_date": "2025-09-05",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+   "collected_at": "2026-08-18T15:34:48+09:00"
+  },
+  {
+   "company": "Johnson & Johnson",
+   "exchange": "NYSE",
+   "ticker": "JNJ",
+   "security": "common",
+   "amount_per_share": 1.3,
+   "currency": "USD",
+   "record_date": "2025-08-26",
+   "payable_date": "2025-09-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/jnj-20250928.htm",
+   "collected_at": "2026-08-18 15:31"
   },
   {
    "company": "LCI Industries",
@@ -4469,6 +4559,21 @@
    "collected_at": "2026-08-13 14:23"
   },
   {
+   "company": "Amplify CWP Enhanced Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "DIVO",
+   "security": "fund",
+   "amount_per_share": 0.17736,
+   "currency": "USD",
+   "record_date": "2025-09-29",
+   "payable_date": "2025-09-30",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/divo/dividend/",
+   "collected_at": "2026-08-18T15:34:56+09:00"
+  },
+  {
    "company": "MFA Financial, Inc.",
    "exchange": "NYSE",
    "ticker": "MFA",
@@ -4529,6 +4634,21 @@
    "collected_at": "2026-08-15 09:35"
   },
   {
+   "company": "The Coca-Cola Company",
+   "exchange": "NYSE",
+   "ticker": "KO",
+   "security": "common",
+   "amount_per_share": 0.51,
+   "currency": "USD",
+   "record_date": "2025-09-15",
+   "payable_date": "2025-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/ko-20250627.htm",
+   "collected_at": "2026-08-18 15:29"
+  },
+  {
    "company": "New Jersey Resources",
    "exchange": "NYSE",
    "ticker": "NJR",
@@ -4586,6 +4706,21 @@
    "wire": "ISSUER:Vanguard",
    "source_url": "https://investor.vanguard.com/investment-products/etfs/profile/distributions/vti",
    "collected_at": "2026-08-18T13:09:05+09:00"
+  },
+  {
+   "company": "PepsiCo, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "PEP",
+   "security": "common",
+   "amount_per_share": 1.4225,
+   "currency": "USD",
+   "record_date": "2025-09-06",
+   "payable_date": "2025-10-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747625000053/pep-20250906.htm",
+   "collected_at": "2026-08-18 15:30"
   },
   {
    "company": "Aramark",
@@ -4661,6 +4796,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1584509/000158450926000122/cik0-20260703.htm",
    "collected_at": "2026-08-14 09:40"
+  },
+  {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "TLT",
+   "security": "fund",
+   "amount_per_share": 0.310447,
+   "currency": "USD",
+   "record_date": "2025-10-01",
+   "payable_date": "2025-10-06",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+   "collected_at": "2026-08-18T15:34:48+09:00"
   },
   {
    "company": "Blue Owl Technology Finance Corp.",
@@ -4888,6 +5038,21 @@
    "collected_at": "2026-08-14 09:21"
   },
   {
+   "company": "Amplify CWP Enhanced Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "DIVO",
+   "security": "fund",
+   "amount_per_share": 0.18152,
+   "currency": "USD",
+   "record_date": "2025-10-30",
+   "payable_date": "2025-10-31",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/divo/dividend/",
+   "collected_at": "2026-08-18T15:34:56+09:00"
+  },
+  {
    "company": "MFA Financial, Inc.",
    "exchange": "NYSE",
    "ticker": "MFA",
@@ -4978,6 +5143,21 @@
    "collected_at": "2026-08-18T15:26:32+09:00"
   },
   {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "TLT",
+   "security": "fund",
+   "amount_per_share": 0.325125,
+   "currency": "USD",
+   "record_date": "2025-11-03",
+   "payable_date": "2025-11-06",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+   "collected_at": "2026-08-18T15:34:48+09:00"
+  },
+  {
    "company": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
    "exchange": "Nasdaq",
    "ticker": "NTIC",
@@ -5051,6 +5231,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1696558/000121390026088344/ea0299282-10q_jerash.htm",
    "collected_at": "2026-08-15 09:20"
+  },
+  {
+   "company": "Amplify CWP Enhanced Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "DIVO",
+   "security": "fund",
+   "amount_per_share": 0.21395,
+   "currency": "USD",
+   "record_date": "2025-11-26",
+   "payable_date": "2025-11-28",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/divo/dividend/",
+   "collected_at": "2026-08-18T15:34:56+09:00"
   },
   {
    "company": "Unitil Corporation",
@@ -5158,6 +5353,36 @@
    "collected_at": "2026-08-13 14:57"
   },
   {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "TLT",
+   "security": "fund",
+   "amount_per_share": 0.320648,
+   "currency": "USD",
+   "record_date": "2025-12-01",
+   "payable_date": "2025-12-04",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+   "collected_at": "2026-08-18T15:34:48+09:00"
+  },
+  {
+   "company": "Johnson & Johnson",
+   "exchange": "NYSE",
+   "ticker": "JNJ",
+   "security": "common",
+   "amount_per_share": 1.3,
+   "currency": "USD",
+   "record_date": "2025-11-25",
+   "payable_date": "2025-12-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/jnj-20250928.htm",
+   "collected_at": "2026-08-18 15:31"
+  },
+  {
    "company": "Dolby Laboratories, Inc.",
    "exchange": "NYSE",
    "ticker": "DLB",
@@ -5246,6 +5471,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1001250/000100125026000019/el-20260331.htm",
    "collected_at": "2026-08-13 14:23"
+  },
+  {
+   "company": "The Coca-Cola Company",
+   "exchange": "NYSE",
+   "ticker": "KO",
+   "security": "common",
+   "amount_per_share": 0.51,
+   "currency": "USD",
+   "record_date": "2025-12-01",
+   "payable_date": "2025-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/ko-20250926.htm",
+   "collected_at": "2026-08-18 15:29"
   },
   {
    "company": "LifeVantage Corporation",
@@ -5443,6 +5683,21 @@
    "collected_at": "2026-08-18T15:26:35+09:00"
   },
   {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "TLT",
+   "security": "fund",
+   "amount_per_share": 0.342437,
+   "currency": "USD",
+   "record_date": "2025-12-19",
+   "payable_date": "2025-12-24",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+   "collected_at": "2026-08-18T15:34:48+09:00"
+  },
+  {
    "company": "Vanguard Dividend Appreciation ETF",
    "exchange": "NYSE ARCA",
    "ticker": "VIG",
@@ -5546,6 +5801,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/946673/000094667326000127/banr-20260331.htm",
    "collected_at": "2026-08-13 14:23"
+  },
+  {
+   "company": "Amplify CWP Enhanced Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "DIVO",
+   "security": "fund",
+   "amount_per_share": 0.9534,
+   "currency": "USD",
+   "record_date": "2025-12-30",
+   "payable_date": "2025-12-31",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/divo/dividend/",
+   "collected_at": "2026-08-18T15:34:56+09:00"
   },
   {
    "company": "HireQuest, Inc.",
@@ -6508,6 +6778,21 @@
    "collected_at": "2026-08-13 14:18"
   },
   {
+   "company": "Amplify CWP Enhanced Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "DIVO",
+   "security": "fund",
+   "amount_per_share": 0.18264,
+   "currency": "USD",
+   "record_date": "2026-01-29",
+   "payable_date": "2026-01-30",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/divo/dividend/",
+   "collected_at": "2026-08-18T15:34:56+09:00"
+  },
+  {
    "company": "Healthpeak Properties, Inc.",
    "exchange": "NYSE",
    "ticker": "DOC",
@@ -6688,6 +6973,21 @@
    "collected_at": "2026-08-14 09:37"
   },
   {
+   "company": "The Home Depot, Inc.",
+   "exchange": "NYSE",
+   "ticker": "HD",
+   "security": "common",
+   "amount_per_share": 2.33,
+   "currency": "USD",
+   "record_date": "2026-02-01",
+   "payable_date": "2026-02-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm",
+   "collected_at": "2026-08-18 15:31"
+  },
+  {
    "company": "JPMorgan Equity Premium Income ETF",
    "exchange": "NYSE ARCA",
    "ticker": "JEPI",
@@ -6761,6 +7061,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1356115/000119312526350420/nxdt-20260630.htm",
    "collected_at": "2026-08-16 09:27"
+  },
+  {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "TLT",
+   "security": "fund",
+   "amount_per_share": 0.331885,
+   "currency": "USD",
+   "record_date": "2026-02-02",
+   "payable_date": "2026-02-05",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+   "collected_at": "2026-08-18T15:34:48+09:00"
   },
   {
    "company": "MASTERCARD",
@@ -7333,6 +7648,21 @@
    "collected_at": "2026-08-15 09:33"
   },
   {
+   "company": "Amplify CWP Enhanced Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "DIVO",
+   "security": "fund",
+   "amount_per_share": 0.18632,
+   "currency": "USD",
+   "record_date": "2026-02-26",
+   "payable_date": "2026-02-27",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/divo/dividend/",
+   "collected_at": "2026-08-18T15:34:56+09:00"
+  },
+  {
    "company": "Healthpeak Properties, Inc.",
    "exchange": "NYSE",
    "ticker": "DOC",
@@ -7767,6 +8097,21 @@
    "collected_at": "2026-08-13 14:26"
   },
   {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "TLT",
+   "security": "fund",
+   "amount_per_share": 0.300633,
+   "currency": "USD",
+   "record_date": "2026-03-02",
+   "payable_date": "2026-03-05",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+   "collected_at": "2026-08-18T15:34:48+09:00"
+  },
+  {
    "company": "PC CONNECTION, INC.",
    "exchange": "Nasdaq",
    "ticker": "CNXN",
@@ -7810,6 +8155,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1694426/000162828026053106/dk-20260630.htm",
    "collected_at": "2026-08-15 09:20"
+  },
+  {
+   "company": "Johnson & Johnson",
+   "exchange": "NYSE",
+   "ticker": "JNJ",
+   "security": "common",
+   "amount_per_share": 1.3,
+   "currency": "USD",
+   "record_date": "2026-02-24",
+   "payable_date": "2026-03-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/jnj-20260329.htm",
+   "collected_at": "2026-08-18 15:30"
   },
   {
    "company": "Monro, Inc.",
@@ -9085,6 +9445,21 @@
    "collected_at": "2026-08-15 09:33"
   },
   {
+   "company": "Amplify CWP Enhanced Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "DIVO",
+   "security": "fund",
+   "amount_per_share": 0.17872,
+   "currency": "USD",
+   "record_date": "2026-03-30",
+   "payable_date": "2026-03-31",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/divo/dividend/",
+   "collected_at": "2026-08-18T15:34:56+09:00"
+  },
+  {
    "company": "Healthpeak Properties, Inc.",
    "exchange": "NYSE",
    "ticker": "DOC",
@@ -10012,6 +10387,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1747777/000174777726000028/ortf-20260630.htm",
    "collected_at": "2026-08-15 09:23"
+  },
+  {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "TLT",
+   "security": "fund",
+   "amount_per_share": 0.344779,
+   "currency": "USD",
+   "record_date": "2026-04-01",
+   "payable_date": "2026-04-07",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+   "collected_at": "2026-08-18T15:34:48+09:00"
   },
   {
    "company": "CME Group Inc.",
@@ -11840,6 +12230,21 @@
    "collected_at": "2026-08-13 14:18"
   },
   {
+   "company": "Amplify CWP Enhanced Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "DIVO",
+   "security": "fund",
+   "amount_per_share": 0.1812,
+   "currency": "USD",
+   "record_date": "2026-04-29",
+   "payable_date": "2026-04-30",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/divo/dividend/",
+   "collected_at": "2026-08-18T15:34:56+09:00"
+  },
+  {
    "company": "Healthpeak Properties, Inc.",
    "exchange": "NYSE",
    "ticker": "DOC",
@@ -12584,6 +12989,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1096056/000143774926024682/lxfr20260628_10q.htm",
    "collected_at": "2026-08-13 14:48"
+  },
+  {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "TLT",
+   "security": "fund",
+   "amount_per_share": 0.315346,
+   "currency": "USD",
+   "record_date": "2026-05-01",
+   "payable_date": "2026-05-06",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+   "collected_at": "2026-08-18T15:34:48+09:00"
   },
   {
    "company": "WARRIOR MET COAL, INC.",
@@ -13524,6 +13944,21 @@
    "collected_at": "2026-08-13 14:20"
   },
   {
+   "company": "The Home Depot, Inc.",
+   "exchange": "NYSE",
+   "ticker": "HD",
+   "security": "common",
+   "amount_per_share": 2.33,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-05-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/354950/000162828026038247/hd-20260503.htm",
+   "collected_at": "2026-08-18 15:31"
+  },
+  {
    "company": "Cheniere Energy, Inc.",
    "exchange": "NYSE",
    "ticker": "LNG",
@@ -14354,6 +14789,21 @@
    "collected_at": "2026-08-14 09:44"
   },
   {
+   "company": "Amplify CWP Enhanced Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "DIVO",
+   "security": "fund",
+   "amount_per_share": 0.1842,
+   "currency": "USD",
+   "record_date": "2026-05-28",
+   "payable_date": "2026-05-29",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/divo/dividend/",
+   "collected_at": "2026-08-18T15:34:56+09:00"
+  },
+  {
    "company": "Healthpeak Properties, Inc.",
    "exchange": "NYSE",
    "ticker": "DOC",
@@ -14694,6 +15144,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1023128/000102312826000051/lad-20260630.htm",
    "collected_at": "2026-08-13 14:29"
+  },
+  {
+   "company": "PepsiCo, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "PEP",
+   "security": "common",
+   "amount_per_share": 1.4225,
+   "currency": "USD",
+   "record_date": "2026-03-21",
+   "payable_date": "2026-06-00",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000017/pep-20260321.htm",
+   "collected_at": "2026-08-18 15:29"
   },
   {
    "company": "Albemarle Corporation",
@@ -15514,6 +15979,21 @@
    "collected_at": "2026-08-13 12:26"
   },
   {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "TLT",
+   "security": "fund",
+   "amount_per_share": 0.335777,
+   "currency": "USD",
+   "record_date": "2026-06-01",
+   "payable_date": "2026-06-04",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+   "collected_at": "2026-08-18T15:34:48+09:00"
+  },
+  {
    "company": "AGNT, Inc.",
    "exchange": "Nasdaq",
    "ticker": "AGNT",
@@ -15766,6 +16246,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1590955/000119312526338010/payc-20260630.htm",
    "collected_at": "2026-08-14 09:41"
+  },
+  {
+   "company": "Johnson & Johnson",
+   "exchange": "NYSE",
+   "ticker": "JNJ",
+   "security": "common",
+   "amount_per_share": 1.34,
+   "currency": "USD",
+   "record_date": "2026-05-26",
+   "payable_date": "2026-06-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/jnj-20260628.htm",
+   "collected_at": "2026-08-18 15:30"
   },
   {
    "company": "Landstar System, Inc.",
@@ -18936,6 +19431,21 @@
    "collected_at": "2026-08-15 09:35"
   },
   {
+   "company": "Amplify CWP Enhanced Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "DIVO",
+   "security": "fund",
+   "amount_per_share": 0.18284,
+   "currency": "USD",
+   "record_date": "2026-06-29",
+   "payable_date": "2026-06-30",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/divo/dividend/",
+   "collected_at": "2026-08-18T15:34:56+09:00"
+  },
+  {
    "company": "Eagle Bancorp Montana, Inc.",
    "exchange": "Nasdaq",
    "ticker": "EBMT",
@@ -20159,6 +20669,21 @@
    "collected_at": "2026-08-13 12:35"
   },
   {
+   "company": "The Coca-Cola Company",
+   "exchange": "NYSE",
+   "ticker": "KO",
+   "security": "common",
+   "amount_per_share": 0.53,
+   "currency": "USD",
+   "record_date": "2026-06-15",
+   "payable_date": "2026-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026028802/ko-20260403.htm",
+   "collected_at": "2026-08-18 15:29"
+  },
+  {
    "company": "Macy's, Inc.",
    "exchange": "NYSE",
    "ticker": "M",
@@ -20515,6 +21040,21 @@
    "collected_at": "2026-08-13 14:55"
   },
   {
+   "company": "PepsiCo, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "PEP",
+   "security": "common",
+   "amount_per_share": 1.48,
+   "currency": "USD",
+   "record_date": "2026-06-13",
+   "payable_date": "2026-07-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000035/pep-20260613.htm",
+   "collected_at": "2026-08-18 15:29"
+  },
+  {
    "company": "PROGRESSIVE CORP/OH",
    "exchange": "NYSE",
    "ticker": "PGR",
@@ -20841,6 +21381,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000088/stx-20260403.htm",
    "collected_at": "2026-08-13 14:54"
+  },
+  {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "TLT",
+   "security": "fund",
+   "amount_per_share": 0.31803,
+   "currency": "USD",
+   "record_date": "2026-07-01",
+   "payable_date": "2026-07-07",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+   "collected_at": "2026-08-18T15:34:48+09:00"
   },
   {
    "company": "UPBOUND GROUP, INC.",
@@ -23862,6 +24417,21 @@
    "collected_at": "2026-08-13 14:18"
   },
   {
+   "company": "Amplify CWP Enhanced Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "DIVO",
+   "security": "fund",
+   "amount_per_share": 0.1882,
+   "currency": "USD",
+   "record_date": "2026-07-30",
+   "payable_date": "2026-07-31",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/etf/divo/dividend/",
+   "collected_at": "2026-08-18T15:34:56+09:00"
+  },
+  {
    "company": "DELUXE CORPORATION",
    "exchange": "NYSE",
    "ticker": "DLX",
@@ -24838,6 +25408,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/893847/000089384726000088/hwbk-20260630.htm",
    "collected_at": "2026-08-13 12:35"
+  },
+  {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "TLT",
+   "security": "fund",
+   "amount_per_share": 0.330454,
+   "currency": "USD",
+   "record_date": "2026-08-03",
+   "payable_date": "2026-08-06",
+   "frequency": "Monthly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf",
+   "collected_at": "2026-08-18T15:34:48+09:00"
   },
   {
    "company": "Union Bankshares, Inc.",
@@ -31143,6 +31728,21 @@
    "collected_at": "2026-08-06 23:57"
   },
   {
+   "company": "Johnson & Johnson",
+   "exchange": "NYSE",
+   "ticker": "JNJ",
+   "security": "common",
+   "amount_per_share": 1.34,
+   "currency": "USD",
+   "record_date": "2026-08-25",
+   "payable_date": "2026-09-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/jnj-20260628.htm",
+   "collected_at": "2026-08-18 15:30"
+  },
+  {
    "company": "Monro, Inc.",
    "exchange": "Nasdaq",
    "ticker": "MNRO",
@@ -36223,6 +36823,21 @@
    "collected_at": "2026-08-13 12:35"
   },
   {
+   "company": "The Coca-Cola Company",
+   "exchange": "NYSE",
+   "ticker": "KO",
+   "security": "common",
+   "amount_per_share": 0.53,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026050503/ko-20260703.htm",
+   "collected_at": "2026-08-18 15:29"
+  },
+  {
    "company": "MAIN STREET CAPITAL CORPORATION",
    "exchange": "NYSE",
    "ticker": "MAIN",
@@ -38630,5 +39245,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2596
+ "count": 2637
 }
