@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-18 15:34",
+ "updatedAt": "2026-08-18 15:40",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2245,
+ "count": 2260,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -2659,6 +2659,21 @@
    "source_url": ""
   },
   {
+   "company": "Procter & Gamble Co",
+   "ticker": "PG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.089,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-24 $1.089",
+   "source_url": ""
+  },
+  {
    "company": "Royal Caribbean Cruises Ltd.",
    "ticker": "RCL",
    "exchange": "NYSE",
@@ -3256,6 +3271,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "AT&T Inc",
+   "ticker": "T",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2775,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-03 $0.2775",
+   "source_url": ""
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "ticker": "VZ",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7075,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-03 $0.7075",
    "source_url": ""
   },
   {
@@ -7621,6 +7666,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-16 $5.16",
+   "source_url": ""
+  },
+  {
+   "company": "McDonald's Corp",
+   "ticker": "MCD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.86,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-16 $1.86",
    "source_url": ""
   },
   {
@@ -12109,6 +12169,21 @@
    "source_url": ""
   },
   {
+   "company": "Procter & Gamble Co",
+   "ticker": "PG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.089,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-24 $1.089",
+   "source_url": ""
+  },
+  {
    "company": "Royal Caribbean Cruises Ltd.",
    "ticker": "RCL",
    "exchange": "NYSE",
@@ -12844,6 +12919,21 @@
    "source_url": ""
   },
   {
+   "company": "AT&T Inc",
+   "ticker": "T",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2775,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-03 $0.2775",
+   "source_url": ""
+  },
+  {
    "company": "TOWNSQUARE MEDIA, INC.",
    "ticker": "TSQ",
    "exchange": "NYSE",
@@ -12856,6 +12946,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "ticker": "VZ",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7075,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-03 $0.7075",
    "source_url": ""
   },
   {
@@ -17419,6 +17524,21 @@
    "source_url": ""
   },
   {
+   "company": "McDonald's Corp",
+   "ticker": "MCD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.86,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-16 $1.86",
+   "source_url": ""
+  },
+  {
    "company": "Enpro",
    "ticker": "NPO",
    "exchange": "NYSE",
@@ -21919,6 +22039,21 @@
    "source_url": ""
   },
   {
+   "company": "Procter & Gamble Co",
+   "ticker": "PG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.089,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-24 $1.089",
+   "source_url": ""
+  },
+  {
    "company": "Royal Caribbean Cruises Ltd.",
    "ticker": "RCL",
    "exchange": "NYSE",
@@ -22669,6 +22804,21 @@
    "source_url": ""
   },
   {
+   "company": "AT&T Inc",
+   "ticker": "T",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2775,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-03 $0.2775",
+   "source_url": ""
+  },
+  {
    "company": "iShares 20+ Year Treasury Bond ETF",
    "ticker": "TLT",
    "exchange": "NYSE ARCA",
@@ -22696,6 +22846,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "ticker": "VZ",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7075,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-03 $0.7075",
    "source_url": ""
   },
   {
@@ -27259,6 +27424,21 @@
    "source_url": ""
   },
   {
+   "company": "McDonald's Corp",
+   "ticker": "MCD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.86,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-16 $1.86",
+   "source_url": ""
+  },
+  {
    "company": "Enpro",
    "ticker": "NPO",
    "exchange": "NYSE",
@@ -31804,6 +31984,21 @@
    "source_url": ""
   },
   {
+   "company": "Procter & Gamble Co",
+   "ticker": "PG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.089,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-24 $1.089",
+   "source_url": ""
+  },
+  {
    "company": "Royal Caribbean Cruises Ltd.",
    "ticker": "RCL",
    "exchange": "NYSE",
@@ -32584,6 +32779,21 @@
    "source_url": ""
   },
   {
+   "company": "AT&T Inc",
+   "ticker": "T",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2775,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-03 $0.2775",
+   "source_url": ""
+  },
+  {
    "company": "TOWNSQUARE MEDIA, INC.",
    "ticker": "TSQ",
    "exchange": "NYSE",
@@ -32596,6 +32806,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "ticker": "VZ",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7075,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-03 $0.7075",
    "source_url": ""
   },
   {

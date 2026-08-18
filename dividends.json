@@ -1,7 +1,22 @@
 {
- "updatedAt": "2026-08-18 15:34 KST",
+ "updatedAt": "2026-08-18 15:40 KST",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
+  {
+   "company": "McDonald's Corp",
+   "exchange": "NYSE",
+   "ticker": "MCD",
+   "security": "common",
+   "amount_per_share": 1.67,
+   "currency": "USD",
+   "record_date": "2024-09-03",
+   "payable_date": "2024-09-17",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/mcd/dividend/",
+   "collected_at": "2026-08-18T15:40:07+09:00"
+  },
   {
    "company": "SPDR Portfolio S&P 500 High Dividend ETF",
    "exchange": "NYSE ARCA",
@@ -152,6 +167,21 @@
    "collected_at": "2026-08-14 09:23"
   },
   {
+   "company": "Procter & Gamble Co",
+   "exchange": "NYSE",
+   "ticker": "PG",
+   "security": "common",
+   "amount_per_share": 1.007,
+   "currency": "USD",
+   "record_date": "2024-10-08",
+   "payable_date": "2024-10-18",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/pg/dividend/",
+   "collected_at": "2026-08-18T15:40:03+09:00"
+  },
+  {
    "company": "Invesco QQQ Trust",
    "exchange": "NASDAQ",
    "ticker": "QQQ",
@@ -180,6 +210,36 @@
    "wire": "AGG:stockanalysis",
    "source_url": "https://stockanalysis.com/etf/spy/dividend/",
    "collected_at": "2026-08-18T15:26:34+09:00"
+  },
+  {
+   "company": "AT&T Inc",
+   "exchange": "NYSE",
+   "ticker": "T",
+   "security": "common",
+   "amount_per_share": 0.2775,
+   "currency": "USD",
+   "record_date": "2024-10-10",
+   "payable_date": "2024-11-01",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/t/dividend/",
+   "collected_at": "2026-08-18T15:40:06+09:00"
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "exchange": "NYSE",
+   "ticker": "VZ",
+   "security": "common",
+   "amount_per_share": 0.6775,
+   "currency": "USD",
+   "record_date": "2024-10-10",
+   "payable_date": "2024-11-01",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/vz/dividend/",
+   "collected_at": "2026-08-18T15:40:05+09:00"
   },
   {
    "company": "Investcorp Credit Management BDC, Inc.",
@@ -270,6 +330,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/831641/000083164126000011/ttek-20260329.htm",
    "collected_at": "2026-08-13 12:19"
+  },
+  {
+   "company": "McDonald's Corp",
+   "exchange": "NYSE",
+   "ticker": "MCD",
+   "security": "common",
+   "amount_per_share": 1.77,
+   "currency": "USD",
+   "record_date": "2024-12-02",
+   "payable_date": "2024-12-16",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/mcd/dividend/",
+   "collected_at": "2026-08-18T15:40:07+09:00"
   },
   {
    "company": "Schwab U.S. Dividend Equity ETF",
@@ -616,6 +691,21 @@
    "collected_at": "2026-08-14 09:43"
   },
   {
+   "company": "Procter & Gamble Co",
+   "exchange": "NYSE",
+   "ticker": "PG",
+   "security": "common",
+   "amount_per_share": 1.007,
+   "currency": "USD",
+   "record_date": "2025-01-14",
+   "payable_date": "2025-01-24",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/pg/dividend/",
+   "collected_at": "2026-08-18T15:40:03+09:00"
+  },
+  {
    "company": "Rayonier Inc.",
    "exchange": "NYSE",
    "ticker": "RYN",
@@ -674,6 +764,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000133/amt-20260630.htm",
    "collected_at": "2026-08-13 14:40"
+  },
+  {
+   "company": "AT&T Inc",
+   "exchange": "NYSE",
+   "ticker": "T",
+   "security": "common",
+   "amount_per_share": 0.2775,
+   "currency": "USD",
+   "record_date": "2025-01-10",
+   "payable_date": "2025-02-03",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/t/dividend/",
+   "collected_at": "2026-08-18T15:40:06+09:00"
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "exchange": "NYSE",
+   "ticker": "VZ",
+   "security": "common",
+   "amount_per_share": 0.6775,
+   "currency": "USD",
+   "record_date": "2025-01-10",
+   "payable_date": "2025-02-03",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/vz/dividend/",
+   "collected_at": "2026-08-18T15:40:05+09:00"
   },
   {
    "company": "LUXFER HOLDINGS PLC",
@@ -974,6 +1094,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm",
    "collected_at": "2026-08-13 12:07"
+  },
+  {
+   "company": "McDonald's Corp",
+   "exchange": "NYSE",
+   "ticker": "MCD",
+   "security": "common",
+   "amount_per_share": 1.77,
+   "currency": "USD",
+   "record_date": "2025-03-03",
+   "payable_date": "2025-03-17",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/mcd/dividend/",
+   "collected_at": "2026-08-18T15:40:07+09:00"
   },
   {
    "company": "Blue Owl Technology Finance Corp.",
@@ -1920,6 +2055,21 @@
    "collected_at": "2026-08-13 14:27"
   },
   {
+   "company": "Procter & Gamble Co",
+   "exchange": "NYSE",
+   "ticker": "PG",
+   "security": "common",
+   "amount_per_share": 1.057,
+   "currency": "USD",
+   "record_date": "2025-04-08",
+   "payable_date": "2025-04-21",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/pg/dividend/",
+   "collected_at": "2026-08-18T15:40:03+09:00"
+  },
+  {
    "company": "Kforce Inc.",
    "exchange": "NYSE",
    "ticker": "KFRC",
@@ -2233,6 +2383,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/835324/000143774926014783/sybt20260331_10q.htm",
    "collected_at": "2026-08-13 12:21"
+  },
+  {
+   "company": "AT&T Inc",
+   "exchange": "NYSE",
+   "ticker": "T",
+   "security": "common",
+   "amount_per_share": 0.2775,
+   "currency": "USD",
+   "record_date": "2025-04-10",
+   "payable_date": "2025-05-01",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/t/dividend/",
+   "collected_at": "2026-08-18T15:40:06+09:00"
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "exchange": "NYSE",
+   "ticker": "VZ",
+   "security": "common",
+   "amount_per_share": 0.6775,
+   "currency": "USD",
+   "record_date": "2025-04-10",
+   "payable_date": "2025-05-01",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/vz/dividend/",
+   "collected_at": "2026-08-18T15:40:05+09:00"
   },
   {
    "company": "Best Buy Co., Inc.",
@@ -2713,6 +2893,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/871763/000119312526340522/man-20260630.htm",
    "collected_at": "2026-08-13 12:26"
+  },
+  {
+   "company": "McDonald's Corp",
+   "exchange": "NYSE",
+   "ticker": "MCD",
+   "security": "common",
+   "amount_per_share": 1.77,
+   "currency": "USD",
+   "record_date": "2025-06-02",
+   "payable_date": "2025-06-16",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/mcd/dividend/",
+   "collected_at": "2026-08-18T15:40:07+09:00"
   },
   {
    "company": "Mexco Energy Corporation",
@@ -3779,6 +3974,21 @@
    "collected_at": "2026-08-14 09:45"
   },
   {
+   "company": "Procter & Gamble Co",
+   "exchange": "NYSE",
+   "ticker": "PG",
+   "security": "common",
+   "amount_per_share": 1.057,
+   "currency": "USD",
+   "record_date": "2025-07-08",
+   "payable_date": "2025-07-18",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/pg/dividend/",
+   "collected_at": "2026-08-18T15:40:03+09:00"
+  },
+  {
    "company": "Wintrust Financial Corporation",
    "exchange": "Nasdaq",
    "ticker": "WTFC",
@@ -4002,6 +4212,36 @@
    "wire": "AGG:stockanalysis",
    "source_url": "https://stockanalysis.com/etf/spy/dividend/",
    "collected_at": "2026-08-18T15:26:34+09:00"
+  },
+  {
+   "company": "AT&T Inc",
+   "exchange": "NYSE",
+   "ticker": "T",
+   "security": "common",
+   "amount_per_share": 0.2775,
+   "currency": "USD",
+   "record_date": "2025-07-10",
+   "payable_date": "2025-08-01",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/t/dividend/",
+   "collected_at": "2026-08-18T15:40:06+09:00"
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "exchange": "NYSE",
+   "ticker": "VZ",
+   "security": "common",
+   "amount_per_share": 0.6775,
+   "currency": "USD",
+   "record_date": "2025-07-10",
+   "payable_date": "2025-08-01",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/vz/dividend/",
+   "collected_at": "2026-08-18T15:40:05+09:00"
   },
   {
    "company": "The Home Depot, Inc.",
@@ -4317,6 +4557,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/849146/000119312526208922/lfvn-20260331.htm",
    "collected_at": "2026-08-13 12:22"
+  },
+  {
+   "company": "McDonald's Corp",
+   "exchange": "NYSE",
+   "ticker": "MCD",
+   "security": "common",
+   "amount_per_share": 1.77,
+   "currency": "USD",
+   "record_date": "2025-09-02",
+   "payable_date": "2025-09-16",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/mcd/dividend/",
+   "collected_at": "2026-08-18T15:40:07+09:00"
   },
   {
    "company": "e Plus inc.",
@@ -4993,6 +5248,21 @@
    "collected_at": "2026-08-13 14:27"
   },
   {
+   "company": "Procter & Gamble Co",
+   "exchange": "NYSE",
+   "ticker": "PG",
+   "security": "common",
+   "amount_per_share": 1.057,
+   "currency": "USD",
+   "record_date": "2025-10-14",
+   "payable_date": "2025-10-24",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/pg/dividend/",
+   "collected_at": "2026-08-18T15:40:03+09:00"
+  },
+  {
    "company": "ACRES COMMERCIAL REALTY CORP.",
    "exchange": "NYSE",
    "ticker": "ACR",
@@ -5096,6 +5366,36 @@
    "wire": "AGG:stockanalysis",
    "source_url": "https://stockanalysis.com/etf/spy/dividend/",
    "collected_at": "2026-08-18T15:26:34+09:00"
+  },
+  {
+   "company": "AT&T Inc",
+   "exchange": "NYSE",
+   "ticker": "T",
+   "security": "common",
+   "amount_per_share": 0.2775,
+   "currency": "USD",
+   "record_date": "2025-10-10",
+   "payable_date": "2025-11-03",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/t/dividend/",
+   "collected_at": "2026-08-18T15:40:06+09:00"
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "exchange": "NYSE",
+   "ticker": "VZ",
+   "security": "common",
+   "amount_per_share": 0.69,
+   "currency": "USD",
+   "record_date": "2025-10-10",
+   "payable_date": "2025-11-03",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/vz/dividend/",
+   "collected_at": "2026-08-18T15:40:05+09:00"
   },
   {
    "company": "Heritage Financial Corporation",
@@ -5501,6 +5801,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/849146/000119312526208922/lfvn-20260331.htm",
    "collected_at": "2026-08-13 12:22"
+  },
+  {
+   "company": "McDonald's Corp",
+   "exchange": "NYSE",
+   "ticker": "MCD",
+   "security": "common",
+   "amount_per_share": 1.86,
+   "currency": "USD",
+   "record_date": "2025-12-01",
+   "payable_date": "2025-12-15",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/mcd/dividend/",
+   "collected_at": "2026-08-18T15:40:07+09:00"
   },
   {
    "company": "Schwab U.S. Dividend Equity ETF",
@@ -6658,6 +6973,21 @@
    "collected_at": "2026-08-13 14:52"
   },
   {
+   "company": "Procter & Gamble Co",
+   "exchange": "NYSE",
+   "ticker": "PG",
+   "security": "common",
+   "amount_per_share": 1.057,
+   "currency": "USD",
+   "record_date": "2026-01-13",
+   "payable_date": "2026-01-23",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/pg/dividend/",
+   "collected_at": "2026-08-18T15:40:03+09:00"
+  },
+  {
    "company": "ADAMAS TRUST, INC.",
    "exchange": "Nasdaq",
    "ticker": "ADAM",
@@ -6913,6 +7243,21 @@
    "collected_at": "2026-08-13 14:40"
   },
   {
+   "company": "AT&T Inc",
+   "exchange": "NYSE",
+   "ticker": "T",
+   "security": "common",
+   "amount_per_share": 0.2775,
+   "currency": "USD",
+   "record_date": "2026-01-12",
+   "payable_date": "2026-02-02",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/t/dividend/",
+   "collected_at": "2026-08-18T15:40:06+09:00"
+  },
+  {
    "company": "Array",
    "exchange": "NYSE",
    "ticker": "TDS",
@@ -6941,6 +7286,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1499832/000149983226000045/tsq-20260630.htm",
    "collected_at": "2026-08-14 09:34"
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "exchange": "NYSE",
+   "ticker": "VZ",
+   "security": "common",
+   "amount_per_share": 0.69,
+   "currency": "USD",
+   "record_date": "2026-01-12",
+   "payable_date": "2026-02-02",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/vz/dividend/",
+   "collected_at": "2026-08-18T15:40:05+09:00"
   },
   {
    "company": "Chiron Real Estate Inc.",
@@ -8528,6 +8888,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1385280/000119312526324847/cnk-20260630.htm",
    "collected_at": "2026-08-14 09:29"
+  },
+  {
+   "company": "McDonald's Corp",
+   "exchange": "NYSE",
+   "ticker": "MCD",
+   "security": "common",
+   "amount_per_share": 1.86,
+   "currency": "USD",
+   "record_date": "2026-03-03",
+   "payable_date": "2026-03-17",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/mcd/dividend/",
+   "collected_at": "2026-08-18T15:40:07+09:00"
   },
   {
    "company": "UnitedHealth Group",
@@ -11946,6 +12321,21 @@
    "collected_at": "2026-08-13 14:35"
   },
   {
+   "company": "Procter & Gamble Co",
+   "exchange": "NYSE",
+   "ticker": "PG",
+   "security": "common",
+   "amount_per_share": 1.089,
+   "currency": "USD",
+   "record_date": "2026-04-14",
+   "payable_date": "2026-04-24",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/pg/dividend/",
+   "collected_at": "2026-08-18T15:40:03+09:00"
+  },
+  {
    "company": "Brandywine Realty Trust",
    "exchange": "NYSE",
    "ticker": "BDN",
@@ -12809,6 +13199,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/835324/000143774926014783/sybt20260331_10q.htm",
    "collected_at": "2026-08-13 12:21"
+  },
+  {
+   "company": "AT&T Inc",
+   "exchange": "NYSE",
+   "ticker": "T",
+   "security": "common",
+   "amount_per_share": 0.2775,
+   "currency": "USD",
+   "record_date": "2026-04-10",
+   "payable_date": "2026-05-01",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/t/dividend/",
+   "collected_at": "2026-08-18T15:40:06+09:00"
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "exchange": "NYSE",
+   "ticker": "VZ",
+   "security": "common",
+   "amount_per_share": 0.7075,
+   "currency": "USD",
+   "record_date": "2026-04-10",
+   "payable_date": "2026-05-01",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/vz/dividend/",
+   "collected_at": "2026-08-18T15:40:05+09:00"
   },
   {
    "company": "Best Buy Co., Inc.",
@@ -17703,6 +18123,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/708955/000070895526000144/ffbc-20260630.htm",
    "collected_at": "2026-08-16 09:20"
+  },
+  {
+   "company": "McDonald's Corp",
+   "exchange": "NYSE",
+   "ticker": "MCD",
+   "security": "common",
+   "amount_per_share": 1.86,
+   "currency": "USD",
+   "record_date": "2026-06-02",
+   "payable_date": "2026-06-16",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/mcd/dividend/",
+   "collected_at": "2026-08-18T15:40:07+09:00"
   },
   {
    "company": "Monro, Inc.",
@@ -23881,6 +24316,21 @@
    "collected_at": "2026-08-13 14:35"
   },
   {
+   "company": "Procter & Gamble Co",
+   "exchange": "NYSE",
+   "ticker": "PG",
+   "security": "common",
+   "amount_per_share": 1.089,
+   "currency": "USD",
+   "record_date": "2026-07-14",
+   "payable_date": "2026-07-24",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/pg/dividend/",
+   "collected_at": "2026-08-18T15:40:03+09:00"
+  },
+  {
    "company": "Royal Caribbean Cruises Ltd.",
    "exchange": "NYSE",
    "ticker": "RCL",
@@ -25113,6 +25563,21 @@
    "collected_at": "2026-08-07 00:26"
   },
   {
+   "company": "AT&T Inc",
+   "exchange": "NYSE",
+   "ticker": "T",
+   "security": "common",
+   "amount_per_share": 0.2775,
+   "currency": "USD",
+   "record_date": "2026-07-10",
+   "payable_date": "2026-08-03",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/t/dividend/",
+   "collected_at": "2026-08-18T15:40:06+09:00"
+  },
+  {
    "company": "TOWNSQUARE MEDIA, INC.",
    "exchange": "NYSE",
    "ticker": "TSQ",
@@ -25126,6 +25591,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1499832/000149983226000045/tsq-20260630.htm",
    "collected_at": "2026-08-14 09:34"
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "exchange": "NYSE",
+   "ticker": "VZ",
+   "security": "common",
+   "amount_per_share": 0.7075,
+   "currency": "USD",
+   "record_date": "2026-07-10",
+   "payable_date": "2026-08-03",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/vz/dividend/",
+   "collected_at": "2026-08-18T15:40:05+09:00"
   },
   {
    "company": "BANKUNITED, INC.",
@@ -34012,6 +34492,21 @@
    "collected_at": "2026-08-15 09:37"
   },
   {
+   "company": "McDonald's Corp",
+   "exchange": "NYSE",
+   "ticker": "MCD",
+   "security": "common",
+   "amount_per_share": 1.86,
+   "currency": "USD",
+   "record_date": "2026-09-01",
+   "payable_date": "2026-09-16",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "AGG:stockanalysis",
+   "source_url": "https://stockanalysis.com/stocks/mcd/dividend/",
+   "collected_at": "2026-08-18T15:40:07+09:00"
+  },
+  {
    "company": "Enpro",
    "exchange": "NYSE",
    "ticker": "NPO",
@@ -39245,5 +39740,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2637
+ "count": 2670
 }
