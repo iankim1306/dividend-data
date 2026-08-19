@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-19 06:18",
+ "updatedAt": "2026-08-19 09:33 KST",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -4047,6 +4047,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1736035/000173603526000016/bxsl-20260630.htm",
    "collected_at": "2026-08-15 09:23"
+  },
+  {
+   "company": "La-Z-Boy Incorporated",
+   "exchange": "NYSE",
+   "ticker": "LZB",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "2025-04-26",
+   "payable_date": "2025-07-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/57131/000005713126000035/lzb-20260725.htm",
+   "collected_at": "2026-08-19 09:30"
   },
   {
    "company": "Piedmont Realty Trust, Inc.",
@@ -24391,6 +24406,21 @@
    "collected_at": "2026-08-13 12:31"
   },
   {
+   "company": "La-Z-Boy Incorporated",
+   "exchange": "NYSE",
+   "ticker": "LZB",
+   "security": "common",
+   "amount_per_share": 0.242,
+   "currency": "USD",
+   "record_date": "2026-04-25",
+   "payable_date": "2026-07-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/57131/000005713126000035/lzb-20260725.htm",
+   "collected_at": "2026-08-19 09:30"
+  },
+  {
    "company": "Rithm Property Trust Inc.",
    "exchange": "NYSE",
    "ticker": "RPT",
@@ -28664,6 +28694,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1326200/000114036126031442/ef20079211_ex99-1.htm",
    "collected_at": "2026-08-13 11:14"
+  },
+  {
+   "company": "iShares Core High Dividend ETF",
+   "exchange": "NYSE ARCA",
+   "ticker": "HDV",
+   "security": "fund",
+   "amount_per_share": 0.104616,
+   "currency": "USD",
+   "record_date": "2026-08-19",
+   "payable_date": "2026-08-24",
+   "frequency": "Quarterly",
+   "us_listed": true,
+   "wire": "ISSUER:iShares",
+   "source_url": "https://www.ishares.com/us/products/239563/ishares-high-dividend-etf",
+   "collected_at": "2026-08-19T09:32:44+09:00"
   },
   {
    "company": "Jerash Holdings (US), Inc.",
@@ -33824,6 +33869,21 @@
    "collected_at": "2026-08-15 06:18"
   },
   {
+   "company": "La-Z-Boy Incorporated",
+   "exchange": "NYSE",
+   "ticker": "LZB",
+   "security": "common",
+   "amount_per_share": 0.242,
+   "currency": "USD",
+   "record_date": "2026-09-03",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/57131/000005713126000034/fy27q1pressrelease.htm",
+   "collected_at": "2026-08-19 09:19"
+  },
+  {
    "company": "MCHP",
    "exchange": "Nasdaq",
    "ticker": "MCHP",
@@ -35290,6 +35350,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2100805/000162828026052603/ex99106302026.htm",
    "collected_at": "2026-08-13 11:31"
+  },
+  {
+   "company": "KOHL'S CORPORATION",
+   "exchange": "New York Stock Exchange",
+   "ticker": "KSS",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "2026-09-09",
+   "payable_date": "2026-09-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/885639/000119312526355669/kss-20260818.htm",
+   "collected_at": "2026-08-19 09:19"
   },
   {
    "company": "Phibro Animal Health Corporation",
@@ -37510,6 +37585,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176126000055/rf-20260630.htm",
    "collected_at": "2026-08-14 09:22"
+  },
+  {
+   "company": "TrustCo Bank Corp NY",
+   "exchange": "Nasdaq",
+   "ticker": "TRST",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-09-04",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/357301/000114036126033567/ef20080589_8k.htm",
+   "collected_at": "2026-08-19 09:19"
   },
   {
    "company": "UGI",
@@ -39860,5 +39950,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2678
+ "count": 2684
 }

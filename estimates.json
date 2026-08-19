@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-19 06:19",
+ "updatedAt": "2026-08-19 09:33",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2278,
+ "count": 2286,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -2374,21 +2374,6 @@
    "source_url": ""
   },
   {
-   "company": "iShares Core High Dividend ETF",
-   "ticker": "HDV",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.087389,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-20 $0.087389",
-   "source_url": ""
-  },
-  {
    "company": "AMKOR TECHNOLOGY, INC.",
    "ticker": "AMKR",
    "exchange": "Nasdaq",
@@ -4711,6 +4696,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-24 $0.8",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Core High Dividend ETF",
+   "ticker": "HDV",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.104616,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-24 $0.104616",
    "source_url": ""
   },
   {
@@ -7369,6 +7369,21 @@
    "source_url": ""
   },
   {
+   "company": "La-Z-Boy Incorporated",
+   "ticker": "LZB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.242,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.242",
+   "source_url": ""
+  },
+  {
    "company": "MCHP",
    "ticker": "MCHP",
    "exchange": "Nasdaq",
@@ -8251,6 +8266,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-23 $0.9795",
+   "source_url": ""
+  },
+  {
+   "company": "KOHL'S CORPORATION",
+   "ticker": "KSS",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-23 $0.125",
    "source_url": ""
   },
   {
@@ -10099,6 +10129,21 @@
    "source_url": ""
   },
   {
+   "company": "TrustCo Bank Corp NY",
+   "ticker": "TRST",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.4",
+   "source_url": ""
+  },
+  {
    "company": "UGI",
    "ticker": "UGI",
    "exchange": "NYSE",
@@ -11851,21 +11896,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-19 $0.5",
-   "source_url": ""
-  },
-  {
-   "company": "iShares Core High Dividend ETF",
-   "ticker": "HDV",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.087389,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-18",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-20 $0.087389",
    "source_url": ""
   },
   {
@@ -14536,6 +14566,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-24 $0.8",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Core High Dividend ETF",
+   "ticker": "HDV",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.104616,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-24 $0.104616",
    "source_url": ""
   },
   {
@@ -17254,6 +17299,21 @@
    "source_url": ""
   },
   {
+   "company": "La-Z-Boy Incorporated",
+   "ticker": "LZB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.242,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.242",
+   "source_url": ""
+  },
+  {
    "company": "MCHP",
    "ticker": "MCHP",
    "exchange": "Nasdaq",
@@ -18181,6 +18241,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.10167",
+   "source_url": ""
+  },
+  {
+   "company": "KOHL'S CORPORATION",
+   "ticker": "KSS",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-23 $0.125",
    "source_url": ""
   },
   {
@@ -19999,6 +20074,21 @@
    "source_url": ""
   },
   {
+   "company": "TrustCo Bank Corp NY",
+   "ticker": "TRST",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.4",
+   "source_url": ""
+  },
+  {
    "company": "UGI",
    "ticker": "UGI",
    "exchange": "NYSE",
@@ -21736,21 +21826,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-19 $0.5",
-   "source_url": ""
-  },
-  {
-   "company": "iShares Core High Dividend ETF",
-   "ticker": "HDV",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.087389,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-20 $0.087389",
    "source_url": ""
   },
   {
@@ -24451,6 +24526,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-24 $0.8",
+   "source_url": ""
+  },
+  {
+   "company": "iShares Core High Dividend ETF",
+   "ticker": "HDV",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.104616,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-24 $0.104616",
    "source_url": ""
   },
   {
@@ -27184,6 +27274,21 @@
    "source_url": ""
   },
   {
+   "company": "La-Z-Boy Incorporated",
+   "ticker": "LZB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.242,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.242",
+   "source_url": ""
+  },
+  {
    "company": "MCHP",
    "ticker": "MCHP",
    "exchange": "Nasdaq",
@@ -28111,6 +28216,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-23 $0.9795",
+   "source_url": ""
+  },
+  {
+   "company": "KOHL'S CORPORATION",
+   "ticker": "KSS",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-23 $0.125",
    "source_url": ""
   },
   {
@@ -30019,6 +30139,21 @@
    "source_url": ""
   },
   {
+   "company": "TrustCo Bank Corp NY",
+   "ticker": "TRST",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.4",
+   "source_url": ""
+  },
+  {
    "company": "UGI",
    "ticker": "UGI",
    "exchange": "NYSE",
@@ -31786,21 +31921,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-19 $0.5",
-   "source_url": ""
-  },
-  {
-   "company": "iShares Core High Dividend ETF",
-   "ticker": "HDV",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.087389,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-20 $0.087389",
    "source_url": ""
   },
   {
