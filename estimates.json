@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-20 03:18",
+ "updatedAt": "2026-08-20 06:19",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2297,
+ "count": 2296,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -1141,21 +1141,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-01 $0.01",
-   "source_url": ""
-  },
-  {
-   "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
-   "ticker": "HBB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.125",
    "source_url": ""
   },
   {
@@ -7339,6 +7324,21 @@
    "source_url": ""
   },
   {
+   "company": "Hamilton Beach Brands Holding Company",
+   "ticker": "HBB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.125",
+   "source_url": ""
+  },
+  {
    "company": "HireQuest, Inc.",
    "ticker": "HQI",
    "exchange": "Nasdaq",
@@ -9556,21 +9556,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
-   "ticker": "HBB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.125",
    "source_url": ""
   },
   {
@@ -17269,6 +17254,21 @@
    "source_url": ""
   },
   {
+   "company": "Hamilton Beach Brands Holding Company",
+   "ticker": "HBB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.125",
+   "source_url": ""
+  },
+  {
    "company": "HireQuest, Inc.",
    "ticker": "HQI",
    "exchange": "Nasdaq",
@@ -19516,21 +19516,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
-   "ticker": "HBB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.125",
    "source_url": ""
   },
   {
@@ -27244,6 +27229,21 @@
    "source_url": ""
   },
   {
+   "company": "Hamilton Beach Brands Holding Company",
+   "ticker": "HBB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.125",
+   "source_url": ""
+  },
+  {
    "company": "HireQuest, Inc.",
    "ticker": "HQI",
    "exchange": "Nasdaq",
@@ -29536,21 +29536,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
-   "ticker": "HBB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.125",
    "source_url": ""
   },
   {
