@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-20 06:19",
+ "updatedAt": "2026-08-20 09:37",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2296,
+ "count": 2305,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -316,21 +316,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.93",
-   "source_url": ""
-  },
-  {
-   "company": "The Estée Lauder Companies Inc.",
-   "ticker": "EL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-15 $0.35",
    "source_url": ""
   },
   {
@@ -1069,21 +1054,6 @@
    "source_url": ""
   },
   {
-   "company": "C & F FINANCIAL CORPORATION",
-   "ticker": "CFFI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "Central Pacific Financial Corp.",
    "ticker": "CPF",
    "exchange": "NYSE",
@@ -1606,6 +1576,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-10 $0.81349",
+   "source_url": ""
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-10 $0.20833",
    "source_url": ""
   },
   {
@@ -3526,6 +3511,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-10 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-10 $0.20833",
    "source_url": ""
   },
   {
@@ -6514,6 +6514,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "Landstar System, Inc.",
    "ticker": "LSTR",
    "exchange": "Nasdaq",
@@ -6874,21 +6889,6 @@
    "source_url": ""
   },
   {
-   "company": "The Estée Lauder Companies Inc.",
-   "ticker": "EL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-15 $0.35",
-   "source_url": ""
-  },
-  {
    "company": "FIRST CITIZENS BANCSHARES INC",
    "ticker": "FCNCA",
    "exchange": "Nasdaq",
@@ -7246,6 +7246,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $12.5",
+   "source_url": ""
+  },
+  {
+   "company": "The Estée Lauder Companies Inc.",
+   "ticker": "EL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.35",
    "source_url": ""
   },
   {
@@ -9409,21 +9424,6 @@
    "source_url": ""
   },
   {
-   "company": "C & F FINANCIAL CORPORATION",
-   "ticker": "CFFI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "Cannae Holdings, Inc.",
    "ticker": "CNNE",
    "exchange": "NYSE",
@@ -9946,6 +9946,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "C&F Financial Corporation",
+   "ticker": "CFFI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.48",
    "source_url": ""
   },
   {
@@ -10576,6 +10591,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-10 $0.5425",
+   "source_url": ""
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-10 $0.20833",
    "source_url": ""
   },
   {
@@ -13231,6 +13261,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-10 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-07",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-10 $0.20833",
    "source_url": ""
   },
   {
@@ -16249,6 +16294,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "Johnson & Johnson",
    "ticker": "JNJ",
    "exchange": "NYSE",
@@ -16849,21 +16909,6 @@
    "source_url": ""
   },
   {
-   "company": "The Estée Lauder Companies Inc.",
-   "ticker": "EL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-15 $0.35",
-   "source_url": ""
-  },
-  {
    "company": "FIRST CITIZENS BANCSHARES INC",
    "ticker": "FCNCA",
    "exchange": "Nasdaq",
@@ -17161,6 +17206,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $12.5",
+   "source_url": ""
+  },
+  {
+   "company": "The Estée Lauder Companies Inc.",
+   "ticker": "EL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.35",
    "source_url": ""
   },
   {
@@ -19369,21 +19429,6 @@
    "source_url": ""
   },
   {
-   "company": "C & F FINANCIAL CORPORATION",
-   "ticker": "CFFI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "Cannae Holdings, Inc.",
    "ticker": "CNNE",
    "exchange": "NYSE",
@@ -19906,6 +19951,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "C&F Financial Corporation",
+   "ticker": "CFFI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.48",
    "source_url": ""
   },
   {
@@ -20476,6 +20536,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-08 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-10 $0.20833",
    "source_url": ""
   },
   {
@@ -23191,6 +23266,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-10 $0.20833",
    "source_url": ""
   },
   {
@@ -26194,6 +26284,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-07",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "MSC Income Fund, Inc.",
    "ticker": "MSIF",
    "exchange": "NYSE",
@@ -26824,21 +26929,6 @@
    "source_url": ""
   },
   {
-   "company": "The Estée Lauder Companies Inc.",
-   "ticker": "EL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-15 $0.35",
-   "source_url": ""
-  },
-  {
    "company": "FIRST CITIZENS BANCSHARES INC",
    "ticker": "FCNCA",
    "exchange": "Nasdaq",
@@ -27136,6 +27226,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $12.5",
+   "source_url": ""
+  },
+  {
+   "company": "The Estée Lauder Companies Inc.",
+   "ticker": "EL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.35",
    "source_url": ""
   },
   {
@@ -29389,21 +29494,6 @@
    "source_url": ""
   },
   {
-   "company": "C & F FINANCIAL CORPORATION",
-   "ticker": "CFFI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "Cannae Holdings, Inc.",
    "ticker": "CNNE",
    "exchange": "NYSE",
@@ -29926,6 +30016,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "C&F Financial Corporation",
+   "ticker": "CFFI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.48",
    "source_url": ""
   },
   {
@@ -30466,6 +30571,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-08 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-07",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-10 $0.20833",
    "source_url": ""
   },
   {
@@ -33166,6 +33286,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-06",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-10 $0.20833",
    "source_url": ""
   },
   {
