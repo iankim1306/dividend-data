@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-21 00:18",
+ "updatedAt": "2026-08-21 03:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2306,
+ "count": 2305,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -3001,21 +3001,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "NACCO Industries, Inc.",
-   "ticker": "NC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.2625",
    "source_url": ""
   },
   {
@@ -7501,6 +7486,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.32",
+   "source_url": ""
+  },
+  {
+   "company": "NACCO Industries",
+   "ticker": "NC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.2625",
    "source_url": ""
   },
   {
@@ -12694,21 +12694,6 @@
    "source_url": ""
   },
   {
-   "company": "NACCO Industries, Inc.",
-   "ticker": "NC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.2625",
-   "source_url": ""
-  },
-  {
    "company": "Northern Oil and Gas, Inc.",
    "ticker": "NOG",
    "exchange": "NYSE",
@@ -17476,6 +17461,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.32",
+   "source_url": ""
+  },
+  {
+   "company": "NACCO Industries",
+   "ticker": "NC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.2625",
    "source_url": ""
   },
   {
@@ -22714,21 +22714,6 @@
    "source_url": ""
   },
   {
-   "company": "NACCO Industries, Inc.",
-   "ticker": "NC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.2625",
-   "source_url": ""
-  },
-  {
    "company": "Northern Oil and Gas, Inc.",
    "ticker": "NOG",
    "exchange": "NYSE",
@@ -27496,6 +27481,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.32",
+   "source_url": ""
+  },
+  {
+   "company": "NACCO Industries",
+   "ticker": "NC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.2625",
    "source_url": ""
   },
   {
@@ -32791,21 +32791,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "NACCO Industries, Inc.",
-   "ticker": "NC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.2625",
    "source_url": ""
   },
   {

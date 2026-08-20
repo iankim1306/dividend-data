@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-21 00:18",
+ "updatedAt": "2026-08-21 03:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -34273,6 +34273,21 @@
    "collected_at": "2026-08-07 00:29"
   },
   {
+   "company": "NACCO Industries",
+   "exchange": "NYSE",
+   "ticker": "NC",
+   "security": "common",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/nacco-industries-declares-quarterly-dividend-302856615.html",
+   "collected_at": "2026-08-21 03:18"
+  },
+  {
    "company": "NICOLET BANKSHARES, INC.",
    "exchange": "New York Stock Exchange",
    "ticker": "NIC",
@@ -40340,5 +40355,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2710
+ "count": 2711
 }
