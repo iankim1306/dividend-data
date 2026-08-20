@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-21 03:18",
+ "updatedAt": "2026-08-21 06:19",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2305,
+ "count": 2308,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -376,21 +376,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Shore Bancshares, Inc.",
-   "ticker": "SHBI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-17 $0.14",
    "source_url": ""
   },
   {
@@ -2404,21 +2389,6 @@
    "source_url": ""
   },
   {
-   "company": "The Andersons, Inc.",
-   "ticker": "ANDE",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-21",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-22 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Brandywine Realty Trust",
    "ticker": "BDN",
    "exchange": "NYSE",
@@ -4231,21 +4201,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-18 $0.17",
-   "source_url": ""
-  },
-  {
-   "company": "The Home Depot, Inc.",
-   "ticker": "HD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 2.33,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-19 $2.33",
    "source_url": ""
   },
   {
@@ -7830,7 +7785,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-17 $0.14",
+   "basis": "last confirmed 2026-09-16 $0.14",
    "source_url": ""
   },
   {
@@ -7894,6 +7849,21 @@
    "source_url": ""
   },
   {
+   "company": "The Home Depot",
+   "ticker": "HD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.33,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $2.33",
+   "source_url": ""
+  },
+  {
    "company": "iShares Core S&P 500 ETF",
    "ticker": "IVV",
    "exchange": "NYSE ARCA",
@@ -7936,6 +7906,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-17 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "Richmond Mutual Bancorporation, Inc.",
+   "ticker": "RMBI",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $0.15",
    "source_url": ""
   },
   {
@@ -9346,6 +9331,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $2.52",
+   "source_url": ""
+  },
+  {
+   "company": "AMH",
+   "ticker": "AMH",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.39063,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.39063",
    "source_url": ""
   },
   {
@@ -12034,21 +12034,6 @@
    "source_url": ""
   },
   {
-   "company": "The Andersons, Inc.",
-   "ticker": "ANDE",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-20",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-22 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Brandywine Realty Trust",
    "ticker": "BDN",
    "exchange": "NYSE",
@@ -12106,6 +12091,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-22 $0.6",
+   "source_url": ""
+  },
+  {
+   "company": "The Andersons, Inc.",
+   "ticker": "ANDE",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-22 $0.2",
    "source_url": ""
   },
   {
@@ -14101,21 +14101,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-18 $0.17",
-   "source_url": ""
-  },
-  {
-   "company": "The Home Depot, Inc.",
-   "ticker": "HD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 2.33,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-19 $2.33",
    "source_url": ""
   },
   {
@@ -17820,7 +17805,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-17 $0.14",
+   "basis": "last confirmed 2026-09-16 $0.14",
    "source_url": ""
   },
   {
@@ -17899,6 +17884,21 @@
    "source_url": ""
   },
   {
+   "company": "The Home Depot",
+   "ticker": "HD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.33,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $2.33",
+   "source_url": ""
+  },
+  {
    "company": "iShares Core S&P 500 ETF",
    "ticker": "IVV",
    "exchange": "NYSE ARCA",
@@ -17941,6 +17941,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-17 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "Richmond Mutual Bancorporation, Inc.",
+   "ticker": "RMBI",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $0.15",
    "source_url": ""
   },
   {
@@ -19351,6 +19366,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $2.52",
+   "source_url": ""
+  },
+  {
+   "company": "AMH",
+   "ticker": "AMH",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.39063,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.39063",
    "source_url": ""
   },
   {
@@ -22009,21 +22039,6 @@
    "source_url": ""
   },
   {
-   "company": "The Andersons, Inc.",
-   "ticker": "ANDE",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-21",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-22 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Brandywine Realty Trust",
    "ticker": "BDN",
    "exchange": "NYSE",
@@ -22111,6 +22126,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.91",
+   "source_url": ""
+  },
+  {
+   "company": "The Andersons, Inc.",
+   "ticker": "ANDE",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-22 $0.2",
    "source_url": ""
   },
   {
@@ -24106,21 +24136,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-18 $0.17",
-   "source_url": ""
-  },
-  {
-   "company": "The Home Depot, Inc.",
-   "ticker": "HD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 2.33,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-18",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-19 $2.33",
    "source_url": ""
   },
   {
@@ -27855,7 +27870,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-17 $0.14",
+   "basis": "last confirmed 2026-09-16 $0.14",
    "source_url": ""
   },
   {
@@ -27919,6 +27934,21 @@
    "source_url": ""
   },
   {
+   "company": "The Home Depot",
+   "ticker": "HD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.33,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $2.33",
+   "source_url": ""
+  },
+  {
    "company": "iShares Core S&P 500 ETF",
    "ticker": "IVV",
    "exchange": "NYSE ARCA",
@@ -27961,6 +27991,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-17 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "Richmond Mutual Bancorporation, Inc.",
+   "ticker": "RMBI",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $0.15",
    "source_url": ""
   },
   {
@@ -29416,6 +29461,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $2.52",
+   "source_url": ""
+  },
+  {
+   "company": "AMH",
+   "ticker": "AMH",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.39063,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.39063",
    "source_url": ""
   },
   {
@@ -32119,21 +32179,6 @@
    "source_url": ""
   },
   {
-   "company": "The Andersons, Inc.",
-   "ticker": "ANDE",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-21",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-22 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Brandywine Realty Trust",
    "ticker": "BDN",
    "exchange": "NYSE",
@@ -32191,6 +32236,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-22 $0.6",
+   "source_url": ""
+  },
+  {
+   "company": "The Andersons, Inc.",
+   "ticker": "ANDE",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-22 $0.2",
    "source_url": ""
   },
   {
@@ -34186,21 +34246,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-18 $0.17",
-   "source_url": ""
-  },
-  {
-   "company": "The Home Depot, Inc.",
-   "ticker": "HD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 2.33,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-19 $2.33",
    "source_url": ""
   },
   {
