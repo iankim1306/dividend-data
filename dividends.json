@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-20 21:18",
+ "updatedAt": "2026-08-21 00:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -34807,6 +34807,21 @@
    "collected_at": "2026-08-15 09:37"
   },
   {
+   "company": "Lake Ridge Bancorp, Inc.",
+   "exchange": "OTCQX",
+   "ticker": "LRBI",
+   "security": "common",
+   "amount_per_share": 0.63,
+   "currency": "USD",
+   "record_date": "2026-08-19",
+   "payable_date": "2026-09-16",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/lake-ridge-bancorp-inc-declares-third-quarter-2026-dividend-of-0-63-per-share-302856567.html",
+   "collected_at": "2026-08-21 00:18"
+  },
+  {
    "company": "McDonald's Corp",
    "exchange": "NYSE",
    "ticker": "MCD",
@@ -38302,6 +38317,21 @@
    "collected_at": "2026-08-20 09:18"
   },
   {
+   "company": "Bank7 Corp.",
+   "exchange": "NASDAQ",
+   "ticker": "BSVN",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "2026-09-18",
+   "payable_date": "2026-10-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bank7-corp-announces-an-11-11-quarterly-dividend-increase-its-seventh-consecutive-annual-dividend-increase-302853888.html",
+   "collected_at": "2026-08-21 00:18"
+  },
+  {
    "company": "Edgewell Personal Care Company",
    "exchange": "NYSE",
    "ticker": "EPC",
@@ -40310,5 +40340,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2708
+ "count": 2710
 }

@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-20 21:18",
+ "updatedAt": "2026-08-21 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2305,
+ "count": 2306,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -34576,6 +34576,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-21 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "Healthpeak Properties, Inc.",
+   "ticker": "DOC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.10167,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-21",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-25 $0.10167",
    "source_url": ""
   }
  ]
