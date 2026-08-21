@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-21 06:19",
+ "updatedAt": "2026-08-21 09:34",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2308,
+ "count": 2316,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -1024,21 +1024,6 @@
    "source_url": ""
   },
   {
-   "company": "Popular, Inc.",
-   "ticker": "BPOP",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.75",
-   "source_url": ""
-  },
-  {
    "company": "Central Pacific Financial Corp.",
    "ticker": "CPF",
    "exchange": "NYSE",
@@ -1471,21 +1456,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-08 $0.29",
-   "source_url": ""
-  },
-  {
-   "company": "G-III Apparel Group, Ltd.",
-   "ticker": "GIII",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-07",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-08 $0.1",
    "source_url": ""
   },
   {
@@ -2506,36 +2476,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-23 $0.44",
-   "source_url": ""
-  },
-  {
-   "company": "Advance Auto Parts, Inc.",
-   "ticker": "AAP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "Carter's, Inc.",
-   "ticker": "CRI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.25",
    "source_url": ""
   },
   {
@@ -6274,6 +6214,21 @@
    "source_url": ""
   },
   {
+   "company": "LSI Industries Inc.",
+   "ticker": "LYTS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-08 $0.05",
+   "source_url": ""
+  },
+  {
    "company": "Company",
    "ticker": "MDV",
    "exchange": "NYSE",
@@ -7939,6 +7894,21 @@
    "source_url": ""
   },
   {
+   "company": "Unity Bancorp, Inc.",
+   "ticker": "UNTY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $0.17",
+   "source_url": ""
+  },
+  {
    "company": "Western Digital Corporation",
    "ticker": "WDC",
    "exchange": "Nasdaq",
@@ -8494,6 +8464,21 @@
    "source_url": ""
   },
   {
+   "company": "Carter’s, Inc.",
+   "ticker": "CRI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-25 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Covenant Logistics Group, Inc.",
    "ticker": "CVLG",
    "exchange": "NYSE",
@@ -8686,6 +8671,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-26 $0.0881",
+   "source_url": ""
+  },
+  {
+   "company": "APPLIED MATERIALS INC",
+   "ticker": "AMAT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.53,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-26 $0.53",
    "source_url": ""
   },
   {
@@ -8911,6 +8911,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "G-III Apparel Group, Ltd.",
+   "ticker": "GIII",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.1",
    "source_url": ""
   },
   {
@@ -9361,21 +9376,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.42",
-   "source_url": ""
-  },
-  {
-   "company": "Popular, Inc.",
-   "ticker": "BPOP",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.75",
    "source_url": ""
   },
   {
@@ -9949,6 +9949,36 @@
    "source_url": ""
   },
   {
+   "company": "Popular, Inc.",
+   "ticker": "BPOP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.9,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.9",
+   "source_url": ""
+  },
+  {
+   "company": "Pathward Financial, Inc.",
+   "ticker": "CASH",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.05",
+   "source_url": ""
+  },
+  {
    "company": "C&F Financial Corporation",
    "ticker": "CFFI",
    "exchange": "Nasdaq",
@@ -10486,21 +10516,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-08 $0.29",
-   "source_url": ""
-  },
-  {
-   "company": "G-III Apparel Group, Ltd.",
-   "ticker": "GIII",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-06",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-08 $0.1",
    "source_url": ""
   },
   {
@@ -12195,7 +12210,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.25",
+   "basis": "last confirmed 2026-10-23 $0.25",
    "source_url": ""
   },
   {
@@ -12211,21 +12226,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.77",
-   "source_url": ""
-  },
-  {
-   "company": "Carter's, Inc.",
-   "ticker": "CRI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.25",
    "source_url": ""
   },
   {
@@ -16294,6 +16294,21 @@
    "source_url": ""
   },
   {
+   "company": "LSI Industries Inc.",
+   "ticker": "LYTS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-08 $0.05",
+   "source_url": ""
+  },
+  {
    "company": "Monro, Inc.",
    "ticker": "MNRO",
    "exchange": "Nasdaq",
@@ -17974,6 +17989,21 @@
    "source_url": ""
   },
   {
+   "company": "Unity Bancorp, Inc.",
+   "ticker": "UNTY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $0.17",
+   "source_url": ""
+  },
+  {
    "company": "Western Digital Corporation",
    "ticker": "WDC",
    "exchange": "Nasdaq",
@@ -18529,6 +18559,21 @@
    "source_url": ""
   },
   {
+   "company": "Carter’s, Inc.",
+   "ticker": "CRI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-25 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Covenant Logistics Group, Inc.",
    "ticker": "CVLG",
    "exchange": "NYSE",
@@ -18721,6 +18766,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-26 $0.0881",
+   "source_url": ""
+  },
+  {
+   "company": "APPLIED MATERIALS INC",
+   "ticker": "AMAT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.53,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-26 $0.53",
    "source_url": ""
   },
   {
@@ -18991,6 +19051,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.28",
+   "source_url": ""
+  },
+  {
+   "company": "G-III Apparel Group, Ltd.",
+   "ticker": "GIII",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.1",
    "source_url": ""
   },
   {
@@ -19396,21 +19471,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.42",
-   "source_url": ""
-  },
-  {
-   "company": "Popular, Inc.",
-   "ticker": "BPOP",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.75",
    "source_url": ""
   },
   {
@@ -19984,6 +20044,36 @@
    "source_url": ""
   },
   {
+   "company": "Popular, Inc.",
+   "ticker": "BPOP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.9,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.9",
+   "source_url": ""
+  },
+  {
+   "company": "Pathward Financial, Inc.",
+   "ticker": "CASH",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.05",
+   "source_url": ""
+  },
+  {
    "company": "C&F Financial Corporation",
    "ticker": "CFFI",
    "exchange": "Nasdaq",
@@ -20491,21 +20581,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-08 $0.29",
-   "source_url": ""
-  },
-  {
-   "company": "G-III Apparel Group, Ltd.",
-   "ticker": "GIII",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-07",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-08 $0.1",
    "source_url": ""
   },
   {
@@ -22215,7 +22290,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.25",
+   "basis": "last confirmed 2026-10-23 $0.25",
    "source_url": ""
   },
   {
@@ -22231,21 +22306,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.77",
-   "source_url": ""
-  },
-  {
-   "company": "Carter's, Inc.",
-   "ticker": "CRI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.25",
    "source_url": ""
   },
   {
@@ -26329,6 +26389,21 @@
    "source_url": ""
   },
   {
+   "company": "LSI Industries Inc.",
+   "ticker": "LYTS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-08 $0.05",
+   "source_url": ""
+  },
+  {
    "company": "Monro, Inc.",
    "ticker": "MNRO",
    "exchange": "Nasdaq",
@@ -28024,6 +28099,21 @@
    "source_url": ""
   },
   {
+   "company": "Unity Bancorp, Inc.",
+   "ticker": "UNTY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $0.17",
+   "source_url": ""
+  },
+  {
    "company": "Western Digital Corporation",
    "ticker": "WDC",
    "exchange": "Nasdaq",
@@ -28579,6 +28669,21 @@
    "source_url": ""
   },
   {
+   "company": "Carter’s, Inc.",
+   "ticker": "CRI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-25 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Covenant Logistics Group, Inc.",
    "ticker": "CVLG",
    "exchange": "NYSE",
@@ -28771,6 +28876,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-26 $0.0881",
+   "source_url": ""
+  },
+  {
+   "company": "APPLIED MATERIALS INC",
+   "ticker": "AMAT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.53,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-26 $0.53",
    "source_url": ""
   },
   {
@@ -29071,6 +29191,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "G-III Apparel Group, Ltd.",
+   "ticker": "GIII",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.1",
    "source_url": ""
   },
   {
@@ -29491,21 +29626,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.42",
-   "source_url": ""
-  },
-  {
-   "company": "Popular, Inc.",
-   "ticker": "BPOP",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.75",
    "source_url": ""
   },
   {
@@ -30079,6 +30199,36 @@
    "source_url": ""
   },
   {
+   "company": "Popular, Inc.",
+   "ticker": "BPOP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.9,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.9",
+   "source_url": ""
+  },
+  {
+   "company": "Pathward Financial, Inc.",
+   "ticker": "CASH",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.05",
+   "source_url": ""
+  },
+  {
    "company": "C&F Financial Corporation",
    "ticker": "CFFI",
    "exchange": "Nasdaq",
@@ -30616,21 +30766,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-08 $0.29",
-   "source_url": ""
-  },
-  {
-   "company": "G-III Apparel Group, Ltd.",
-   "ticker": "GIII",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-07",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-08 $0.1",
    "source_url": ""
   },
   {
@@ -32340,7 +32475,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.25",
+   "basis": "last confirmed 2026-10-23 $0.25",
    "source_url": ""
   },
   {
@@ -32356,21 +32491,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.77",
-   "source_url": ""
-  },
-  {
-   "company": "Carter's, Inc.",
-   "ticker": "CRI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.25",
    "source_url": ""
   },
   {

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-21 06:19",
+ "updatedAt": "2026-08-21 09:34 KST",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -3807,6 +3807,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050915/000105091526000025/pwr-20260630.htm",
    "collected_at": "2026-08-13 14:40"
+  },
+  {
+   "company": "Advance Auto Parts, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AAP",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-07-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000119312526359176/aap-20260718.htm",
+   "collected_at": "2026-08-21 09:25"
   },
   {
    "company": "BAB, INC.",
@@ -23824,6 +23839,36 @@
    "collected_at": "2026-08-14 09:37"
   },
   {
+   "company": "Advance Auto Parts, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AAP",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-07-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000119312526359176/aap-20260718.htm",
+   "collected_at": "2026-08-21 09:25"
+  },
+  {
+   "company": "Advance Auto Parts, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AAP",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-07-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000119312526359176/aap-20260718.htm",
+   "collected_at": "2026-08-21 09:25"
+  },
+  {
    "company": "CRH",
    "exchange": "NYSE",
    "ticker": "CRH",
@@ -32328,6 +32373,21 @@
    "collected_at": "2026-08-18 15:30"
   },
   {
+   "company": "LSI Industries Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "LYTS",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/763532/000143774926028592/ex_1007085.htm",
+   "collected_at": "2026-08-21 09:18"
+  },
+  {
    "company": "Monro, Inc.",
    "exchange": "Nasdaq",
    "ticker": "MNRO",
@@ -35060,6 +35120,21 @@
    "collected_at": "2026-08-07 00:16"
   },
   {
+   "company": "Unity Bancorp, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "UNTY",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-09-03",
+   "payable_date": "2026-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/920427/000119312526359162/unty-ex99_1.htm",
+   "collected_at": "2026-08-21 09:22"
+  },
+  {
    "company": "Western Digital Corporation",
    "exchange": "Nasdaq",
    "ticker": "WDC",
@@ -35563,6 +35638,21 @@
    "collected_at": "2026-08-06 23:59"
   },
   {
+   "company": "The Bank of New York Mellon Corporation",
+   "exchange": "NYSE",
+   "ticker": "BNY",
+   "security": "preferred",
+   "amount_per_share": 1000,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-09-21",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312526358252/d417322dex991.htm",
+   "collected_at": "2026-08-21 09:26"
+  },
+  {
    "company": "Manulife Financial Corporation",
    "exchange": "TSX/NYSE/PSE",
    "ticker": "MFC",
@@ -35965,6 +36055,21 @@
    "collected_at": "2026-08-06 23:58"
   },
   {
+   "company": "Carter’s, Inc.",
+   "exchange": "NYSE",
+   "ticker": "CRI",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-09-01",
+   "payable_date": "2026-09-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060822/000106082226000119/cri-ex9912026q3dividendpre.htm",
+   "collected_at": "2026-08-21 09:24"
+  },
+  {
    "company": "Covenant Logistics Group, Inc.",
    "exchange": "NYSE",
    "ticker": "CVLG",
@@ -36200,6 +36305,21 @@
    "collected_at": "2026-08-13 11:19"
   },
   {
+   "company": "APPLIED MATERIALS INC",
+   "exchange": "Nasdaq",
+   "ticker": "AMAT",
+   "security": "common",
+   "amount_per_share": 0.53,
+   "currency": "USD",
+   "record_date": "2026-07-26",
+   "payable_date": "2026-09-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026058235/amat-20260726.htm",
+   "collected_at": "2026-08-21 09:28"
+  },
+  {
    "company": "INVESCO MORTGAGE CAPITAL INC.",
    "exchange": "NYSE",
    "ticker": "IVR",
@@ -36302,6 +36422,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1476765/000147676526000048/gbdc-20260630.htm",
    "collected_at": "2026-08-14 09:33"
+  },
+  {
+   "company": "G-III Apparel Group, Ltd.",
+   "exchange": "Nasdaq",
+   "ticker": "GIII",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/821002/000110465926098992/giii-20260818xex99d1.htm",
+   "collected_at": "2026-08-21 09:18"
   },
   {
    "company": "Gilead Sciences, Inc.",
@@ -37722,6 +37857,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/10456/000162828026050795/bax-20260729.htm",
    "collected_at": "2026-08-07 00:33"
+  },
+  {
+   "company": "Popular, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "BPOP",
+   "security": "common",
+   "amount_per_share": 0.9,
+   "currency": "USD",
+   "record_date": "2026-09-10",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/763901/000119312526358984/d184051dex991.htm",
+   "collected_at": "2026-08-21 09:20"
+  },
+  {
+   "company": "Pathward Financial, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "CASH",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "2026-09-10",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/907471/000090747126000037/ex991dividendpressrelease8.htm",
+   "collected_at": "2026-08-21 09:19"
   },
   {
    "company": "C&F Financial Corporation",
@@ -39764,6 +39929,21 @@
    "collected_at": "2026-08-13 11:31"
   },
   {
+   "company": "Advance Auto Parts, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AAP",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-10-09",
+   "payable_date": "2026-10-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000119312526357755/aap-ex99_1.htm",
+   "collected_at": "2026-08-21 09:25"
+  },
+  {
    "company": "Bitmine Immersion Technologies, Inc.",
    "exchange": "NYSE",
    "ticker": "BMNP",
@@ -40550,5 +40730,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2724
+ "count": 2736
 }
