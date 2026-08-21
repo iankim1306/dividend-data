@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-21 18:18",
+ "updatedAt": "2026-08-21 21:19",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2316,
+ "count": 2315,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -1156,21 +1156,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-01 $0.475",
-   "source_url": ""
-  },
-  {
-   "company": "PPL",
-   "ticker": "PPL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.285,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.285",
    "source_url": ""
   },
   {
@@ -9724,21 +9709,6 @@
    "source_url": ""
   },
   {
-   "company": "PPL",
-   "ticker": "PPL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.285,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.285",
-   "source_url": ""
-  },
-  {
    "company": "Permian Resources Corporation",
    "ticker": "PR",
    "exchange": "NYSE",
@@ -10141,6 +10111,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-02 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "PPL Corporation",
+   "ticker": "PPL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.285,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.285",
    "source_url": ""
   },
   {
@@ -19834,21 +19819,6 @@
    "source_url": ""
   },
   {
-   "company": "PPL",
-   "ticker": "PPL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.285,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.285",
-   "source_url": ""
-  },
-  {
    "company": "Permian Resources Corporation",
    "ticker": "PR",
    "exchange": "NYSE",
@@ -20236,6 +20206,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-02 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "PPL Corporation",
+   "ticker": "PPL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.285,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.285",
    "source_url": ""
   },
   {
@@ -29989,21 +29974,6 @@
    "source_url": ""
   },
   {
-   "company": "PPL",
-   "ticker": "PPL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.285,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.285",
-   "source_url": ""
-  },
-  {
    "company": "Permian Resources Corporation",
    "ticker": "PR",
    "exchange": "NYSE",
@@ -30421,6 +30391,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-02 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "PPL Corporation",
+   "ticker": "PPL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.285,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.285",
    "source_url": ""
   },
   {

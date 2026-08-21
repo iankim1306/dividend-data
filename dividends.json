@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-21 18:18",
+ "updatedAt": "2026-08-21 21:19",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -33690,6 +33690,21 @@
    "collected_at": "2026-08-13 11:11"
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "exchange": "NYSE",
+   "ticker": "CRT",
+   "security": "common",
+   "amount_per_share": 0.067892,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-15",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cross-timbers-royalty-trust-declares-august-cash-distribution-302853911.html",
+   "collected_at": "2026-08-21 21:18"
+  },
+  {
    "company": "CSP Inc.",
    "exchange": "Nasdaq",
    "ticker": "CSPI",
@@ -34423,6 +34438,21 @@
    "collected_at": "2026-08-13 10:38"
   },
   {
+   "company": "Permian Basin Royalty Trust",
+   "exchange": "NYSE",
+   "ticker": "PBT",
+   "security": "common",
+   "amount_per_share": 0.018701,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-15",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/permian-basin-royalty-trust-announces-august-cash-distribution-and-excess-cost-position-on-waddell-ranch-properties-302856966.html",
+   "collected_at": "2026-08-21 21:18"
+  },
+  {
    "company": "PEOPLES FINANCIAL SERVICES CORP.",
    "exchange": "Nasdaq",
    "ticker": "PFIS",
@@ -34436,6 +34466,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1056943/000110465926092684/pfis-20260630x10q.htm",
    "collected_at": "2026-08-13 14:42"
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "exchange": "NYSE",
+   "ticker": "PRT",
+   "security": "common",
+   "amount_per_share": 0.021782,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/permrock-royalty-trust-declares-monthly-cash-distribution-302856913.html",
+   "collected_at": "2026-08-21 21:19"
   },
   {
    "company": "Patterson-UTI Energy, Inc.",
@@ -36365,6 +36410,21 @@
    "collected_at": "2026-08-13 12:42"
   },
   {
+   "company": "Marine Petroleum Trust",
+   "exchange": "NASDAQ",
+   "ticker": "MARPS",
+   "security": "common",
+   "amount_per_share": 0.095378,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/marine-petroleum-trust-announces-third-quarter-cash-distribution-302850584.html",
+   "collected_at": "2026-08-21 21:18"
+  },
+  {
    "company": "Fidus Investment Corporation",
    "exchange": "NASDAQ",
    "ticker": "FDUS",
@@ -38230,6 +38290,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/73124/000007312426000051/ex991pressreleaseofnorther.htm",
    "collected_at": "2026-08-13 11:01"
+  },
+  {
+   "company": "PPL Corporation",
+   "exchange": "NYSE",
+   "ticker": "PPL",
+   "security": "common",
+   "amount_per_share": 0.285,
+   "currency": "USD",
+   "record_date": "2026-09-10",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ppl-to-pay-quarterly-stock-dividend-oct-1-2026-302857284.html",
+   "collected_at": "2026-08-21 21:18"
   },
   {
    "company": "Regions Financial Corporation",
@@ -40730,5 +40805,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2736
+ "count": 2741
 }
