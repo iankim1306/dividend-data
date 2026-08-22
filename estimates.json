@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-22 06:18",
+ "updatedAt": "2026-08-22 09:33",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2315,
+ "count": 2314,
  "items": [
   {
    "company": "Amplify CWP Enhanced Dividend Income ETF",
@@ -3166,21 +3166,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-05 $0.29",
-   "source_url": ""
-  },
-  {
-   "company": "TriCo Bancshares",
-   "ticker": "TCBK",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-04",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36",
    "source_url": ""
   },
   {
@@ -8584,6 +8569,21 @@
    "source_url": ""
   },
   {
+   "company": "TriCo Bancshares",
+   "ticker": "TCBK",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-25 $0.36",
+   "source_url": ""
+  },
+  {
    "company": "Vanguard Real Estate ETF",
    "ticker": "VNQ",
    "exchange": "NYSE ARCA",
@@ -13066,21 +13066,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-05 $0.29",
-   "source_url": ""
-  },
-  {
-   "company": "TriCo Bancshares",
-   "ticker": "TCBK",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-03",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36",
    "source_url": ""
   },
   {
@@ -18679,6 +18664,21 @@
    "source_url": ""
   },
   {
+   "company": "TriCo Bancshares",
+   "ticker": "TCBK",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-25 $0.36",
+   "source_url": ""
+  },
+  {
    "company": "Vanguard Real Estate ETF",
    "ticker": "VNQ",
    "exchange": "NYSE ARCA",
@@ -23161,21 +23161,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-05 $0.29",
-   "source_url": ""
-  },
-  {
-   "company": "TriCo Bancshares",
-   "ticker": "TCBK",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-05",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36",
    "source_url": ""
   },
   {
@@ -28789,6 +28774,21 @@
    "source_url": ""
   },
   {
+   "company": "TriCo Bancshares",
+   "ticker": "TCBK",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-25 $0.36",
+   "source_url": ""
+  },
+  {
    "company": "Vanguard Real Estate ETF",
    "ticker": "VNQ",
    "exchange": "NYSE ARCA",
@@ -33316,21 +33316,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-05 $0.29",
-   "source_url": ""
-  },
-  {
-   "company": "TriCo Bancshares",
-   "ticker": "TCBK",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-04",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36",
    "source_url": ""
   },
   {
