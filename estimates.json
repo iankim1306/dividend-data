@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-23 21:18",
+ "updatedAt": "2026-08-24 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2321,
+ "count": 2325,
  "items": [
   {
    "company": "Amplify CWP Enhanced Dividend Income ETF",
@@ -34816,6 +34816,66 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-24 $2.25",
+   "source_url": ""
+  },
+  {
+   "company": "Arrow Financial Corporation",
+   "ticker": "AROW",
+   "exchange": "NasdaqGS",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-25 $0.3",
+   "source_url": ""
+  },
+  {
+   "company": "Cognizant Technology Solutions",
+   "ticker": "CTSH",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.33,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-25 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "Fastenal Company",
+   "ticker": "FAST",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-25 $0.26",
+   "source_url": ""
+  },
+  {
+   "company": "Howmet Aerospace",
+   "ticker": "HWM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-25 $0.14",
    "source_url": ""
   }
  ]
