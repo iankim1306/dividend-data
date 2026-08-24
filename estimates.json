@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-25 03:18",
+ "updatedAt": "2026-08-25 06:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2335,
+ "count": 2338,
  "items": [
   {
    "company": "Amplify CWP Enhanced Dividend Income ETF",
@@ -8056,6 +8056,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-23 $0.4088",
+   "source_url": ""
+  },
+  {
+   "company": "SM Energy Company",
+   "ticker": "SM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-21 $0.22",
    "source_url": ""
   },
   {
@@ -18184,6 +18199,21 @@
    "source_url": ""
   },
   {
+   "company": "SM Energy Company",
+   "ticker": "SM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-21 $0.22",
+   "source_url": ""
+  },
+  {
    "company": "Tapestry, Inc.",
    "ticker": "TPR",
    "exchange": "NYSE",
@@ -28306,6 +28336,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-23 $0.0475",
+   "source_url": ""
+  },
+  {
+   "company": "SM Energy Company",
+   "ticker": "SM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-21 $0.22",
    "source_url": ""
   },
   {
