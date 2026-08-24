@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-24 21:18",
+ "updatedAt": "2026-08-25 00:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -35907,6 +35907,21 @@
    "collected_at": "2026-08-13 11:31"
   },
   {
+   "company": "Jack Henry & Associates, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "JKHY",
+   "security": "common",
+   "amount_per_share": 0.61,
+   "currency": "USD",
+   "record_date": "2026-09-07",
+   "payable_date": "2026-09-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/jack-henry-announces-regular-quarterly-dividend-302857573.html",
+   "collected_at": "2026-08-25 00:18"
+  },
+  {
    "company": "KOHL'S CORPORATION",
    "exchange": "New York Stock Exchange",
    "ticker": "KSS",
@@ -40955,5 +40970,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2751
+ "count": 2752
 }
