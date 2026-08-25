@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-25 06:18",
+ "updatedAt": "2026-08-25 09:30",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2338,
+ "count": 2341,
  "items": [
   {
    "company": "Amplify CWP Enhanced Dividend Income ETF",
@@ -10264,6 +10264,21 @@
    "source_url": ""
   },
   {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "ticker": "NSSC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-02 $0.17",
+   "source_url": ""
+  },
+  {
    "company": "Restaurant Brands International Inc.",
    "ticker": "RBI",
    "exchange": "NYSE",
@@ -20386,6 +20401,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-05 $0.70497",
+   "source_url": ""
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "ticker": "NSSC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-02 $0.17",
    "source_url": ""
   },
   {
@@ -30601,6 +30631,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-02 $0.864",
+   "source_url": ""
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "ticker": "NSSC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-02 $0.17",
    "source_url": ""
   },
   {

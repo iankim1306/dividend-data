@@ -1,7 +1,67 @@
 {
- "updatedAt": "2026-08-25 06:18",
+ "updatedAt": "2026-08-25 09:30",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "exchange": "Nasdaq",
+   "ticker": "NSSC",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "2023-09-01",
+   "payable_date": "2023-09-22",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
+   "collected_at": "2026-08-25 09:28"
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "exchange": "Nasdaq",
+   "ticker": "NSSC",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "2023-12-01",
+   "payable_date": "2023-12-22",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
+   "collected_at": "2026-08-25 09:28"
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "exchange": "Nasdaq",
+   "ticker": "NSSC",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2024-03-01",
+   "payable_date": "2024-03-22",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
+   "collected_at": "2026-08-25 09:28"
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "exchange": "Nasdaq",
+   "ticker": "NSSC",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2024-06-03",
+   "payable_date": "2024-06-24",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
+   "collected_at": "2026-08-25 09:28"
+  },
   {
    "company": "SANFILIPPO JOHN B & SON INC",
    "exchange": "Nasdaq",
@@ -165,6 +225,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126030982/ef20079106_ex99-2.htm",
    "collected_at": "2026-08-13 11:04"
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "exchange": "Nasdaq",
+   "ticker": "NSSC",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "2024-09-12",
+   "payable_date": "2024-10-03",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
+   "collected_at": "2026-08-25 09:28"
   },
   {
    "company": "Medical Properties Trust, Inc.",
@@ -554,6 +629,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126030982/ef20079106_ex99-2.htm",
    "collected_at": "2026-08-13 11:04"
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "exchange": "Nasdaq",
+   "ticker": "NSSC",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "2024-12-12",
+   "payable_date": "2025-01-03",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
+   "collected_at": "2026-08-25 09:28"
   },
   {
    "company": "Omega Flex, Inc.",
@@ -1783,6 +1873,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126030982/ef20079106_ex99-2.htm",
    "collected_at": "2026-08-13 11:04"
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "exchange": "Nasdaq",
+   "ticker": "NSSC",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "2025-03-12",
+   "payable_date": "2025-04-03",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
+   "collected_at": "2026-08-25 09:28"
   },
   {
    "company": "IRON MOUNTAIN INCORPORATED",
@@ -3719,6 +3824,21 @@
    "collected_at": "2026-08-13 14:28"
   },
   {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "exchange": "Nasdaq",
+   "ticker": "NSSC",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "2025-06-12",
+   "payable_date": "2025-07-03",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
+   "collected_at": "2026-08-25 09:28"
+  },
+  {
    "company": "UPBOUND GROUP, INC.",
    "exchange": "Nasdaq",
    "ticker": "UPBD",
@@ -5111,6 +5231,21 @@
    "wire": "AGG:stockanalysis",
    "source_url": "https://stockanalysis.com/etf/jepq/dividend/",
    "collected_at": "2026-08-18T15:26:32+09:00"
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "exchange": "Nasdaq",
+   "ticker": "NSSC",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "2025-09-12",
+   "payable_date": "2025-10-03",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
+   "collected_at": "2026-08-25 09:28"
   },
   {
    "company": "Aramark",
@@ -6521,6 +6656,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000017/cb-20260630.htm",
    "collected_at": "2026-08-13 12:37"
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "exchange": "Nasdaq",
+   "ticker": "NSSC",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "2025-12-12",
+   "payable_date": "2026-01-02",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
+   "collected_at": "2026-08-25 09:28"
   },
   {
    "company": "Aramark",
@@ -10762,6 +10912,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1020569/000102056926000039/irm-20260331.htm",
    "collected_at": "2026-08-13 14:28"
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "exchange": "Nasdaq",
+   "ticker": "NSSC",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-03-12",
+   "payable_date": "2026-04-03",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
+   "collected_at": "2026-08-25 09:28"
   },
   {
    "company": "CARTER’S, INC.",
@@ -38740,6 +38905,21 @@
    "collected_at": "2026-08-13 14:28"
   },
   {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+   "exchange": "Nasdaq",
+   "ticker": "NSSC",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-10-02",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
+   "collected_at": "2026-08-25 09:28"
+  },
+  {
    "company": "Restaurant Brands International Inc.",
    "exchange": "NYSE",
    "ticker": "RBI",
@@ -41015,5 +41195,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2755
+ "count": 2767
 }
