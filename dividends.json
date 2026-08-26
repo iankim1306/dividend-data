@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-26 06:18",
+ "updatedAt": "2026-08-26 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -25803,6 +25803,21 @@
    "collected_at": "2026-08-13 12:27"
   },
   {
+   "company": "The Marzetti Company",
+   "exchange": "Nasdaq",
+   "ticker": "MZTI",
+   "security": "common",
+   "amount_per_share": 3.95,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/57515/000005751526000019/mzti-20260630.htm",
+   "collected_at": "2026-08-26 09:28"
+  },
+  {
    "company": "Norwood Financial Corp",
    "exchange": "The Nasdaq Stock Market LLC",
    "ticker": "NWFL",
@@ -36058,6 +36073,21 @@
    "collected_at": "2026-08-06 23:58"
   },
   {
+   "company": "Texas Community Bancshares, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "TCBS",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "2026-09-08",
+   "payable_date": "2026-09-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/texas-community-bancshares-inc-announces-quarterly-cash-dividend-302859853.html",
+   "collected_at": "2026-08-26 09:18"
+  },
+  {
    "company": "Janus Living, Inc.",
    "exchange": "NYSE",
    "ticker": "JAN",
@@ -41210,5 +41240,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2768
+ "count": 2770
 }
