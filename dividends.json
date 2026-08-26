@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-27 00:18",
+ "updatedAt": "2026-08-27 03:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -40691,6 +40691,21 @@
    "collected_at": "2026-08-13 11:07"
   },
   {
+   "company": "Deere & Company",
+   "exchange": "NYSE",
+   "ticker": "DE",
+   "security": "common",
+   "amount_per_share": 1.62,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-11-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/deere--company-announces-quarterly-dividend-302860791.html",
+   "collected_at": "2026-08-27 03:18"
+  },
+  {
    "company": "MSC Income Fund, Inc.",
    "exchange": "NYSE",
    "ticker": "MSIF",
@@ -41300,5 +41315,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2774
+ "count": 2775
 }
