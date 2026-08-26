@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-26 21:18",
+ "updatedAt": "2026-08-27 00:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -29842,6 +29842,21 @@
    "collected_at": "2026-08-06 23:57"
   },
   {
+   "company": "Infrastructure Capital",
+   "exchange": "Nasdaq",
+   "ticker": "BNDS",
+   "security": "fund",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "2026-08-27",
+   "payable_date": "2026-08-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-a-dividend-for-the-infrastructure-capital-nasdaq-option-income-etf-qvol-302860722.html",
+   "collected_at": "2026-08-27 00:18"
+  },
+  {
    "company": "PRINCETON BANCORP, INC.",
    "exchange": "Nasdaq",
    "ticker": "BPRN",
@@ -29989,6 +30004,21 @@
    "collected_at": "2026-08-13 11:03"
   },
   {
+   "company": "Infrastructure Capital",
+   "exchange": "Nasdaq",
+   "ticker": "ICAP",
+   "security": "fund",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-08-27",
+   "payable_date": "2026-08-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-a-dividend-for-the-infrastructure-capital-nasdaq-option-income-etf-qvol-302860722.html",
+   "collected_at": "2026-08-27 00:18"
+  },
+  {
    "company": "Karat Packaging Inc.",
    "exchange": "Nasdaq",
    "ticker": "KRT",
@@ -30124,6 +30154,21 @@
    "collected_at": "2026-08-15 09:24"
   },
   {
+   "company": "Infrastructure Capital",
+   "exchange": "Nasdaq",
+   "ticker": "QVOL",
+   "security": "fund",
+   "amount_per_share": 1.04,
+   "currency": "USD",
+   "record_date": "2026-08-27",
+   "payable_date": "2026-08-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-a-dividend-for-the-infrastructure-capital-nasdaq-option-income-etf-qvol-302860722.html",
+   "collected_at": "2026-08-27 00:18"
+  },
+  {
    "company": "Sturm, Ruger & Company, Inc.",
    "exchange": "NYSE",
    "ticker": "RGR",
@@ -30181,6 +30226,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/sbux-20260628.htm",
    "collected_at": "2026-08-13 12:19"
+  },
+  {
+   "company": "Infrastructure Capital",
+   "exchange": "Nasdaq",
+   "ticker": "SCAP",
+   "security": "fund",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-08-27",
+   "payable_date": "2026-08-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-a-dividend-for-the-infrastructure-capital-nasdaq-option-income-etf-qvol-302860722.html",
+   "collected_at": "2026-08-27 00:18"
   },
   {
    "company": "Bio-Techne Corporation",
@@ -41240,5 +41300,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2770
+ "count": 2774
 }
