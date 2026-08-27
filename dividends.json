@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-27 06:18",
+ "updatedAt": "2026-08-27 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -4452,6 +4452,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1168455/000143774926015036/plbc20260331_10q.htm",
    "collected_at": "2026-08-13 14:59"
+  },
+  {
+   "company": "The J. M. Smucker Company",
+   "exchange": "NYSE",
+   "ticker": "SJM",
+   "security": "common",
+   "amount_per_share": 1.1,
+   "currency": "USD",
+   "record_date": "2025-07-31",
+   "payable_date": "2025-08-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000080/sjm-20260731.htm",
+   "collected_at": "2026-08-27 09:29"
   },
   {
    "company": "Unitil Corporation",
@@ -28046,6 +28061,21 @@
    "collected_at": "2026-08-07 00:16"
   },
   {
+   "company": "The J. M. Smucker Company",
+   "exchange": "NYSE",
+   "ticker": "SJM",
+   "security": "common",
+   "amount_per_share": 1.12,
+   "currency": "USD",
+   "record_date": "2026-07-31",
+   "payable_date": "2026-08-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000080/sjm-20260731.htm",
+   "collected_at": "2026-08-27 09:29"
+  },
+  {
    "company": "West Bancorporation, Inc.",
    "exchange": "Nasdaq",
    "ticker": "WTBA",
@@ -33574,6 +33604,21 @@
    "collected_at": "2026-08-07 00:23"
   },
   {
+   "company": "ResCap Liquidating Trust",
+   "exchange": null,
+   "ticker": null,
+   "security": "other",
+   "amount_per_share": 0.0824,
+   "currency": "USD",
+   "record_date": "2026-09-08",
+   "payable_date": "2026-09-15",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/rescap-liquidating-trust-announces-final-distribution-to-unitholders-302861016.html",
+   "collected_at": "2026-08-27 09:18"
+  },
+  {
    "company": "Analog Devices, Inc.",
    "exchange": "Nasdaq",
    "ticker": "ADI",
@@ -36146,6 +36191,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/lazard-global-total-return-and-income-fund-declares-monthly-distribution-and-issues-estimated-sources-of-the-distribution-announced-in-july-302857548.html",
    "collected_at": "2026-08-22 06:18"
+  },
+  {
+   "company": "Movado Group, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MOV",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-09-08",
+   "payable_date": "2026-09-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/72573/000095014226002427/eh260824240_ex9901.htm",
+   "collected_at": "2026-08-27 09:19"
   },
   {
    "company": "NLI Holdings, Inc.",
@@ -41360,5 +41420,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2778
+ "count": 2782
 }
