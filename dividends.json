@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-29 00:18",
+ "updatedAt": "2026-08-29 03:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -32275,6 +32275,21 @@
    "collected_at": "2026-08-06 23:59"
   },
   {
+   "company": "Systemair AB",
+   "exchange": "NASDAQ OMX Stockholm",
+   "ticker": "SYSR",
+   "security": "common",
+   "amount_per_share": 1.45,
+   "currency": "SEK",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-03",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/systemair-ab-correction-regarding-record-date-for-dividend-302862924.html",
+   "collected_at": "2026-08-29 03:18"
+  },
+  {
    "company": "Tutor Perini Corporation",
    "exchange": "NYSE",
    "ticker": "TPC",
@@ -41930,5 +41945,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2816
+ "count": 2817
 }
