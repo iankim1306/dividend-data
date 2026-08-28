@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-28 06:19",
+ "updatedAt": "2026-08-28 09:32",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2386,
+ "count": 2405,
  "items": [
   {
    "company": "Amplify CWP Enhanced Dividend Income ETF",
@@ -391,21 +391,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-18 $1.995653",
-   "source_url": ""
-  },
-  {
-   "company": "Red River Bancshares, Inc.",
-   "ticker": "RRBI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-18 $0.25",
    "source_url": ""
   },
   {
@@ -1171,6 +1156,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-02 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Salesforce, Inc.",
+   "ticker": "CRM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.44,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-02 $0.44",
    "source_url": ""
   },
   {
@@ -2386,21 +2386,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-23 $0.05",
-   "source_url": ""
-  },
-  {
-   "company": "Salesforce, Inc.",
-   "ticker": "CRM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.44,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-04-23 $0.44",
    "source_url": ""
   },
   {
@@ -4429,6 +4414,21 @@
    "source_url": ""
   },
   {
+   "company": "Hormel Foods Corporation",
+   "ticker": "HRL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2925,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-23 $0.2925",
+   "source_url": ""
+  },
+  {
    "company": "Janus Living, Inc.",
    "ticker": "JAN",
    "exchange": "NYSE",
@@ -4621,6 +4621,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-25 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Lowe's Companies, Inc.",
+   "ticker": "LOW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.45,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-25 $2.45",
    "source_url": ""
   },
   {
@@ -5476,6 +5491,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.6",
+   "source_url": ""
+  },
+  {
+   "company": "Helmerich & Payne, Inc.",
+   "ticker": "HP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-01 $0.25",
    "source_url": ""
   },
   {
@@ -7815,7 +7845,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-18 $0.25",
+   "basis": "last confirmed 2026-09-17 $0.25",
    "source_url": ""
   },
   {
@@ -8251,6 +8281,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-24 $0.54285",
+   "source_url": ""
+  },
+  {
+   "company": "TFS Financial Corporation",
+   "ticker": "TFSL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.3175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-23 $0.3175",
    "source_url": ""
   },
   {
@@ -9679,6 +9724,21 @@
    "source_url": ""
   },
   {
+   "company": "Quanex Building Products Corporation",
+   "ticker": "NX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "NexPoint Diversified Real Estate Trust",
    "ticker": "NXDT",
    "exchange": "NYSE",
@@ -9976,6 +10036,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.48",
+   "source_url": ""
+  },
+  {
+   "company": "Salesforce, Inc.",
+   "ticker": "CRM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.44,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-02 $0.44",
    "source_url": ""
   },
   {
@@ -12004,6 +12079,21 @@
    "source_url": ""
   },
   {
+   "company": "Dollar General Corporation",
+   "ticker": "DG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $0.59",
+   "source_url": ""
+  },
+  {
    "company": "MEDALIST DIVERSIFIED, INC.",
    "ticker": "MDRR",
    "exchange": "Nasdaq",
@@ -12166,21 +12256,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-23 $0.05",
-   "source_url": ""
-  },
-  {
-   "company": "Salesforce, Inc.",
-   "ticker": "CRM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.44,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-21",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-04-23 $0.44",
    "source_url": ""
   },
   {
@@ -14539,6 +14614,21 @@
    "source_url": ""
   },
   {
+   "company": "Hormel Foods Corporation",
+   "ticker": "HRL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2925,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-23 $0.2925",
+   "source_url": ""
+  },
+  {
    "company": "AMG",
    "ticker": "AMG",
    "exchange": "NYSE",
@@ -14716,6 +14806,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-25 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Lowe's Companies, Inc.",
+   "ticker": "LOW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.45,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-25 $2.45",
    "source_url": ""
   },
   {
@@ -15631,6 +15736,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.6",
+   "source_url": ""
+  },
+  {
+   "company": "Helmerich & Payne, Inc.",
+   "ticker": "HP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-01 $0.25",
    "source_url": ""
   },
   {
@@ -18015,7 +18135,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-18 $0.25",
+   "basis": "last confirmed 2026-09-17 $0.25",
    "source_url": ""
   },
   {
@@ -18466,6 +18586,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-24 $0.54285",
+   "source_url": ""
+  },
+  {
+   "company": "TFS Financial Corporation",
+   "ticker": "TFSL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.3175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-23 $0.3175",
    "source_url": ""
   },
   {
@@ -19894,6 +20029,21 @@
    "source_url": ""
   },
   {
+   "company": "Quanex Building Products Corporation",
+   "ticker": "NX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "NexPoint Diversified Real Estate Trust",
    "ticker": "NXDT",
    "exchange": "NYSE",
@@ -20176,6 +20326,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.48",
+   "source_url": ""
+  },
+  {
+   "company": "Salesforce, Inc.",
+   "ticker": "CRM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.44,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-02 $0.44",
    "source_url": ""
   },
   {
@@ -22219,6 +22384,21 @@
    "source_url": ""
   },
   {
+   "company": "Dollar General Corporation",
+   "ticker": "DG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $0.59",
+   "source_url": ""
+  },
+  {
    "company": "MEDALIST DIVERSIFIED, INC.",
    "ticker": "MDRR",
    "exchange": "Nasdaq",
@@ -22366,21 +22546,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-23 $0.05",
-   "source_url": ""
-  },
-  {
-   "company": "Salesforce, Inc.",
-   "ticker": "CRM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.44,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-04-23 $0.44",
    "source_url": ""
   },
   {
@@ -24754,6 +24919,21 @@
    "source_url": ""
   },
   {
+   "company": "Hormel Foods Corporation",
+   "ticker": "HRL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2925,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-23 $0.2925",
+   "source_url": ""
+  },
+  {
    "company": "AMG",
    "ticker": "AMG",
    "exchange": "NYSE",
@@ -24916,6 +25096,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-25 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Lowe's Companies, Inc.",
+   "ticker": "LOW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.45,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-25 $2.45",
    "source_url": ""
   },
   {
@@ -25816,6 +26011,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.6",
+   "source_url": ""
+  },
+  {
+   "company": "Helmerich & Payne, Inc.",
+   "ticker": "HP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-01 $0.25",
    "source_url": ""
   },
   {
@@ -28230,7 +28440,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-18 $0.25",
+   "basis": "last confirmed 2026-09-17 $0.25",
    "source_url": ""
   },
   {
@@ -28681,6 +28891,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-24 $0.54285",
+   "source_url": ""
+  },
+  {
+   "company": "TFS Financial Corporation",
+   "ticker": "TFSL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.3175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-23 $0.3175",
    "source_url": ""
   },
   {
@@ -30154,6 +30379,21 @@
    "source_url": ""
   },
   {
+   "company": "Quanex Building Products Corporation",
+   "ticker": "NX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "NexPoint Diversified Real Estate Trust",
    "ticker": "NXDT",
    "exchange": "NYSE",
@@ -30436,6 +30676,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.48",
+   "source_url": ""
+  },
+  {
+   "company": "Salesforce, Inc.",
+   "ticker": "CRM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.44,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-02 $0.44",
    "source_url": ""
   },
   {
@@ -32509,6 +32764,21 @@
    "source_url": ""
   },
   {
+   "company": "Dollar General Corporation",
+   "ticker": "DG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $0.59",
+   "source_url": ""
+  },
+  {
    "company": "Janus Living, Inc.",
    "ticker": "JAN",
    "exchange": "NYSE",
@@ -32641,21 +32911,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-23 $0.05",
-   "source_url": ""
-  },
-  {
-   "company": "Salesforce, Inc.",
-   "ticker": "CRM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.44,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-04-23 $0.44",
    "source_url": ""
   },
   {
@@ -35029,6 +35284,21 @@
    "source_url": ""
   },
   {
+   "company": "Hormel Foods Corporation",
+   "ticker": "HRL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2925,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-23 $0.2925",
+   "source_url": ""
+  },
+  {
    "company": "AMG",
    "ticker": "AMG",
    "exchange": "NYSE",
@@ -35191,6 +35461,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-25 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Lowe's Companies, Inc.",
+   "ticker": "LOW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.45,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-25 $2.45",
    "source_url": ""
   },
   {

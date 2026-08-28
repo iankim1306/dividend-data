@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-28 06:19",
+ "updatedAt": "2026-08-28 09:32",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -794,6 +794,21 @@
    "wire": "AGG:stockanalysis",
    "source_url": "https://stockanalysis.com/etf/spy/dividend/",
    "collected_at": "2026-08-18T15:26:34+09:00"
+  },
+  {
+   "company": "HP INC.",
+   "exchange": "NYSE",
+   "ticker": "HP",
+   "security": "common",
+   "amount_per_share": 0.58,
+   "currency": "USD",
+   "record_date": "2025-01-31",
+   "payable_date": "2025-02-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000051/hpq-20260731.htm",
+   "collected_at": "2026-08-28 09:28"
   },
   {
    "company": "American Tower Corporation",
@@ -2430,6 +2445,21 @@
    "collected_at": "2026-08-13 12:04"
   },
   {
+   "company": "HP INC.",
+   "exchange": "NYSE",
+   "ticker": "HP",
+   "security": "common",
+   "amount_per_share": 0.58,
+   "currency": "USD",
+   "record_date": "2025-04-30",
+   "payable_date": "2025-05-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000051/hpq-20260731.htm",
+   "collected_at": "2026-08-28 09:28"
+  },
+  {
    "company": "Stock Yards Bancorp, Inc.",
    "exchange": "Nasdaq",
    "ticker": "SYBT",
@@ -3794,6 +3824,21 @@
    "collected_at": "2026-08-13 14:20"
   },
   {
+   "company": "Salesforce, Inc.",
+   "exchange": "NYSE",
+   "ticker": "CRM",
+   "security": "common",
+   "amount_per_share": 0.416,
+   "currency": "USD",
+   "record_date": "2025-06-18",
+   "payable_date": "2025-07-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/crm-20260731.htm",
+   "collected_at": "2026-08-28 09:24"
+  },
+  {
    "company": "Omega Flex, Inc.",
    "exchange": "Nasdaq",
    "ticker": "OFLX",
@@ -4154,6 +4199,36 @@
    "collected_at": "2026-08-19 09:30"
   },
   {
+   "company": "Hormel Foods Corporation",
+   "exchange": "NYSE",
+   "ticker": "HRL",
+   "security": "common",
+   "amount_per_share": 0.87,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-07-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846526000055/hrl-20260726.htm",
+   "collected_at": "2026-08-28 09:28"
+  },
+  {
+   "company": "Hormel Foods Corporation",
+   "exchange": "NYSE",
+   "ticker": "HRL",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-07-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846526000055/hrl-20260726.htm",
+   "collected_at": "2026-08-28 09:28"
+  },
+  {
    "company": "Piedmont Realty Trust, Inc.",
    "exchange": "NYSE",
    "ticker": "PDM",
@@ -4317,6 +4392,36 @@
    "wire": "AGG:stockanalysis",
    "source_url": "https://stockanalysis.com/etf/spy/dividend/",
    "collected_at": "2026-08-18T15:26:34+09:00"
+  },
+  {
+   "company": "HP INC.",
+   "exchange": "NYSE",
+   "ticker": "HP",
+   "security": "common",
+   "amount_per_share": 0.58,
+   "currency": "USD",
+   "record_date": "2025-07-31",
+   "payable_date": "2025-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000051/hpq-20260731.htm",
+   "collected_at": "2026-08-28 09:28"
+  },
+  {
+   "company": "Lowe's Companies, Inc.",
+   "exchange": "NYSE",
+   "ticker": "LOW",
+   "security": "common",
+   "amount_per_share": 1.2,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000117/low-20260731.htm",
+   "collected_at": "2026-08-28 09:29"
   },
   {
    "company": "AT&T Inc",
@@ -5531,6 +5636,21 @@
    "wire": "AGG:stockanalysis",
    "source_url": "https://stockanalysis.com/etf/spy/dividend/",
    "collected_at": "2026-08-18T15:26:34+09:00"
+  },
+  {
+   "company": "HP INC.",
+   "exchange": "NYSE",
+   "ticker": "HP",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": "2025-10-31",
+   "payable_date": "2025-11-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000051/hpq-20260731.htm",
+   "collected_at": "2026-08-28 09:28"
   },
   {
    "company": "AT&T Inc",
@@ -13349,6 +13469,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/945114/000162828026030699/gic-20260331.htm",
    "collected_at": "2026-08-13 14:22"
+  },
+  {
+   "company": "HP INC.",
+   "exchange": "NYSE",
+   "ticker": "HP",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": "2026-04-30",
+   "payable_date": "2026-05-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000051/hpq-20260731.htm",
+   "collected_at": "2026-08-28 09:28"
   },
   {
    "company": "HYSTER-YALE, INC.",
@@ -21640,6 +21775,21 @@
    "collected_at": "2026-08-13 12:37"
   },
   {
+   "company": "Salesforce, Inc.",
+   "exchange": "NYSE",
+   "ticker": "CRM",
+   "security": "common",
+   "amount_per_share": 0.44,
+   "currency": "USD",
+   "record_date": "2026-06-11",
+   "payable_date": "2026-07-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/crm-20260731.htm",
+   "collected_at": "2026-08-28 09:24"
+  },
+  {
    "company": "Financial Institutions, Inc.",
    "exchange": "Nasdaq",
    "ticker": "FISI",
@@ -24661,6 +24811,21 @@
    "collected_at": "2026-08-19 09:30"
   },
   {
+   "company": "Hormel Foods Corporation",
+   "exchange": "NYSE",
+   "ticker": "HRL",
+   "security": "common",
+   "amount_per_share": 0.8775,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-07-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846526000055/hrl-20260726.htm",
+   "collected_at": "2026-08-28 09:28"
+  },
+  {
    "company": "Rithm Property Trust Inc.",
    "exchange": "NYSE",
    "ticker": "RPT",
@@ -25579,6 +25744,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/714395/000071439526000032/gabc-20260630.htm",
    "collected_at": "2026-08-16 09:20"
+  },
+  {
+   "company": "HP INC.",
+   "exchange": "NYSE",
+   "ticker": "HP",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": "2026-07-31",
+   "payable_date": "2026-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000051/hpq-20260731.htm",
+   "collected_at": "2026-08-28 09:28"
   },
   {
    "company": "MAIN STREET CAPITAL CORPORATION",
@@ -28892,6 +29072,21 @@
    "collected_at": "2026-08-13 12:18"
   },
   {
+   "company": "Hormel Foods Corporation",
+   "exchange": "NYSE",
+   "ticker": "HRL",
+   "security": "common",
+   "amount_per_share": 0.2925,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846526000055/hrl-20260726.htm",
+   "collected_at": "2026-08-28 09:28"
+  },
+  {
    "company": "AMG",
    "exchange": "NYSE",
    "ticker": "AMG",
@@ -29139,6 +29334,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/55242/000162828026051328/kmt-20260728.htm",
    "collected_at": "2026-08-07 00:22"
+  },
+  {
+   "company": "Lowe's Companies, Inc.",
+   "exchange": "NYSE",
+   "ticker": "LOW",
+   "security": "common",
+   "amount_per_share": 2.45,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000117/low-20260731.htm",
+   "collected_at": "2026-08-28 09:29"
   },
   {
    "company": "Unknown",
@@ -35510,6 +35720,21 @@
    "collected_at": "2026-08-21 06:18"
   },
   {
+   "company": "Red River Bancshares, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "RRBI",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-09-08",
+   "payable_date": "2026-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1071236/000107123626000059/q32026dividendex991.htm",
+   "collected_at": "2026-08-28 09:19"
+  },
+  {
    "company": "SBA Communications Corporation",
    "exchange": "Nasdaq",
    "ticker": "SBAC",
@@ -36208,6 +36433,21 @@
    "collected_at": "2026-08-22 06:18"
   },
   {
+   "company": "Lucky Strike Entertainment",
+   "exchange": "NYSE",
+   "ticker": "LUCK",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "2026-09-08",
+   "payable_date": "2026-09-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1840572/000162828026059178/pressreleaseq4fy-26.htm",
+   "collected_at": "2026-08-28 09:19"
+  },
+  {
    "company": "Movado Group, Inc.",
    "exchange": "NYSE",
    "ticker": "MOV",
@@ -36325,6 +36565,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/78239/000121390026085690/ea030037001ex99-1.htm",
    "collected_at": "2026-08-07 00:15"
+  },
+  {
+   "company": "TFS Financial Corporation",
+   "exchange": "NASDAQ",
+   "ticker": "TFSL",
+   "security": "common",
+   "amount_per_share": 0.3175,
+   "currency": "USD",
+   "record_date": "2026-09-09",
+   "payable_date": "2026-09-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1381668/000138166826000041/dividend08272026.htm",
+   "collected_at": "2026-08-28 09:19"
   },
   {
    "company": "Amcor",
@@ -38046,6 +38301,21 @@
    "collected_at": "2026-08-15 09:25"
   },
   {
+   "company": "Quanex Building Products Corporation",
+   "exchange": "NYSE",
+   "ticker": "NX",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1423221/000117184326005764/exh_991.htm",
+   "collected_at": "2026-08-28 09:19"
+  },
+  {
    "company": "NexPoint Diversified Real Estate Trust",
    "exchange": "NYSE",
    "ticker": "NXDT",
@@ -38607,6 +38877,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/350852/000035085226000066/ctbi-20260729.htm",
    "collected_at": "2026-08-07 00:22"
+  },
+  {
+   "company": "CW BANCORP",
+   "exchange": "OTCQX",
+   "ticker": "CWBK",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cw-bancorp-quarterly-cash-dividend-302862355.html",
+   "collected_at": "2026-08-28 09:18"
   },
   {
    "company": "Allspring Income Opportunities Fund",
@@ -39410,6 +39695,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1096752/000162828026053128/epc-20260630.htm",
    "collected_at": "2026-08-13 14:48"
+  },
+  {
+   "company": "Alerus Financial Corporation",
+   "exchange": "NASDAQ",
+   "ticker": "ALRS",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "2026-09-25",
+   "payable_date": "2026-10-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/903419/000143774926029099/ex_1008992.htm",
+   "collected_at": "2026-08-28 09:19"
   },
   {
    "company": "Bitmine Immersion Technologies, Inc.",
@@ -40576,6 +40876,21 @@
    "collected_at": "2026-08-14 06:18"
   },
   {
+   "company": "Dollar General Corporation",
+   "exchange": "NYSE",
+   "ticker": "DG",
+   "security": "common",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "2026-10-06",
+   "payable_date": "2026-10-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/29534/000110465926101918/tm2623914d1_ex99.htm",
+   "collected_at": "2026-08-28 09:18"
+  },
+  {
    "company": "Match Group",
    "exchange": "NASDAQ",
    "ticker": "MTCH",
@@ -41570,5 +41885,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2792
+ "count": 2813
 }
