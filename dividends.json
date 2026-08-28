@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-29 03:18",
+ "updatedAt": "2026-08-29 06:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -31077,6 +31077,21 @@
    "collected_at": "2026-08-13 12:26"
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "RFI",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-total-return-realty-fund-inc-rfi-notification-of-sources-of-distribution-under-section-19a-302863168.html",
+   "collected_at": "2026-08-29 06:18"
+  },
+  {
    "company": "Sabine Royalty Trust",
    "exchange": "NYSE",
    "ticker": "SBR",
@@ -41232,6 +41247,21 @@
    "collected_at": "2026-08-06 23:56"
   },
   {
+   "company": "Zimmer Biomet Holdings, Inc.",
+   "exchange": "NYSE",
+   "ticker": "ZBH",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/zimmer-biomet-announces-quarterly-dividend-for-third-quarter-of-2026-302863013.html",
+   "collected_at": "2026-08-29 06:18"
+  },
+  {
    "company": "MAIN STREET CAPITAL CORPORATION",
    "exchange": "NYSE",
    "ticker": "MAIN",
@@ -41290,6 +41320,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1499832/000149983226000045/tsq-20260630.htm",
    "collected_at": "2026-08-14 09:34"
+  },
+  {
+   "company": "Lowe's Companies, Inc.",
+   "exchange": "NYSE",
+   "ticker": "LOW",
+   "security": "common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "2026-10-21",
+   "payable_date": "2026-11-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/lowes-companies-inc-declares-cash-dividend-302863099.html",
+   "collected_at": "2026-08-29 06:18"
   },
   {
    "company": "Bitmine Immersion Technologies, Inc.",
@@ -41945,5 +41990,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2817
+ "count": 2820
 }

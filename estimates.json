@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-29 03:18",
+ "updatedAt": "2026-08-29 06:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2404,
+ "count": 2403,
  "items": [
   {
    "company": "Amplify CWP Enhanced Dividend Income ETF",
@@ -4606,21 +4606,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-25 $0.14",
-   "source_url": ""
-  },
-  {
-   "company": "Lowe's Companies, Inc.",
-   "ticker": "LOW",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 2.45,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-25 $2.45",
    "source_url": ""
   },
   {
@@ -13204,6 +13189,21 @@
    "source_url": ""
   },
   {
+   "company": "Lowe's Companies, Inc.",
+   "ticker": "LOW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-04 $1.25",
+   "source_url": ""
+  },
+  {
    "company": "Perrigo Company plc",
    "ticker": "PRGO",
    "exchange": "NYSE",
@@ -14791,21 +14791,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-25 $0.14",
-   "source_url": ""
-  },
-  {
-   "company": "Lowe's Companies, Inc.",
-   "ticker": "LOW",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 2.45,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-25 $2.45",
    "source_url": ""
   },
   {
@@ -23494,6 +23479,21 @@
    "source_url": ""
   },
   {
+   "company": "Lowe's Companies, Inc.",
+   "ticker": "LOW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-04 $1.25",
+   "source_url": ""
+  },
+  {
    "company": "Perrigo Company plc",
    "ticker": "PRGO",
    "exchange": "NYSE",
@@ -25081,21 +25081,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-25 $0.14",
-   "source_url": ""
-  },
-  {
-   "company": "Lowe's Companies, Inc.",
-   "ticker": "LOW",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 2.45,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-25 $2.45",
    "source_url": ""
   },
   {
@@ -33844,6 +33829,21 @@
    "source_url": ""
   },
   {
+   "company": "Lowe's Companies, Inc.",
+   "ticker": "LOW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-04 $1.25",
+   "source_url": ""
+  },
+  {
    "company": "Perrigo Company plc",
    "ticker": "PRGO",
    "exchange": "NYSE",
@@ -35446,21 +35446,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-25 $0.14",
-   "source_url": ""
-  },
-  {
-   "company": "Lowe's Companies, Inc.",
-   "ticker": "LOW",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 2.45,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-25 $2.45",
    "source_url": ""
   },
   {
