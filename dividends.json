@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-28 18:18",
+ "updatedAt": "2026-08-28 21:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -38152,6 +38152,21 @@
    "collected_at": "2026-08-13 12:33"
   },
   {
+   "company": "Mid-America Apartment Communities, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MAA",
+   "security": "preferred",
+   "amount_per_share": 1.0625,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/mid-america-apartment-communities-to-redeem-all-outstanding-shares-of-its-8-50-series-i-cumulative-redeemable-preferred-stock-302862372.html",
+   "collected_at": "2026-08-28 21:18"
+  },
+  {
    "company": "Marriott International, Inc.",
    "exchange": "Nasdaq",
    "ticker": "MAR",
@@ -41900,5 +41915,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2814
+ "count": 2815
 }
