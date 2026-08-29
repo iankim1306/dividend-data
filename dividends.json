@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-29 06:18",
+ "updatedAt": "2026-08-29 09:32",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -2505,6 +2505,21 @@
    "collected_at": "2026-08-18T15:40:05+09:00"
   },
   {
+   "company": "Walmart Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "WMT",
+   "security": "common",
+   "amount_per_share": 0.94,
+   "currency": "USD",
+   "record_date": "2025-02-01",
+   "payable_date": "2025-05-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/wmt-20260731.htm",
+   "collected_at": "2026-08-29 09:30"
+  },
+  {
    "company": "Best Buy Co., Inc.",
    "exchange": "NYSE",
    "ticker": "BBY",
@@ -2563,6 +2578,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/832988/000083298826000159/sig-20260502.htm",
    "collected_at": "2026-08-13 12:20"
+  },
+  {
+   "company": "TARGET CORPORATION",
+   "exchange": "NYSE",
+   "ticker": "TGT",
+   "security": "common",
+   "amount_per_share": 1.12,
+   "currency": "USD",
+   "record_date": "2025-02-01",
+   "payable_date": "2025-05-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000042/tgt-20260801.htm",
+   "collected_at": "2026-08-29 09:25"
   },
   {
    "company": "Heritage Financial Corporation",
@@ -4454,6 +4484,36 @@
    "collected_at": "2026-08-18T15:40:05+09:00"
   },
   {
+   "company": "THE GAP, INC.",
+   "exchange": "NYSE",
+   "ticker": "GAP",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-08-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/39911/000162828026059345/gap-20260801.htm",
+   "collected_at": "2026-08-29 09:26"
+  },
+  {
+   "company": "TARGET CORPORATION",
+   "exchange": "NYSE",
+   "ticker": "TGT",
+   "security": "common",
+   "amount_per_share": 1.14,
+   "currency": "USD",
+   "record_date": "2025-05-03",
+   "payable_date": "2025-08-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000042/tgt-20260801.htm",
+   "collected_at": "2026-08-29 09:25"
+  },
+  {
    "company": "The Home Depot, Inc.",
    "exchange": "NYSE",
    "ticker": "HD",
@@ -4467,6 +4527,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495025000217/hd-20250803.htm",
    "collected_at": "2026-08-18 15:31"
+  },
+  {
+   "company": "WILLIAMS-SONOMA, INC.",
+   "exchange": "NYSE",
+   "ticker": "WSM",
+   "security": "common",
+   "amount_per_share": 0.66,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-08-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/719955/000071995526000208/wsm-20260802.htm",
+   "collected_at": "2026-08-29 09:19"
+  },
+  {
+   "company": "WILLIAMS-SONOMA, INC.",
+   "exchange": "NYSE",
+   "ticker": "WSM",
+   "security": "common",
+   "amount_per_share": 1.32,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-08-03",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/719955/000071995526000208/wsm-20260802.htm",
+   "collected_at": "2026-08-29 09:19"
   },
   {
    "company": "CROWN CRAFTS INC",
@@ -5651,6 +5741,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000051/hpq-20260731.htm",
    "collected_at": "2026-08-28 09:28"
+  },
+  {
+   "company": "TARGET CORPORATION",
+   "exchange": "NYSE",
+   "ticker": "TGT",
+   "security": "common",
+   "amount_per_share": 1.14,
+   "currency": "USD",
+   "record_date": "2025-08-02",
+   "payable_date": "2025-11-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000042/tgt-20260801.htm",
+   "collected_at": "2026-08-29 09:25"
   },
   {
    "company": "AT&T Inc",
@@ -7511,6 +7616,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1614806/000161480626000020/rpt-20260630.htm",
    "collected_at": "2026-08-14 09:42"
+  },
+  {
+   "company": "TARGET CORPORATION",
+   "exchange": "NYSE",
+   "ticker": "TGT",
+   "security": "common",
+   "amount_per_share": 1.14,
+   "currency": "USD",
+   "record_date": "2025-11-01",
+   "payable_date": "2026-02-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000042/tgt-20260801.htm",
+   "collected_at": "2026-08-29 09:25"
   },
   {
    "company": "Array Digital Infrastructure, Inc.",
@@ -11079,6 +11199,21 @@
    "collected_at": "2026-08-16 09:27"
   },
   {
+   "company": "Walmart Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "WMT",
+   "security": "common",
+   "amount_per_share": 0.99,
+   "currency": "USD",
+   "record_date": "2026-03-20",
+   "payable_date": "2026-04-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/wmt-20260731.htm",
+   "collected_at": "2026-08-29 09:30"
+  },
+  {
    "company": "Blue Owl Technology Finance Corp.",
    "exchange": "NYSE",
    "ticker": "OWL",
@@ -13606,6 +13741,21 @@
    "collected_at": "2026-08-13 12:31"
   },
   {
+   "company": "MARVELL TECHNOLOGY, INC.",
+   "exchange": "Nasdaq",
+   "ticker": "MRVL",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-05-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000025/mrvl-20260801.htm",
+   "collected_at": "2026-08-29 09:31"
+  },
+  {
    "company": "Sempra",
    "exchange": "NYSE",
    "ticker": "(NYSE: SRE)",
@@ -15284,6 +15434,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/105418/000010541826000037/wmk-20260506xex99d1.htm",
    "collected_at": "2026-08-13 11:47"
+  },
+  {
+   "company": "Walmart Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "WMT",
+   "security": "common",
+   "amount_per_share": 0.2475,
+   "currency": "USD",
+   "record_date": "2026-05-08",
+   "payable_date": "2026-05-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/wmt-20260731.htm",
+   "collected_at": "2026-08-29 09:30"
   },
   {
    "company": "AptarGroup, Inc.",
@@ -25746,6 +25911,36 @@
    "collected_at": "2026-08-16 09:20"
   },
   {
+   "company": "THE GAP, INC.",
+   "exchange": "NYSE",
+   "ticker": "GAP",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/39911/000162828026059345/gap-20260801.htm",
+   "collected_at": "2026-08-29 09:26"
+  },
+  {
+   "company": "THE GAP, INC.",
+   "exchange": "NYSE",
+   "ticker": "GAP",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/39911/000162828026059345/gap-20260801.htm",
+   "collected_at": "2026-08-29 09:26"
+  },
+  {
    "company": "HP INC.",
    "exchange": "NYSE",
    "ticker": "HP",
@@ -25774,6 +25969,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1396440/000139644026000094/main-20260630.htm",
    "collected_at": "2026-08-14 09:29"
+  },
+  {
+   "company": "MARVELL TECHNOLOGY, INC.",
+   "exchange": "Nasdaq",
+   "ticker": "MRVL",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000025/mrvl-20260801.htm",
+   "collected_at": "2026-08-29 09:31"
   },
   {
    "company": "NNN REIT, INC.",
@@ -25849,6 +26059,51 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/767405/000121390026083789/ea030006401ex99-1.htm",
    "collected_at": "2026-08-13 12:05"
+  },
+  {
+   "company": "TARGET CORPORATION",
+   "exchange": "NYSE",
+   "ticker": "TGT",
+   "security": "common",
+   "amount_per_share": 1.16,
+   "currency": "USD",
+   "record_date": "2026-05-02",
+   "payable_date": "2026-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000042/tgt-20260801.htm",
+   "collected_at": "2026-08-29 09:25"
+  },
+  {
+   "company": "WILLIAMS-SONOMA, INC.",
+   "exchange": "NYSE",
+   "ticker": "WSM",
+   "security": "common",
+   "amount_per_share": 0.76,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/719955/000071995526000208/wsm-20260802.htm",
+   "collected_at": "2026-08-29 09:19"
+  },
+  {
+   "company": "WILLIAMS-SONOMA, INC.",
+   "exchange": "NYSE",
+   "ticker": "WSM",
+   "security": "common",
+   "amount_per_share": 1.52,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-02",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/719955/000071995526000208/wsm-20260802.htm",
+   "collected_at": "2026-08-29 09:19"
   },
   {
    "company": "ABM",
@@ -30826,6 +31081,21 @@
    "collected_at": "2026-08-13 10:39"
   },
   {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "FOF",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-closed-end-opportunity-fund-inc-fof-notification-of-sources-of-distribution-under-section-19a-302863176.html",
+   "collected_at": "2026-08-29 09:18"
+  },
+  {
    "company": "FS Credit Opportunities Corp.",
    "exchange": "NYSE",
    "ticker": "FSCO",
@@ -31092,6 +31362,21 @@
    "collected_at": "2026-08-29 06:18"
   },
   {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "RQI",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-quality-income-realty-fund-inc-rqi-notification-of-sources-of-distribution-under-section-19a-302863172.html",
+   "collected_at": "2026-08-29 09:18"
+  },
+  {
    "company": "Sabine Royalty Trust",
    "exchange": "NYSE",
    "ticker": "SBR",
@@ -31177,6 +31462,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/74208/000007420826000070/udr-20260727xex99d1.htm",
    "collected_at": "2026-08-13 11:42"
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "UTF",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-infrastructure-fund-inc-utf-notification-of-sources-of-distribution-under-section-19a-302863177.html",
+   "collected_at": "2026-08-29 09:18"
   },
   {
    "company": "Unitil Corporation",
@@ -33001,6 +33301,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1511737/000151173726000056/ubnt-20260630.htm",
    "collected_at": "2026-08-22 09:26"
+  },
+  {
+   "company": "Walmart Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "WMT",
+   "security": "common",
+   "amount_per_share": 0.2475,
+   "currency": "USD",
+   "record_date": "2026-08-21",
+   "payable_date": "2026-09-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/wmt-20260731.htm",
+   "collected_at": "2026-08-29 09:30"
   },
   {
    "company": "ACCO Brands Corporation",
@@ -41128,6 +41443,21 @@
    "collected_at": "2026-08-13 11:21"
   },
   {
+   "company": "Science Applications International Corp.",
+   "exchange": "NASDAQ",
+   "ticker": "SAIC",
+   "security": "common",
+   "amount_per_share": 0.37,
+   "currency": "USD",
+   "record_date": "2026-10-09",
+   "payable_date": "2026-10-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1571123/000157112326000129/saic8-k08272026xexhibit991.htm",
+   "collected_at": "2026-08-29 09:19"
+  },
+  {
    "company": "Gap Inc.",
    "exchange": "NYSE",
    "ticker": "GAP",
@@ -41960,6 +42290,21 @@
    "collected_at": "2026-08-06 23:58"
   },
   {
+   "company": "Walmart Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "WMT",
+   "security": "common",
+   "amount_per_share": 0.2475,
+   "currency": "USD",
+   "record_date": "2026-12-11",
+   "payable_date": "2027-01-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/wmt-20260731.htm",
+   "collected_at": "2026-08-29 09:30"
+  },
+  {
    "company": "Millicom International Cellular S.A.",
    "exchange": "NASDAQ",
    "ticker": "TIGO",
@@ -41990,5 +42335,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2820
+ "count": 2843
 }

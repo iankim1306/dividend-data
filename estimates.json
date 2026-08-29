@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-29 06:18",
+ "updatedAt": "2026-08-29 09:32",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2403,
+ "count": 2415,
  "items": [
   {
    "company": "Amplify CWP Enhanced Dividend Income ETF",
@@ -2941,6 +2941,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-01 $0.31",
+   "source_url": ""
+  },
+  {
+   "company": "MARVELL TECHNOLOGY, INC.",
+   "ticker": "MRVL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-01 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "TARGET CORPORATION",
+   "ticker": "TGT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.16,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-01 $1.16",
    "source_url": ""
   },
   {
@@ -12949,6 +12979,36 @@
    "source_url": ""
   },
   {
+   "company": "MARVELL TECHNOLOGY, INC.",
+   "ticker": "MRVL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-01 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "TARGET CORPORATION",
+   "ticker": "TGT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.16,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-01 $1.16",
+   "source_url": ""
+  },
+  {
    "company": "REVVITY, INC",
    "ticker": "RVTY",
    "exchange": "NYSE",
@@ -12961,6 +13021,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-01 $0.07",
+   "source_url": ""
+  },
+  {
+   "company": "WILLIAMS-SONOMA, INC.",
+   "ticker": "WSM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-31",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-02 $1.52",
    "source_url": ""
   },
   {
@@ -20779,6 +20854,21 @@
    "source_url": ""
   },
   {
+   "company": "Walmart Inc.",
+   "ticker": "WMT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.2475",
+   "source_url": ""
+  },
+  {
    "company": "Graphic Packaging Holding Company",
    "ticker": "GPK",
    "exchange": "NYSE",
@@ -23224,6 +23314,21 @@
    "source_url": ""
   },
   {
+   "company": "MARVELL TECHNOLOGY, INC.",
+   "ticker": "MRVL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-01 $0.06",
+   "source_url": ""
+  },
+  {
    "company": "Stock Yards Bancorp, Inc.",
    "ticker": "SYBT",
    "exchange": "Nasdaq",
@@ -23236,6 +23341,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-05-01 $0.32",
+   "source_url": ""
+  },
+  {
+   "company": "TARGET CORPORATION",
+   "ticker": "TGT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.16,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-01 $1.16",
    "source_url": ""
   },
   {
@@ -31144,6 +31264,21 @@
    "source_url": ""
   },
   {
+   "company": "Walmart Inc.",
+   "ticker": "WMT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.2475",
+   "source_url": ""
+  },
+  {
    "company": "Graphic Packaging Holding Company",
    "ticker": "GPK",
    "exchange": "NYSE",
@@ -33619,6 +33754,36 @@
    "source_url": ""
   },
   {
+   "company": "MARVELL TECHNOLOGY, INC.",
+   "ticker": "MRVL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-01 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "TARGET CORPORATION",
+   "ticker": "TGT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.16,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-01 $1.16",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Capital Corporation",
    "ticker": "GLAD",
    "exchange": "Nasdaq",
@@ -33661,6 +33826,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-06 $0.330454",
+   "source_url": ""
+  },
+  {
+   "company": "WILLIAMS-SONOMA, INC.",
+   "ticker": "WSM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-01",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-02 $1.52",
    "source_url": ""
   },
   {
