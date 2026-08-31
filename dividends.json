@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-01 03:18",
+ "updatedAt": "2026-09-01 06:19",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -30931,6 +30931,21 @@
    "collected_at": "2026-08-12 06:07"
   },
   {
+   "company": "abrdn Global Infrastructure Income Fund",
+   "exchange": "NYSE",
+   "ticker": "ASGI",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "2026-08-24",
+   "payable_date": "2026-08-31",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-announce-distribution-payment-details-302865292.html",
+   "collected_at": "2026-09-01 06:19"
+  },
+  {
    "company": "abrdn Global Premier Properties Fund",
    "exchange": "NYSE",
    "ticker": "AWP",
@@ -31169,6 +31184,21 @@
    "collected_at": "2026-08-28 00:18"
   },
   {
+   "company": "John Hancock Tax-Advantaged Dividend Income Fund",
+   "exchange": "NYSE",
+   "ticker": "HTD",
+   "security": "common",
+   "amount_per_share": 0.158,
+   "currency": "USD",
+   "record_date": "2026-08-13",
+   "payable_date": "2026-08-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/john-hancock-tax-advantaged-dividend-income-fund-notice-to-shareholders--sources-of-distribution-under-section-19a-302865323.html",
+   "collected_at": "2026-09-01 06:19"
+  },
+  {
    "company": "LTC PROPERTIES INC",
    "exchange": "NYSE",
    "ticker": "LTC",
@@ -31317,6 +31347,21 @@
    "collected_at": "2026-08-14 09:40"
   },
   {
+   "company": "John Hancock Premium Dividend Fund",
+   "exchange": "NYSE",
+   "ticker": "PDT",
+   "security": "common",
+   "amount_per_share": 0.0883,
+   "currency": "USD",
+   "record_date": "2026-08-13",
+   "payable_date": "2026-08-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/john-hancock-premium-dividend-fund-notice-to-shareholders--sources-of-distribution-under-section-19a-302865320.html",
+   "collected_at": "2026-09-01 06:19"
+  },
+  {
    "company": "PRICESMART, INC.",
    "exchange": "Nasdaq",
    "ticker": "PSMT",
@@ -31433,6 +31478,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/916907/000110465926085879/smbc-20260721xex99d1.htm",
    "collected_at": "2026-08-13 14:15"
+  },
+  {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "exchange": "NYSE",
+   "ticker": "THQ",
+   "security": "common",
+   "amount_per_share": 0.18,
+   "currency": "USD",
+   "record_date": "2026-08-24",
+   "payable_date": "2026-08-31",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-announce-distribution-payment-details-302865292.html",
+   "collected_at": "2026-09-01 06:19"
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "exchange": "NYSE",
+   "ticker": "THW",
+   "security": "common",
+   "amount_per_share": 0.1167,
+   "currency": "USD",
+   "record_date": "2026-08-24",
+   "payable_date": "2026-08-31",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-announce-distribution-payment-details-302865292.html",
+   "collected_at": "2026-09-01 06:19"
   },
   {
    "company": "Flowco Holdings",
@@ -38646,6 +38721,21 @@
    "collected_at": "2026-08-20 09:19"
   },
   {
+   "company": "Neuberger Next Generation Connectivity Fund Inc.",
+   "exchange": "NYSE",
+   "ticker": "NBXG",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-announces-monthly-distribution-302860159.html",
+   "collected_at": "2026-09-01 06:18"
+  },
+  {
    "company": "New England Realty Associates Limited Partnership",
    "exchange": "NYSE MKT",
    "ticker": "NEN",
@@ -38676,6 +38766,21 @@
    "collected_at": "2026-08-08 03:03"
   },
   {
+   "company": "Neuberger High Yield Strategies Fund Inc.",
+   "exchange": "NYSE American",
+   "ticker": "NHS",
+   "security": "common",
+   "amount_per_share": 0.0905,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-high-yield-strategies-fund-announces-monthly-distribution-302859929.html",
+   "collected_at": "2026-09-01 06:18"
+  },
+  {
    "company": "New Mountain Finance Corporation",
    "exchange": "Nasdaq",
    "ticker": "NMFC",
@@ -38691,6 +38796,21 @@
    "collected_at": "2026-08-14 09:34"
   },
   {
+   "company": "Neuberger Energy Infrastructure and Income Fund Inc.",
+   "exchange": "NYSE American",
+   "ticker": "NML",
+   "security": "common",
+   "amount_per_share": 0.07008,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-energy-infrastructure-and-income-fund-announces-monthly-distribution-302859927.html",
+   "collected_at": "2026-09-01 06:18"
+  },
+  {
    "company": "NexPoint Real Estate Finance, Inc.",
    "exchange": "NYSE",
    "ticker": "NREF",
@@ -38704,6 +38824,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1786248/000119312526347504/nref-20260630.htm",
    "collected_at": "2026-08-15 09:25"
+  },
+  {
+   "company": "Neuberger Real Estate Securities Income Fund Inc.",
+   "exchange": "NYSE American",
+   "ticker": "NRO",
+   "security": "common",
+   "amount_per_share": 0.0312,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-real-estate-securities-income-fund-announces-monthly-distribution-302860167.html",
+   "collected_at": "2026-09-01 06:18"
   },
   {
    "company": "Quanex Building Products Corporation",
@@ -42365,5 +42500,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2845
+ "count": 2854
 }
