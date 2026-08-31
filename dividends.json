@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-31 21:18",
+ "updatedAt": "2026-09-01 00:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -37491,6 +37491,21 @@
    "collected_at": "2026-08-22 09:19"
   },
   {
+   "company": "The Hanover Insurance Group, Inc.",
+   "exchange": "NYSE",
+   "ticker": "THG",
+   "security": "common",
+   "amount_per_share": 0.95,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-09-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/the-hanover-insurance-group-inc-declares-quarterly-dividend-of-0-95-per-common-share-302865007.html",
+   "collected_at": "2026-09-01 00:18"
+  },
+  {
    "company": "Victory Capital Holdings, Inc.",
    "exchange": "NASDAQ",
    "ticker": "VCTR",
@@ -42350,5 +42365,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2844
+ "count": 2845
 }
