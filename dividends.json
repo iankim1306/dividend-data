@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-02 00:18",
+ "updatedAt": "2026-09-02 03:19",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -37491,6 +37491,21 @@
    "collected_at": "2026-08-13 11:20"
   },
   {
+   "company": "NASB Financial, Inc.",
+   "exchange": "OTCQX",
+   "ticker": "NASB",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-09-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/nasb-financial-inc-declares-cash-dividends-on-common-stock-302866581.html",
+   "collected_at": "2026-09-02 03:18"
+  },
+  {
    "company": "Nasdaq, Inc.",
    "exchange": "Nasdaq",
    "ticker": "NDAQ",
@@ -37772,6 +37787,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/hydro-one-limited-declares-quarterly-common-share-dividend-302849605.html",
    "collected_at": "2026-08-12 21:01"
+  },
+  {
+   "company": "Royce Micro-Cap Trust, Inc.",
+   "exchange": "NYSE",
+   "ticker": "RMT",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/royce-micro-cap-trust-inc-nyse-rmt-declares-third-quarter-common-stock-distribution-of-0-23-per-share-302866506.html",
+   "collected_at": "2026-09-02 03:19"
   },
   {
    "company": "Sun Life Financial Inc.",
@@ -38588,6 +38618,21 @@
    "collected_at": "2026-08-12 06:07"
   },
   {
+   "company": "Invesco Value Municipal Income Trust",
+   "exchange": null,
+   "ticker": "IIM",
+   "security": "fund",
+   "amount_per_share": 0.0771,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
+  },
+  {
    "company": "Interparfums, Inc.",
    "exchange": "NASDAQ GS",
    "ticker": "IPAR",
@@ -38600,6 +38645,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/822663/000175392626001319/ex991_1.htm",
    "collected_at": "2026-08-13 11:07"
+  },
+  {
+   "company": "Invesco Quality Municipal Income Trust",
+   "exchange": null,
+   "ticker": "IQI",
+   "security": "fund",
+   "amount_per_share": 0.0631,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
   },
   {
    "company": "JAMES RIVER GROUP HOLDINGS, INC.",
@@ -38960,6 +39020,21 @@
    "collected_at": "2026-08-13 11:20"
   },
   {
+   "company": "Invesco Municipal Income Opportunities Trust",
+   "exchange": null,
+   "ticker": "OIA",
+   "security": "fund",
+   "amount_per_share": 0.0291,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
+  },
+  {
    "company": "Universal Display Corporation",
    "exchange": "Nasdaq",
    "ticker": "OLED",
@@ -39285,6 +39360,141 @@
    "collected_at": "2026-08-13 11:42"
   },
   {
+   "company": "Invesco Bond Fund",
+   "exchange": null,
+   "ticker": "VBF",
+   "security": "fund",
+   "amount_per_share": 0.0665,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
+  },
+  {
+   "company": "Invesco California Value Municipal Income Trust",
+   "exchange": null,
+   "ticker": "VCV",
+   "security": "fund",
+   "amount_per_share": 0.0646,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
+  },
+  {
+   "company": "Invesco Trust for Investment Grade Municipals",
+   "exchange": null,
+   "ticker": "VGM",
+   "security": "fund",
+   "amount_per_share": 0.0646,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
+  },
+  {
+   "company": "Invesco Advantage Municipal Income Trust II",
+   "exchange": null,
+   "ticker": "VKI",
+   "security": "fund",
+   "amount_per_share": 0.0559,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
+  },
+  {
+   "company": "Invesco Municipal Trust",
+   "exchange": null,
+   "ticker": "VKQ",
+   "security": "fund",
+   "amount_per_share": 0.0628,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
+  },
+  {
+   "company": "Invesco High Income Trust II",
+   "exchange": null,
+   "ticker": "VLT",
+   "security": "fund",
+   "amount_per_share": 0.0895,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
+  },
+  {
+   "company": "Invesco Municipal Opportunity Trust",
+   "exchange": null,
+   "ticker": "VMO",
+   "security": "fund",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
+  },
+  {
+   "company": "Invesco Pennsylvania Value Municipal Income Trust",
+   "exchange": null,
+   "ticker": "VPV",
+   "security": "fund",
+   "amount_per_share": 0.0667,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
+  },
+  {
+   "company": "Invesco Trust for Investment Grade New York Municipals",
+   "exchange": null,
+   "ticker": "VTN",
+   "security": "fund",
+   "amount_per_share": 0.0685,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
+  },
+  {
    "company": "Vitesse Energy, Inc.",
    "exchange": "NYSE",
    "ticker": "VTS",
@@ -39298,6 +39508,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1944558/000194455826000046/vitesse-20260630.htm",
    "collected_at": "2026-08-15 09:29"
+  },
+  {
+   "company": "Invesco Senior Income Trust",
+   "exchange": null,
+   "ticker": "VVR",
+   "security": "fund",
+   "amount_per_share": 0.029,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302865946.html",
+   "collected_at": "2026-09-02 03:18"
   },
   {
    "company": "WESTERN ALLIANCE BANCORPORATION",
@@ -42680,5 +42905,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2866
+ "count": 2881
 }
