@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-02 03:19",
+ "updatedAt": "2026-09-02 06:19",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2478,
+ "count": 2477,
  "items": [
   {
    "company": "JPMorgan Equity Premium Income ETF",
@@ -2296,21 +2296,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $1.089",
-   "source_url": ""
-  },
-  {
-   "company": "Royal Caribbean Cruises Ltd.",
-   "ticker": "RCL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $1.5",
    "source_url": ""
   },
   {
@@ -10579,6 +10564,21 @@
    "source_url": ""
   },
   {
+   "company": "Royal Caribbean Group",
+   "ticker": "RCL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $1.5",
+   "source_url": ""
+  },
+  {
    "company": "Benchmark Electronics, Inc.",
    "ticker": "BHE",
    "exchange": "NYSE",
@@ -12286,21 +12286,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $1.089",
-   "source_url": ""
-  },
-  {
-   "company": "Royal Caribbean Cruises Ltd.",
-   "ticker": "RCL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $1.5",
    "source_url": ""
   },
   {
@@ -21034,6 +21019,21 @@
    "source_url": ""
   },
   {
+   "company": "Royal Caribbean Group",
+   "ticker": "RCL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $1.5",
+   "source_url": ""
+  },
+  {
    "company": "Benchmark Electronics, Inc.",
    "ticker": "BHE",
    "exchange": "NYSE",
@@ -22741,21 +22741,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $1.089",
-   "source_url": ""
-  },
-  {
-   "company": "Royal Caribbean Cruises Ltd.",
-   "ticker": "RCL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $1.5",
    "source_url": ""
   },
   {
@@ -31549,6 +31534,21 @@
    "source_url": ""
   },
   {
+   "company": "Royal Caribbean Group",
+   "ticker": "RCL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $1.5",
+   "source_url": ""
+  },
+  {
    "company": "Benchmark Electronics, Inc.",
    "ticker": "BHE",
    "exchange": "NYSE",
@@ -33256,21 +33256,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $1.089",
-   "source_url": ""
-  },
-  {
-   "company": "Royal Caribbean Cruises Ltd.",
-   "ticker": "RCL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $1.5",
    "source_url": ""
   },
   {
