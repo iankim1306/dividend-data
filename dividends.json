@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-01 18:18",
+ "updatedAt": "2026-09-01 21:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -38886,6 +38886,21 @@
    "collected_at": "2026-08-16 09:27"
   },
   {
+   "company": "NXG NextGen Infrastructure Income Fund",
+   "exchange": "NYSE",
+   "ticker": "NXG",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/nxg-nextgen-infrastructure-income-fund-nyse-nxg-announces-distributions-302865747.html",
+   "collected_at": "2026-09-01 21:18"
+  },
+  {
    "company": "NexPoint Residential Trust, Inc.",
    "exchange": "NYSE",
    "ticker": "NXRT",
@@ -39045,6 +39060,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1063761/000110465926093361/tm2620726d2_ex99-1.htm",
    "collected_at": "2026-08-13 11:11"
+  },
+  {
+   "company": "NXG Cushing® Midstream Energy Fund",
+   "exchange": "NYSE",
+   "ticker": "SRV",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/nxg-cushing-midstream-energy-fund-nyse-srv-announces-distributions-302865780.html",
+   "collected_at": "2026-09-01 21:18"
   },
   {
    "company": "Stewart Information Services Corporation",
@@ -41742,6 +41772,21 @@
    "collected_at": "2026-08-13 14:49"
   },
   {
+   "company": "NXG NextGen Infrastructure Income Fund",
+   "exchange": "NYSE",
+   "ticker": "NXG",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": "2026-10-15",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/nxg-nextgen-infrastructure-income-fund-nyse-nxg-announces-distributions-302865747.html",
+   "collected_at": "2026-09-01 21:18"
+  },
+  {
    "company": "Regency Centers Corporation",
    "exchange": "NASDAQ",
    "ticker": "REG",
@@ -41770,6 +41815,21 @@
    "wire": "GNW",
    "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340254/37116/en/Regency-Centers-Declares-Quarterly-Dividends.html",
    "collected_at": "2026-08-06 23:56"
+  },
+  {
+   "company": "NXG Cushing® Midstream Energy Fund",
+   "exchange": "NYSE",
+   "ticker": "SRV",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-10-15",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/nxg-cushing-midstream-energy-fund-nyse-srv-announces-distributions-302865780.html",
+   "collected_at": "2026-09-01 21:18"
   },
   {
    "company": "Zimmer Biomet Holdings, Inc.",
@@ -42173,6 +42233,36 @@
    "collected_at": "2026-08-13 11:18"
   },
   {
+   "company": "NXG NextGen Infrastructure Income Fund",
+   "exchange": "NYSE",
+   "ticker": "NXG",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/nxg-nextgen-infrastructure-income-fund-nyse-nxg-announces-distributions-302865747.html",
+   "collected_at": "2026-09-01 21:18"
+  },
+  {
+   "company": "NXG Cushing® Midstream Energy Fund",
+   "exchange": "NYSE",
+   "ticker": "SRV",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/nxg-cushing-midstream-energy-fund-nyse-srv-announces-distributions-302865780.html",
+   "collected_at": "2026-09-01 21:18"
+  },
+  {
    "company": "Bruker Corporation",
    "exchange": "Nasdaq",
    "ticker": "BRKR",
@@ -42530,5 +42620,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2856
+ "count": 2862
 }
