@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-01 06:19",
+ "updatedAt": "2026-09-01 09:30",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2447,
+ "count": 2450,
  "items": [
   {
    "company": "Agree Realty Corporation",
@@ -9721,6 +9721,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Triumph",
+   "ticker": "TFIN-PR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 17.81,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $17.81",
    "source_url": ""
   },
   {
@@ -20071,6 +20086,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Triumph",
+   "ticker": "TFIN-PR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 17.81,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $17.81",
    "source_url": ""
   },
   {
@@ -30466,6 +30496,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Triumph",
+   "ticker": "TFIN-PR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 17.81,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $17.81",
    "source_url": ""
   },
   {

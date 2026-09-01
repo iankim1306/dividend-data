@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-01 06:19",
+ "updatedAt": "2026-09-01 09:30",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -39136,6 +39136,36 @@
    "collected_at": "2026-08-20 06:18"
   },
   {
+   "company": "TRIUMPH FINANCIAL, INC.",
+   "exchange": "NYSE",
+   "ticker": "TFIN",
+   "security": "preferred",
+   "amount_per_share": 17.81,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1539638/000153963826000031/tfin-20260831.htm",
+   "collected_at": "2026-09-01 09:19"
+  },
+  {
+   "company": "Triumph",
+   "exchange": "NYSE",
+   "ticker": "TFIN-PR",
+   "security": "preferred",
+   "amount_per_share": 17.81,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1539638/000153963826000031/exhibit99_1preferreddivide.htm",
+   "collected_at": "2026-09-01 09:18"
+  },
+  {
    "company": "abrdn Healthcare Opportunities Fund",
    "exchange": "NYSE",
    "ticker": "THQ",
@@ -42500,5 +42530,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2854
+ "count": 2856
 }
