@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-02 06:19",
+ "updatedAt": "2026-09-02 09:32",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2477,
+ "count": 2479,
  "items": [
   {
    "company": "JPMorgan Equity Premium Income ETF",
@@ -556,21 +556,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.0875",
-   "source_url": ""
-  },
-  {
-   "company": "LAMAR ADVERTISING CO",
-   "ticker": "LAMR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.6,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $1.6",
    "source_url": ""
   },
   {
@@ -8869,21 +8854,6 @@
    "source_url": ""
   },
   {
-   "company": "LAMAR ADVERTISING CO",
-   "ticker": "LAMR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.6,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $1.6",
-   "source_url": ""
-  },
-  {
    "company": "LTC PROPERTIES INC",
    "ticker": "LTC",
    "exchange": "NYSE",
@@ -9436,6 +9406,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.8",
+   "source_url": ""
+  },
+  {
+   "company": "Lamar Advertising Company",
+   "ticker": "LAMR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.65,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $1.65",
    "source_url": ""
   },
   {
@@ -11731,6 +11716,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Raymond James Financial, Inc.",
+   "ticker": "RJF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.54,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.54",
    "source_url": ""
   },
   {
@@ -19339,21 +19339,6 @@
    "source_url": ""
   },
   {
-   "company": "LAMAR ADVERTISING CO",
-   "ticker": "LAMR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.6,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $1.6",
-   "source_url": ""
-  },
-  {
    "company": "MFA Financial, Inc.",
    "ticker": "MFA",
    "exchange": "NYSE",
@@ -19906,6 +19891,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.8",
+   "source_url": ""
+  },
+  {
+   "company": "Lamar Advertising Company",
+   "ticker": "LAMR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.65,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $1.65",
    "source_url": ""
   },
   {
@@ -22141,6 +22141,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Raymond James Financial, Inc.",
+   "ticker": "RJF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.54,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.54",
    "source_url": ""
   },
   {
@@ -29854,21 +29869,6 @@
    "source_url": ""
   },
   {
-   "company": "LAMAR ADVERTISING CO",
-   "ticker": "LAMR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.6,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $1.6",
-   "source_url": ""
-  },
-  {
    "company": "MAIN STREET CAPITAL CORPORATION",
    "ticker": "MAIN",
    "exchange": "NYSE",
@@ -30406,6 +30406,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.8",
+   "source_url": ""
+  },
+  {
+   "company": "Lamar Advertising Company",
+   "ticker": "LAMR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.65,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $1.65",
    "source_url": ""
   },
   {
@@ -32686,6 +32701,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Raymond James Financial, Inc.",
+   "ticker": "RJF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.54,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.54",
    "source_url": ""
   },
   {

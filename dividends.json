@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-02 06:19",
+ "updatedAt": "2026-09-02 09:32",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -38947,6 +38947,21 @@
    "collected_at": "2026-08-15 09:26"
   },
   {
+   "company": "Lamar Advertising Company",
+   "exchange": "Nasdaq",
+   "ticker": "LAMR",
+   "security": "common",
+   "amount_per_share": 1.65,
+   "currency": "USD",
+   "record_date": "2026-09-21",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1090425/000119312526378592/d81164dex991.htm",
+   "collected_at": "2026-09-02 09:18"
+  },
+  {
    "company": "LTC PROPERTIES INC",
    "exchange": "NYSE",
    "ticker": "LTC",
@@ -41766,6 +41781,21 @@
    "collected_at": "2026-08-13 11:15"
   },
   {
+   "company": "Raymond James Financial, Inc.",
+   "exchange": "NYSE",
+   "ticker": "RJF",
+   "security": "common",
+   "amount_per_share": 0.54,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000075/ex992rjf20260826prdiv.htm",
+   "collected_at": "2026-09-02 09:18"
+  },
+  {
    "company": "Stellus Capital Investment Corp",
    "exchange": "NYSE",
    "ticker": "SCM",
@@ -42295,6 +42325,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926091692/tm2622057d1_ex99-1.htm",
    "collected_at": "2026-08-13 11:18"
+  },
+  {
+   "company": "Dell Technologies",
+   "exchange": "NYSE",
+   "ticker": "DELL",
+   "security": "common",
+   "amount_per_share": 0.63,
+   "currency": "USD",
+   "record_date": "2026-10-20",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000039/exhibit991earnings8kq2fy27.htm",
+   "collected_at": "2026-09-02 09:19"
   },
   {
    "company": "EOG RESOURCES, INC.",
@@ -43190,5 +43235,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2900
+ "count": 2903
 }
