@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-02 18:18",
+ "updatedAt": "2026-09-02 21:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -37300,6 +37300,21 @@
    "collected_at": "2026-08-07 07:30"
   },
   {
+   "company": "Vertiv Holdings Co",
+   "exchange": "NYSE",
+   "ticker": "VRT",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "2026-09-14",
+   "payable_date": "2026-09-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/vertiv-declares-quarterly-dividend-302866962.html",
+   "collected_at": "2026-09-02 21:18"
+  },
+  {
    "company": "Vishay Intertechnology, Inc.",
    "exchange": "New York Stock Exchange",
    "ticker": "VSH",
@@ -43235,5 +43250,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2903
+ "count": 2904
 }

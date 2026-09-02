@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-02 18:18",
+ "updatedAt": "2026-09-02 21:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2479,
+ "count": 2482,
  "items": [
   {
    "company": "JPMorgan Equity Premium Income ETF",
@@ -8221,6 +8221,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-24 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Vertiv Holdings Co",
+   "ticker": "VRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-24 $0.0625",
    "source_url": ""
   },
   {
@@ -18676,6 +18691,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-24 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Vertiv Holdings Co",
+   "ticker": "VRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-24 $0.0625",
    "source_url": ""
   },
   {
@@ -29146,6 +29176,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-24 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Vertiv Holdings Co",
+   "ticker": "VRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-24 $0.0625",
    "source_url": ""
   },
   {
