@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-03 03:18",
+ "updatedAt": "2026-09-03 06:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -38238,6 +38238,21 @@
    "collected_at": "2026-08-14 09:20"
   },
   {
+   "company": "Broadcom Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "AVGO",
+   "security": "common",
+   "amount_per_share": 0.65,
+   "currency": "USD",
+   "record_date": "2026-09-21",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial-results-and-quarterly-dividend-302868129.html",
+   "collected_at": "2026-09-03 06:18"
+  },
+  {
    "company": "Booking Holdings Inc.",
    "exchange": "Nasdaq",
    "ticker": "BKNG",
@@ -39393,6 +39408,36 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/john-hancock-closed-end-funds-declare-monthly-distributions-302866796.html",
    "collected_at": "2026-09-02 06:19"
+  },
+  {
+   "company": "Prologis, Inc.",
+   "exchange": "NYSE",
+   "ticker": "PLD",
+   "security": "common",
+   "amount_per_share": 1.07,
+   "currency": "USD",
+   "record_date": "2026-09-16",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/prologis-declares-quarterly-dividend-302868158.html",
+   "collected_at": "2026-09-03 06:18"
+  },
+  {
+   "company": "Prologis, Inc.",
+   "exchange": "NYSE",
+   "ticker": "PLD",
+   "security": "preferred",
+   "amount_per_share": 1.0675,
+   "currency": "USD",
+   "record_date": "2026-09-16",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/prologis-declares-quarterly-dividend-302868158.html",
+   "collected_at": "2026-09-03 06:18"
   },
   {
    "company": "Peoples Ltd.",
@@ -41000,6 +41045,21 @@
    "collected_at": "2026-08-13 11:41"
   },
   {
+   "company": "Quanta Services, Inc.",
+   "exchange": "NYSE",
+   "ticker": "PWR",
+   "security": "common",
+   "amount_per_share": 0.11,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/quanta-services-announces-quarterly-cash-dividend-302868057.html",
+   "collected_at": "2026-09-03 06:18"
+  },
+  {
    "company": "Schneider National, Inc.",
    "exchange": "NYSE",
    "ticker": "SNDR",
@@ -41866,6 +41926,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1295810/000110465926091645/sho-20260806xex99d1.htm",
    "collected_at": "2026-08-13 11:14"
+  },
+  {
+   "company": "Sempra",
+   "exchange": "NYSE",
+   "ticker": "SRE",
+   "security": "common",
+   "amount_per_share": 0.6575,
+   "currency": "USD",
+   "record_date": "2026-09-24",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sempra-declares-common-dividend-302868196.html",
+   "collected_at": "2026-09-03 06:18"
   },
   {
    "company": "Vistra Corp",
@@ -43250,5 +43325,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2904
+ "count": 2909
 }
