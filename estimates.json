@@ -1,38 +1,8 @@
 {
- "updatedAt": "2026-09-03 21:18",
+ "updatedAt": "2026-09-04 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
  "count": 2507,
  "items": [
-  {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-04",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-04",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
-   "source_url": ""
-  },
   {
    "company": "iShares 20+ Year Treasury Bond ETF",
    "ticker": "TLT",
@@ -36751,6 +36721,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-01 $18.125",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Equity Premium Income ETF",
+   "ticker": "JEPI",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.36664,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.36664",
+   "source_url": ""
+  },
+  {
+   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
+   "ticker": "JEPQ",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.70497,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
