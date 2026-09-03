@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-03 06:18",
+ "updatedAt": "2026-09-03 09:32",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2494,
+ "count": 2507,
  "items": [
   {
    "company": "JPMorgan Equity Premium Income ETF",
@@ -2446,6 +2446,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-01-30 $0.4921875",
+   "source_url": ""
+  },
+  {
+   "company": "Argan, Inc.",
+   "ticker": "AGX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-31 $0.5",
    "source_url": ""
   },
   {
@@ -8074,6 +8089,21 @@
    "source_url": ""
   },
   {
+   "company": "PVH Corp.",
+   "ticker": "PVH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-23 $0.0375",
+   "source_url": ""
+  },
+  {
    "company": "SPDR Portfolio S&P 500 High Dividend ETF",
    "ticker": "SPYD",
    "exchange": "NYSE ARCA",
@@ -10489,6 +10519,21 @@
    "source_url": ""
   },
   {
+   "company": "J.Jill, Inc.",
+   "ticker": "JILL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Kulicke and Soffa Industries, Inc.",
    "ticker": "KLIC",
    "exchange": "NASDAQ",
@@ -12454,6 +12499,21 @@
    "source_url": ""
   },
   {
+   "company": "NetApp, Inc.",
+   "ticker": "NTAP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-28 $0.52",
+   "source_url": ""
+  },
+  {
    "company": "Bentley Systems, Incorporated",
    "ticker": "BSY",
    "exchange": "Nasdaq",
@@ -12586,6 +12646,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-01-30 $0.4921875",
+   "source_url": ""
+  },
+  {
+   "company": "Argan, Inc.",
+   "ticker": "AGX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-31 $0.5",
    "source_url": ""
   },
   {
@@ -18574,6 +18649,21 @@
    "source_url": ""
   },
   {
+   "company": "PVH Corp.",
+   "ticker": "PVH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-23 $0.0375",
+   "source_url": ""
+  },
+  {
    "company": "SPDR Portfolio S&P 500 High Dividend ETF",
    "ticker": "SPYD",
    "exchange": "NYSE ARCA",
@@ -20959,6 +21049,21 @@
    "source_url": ""
   },
   {
+   "company": "J.Jill, Inc.",
+   "ticker": "JILL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Kulicke and Soffa Industries, Inc.",
    "ticker": "KLIC",
    "exchange": "NASDAQ",
@@ -23014,6 +23119,21 @@
    "source_url": ""
   },
   {
+   "company": "NetApp, Inc.",
+   "ticker": "NTAP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-28 $0.52",
+   "source_url": ""
+  },
+  {
    "company": "UDR, Inc.",
    "ticker": "UDR",
    "exchange": "NYSE",
@@ -23116,6 +23236,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.08854",
+   "source_url": ""
+  },
+  {
+   "company": "Argan, Inc.",
+   "ticker": "AGX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-31 $0.5",
    "source_url": ""
   },
   {
@@ -29074,6 +29209,21 @@
    "source_url": ""
   },
   {
+   "company": "PVH Corp.",
+   "ticker": "PVH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-23 $0.0375",
+   "source_url": ""
+  },
+  {
    "company": "SPDR Portfolio S&P 500 High Dividend ETF",
    "ticker": "SPYD",
    "exchange": "NYSE ARCA",
@@ -31549,6 +31699,21 @@
    "source_url": ""
   },
   {
+   "company": "J.Jill, Inc.",
+   "ticker": "JILL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Kulicke and Soffa Industries, Inc.",
    "ticker": "KLIC",
    "exchange": "NASDAQ",
@@ -33589,6 +33754,21 @@
    "source_url": ""
   },
   {
+   "company": "NetApp, Inc.",
+   "ticker": "NTAP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-28 $0.52",
+   "source_url": ""
+  },
+  {
    "company": "NXG NextGen Infrastructure Income Fund",
    "ticker": "NXG",
    "exchange": "NYSE",
@@ -33691,6 +33871,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-01-30 $0.4921875",
+   "source_url": ""
+  },
+  {
+   "company": "Argan, Inc.",
+   "ticker": "AGX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-31 $0.5",
    "source_url": ""
   },
   {
