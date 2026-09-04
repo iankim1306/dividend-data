@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-05 03:18",
+ "updatedAt": "2026-09-05 06:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -40738,6 +40738,36 @@
    "collected_at": "2026-08-21 06:19"
   },
   {
+   "company": "McRae Industries, Inc.",
+   "exchange": "Pink Sheets",
+   "ticker": "MCRAA",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "2026-09-17",
+   "payable_date": "2026-10-01",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/mcrae-industries-inc-dividend-declared-302870279.html",
+   "collected_at": "2026-09-05 06:18"
+  },
+  {
+   "company": "McRae Industries, Inc.",
+   "exchange": "Pink Sheets",
+   "ticker": "MCRAB",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "2026-09-17",
+   "payable_date": "2026-10-01",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/mcrae-industries-inc-dividend-declared-302870279.html",
+   "collected_at": "2026-09-05 06:18"
+  },
+  {
    "company": "MDU Resources Group, Inc.",
    "exchange": "NYSE",
    "ticker": "MDU",
@@ -41165,6 +41195,36 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1552198/000110465926093467/whf-20260810xex99d1.htm",
    "collected_at": "2026-08-13 11:18"
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "exchange": "NYSE American",
+   "ticker": "GPUS",
+   "security": "common",
+   "amount_per_share": 0.04066734,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-10-06",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/hyperscale-data-announces-a-special-dividend-of-class-b-common-stock-302870418.html",
+   "collected_at": "2026-09-05 06:18"
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "exchange": "NYSE American",
+   "ticker": "GPUS",
+   "security": "preferred",
+   "amount_per_share": 0.04066734,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-10-06",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/hyperscale-data-announces-a-special-dividend-of-class-b-common-stock-302870418.html",
+   "collected_at": "2026-09-05 06:18"
   },
   {
    "company": "H&R BLOCK, INC.",
@@ -43790,5 +43850,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2940
+ "count": 2944
 }
