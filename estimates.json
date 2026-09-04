@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-04 09:31",
+ "updatedAt": "2026-09-04 12:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2518,
+ "count": 2529,
  "items": [
   {
    "company": "iShares 20+ Year Treasury Bond ETF",
@@ -2401,6 +2401,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1371",
    "source_url": ""
   },
   {
@@ -4876,6 +4891,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.1882",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1371",
    "source_url": ""
   },
   {
@@ -8671,6 +8701,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.24",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1371",
    "source_url": ""
   },
   {
@@ -12514,6 +12559,21 @@
    "source_url": ""
   },
   {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1371",
+   "source_url": ""
+  },
+  {
    "company": "Bentley Systems, Incorporated",
    "ticker": "BSY",
    "exchange": "Nasdaq",
@@ -15376,6 +15436,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1371",
    "source_url": ""
   },
   {
@@ -19201,6 +19276,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-28 $0.46",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1371",
    "source_url": ""
   },
   {
@@ -23089,6 +23179,21 @@
    "source_url": ""
   },
   {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1371",
+   "source_url": ""
+  },
+  {
    "company": "CSWC",
    "ticker": "CSWC",
    "exchange": "Nasdaq",
@@ -25726,6 +25831,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.05",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1371",
    "source_url": ""
   },
   {
@@ -29809,6 +29929,21 @@
    "source_url": ""
   },
   {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1371",
+   "source_url": ""
+  },
+  {
    "company": "CSWC",
    "ticker": "CSWC",
    "exchange": "Nasdaq",
@@ -33739,6 +33874,21 @@
    "source_url": ""
   },
   {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1371",
+   "source_url": ""
+  },
+  {
    "company": "CSWC",
    "ticker": "CSWC",
    "exchange": "Nasdaq",
@@ -36316,6 +36466,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-27 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1371",
    "source_url": ""
   },
   {
