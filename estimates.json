@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-04 18:18",
+ "updatedAt": "2026-09-04 21:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2529,
+ "count": 2540,
  "items": [
   {
    "company": "iShares 20+ Year Treasury Bond ETF",
@@ -2371,6 +2371,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-30 $0.155",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33168,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.33168",
    "source_url": ""
   },
   {
@@ -4891,6 +4906,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.1882",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33168,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.33168",
    "source_url": ""
   },
   {
@@ -8671,6 +8701,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-28 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33168,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.33168",
    "source_url": ""
   },
   {
@@ -12559,6 +12604,21 @@
    "source_url": ""
   },
   {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33168,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.33168",
+   "source_url": ""
+  },
+  {
    "company": "Bluerock Private Real Estate Fund",
    "ticker": "BPRE",
    "exchange": "NYSE",
@@ -15376,6 +15436,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33168,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.33168",
    "source_url": ""
   },
   {
@@ -19279,6 +19354,21 @@
    "source_url": ""
   },
   {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33168,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.33168",
+   "source_url": ""
+  },
+  {
    "company": "Bluerock Private Real Estate Fund",
    "ticker": "BPRE",
    "exchange": "NYSE",
@@ -23164,6 +23254,21 @@
    "source_url": ""
   },
   {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33168,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.33168",
+   "source_url": ""
+  },
+  {
    "company": "Alamo Group Inc.",
    "ticker": "ALG",
    "exchange": "NYSE",
@@ -25771,6 +25876,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-27 $1.3",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33168,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.33168",
    "source_url": ""
   },
   {
@@ -29929,6 +30049,21 @@
    "source_url": ""
   },
   {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33168,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.33168",
+   "source_url": ""
+  },
+  {
    "company": "Bluerock Private Real Estate Fund",
    "ticker": "BPRE",
    "exchange": "NYSE",
@@ -33859,6 +33994,21 @@
    "source_url": ""
   },
   {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33168,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.33168",
+   "source_url": ""
+  },
+  {
    "company": "ADAMAS TRUST, INC.",
    "ticker": "ADAM",
    "exchange": "Nasdaq",
@@ -36391,6 +36541,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-26 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33168,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $0.33168",
    "source_url": ""
   },
   {
