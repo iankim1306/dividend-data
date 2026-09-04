@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-04 06:18",
+ "updatedAt": "2026-09-04 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -2505,6 +2505,21 @@
    "collected_at": "2026-08-18T15:40:06+09:00"
   },
   {
+   "company": "The Toro Company",
+   "exchange": "NYSE",
+   "ticker": "TTC",
+   "security": "common",
+   "amount_per_share": 0.38,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-05-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/737758/000073775826000043/ttc-20260731.htm",
+   "collected_at": "2026-09-04 09:20"
+  },
+  {
    "company": "Verizon Communications Inc",
    "exchange": "NYSE",
    "ticker": "VZ",
@@ -4514,6 +4529,36 @@
    "collected_at": "2026-08-18T15:40:06+09:00"
   },
   {
+   "company": "The Toro Company",
+   "exchange": "NYSE",
+   "ticker": "TTC",
+   "security": "common",
+   "amount_per_share": 1.17,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/737758/000073775826000043/ttc-20260731.htm",
+   "collected_at": "2026-09-04 09:20"
+  },
+  {
+   "company": "The Toro Company",
+   "exchange": "NYSE",
+   "ticker": "TTC",
+   "security": "common",
+   "amount_per_share": 1.14,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/737758/000073775826000043/ttc-20260731.htm",
+   "collected_at": "2026-09-04 09:20"
+  },
+  {
    "company": "Verizon Communications Inc",
    "exchange": "NYSE",
    "ticker": "VZ",
@@ -4707,6 +4752,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000080/sjm-20260731.htm",
    "collected_at": "2026-08-27 09:29"
+  },
+  {
+   "company": "Medtronic plc",
+   "exchange": "NYSE",
+   "ticker": "MDT",
+   "security": "common",
+   "amount_per_share": 0.71,
+   "currency": "USD",
+   "record_date": "2025-07-25",
+   "payable_date": "2025-08-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1613103/000162828026060473/mdt-20260731.htm",
+   "collected_at": "2026-09-04 09:29"
   },
   {
    "company": "Unitil Corporation",
@@ -13784,6 +13844,21 @@
    "wire": "AGG:stockanalysis",
    "source_url": "https://stockanalysis.com/stocks/t/dividend/",
    "collected_at": "2026-08-18T15:40:06+09:00"
+  },
+  {
+   "company": "The Toro Company",
+   "exchange": "NYSE",
+   "ticker": "TTC",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-05-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/737758/000073775826000043/ttc-20260731.htm",
+   "collected_at": "2026-09-04 09:20"
   },
   {
    "company": "Verizon Communications Inc",
@@ -30679,6 +30754,21 @@
    "collected_at": "2026-08-07 00:20"
   },
   {
+   "company": "Medtronic plc",
+   "exchange": "NYSE",
+   "ticker": "MDT",
+   "security": "common",
+   "amount_per_share": 0.72,
+   "currency": "USD",
+   "record_date": "2026-07-31",
+   "payable_date": "2026-08-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1613103/000162828026060473/mdt-20260731.htm",
+   "collected_at": "2026-09-04 09:29"
+  },
+  {
    "company": "MGP Ingredients, Inc.",
    "exchange": "Nasdaq",
    "ticker": "MGPI",
@@ -32029,6 +32119,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/46765/000004676526000036/hp-20260603.htm",
    "collected_at": "2026-08-07 00:21"
+  },
+  {
+   "company": "HEWLETT PACKARD ENTERPRISE COMPANY",
+   "exchange": "NYSE",
+   "ticker": "HPE",
+   "security": "preferred",
+   "amount_per_share": 0.953125,
+   "currency": "USD",
+   "record_date": "2026-08-15",
+   "payable_date": "2026-09-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000080/hpe-20260731.htm",
+   "collected_at": "2026-09-04 09:29"
   },
   {
    "company": "H2O America",
@@ -37600,6 +37705,36 @@
    "collected_at": "2026-08-18 09:19"
   },
   {
+   "company": "DICK’S SPORTING GOODS, INC.",
+   "exchange": "NYSE",
+   "ticker": "DKS",
+   "security": "common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-09-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000036/dks-20260801.htm",
+   "collected_at": "2026-09-04 09:24"
+  },
+  {
+   "company": "DICK’S SPORTING GOODS, INC.",
+   "exchange": "NYSE",
+   "ticker": "DKS",
+   "security": "Class B common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-09-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000036/dks-20260801.htm",
+   "collected_at": "2026-09-04 09:24"
+  },
+  {
    "company": "Healthpeak Properties, Inc.",
    "exchange": "NYSE",
    "ticker": "DOC",
@@ -37895,6 +38030,36 @@
    "collected_at": "2026-08-21 09:28"
   },
   {
+   "company": "Gold.com, Inc.",
+   "exchange": "NYSE",
+   "ticker": "GOLD",
+   "security": "common",
+   "amount_per_share": 1.0,
+   "currency": "USD",
+   "record_date": "2026-09-16",
+   "payable_date": "2026-09-28",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1591588/000119312526380542/gold-ex99_1.htm",
+   "collected_at": "2026-09-04 09:19"
+  },
+  {
+   "company": "Gold.com, Inc.",
+   "exchange": "NYSE",
+   "ticker": "GOLD",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "2026-09-16",
+   "payable_date": "2026-09-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1591588/000119312526380542/gold-ex99_1.htm",
+   "collected_at": "2026-09-04 09:19"
+  },
+  {
    "company": "INVESCO MORTGAGE CAPITAL INC.",
    "exchange": "NYSE",
    "ticker": "IVR",
@@ -38057,6 +38222,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/hydro-one-limited-declares-quarterly-common-share-dividend-302849605.html",
    "collected_at": "2026-08-12 21:01"
+  },
+  {
+   "company": "Harley-Davidson, Inc.",
+   "exchange": "NYSE",
+   "ticker": "HOG",
+   "security": "common",
+   "amount_per_share": 0.1875,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/harley-davidson-inc-declares-dividend-302869559.html",
+   "collected_at": "2026-09-04 09:18"
   },
   {
    "company": "Royce Micro-Cap Trust, Inc.",
@@ -38841,6 +39021,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/john-hancock-closed-end-funds-declare-quarterly-distributions-302866792.html",
    "collected_at": "2026-09-02 06:19"
+  },
+  {
+   "company": "Hooker Furnishings Corporation",
+   "exchange": "Nasdaq-GS",
+   "ticker": "HOFT",
+   "security": "common",
+   "amount_per_share": 0.115,
+   "currency": "USD",
+   "record_date": "2026-09-15",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1077688/000117184326005878/exh_991.htm",
+   "collected_at": "2026-09-04 09:19"
   },
   {
    "company": "John Hancock Preferred Income Fund II",
@@ -40600,6 +40795,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/simmons-first-national-corporation-declares-0-215-per-share-dividend-302856856.html",
    "collected_at": "2026-08-21 06:18"
+  },
+  {
+   "company": "SMITH & WESSON BRANDS, INC.",
+   "exchange": "Nasdaq",
+   "ticker": "SWBI",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "2026-09-17",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1092796/000119312526381911/swbi-20260731.htm",
+   "collected_at": "2026-09-04 09:24"
   },
   {
    "company": "TrustCo Bank Corp NY",
@@ -42687,6 +42897,21 @@
    "collected_at": "2026-09-01 21:18"
   },
   {
+   "company": "Oxford Industries, Inc.",
+   "exchange": "NYSE",
+   "ticker": "OXM",
+   "security": "common",
+   "amount_per_share": 0.7,
+   "currency": "USD",
+   "record_date": "2026-10-16",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/75288/000007528826000082/oxm-8012026xexx991.htm",
+   "collected_at": "2026-09-04 09:19"
+  },
+  {
    "company": "Regency Centers Corporation",
    "exchange": "NASDAQ",
    "ticker": "REG",
@@ -43520,5 +43745,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2922
+ "count": 2937
 }
