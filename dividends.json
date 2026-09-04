@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-04 21:18",
+ "updatedAt": "2026-09-05 00:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -41583,6 +41583,21 @@
    "collected_at": "2026-08-15 09:36"
   },
   {
+   "company": "Academy Sports and Outdoors, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "ASO",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-09-16",
+   "payable_date": "2026-10-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/academy-sports--outdoors-announces-quarterly-cash-dividend-302869028.html",
+   "collected_at": "2026-09-05 00:18"
+  },
+  {
    "company": "Centerspace",
    "exchange": "NYSE",
    "ticker": "CSR",
@@ -43775,5 +43790,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2939
+ "count": 2940
 }

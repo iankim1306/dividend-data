@@ -1,23 +1,8 @@
 {
- "updatedAt": "2026-09-04 21:18",
+ "updatedAt": "2026-09-05 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2540,
+ "count": 2542,
  "items": [
-  {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-05",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
-   "source_url": ""
-  },
   {
    "company": "Blackstone Real Estate Income Trust, Inc.",
    "ticker": "BSTT",
@@ -37669,6 +37654,21 @@
    "source_url": ""
   },
   {
+   "company": "iShares 20+ Year Treasury Bond ETF",
+   "ticker": "TLT",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.330454,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-06 $0.330454",
+   "source_url": ""
+  },
+  {
    "company": "WEC Energy Group, Inc.",
    "ticker": "WEC",
    "exchange": "NYSE",
@@ -38101,6 +38101,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-04 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-10 $0.20833",
+   "source_url": ""
+  },
+  {
+   "company": "MSC Income Fund, Inc.",
+   "ticker": "MSIF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.11,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.11",
    "source_url": ""
   }
  ]
