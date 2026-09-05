@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-05 06:18",
+ "updatedAt": "2026-09-05 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2542,
+ "count": 2541,
  "items": [
   {
    "company": "Blackstone Real Estate Income Trust, Inc.",
@@ -2674,21 +2674,6 @@
    "source_url": ""
   },
   {
-   "company": "Best Buy Co., Inc.",
-   "ticker": "BBY",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.96,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-02 $0.96",
-   "source_url": ""
-  },
-  {
    "company": "BUCKLE, INC",
    "ticker": "BKE",
    "exchange": "NYSE",
@@ -2776,6 +2761,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.08854",
+   "source_url": ""
+  },
+  {
+   "company": "Best Buy Co., Inc.",
+   "ticker": "BBY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.92,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-05-03 $1.92",
    "source_url": ""
   },
   {
@@ -3001,21 +3001,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $1.47",
-   "source_url": ""
-  },
-  {
-   "company": "Finward Bancorp",
-   "ticker": "FNWD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-06",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-07 $0.12",
    "source_url": ""
   },
   {
@@ -10714,6 +10699,21 @@
    "source_url": ""
   },
   {
+   "company": "Dine Brands Global, Inc.",
+   "ticker": "DIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-09 $0.19",
+   "source_url": ""
+  },
+  {
    "company": "Equity LifeStyle Properties, Inc.",
    "ticker": "ELS",
    "exchange": "NYSE",
@@ -13024,21 +13024,6 @@
    "source_url": ""
   },
   {
-   "company": "Best Buy Co., Inc.",
-   "ticker": "BBY",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.96,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-02 $0.96",
-   "source_url": ""
-  },
-  {
    "company": "BUCKLE, INC",
    "ticker": "BKE",
    "exchange": "NYSE",
@@ -13126,6 +13111,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-01 $1.16",
+   "source_url": ""
+  },
+  {
+   "company": "Best Buy Co., Inc.",
+   "ticker": "BBY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.92,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-05-03 $1.92",
    "source_url": ""
   },
   {
@@ -13426,21 +13426,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $1.47",
-   "source_url": ""
-  },
-  {
-   "company": "Finward Bancorp",
-   "ticker": "FNWD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-05",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-07 $0.12",
    "source_url": ""
   },
   {
@@ -21424,6 +21409,21 @@
    "source_url": ""
   },
   {
+   "company": "Dine Brands Global, Inc.",
+   "ticker": "DIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-09 $0.19",
+   "source_url": ""
+  },
+  {
    "company": "Equity LifeStyle Properties, Inc.",
    "ticker": "ELS",
    "exchange": "NYSE",
@@ -23734,21 +23734,6 @@
    "source_url": ""
   },
   {
-   "company": "Best Buy Co., Inc.",
-   "ticker": "BBY",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.96,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-02 $0.96",
-   "source_url": ""
-  },
-  {
    "company": "BUCKLE, INC",
    "ticker": "BKE",
    "exchange": "NYSE",
@@ -23836,6 +23821,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-01 $1.16",
+   "source_url": ""
+  },
+  {
+   "company": "Best Buy Co., Inc.",
+   "ticker": "BBY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.92,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-05-03 $1.92",
    "source_url": ""
   },
   {
@@ -24121,21 +24121,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $1.47",
-   "source_url": ""
-  },
-  {
-   "company": "Finward Bancorp",
-   "ticker": "FNWD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-07",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-07 $0.12",
    "source_url": ""
   },
   {
@@ -32194,6 +32179,21 @@
    "source_url": ""
   },
   {
+   "company": "Dine Brands Global, Inc.",
+   "ticker": "DIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-09 $0.19",
+   "source_url": ""
+  },
+  {
    "company": "Equity LifeStyle Properties, Inc.",
    "ticker": "ELS",
    "exchange": "NYSE",
@@ -34504,21 +34504,6 @@
    "source_url": ""
   },
   {
-   "company": "Best Buy Co., Inc.",
-   "ticker": "BBY",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.96,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-02 $0.96",
-   "source_url": ""
-  },
-  {
    "company": "BUCKLE, INC",
    "ticker": "BKE",
    "exchange": "NYSE",
@@ -34621,6 +34606,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-01 $1.16",
+   "source_url": ""
+  },
+  {
+   "company": "Best Buy Co., Inc.",
+   "ticker": "BBY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.92,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-05-03 $1.92",
    "source_url": ""
   },
   {
@@ -34921,21 +34921,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $1.47",
-   "source_url": ""
-  },
-  {
-   "company": "Finward Bancorp",
-   "ticker": "FNWD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-06",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-07 $0.12",
    "source_url": ""
   },
   {

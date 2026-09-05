@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-05 06:18",
+ "updatedAt": "2026-09-05 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -794,6 +794,21 @@
    "wire": "AGG:stockanalysis",
    "source_url": "https://stockanalysis.com/etf/spy/dividend/",
    "collected_at": "2026-08-18T15:26:34+09:00"
+  },
+  {
+   "company": "Best Buy Co., Inc.",
+   "exchange": "NYSE",
+   "ticker": "BBY",
+   "security": "common",
+   "amount_per_share": 0.95,
+   "currency": "USD",
+   "record_date": "2025-01-31",
+   "payable_date": "2025-02-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000042/bby-20260801.htm",
+   "collected_at": "2026-09-05 09:20"
   },
   {
    "company": "HP INC.",
@@ -2563,6 +2578,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000022/bby-20260502.htm",
    "collected_at": "2026-08-13 12:03"
+  },
+  {
+   "company": "Best Buy Co., Inc.",
+   "exchange": "NYSE",
+   "ticker": "BBY",
+   "security": "common",
+   "amount_per_share": 1.9,
+   "currency": "USD",
+   "record_date": "2025-05-02",
+   "payable_date": "2025-05-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000042/bby-20260801.htm",
+   "collected_at": "2026-09-05 09:20"
   },
   {
    "company": "BUCKLE, INC",
@@ -7736,6 +7766,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/789933/000078993326000144/nacco-20260630.htm",
    "collected_at": "2026-08-13 12:08"
+  },
+  {
+   "company": "Best Buy Co., Inc.",
+   "exchange": "NYSE",
+   "ticker": "BBY",
+   "security": "common",
+   "amount_per_share": 0.96,
+   "currency": "USD",
+   "record_date": "2026-01-31",
+   "payable_date": "2026-02-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000042/bby-20260801.htm",
+   "collected_at": "2026-09-05 09:20"
   },
   {
    "company": "Rithm Property Trust Inc.",
@@ -13919,6 +13964,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000025/mrvl-20260801.htm",
    "collected_at": "2026-08-29 09:31"
+  },
+  {
+   "company": "Best Buy Co., Inc.",
+   "exchange": "NYSE",
+   "ticker": "BBY",
+   "security": "common",
+   "amount_per_share": 1.92,
+   "currency": "USD",
+   "record_date": "2026-05-02",
+   "payable_date": "2026-05-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000042/bby-20260801.htm",
+   "collected_at": "2026-09-05 09:20"
   },
   {
    "company": "Sempra",
@@ -26091,6 +26151,36 @@
    "collected_at": "2026-08-07 00:22"
   },
   {
+   "company": "Dillard’s, Inc.",
+   "exchange": "NYSE",
+   "ticker": "DDS",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-01",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/28917/000002891726000027/dds-20260801x10q.htm",
+   "collected_at": "2026-09-05 09:23"
+  },
+  {
+   "company": "Dillard’s, Inc.",
+   "exchange": "NYSE",
+   "ticker": "DDS",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-01",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/28917/000002891726000027/dds-20260801x10q.htm",
+   "collected_at": "2026-09-05 09:23"
+  },
+  {
    "company": "GERMAN AMERICAN BANCORP, INC.",
    "exchange": "Nasdaq",
    "ticker": "GABC",
@@ -37794,6 +37884,21 @@
    "collected_at": "2026-08-29 00:18"
   },
   {
+   "company": "Finward Bancorp",
+   "exchange": "Nasdaq",
+   "ticker": "FNWD",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-09-18",
+   "payable_date": "2026-09-25",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/919864/000162828026060718/fnwd-20260904xex991dividen.htm",
+   "collected_at": "2026-09-05 09:22"
+  },
+  {
    "company": "Global Payments Inc.",
    "exchange": "NYSE",
    "ticker": "GPN",
@@ -41422,6 +41527,21 @@
    "collected_at": "2026-08-15 00:19"
   },
   {
+   "company": "Dine Brands Global, Inc.",
+   "exchange": "NYSE",
+   "ticker": "DIN",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "2026-09-16",
+   "payable_date": "2026-10-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/49754/000119312526382825/d17654dex991.htm",
+   "collected_at": "2026-09-05 09:19"
+  },
+  {
    "company": "Ramsdens",
    "exchange": "Nasdaq",
    "ticker": "FCFS",
@@ -41568,6 +41688,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1530804/000153080426000015/trox-20260630.htm",
    "collected_at": "2026-08-14 09:36"
+  },
+  {
+   "company": "Virco Mfg. Corporation",
+   "exchange": "NASDAQ",
+   "ticker": "VIRC",
+   "security": "common",
+   "amount_per_share": 0.025,
+   "currency": "USD",
+   "record_date": "2026-09-18",
+   "payable_date": "2026-10-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/751365/000162828026060659/exhibit991q207312026pressr.htm",
+   "collected_at": "2026-09-05 09:19"
   },
   {
    "company": "Community Financial System, Inc.",
@@ -43850,5 +43985,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2944
+ "count": 2953
 }
