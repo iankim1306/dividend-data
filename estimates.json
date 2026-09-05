@@ -1,38 +1,8 @@
 {
- "updatedAt": "2026-09-05 21:18",
+ "updatedAt": "2026-09-06 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
  "count": 2541,
  "items": [
-  {
-   "company": "Blackstone Real Estate Income Trust, Inc.",
-   "ticker": "BSTT",
-   "exchange": "OTC",
-   "security": "common",
-   "amount_per_share": 0.0553,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-06",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-07 $0.0553",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco CurrencyShares Canadian Dollar Trust",
-   "ticker": "FXC",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.00662,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-06",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-08 $0.00662",
-   "source_url": ""
-  },
   {
    "company": "Company",
    "ticker": "MDV",
@@ -37744,6 +37714,21 @@
    "source_url": ""
   },
   {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.0553,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-07 $0.0553",
+   "source_url": ""
+  },
+  {
    "company": "TechnipFMC",
    "ticker": "FTI",
    "exchange": "NYSE",
@@ -37756,6 +37741,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-02 $0.05",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.00662,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-08 $0.00662",
    "source_url": ""
   },
   {
