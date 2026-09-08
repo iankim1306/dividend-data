@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-09 03:18",
+ "updatedAt": "2026-09-09 06:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -38523,6 +38523,21 @@
    "collected_at": "2026-08-13 11:48"
   },
   {
+   "company": "abrdn Income Credit Strategies Fund",
+   "exchange": "NYSE",
+   "ticker": "ACP PRA",
+   "security": "preferred",
+   "amount_per_share": 0.328125,
+   "currency": "USD",
+   "record_date": "2026-09-18",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/abrdn-income-credit-strategies-fund-5-25-series-a-perpetual-preferred-shares-declare-quarterly-dividend-302872720.html",
+   "collected_at": "2026-09-09 06:18"
+  },
+  {
    "company": "Ameren Corporation",
    "exchange": "NYSE",
    "ticker": "AEE",
@@ -40168,6 +40183,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/74208/000007420826000070/udr-20260727xex99d1.htm",
    "collected_at": "2026-08-13 11:42"
+  },
+  {
+   "company": "Universal Health Realty Income Trust",
+   "exchange": "NYSE",
+   "ticker": "UHT",
+   "security": "common",
+   "amount_per_share": 0.75,
+   "currency": "USD",
+   "record_date": "2026-09-21",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/universal-health-realty-income-trust-announces-dividend-302872729.html",
+   "collected_at": "2026-09-09 06:18"
   },
   {
    "company": "Invesco Bond Fund",
@@ -42399,6 +42429,21 @@
    "collected_at": "2026-08-13 11:17"
   },
   {
+   "company": "Realty Income Corporation",
+   "exchange": "NYSE",
+   "ticker": "O",
+   "security": "common",
+   "amount_per_share": 0.2715,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/136th-common-stock-monthly-dividend-increase-declared-by-realty-income-302872745.html",
+   "collected_at": "2026-09-09 06:18"
+  },
+  {
    "company": "Orion Properties Inc.",
    "exchange": "NYSE",
    "ticker": "ONL",
@@ -44000,5 +44045,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2954
+ "count": 2957
 }

@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-09 03:18",
+ "updatedAt": "2026-09-09 06:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2559,
+ "count": 2557,
  "items": [
   {
    "company": "Agree Realty Corporation",
@@ -571,21 +571,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.31",
-   "source_url": ""
-  },
-  {
-   "company": "Universal Health Realty Income Trust",
-   "ticker": "UHT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.75",
    "source_url": ""
   },
   {
@@ -1726,21 +1711,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-16 $2.47",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.271,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.271",
    "source_url": ""
   },
   {
@@ -3563,14 +3533,14 @@
    "ticker": "O",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.271,
+   "amount_per_share": 0.2715,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-11-14",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.271",
+   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -6518,14 +6488,14 @@
    "ticker": "O",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.271,
+   "amount_per_share": 0.2715,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-12-14",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.271",
+   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -9004,21 +8974,6 @@
    "source_url": ""
   },
   {
-   "company": "Universal Health Realty Income Trust",
-   "ticker": "UHT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.75",
-   "source_url": ""
-  },
-  {
    "company": "Vanguard Dividend Appreciation ETF",
    "ticker": "VIG",
    "exchange": "NYSE ARCA",
@@ -9751,6 +9706,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-01 $0.4225",
+   "source_url": ""
+  },
+  {
+   "company": "Universal Health Realty Income Trust",
+   "ticker": "UHT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.75",
    "source_url": ""
   },
   {
@@ -11213,14 +11183,14 @@
    "ticker": "O",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.271,
+   "amount_per_share": 0.2715,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-01-13",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.271",
+   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -13883,14 +13853,14 @@
    "ticker": "O",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.271,
+   "amount_per_share": 0.2715,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-02-12",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.271",
+   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -17063,14 +17033,14 @@
    "ticker": "O",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.271,
+   "amount_per_share": 0.2715,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-14",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.271",
+   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -19684,21 +19654,6 @@
    "source_url": ""
   },
   {
-   "company": "Universal Health Realty Income Trust",
-   "ticker": "UHT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.75",
-   "source_url": ""
-  },
-  {
    "company": "Vanguard Dividend Appreciation ETF",
    "ticker": "VIG",
    "exchange": "NYSE ARCA",
@@ -20431,6 +20386,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-01 $0.4225",
+   "source_url": ""
+  },
+  {
+   "company": "Universal Health Realty Income Trust",
+   "ticker": "UHT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.75",
    "source_url": ""
   },
   {
@@ -21548,14 +21518,14 @@
    "ticker": "O",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.271,
+   "amount_per_share": 0.2715,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-13",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.271",
+   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -24353,14 +24323,14 @@
    "ticker": "O",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.271,
+   "amount_per_share": 0.2715,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-05-13",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.271",
+   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -27728,14 +27698,14 @@
    "ticker": "O",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.271,
+   "amount_per_share": 0.2715,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-12",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.271",
+   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -30424,21 +30394,6 @@
    "source_url": ""
   },
   {
-   "company": "Universal Health Realty Income Trust",
-   "ticker": "UHT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.75",
-   "source_url": ""
-  },
-  {
    "company": "Vanguard Dividend Appreciation ETF",
    "ticker": "VIG",
    "exchange": "NYSE ARCA",
@@ -31156,6 +31111,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-01 $0.4225",
+   "source_url": ""
+  },
+  {
+   "company": "Universal Health Realty Income Trust",
+   "ticker": "UHT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.75",
    "source_url": ""
   },
   {
@@ -32228,14 +32198,14 @@
    "ticker": "O",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.271,
+   "amount_per_share": 0.2715,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-12",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.271",
+   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -35033,14 +35003,14 @@
    "ticker": "O",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.271,
+   "amount_per_share": 0.2715,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-08-11",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.271",
+   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
