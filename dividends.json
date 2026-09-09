@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-09 06:18",
+ "updatedAt": "2026-09-09 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -180,6 +180,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
    "collected_at": "2026-08-25 09:28"
+  },
+  {
+   "company": "EVI INDUSTRIES, INC.",
+   "exchange": "NYSE",
+   "ticker": "EVI",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "2024-09-26",
+   "payable_date": "2024-10-07",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/65312/000143774926029759/evi20260630_10k.htm",
+   "collected_at": "2026-09-09 09:23"
   },
   {
    "company": "Medical Properties Trust, Inc.",
@@ -2565,6 +2580,21 @@
    "collected_at": "2026-08-29 09:30"
   },
   {
+   "company": "Dell Technologies",
+   "exchange": "NYSE",
+   "ticker": "DELL",
+   "security": "common",
+   "amount_per_share": 0.525,
+   "currency": "USD",
+   "record_date": "2025-04-22",
+   "payable_date": "2025-05-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000046/dell-20260731.htm",
+   "collected_at": "2026-09-09 09:28"
+  },
+  {
    "company": "Best Buy Co., Inc.",
    "exchange": "NYSE",
    "ticker": "BBY",
@@ -4514,6 +4544,21 @@
    "collected_at": "2026-08-18T15:26:34+09:00"
   },
   {
+   "company": "Dell Technologies",
+   "exchange": "NYSE",
+   "ticker": "DELL",
+   "security": "common",
+   "amount_per_share": 0.525,
+   "currency": "USD",
+   "record_date": "2025-07-22",
+   "payable_date": "2025-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000046/dell-20260731.htm",
+   "collected_at": "2026-09-09 09:28"
+  },
+  {
    "company": "HP INC.",
    "exchange": "NYSE",
    "ticker": "HP",
@@ -5546,6 +5591,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1584509/000158450926000122/cik0-20260703.htm",
    "collected_at": "2026-08-14 09:40"
+  },
+  {
+   "company": "EVI INDUSTRIES, INC.",
+   "exchange": "NYSE",
+   "ticker": "EVI",
+   "security": "common",
+   "amount_per_share": 0.33,
+   "currency": "USD",
+   "record_date": "2025-09-25",
+   "payable_date": "2025-10-06",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/65312/000143774926029759/evi20260630_10k.htm",
+   "collected_at": "2026-09-09 09:23"
   },
   {
    "company": "iShares 20+ Year Treasury Bond ETF",
@@ -13739,6 +13799,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/718413/000165495426003762/cmtv_ex991.htm",
    "collected_at": "2026-08-13 11:53"
+  },
+  {
+   "company": "Dell Technologies",
+   "exchange": "NYSE",
+   "ticker": "DELL",
+   "security": "common",
+   "amount_per_share": 0.63,
+   "currency": "USD",
+   "record_date": "2026-04-21",
+   "payable_date": "2026-05-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000046/dell-20260731.htm",
+   "collected_at": "2026-09-09 09:28"
   },
   {
    "company": "Freeport-McMoRan Inc.",
@@ -25705,6 +25780,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/928340/000110465926093370/cwco-20260630x10q.htm",
    "collected_at": "2026-08-13 14:18"
+  },
+  {
+   "company": "Dell Technologies",
+   "exchange": "NYSE",
+   "ticker": "DELL",
+   "security": "common",
+   "amount_per_share": 0.63,
+   "currency": "USD",
+   "record_date": "2026-07-21",
+   "payable_date": "2026-07-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000046/dell-20260731.htm",
+   "collected_at": "2026-09-09 09:28"
   },
   {
    "company": "Amplify CWP Enhanced Dividend Income ETF",
@@ -37854,6 +37944,36 @@
    "collected_at": "2026-08-13 14:56"
   },
   {
+   "company": "Espey Mfg. & Electronics Corp.",
+   "exchange": "NYSE",
+   "ticker": "ESP",
+   "security": "common",
+   "amount_per_share": 0.75,
+   "currency": "USD",
+   "record_date": "2026-09-18",
+   "payable_date": "2026-09-25",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/33533/000117494726000848/ex99-1.htm",
+   "collected_at": "2026-09-09 09:21"
+  },
+  {
+   "company": "Espey Mfg. & Electronics Corp.",
+   "exchange": "NYSE",
+   "ticker": "ESP",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-09-18",
+   "payable_date": "2026-09-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/33533/000117494726000848/ex99-1.htm",
+   "collected_at": "2026-09-09 09:21"
+  },
+  {
    "company": "FIDELITY NATIONAL INFORMATION SERVICES, INC.",
    "exchange": "NYSE",
    "ticker": "FIS",
@@ -41735,6 +41855,21 @@
    "collected_at": "2026-09-05 09:19"
   },
   {
+   "company": "Benchmark Electronics, Inc.",
+   "exchange": "NYSE",
+   "ticker": "BHE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/863436/000119312526385235/bhe-ex99_1.htm",
+   "collected_at": "2026-09-09 09:21"
+  },
+  {
    "company": "Community Financial System, Inc.",
    "exchange": "NYSE",
    "ticker": "CBU",
@@ -41836,6 +41971,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/centerspace-announces-quarterly-dividend-302869236.html",
    "collected_at": "2026-09-04 06:18"
+  },
+  {
+   "company": "Essential Properties Realty Trust, Inc.",
+   "exchange": "NYSE",
+   "ticker": "EPRT",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1728951/000172895126000054/ex991-dividendq32026.htm",
+   "collected_at": "2026-09-09 09:19"
   },
   {
    "company": "Ituran Location and Control Ltd.",
@@ -42427,6 +42577,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1487428/000143774926025691/ex_998155.htm",
    "collected_at": "2026-08-13 11:17"
+  },
+  {
+   "company": "Korn Ferry",
+   "exchange": "NYSE",
+   "ticker": "KFY",
+   "security": "common",
+   "amount_per_share": 0.55,
+   "currency": "USD",
+   "record_date": "2026-09-22",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/56679/000005667926000023/kfy-20260731xex991q1fy27di.htm",
+   "collected_at": "2026-09-09 09:23"
   },
   {
    "company": "Realty Income Corporation",
@@ -43302,6 +43467,21 @@
    "collected_at": "2026-08-15 09:35"
   },
   {
+   "company": "ABM",
+   "exchange": "NYSE",
+   "ticker": "ABM",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-11-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/771497/000119312526384364/abm-ex99_1.htm",
+   "collected_at": "2026-09-09 09:20"
+  },
+  {
    "company": "The Hartford",
    "exchange": "NYSE",
    "ticker": "HIG",
@@ -44045,5 +44225,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2957
+ "count": 2969
 }

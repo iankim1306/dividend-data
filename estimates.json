@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-09 06:18",
+ "updatedAt": "2026-09-09 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2557,
+ "count": 2564,
  "items": [
   {
    "company": "Agree Realty Corporation",
@@ -1081,21 +1081,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-08 $0.54",
-   "source_url": ""
-  },
-  {
-   "company": "Benchmark Electronics, Inc.",
-   "ticker": "BHE",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-10 $0.17",
    "source_url": ""
   },
   {
@@ -2656,21 +2641,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-05-03 $1.92",
-   "source_url": ""
-  },
-  {
-   "company": "ABM",
-   "ticker": "ABM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.29,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.29",
    "source_url": ""
   },
   {
@@ -10564,21 +10534,6 @@
    "source_url": ""
   },
   {
-   "company": "Benchmark Electronics, Inc.",
-   "ticker": "BHE",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-08",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-10 $0.17",
-   "source_url": ""
-  },
-  {
    "company": "Dine Brands Global, Inc.",
    "ticker": "DIN",
    "exchange": "NYSE",
@@ -10789,6 +10744,21 @@
    "source_url": ""
   },
   {
+   "company": "Benchmark Electronics, Inc.",
+   "ticker": "BHE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-13 $0.17",
+   "source_url": ""
+  },
+  {
    "company": "Community Financial System, Inc.",
    "ticker": "CBU",
    "exchange": "NYSE",
@@ -10996,6 +10966,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.5625",
+   "source_url": ""
+  },
+  {
+   "company": "Essential Properties Realty Trust, Inc.",
+   "ticker": "EPRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-14 $0.32",
    "source_url": ""
   },
   {
@@ -11596,6 +11581,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.03",
+   "source_url": ""
+  },
+  {
+   "company": "Korn Ferry",
+   "ticker": "KFY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.55,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.55",
    "source_url": ""
   },
   {
@@ -12664,6 +12664,21 @@
    "source_url": ""
   },
   {
+   "company": "Dell Technologies",
+   "ticker": "DELL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.63,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.63",
+   "source_url": ""
+  },
+  {
    "company": "EOG RESOURCES, INC.",
    "ticker": "EOG",
    "exchange": "NYSE",
@@ -13020,7 +13035,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.29",
+   "basis": "last confirmed 2026-11-02 $0.29",
    "source_url": ""
   },
   {
@@ -21244,21 +21259,6 @@
    "source_url": ""
   },
   {
-   "company": "Benchmark Electronics, Inc.",
-   "ticker": "BHE",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-10 $0.17",
-   "source_url": ""
-  },
-  {
    "company": "Dine Brands Global, Inc.",
    "ticker": "DIN",
    "exchange": "NYSE",
@@ -21436,6 +21436,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-14 $0.01",
+   "source_url": ""
+  },
+  {
+   "company": "Benchmark Electronics, Inc.",
+   "ticker": "BHE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-13 $0.17",
    "source_url": ""
   },
   {
@@ -21691,6 +21706,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.5625",
+   "source_url": ""
+  },
+  {
+   "company": "Essential Properties Realty Trust, Inc.",
+   "ticker": "EPRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-14 $0.32",
    "source_url": ""
   },
   {
@@ -22231,6 +22261,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $11.25",
+   "source_url": ""
+  },
+  {
+   "company": "Korn Ferry",
+   "ticker": "KFY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.55,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.55",
    "source_url": ""
   },
   {
@@ -23374,6 +23419,21 @@
    "source_url": ""
   },
   {
+   "company": "Dell Technologies",
+   "ticker": "DELL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.63,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.63",
+   "source_url": ""
+  },
+  {
    "company": "EOG RESOURCES, INC.",
    "ticker": "EOG",
    "exchange": "NYSE",
@@ -23715,7 +23775,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.29",
+   "basis": "last confirmed 2026-11-02 $0.29",
    "source_url": ""
   },
   {
@@ -31984,21 +32044,6 @@
    "source_url": ""
   },
   {
-   "company": "Benchmark Electronics, Inc.",
-   "ticker": "BHE",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-10 $0.17",
-   "source_url": ""
-  },
-  {
    "company": "Dine Brands Global, Inc.",
    "ticker": "DIN",
    "exchange": "NYSE",
@@ -32254,6 +32299,21 @@
    "source_url": ""
   },
   {
+   "company": "Benchmark Electronics, Inc.",
+   "ticker": "BHE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-13 $0.17",
+   "source_url": ""
+  },
+  {
    "company": "Community Financial System, Inc.",
    "ticker": "CBU",
    "exchange": "NYSE",
@@ -32461,6 +32521,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.5625",
+   "source_url": ""
+  },
+  {
+   "company": "Essential Properties Realty Trust, Inc.",
+   "ticker": "EPRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-14 $0.32",
    "source_url": ""
   },
   {
@@ -32986,6 +33061,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $11.25",
+   "source_url": ""
+  },
+  {
+   "company": "Korn Ferry",
+   "ticker": "KFY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.55,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.55",
    "source_url": ""
   },
   {
@@ -34129,6 +34219,21 @@
    "source_url": ""
   },
   {
+   "company": "Dell Technologies",
+   "ticker": "DELL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.63,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.63",
+   "source_url": ""
+  },
+  {
    "company": "EOG RESOURCES, INC.",
    "ticker": "EOG",
    "exchange": "NYSE",
@@ -34485,7 +34590,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.29",
+   "basis": "last confirmed 2026-11-02 $0.29",
    "source_url": ""
   },
   {
