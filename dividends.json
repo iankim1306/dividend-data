@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-09 18:18",
+ "updatedAt": "2026-09-09 21:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -42887,6 +42887,21 @@
    "collected_at": "2026-09-03 09:30"
   },
   {
+   "company": "Johnson Controls International plc",
+   "exchange": "NYSE",
+   "ticker": "JCI",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-09-21",
+   "payable_date": "2026-10-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/johnson-controls-announces-quarterly-dividend-302873683.html",
+   "collected_at": "2026-09-09 21:18"
+  },
+  {
    "company": "Kayne Anderson BDC, Inc.",
    "exchange": "NYSE",
    "ticker": "KBDC",
@@ -44225,5 +44240,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2969
+ "count": 2970
 }
