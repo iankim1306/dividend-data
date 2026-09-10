@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-10 21:18",
+ "updatedAt": "2026-09-11 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2588,
+ "count": 2600,
  "items": [
   {
    "company": "Agree Realty Corporation",
@@ -2554,6 +2554,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "GERMAN AMERICAN BANCORP, INC.",
    "ticker": "GABC",
    "exchange": "Nasdaq",
@@ -4876,6 +4891,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-01 $18.125",
+   "source_url": ""
+  },
+  {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.045",
    "source_url": ""
   },
   {
@@ -9244,6 +9274,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "Franklin Street Properties Corp.",
    "ticker": "FSP",
    "exchange": "NYSE",
@@ -12739,6 +12784,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "INTERNATIONAL PAPER COMPANY",
    "ticker": "IP",
    "exchange": "NYSE",
@@ -15511,6 +15571,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.145",
+   "source_url": ""
+  },
+  {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.045",
    "source_url": ""
   },
   {
@@ -19519,6 +19594,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "G-III Apparel Group, Ltd.",
    "ticker": "GIII",
    "exchange": "Nasdaq",
@@ -23404,6 +23494,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "NXG NextGen Infrastructure Income Fund",
    "ticker": "NXG",
    "exchange": "NYSE",
@@ -26281,6 +26386,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.045",
    "source_url": ""
   },
   {
@@ -30181,6 +30301,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.145",
+   "source_url": ""
+  },
+  {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.045",
    "source_url": ""
   },
   {
@@ -34234,6 +34369,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "NetApp, Inc.",
    "ticker": "NTAP",
    "exchange": "Nasdaq",
@@ -36979,6 +37129,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "HEALTHSTREAM INC",
    "ticker": "HSTM",
    "exchange": "Nasdaq",
@@ -38821,6 +38986,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-11 $0.46",
+   "source_url": ""
+  },
+  {
+   "company": "Horizon Technology Finance Corporation",
+   "ticker": "HRZN",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.03,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.03",
    "source_url": ""
   }
  ]
