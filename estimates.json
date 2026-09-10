@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-11 03:18",
+ "updatedAt": "2026-09-11 06:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2600,
+ "count": 2625,
  "items": [
   {
    "company": "Agree Realty Corporation",
@@ -2341,6 +2341,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1495",
    "source_url": ""
   },
   {
@@ -4786,6 +4816,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1495",
    "source_url": ""
   },
   {
@@ -8704,6 +8764,36 @@
    "source_url": ""
   },
   {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1495",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -12604,6 +12694,36 @@
    "source_url": ""
   },
   {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1495",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -14194,6 +14314,21 @@
    "source_url": ""
   },
   {
+   "company": "AbbVie Inc.",
+   "ticker": "ABBV",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.73,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $1.73",
+   "source_url": ""
+  },
+  {
    "company": "AmeriServ Financial, Inc.",
    "ticker": "ASRV",
    "exchange": "NASDAQ",
@@ -15511,6 +15646,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1495",
    "source_url": ""
   },
   {
@@ -19396,6 +19561,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1495",
    "source_url": ""
   },
   {
@@ -23404,6 +23599,36 @@
    "source_url": ""
   },
   {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1495",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -25039,6 +25264,21 @@
    "source_url": ""
   },
   {
+   "company": "AbbVie Inc.",
+   "ticker": "ABBV",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.73,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $1.73",
+   "source_url": ""
+  },
+  {
    "company": "AmeriServ Financial, Inc.",
    "ticker": "ASRV",
    "exchange": "NASDAQ",
@@ -26131,6 +26371,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.26",
+   "source_url": ""
+  },
+  {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1495",
    "source_url": ""
   },
   {
@@ -30229,6 +30499,36 @@
    "source_url": ""
   },
   {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1495",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -34264,6 +34564,36 @@
    "source_url": ""
   },
   {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1495",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -35959,6 +36289,21 @@
    "source_url": ""
   },
   {
+   "company": "AbbVie Inc.",
+   "ticker": "ABBV",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.73,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $1.73",
+   "source_url": ""
+  },
+  {
    "company": "AmeriServ Financial, Inc.",
    "ticker": "ASRV",
    "exchange": "NASDAQ",
@@ -36901,6 +37246,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.1495",
    "source_url": ""
   },
   {

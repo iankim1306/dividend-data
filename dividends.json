@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-11 03:18",
+ "updatedAt": "2026-09-11 06:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -39266,6 +39266,21 @@
    "collected_at": "2026-08-06 23:58"
   },
   {
+   "company": "FS Credit Opportunities Corp.",
+   "exchange": "NYSE",
+   "ticker": "FSCO",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "2026-09-23",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/fs-credit-opportunities-corp-fsco-declares-distribution-for-september-2026-302875729.html",
+   "collected_at": "2026-09-11 06:18"
+  },
+  {
    "company": "FS KKR Capital Corp.",
    "exchange": "NYSE",
    "ticker": "FSK",
@@ -39279,6 +39294,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1422183/000162828026053783/fsk-20260630.htm",
    "collected_at": "2026-08-14 09:31"
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "exchange": "NYSE",
+   "ticker": "FSSL",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "2026-09-23",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/fs-specialty-lending-fund-fssl-declares-distribution-for-september-2026-302875711.html",
+   "collected_at": "2026-09-11 06:18"
   },
   {
    "company": "Gladstone Investment Corporation",
@@ -43916,6 +43946,21 @@
    "collected_at": "2026-08-15 09:42"
   },
   {
+   "company": "AbbVie Inc.",
+   "exchange": "NYSE",
+   "ticker": "ABBV",
+   "security": "common",
+   "amount_per_share": 1.73,
+   "currency": "USD",
+   "record_date": "2026-10-15",
+   "payable_date": "2026-11-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/abbvie-declares-quarterly-dividend-302875664.html",
+   "collected_at": "2026-09-11 06:18"
+  },
+  {
    "company": "Horizon Technology Finance Corporation",
    "exchange": "NASDAQ",
    "ticker": "HRZN",
@@ -44495,5 +44540,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 2987
+ "count": 2990
 }
