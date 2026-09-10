@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-10 06:18",
+ "updatedAt": "2026-09-10 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2584,
+ "count": 2588,
  "items": [
   {
    "company": "Agree Realty Corporation",
@@ -2254,21 +2254,6 @@
    "source_url": ""
   },
   {
-   "company": "Argan, Inc.",
-   "ticker": "AGX",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.5",
-   "source_url": ""
-  },
-  {
    "company": "Bluerock Private Real Estate Fund",
    "ticker": "BPRE",
    "exchange": "NYSE",
@@ -4006,21 +3991,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-23 $0.1605",
-   "source_url": ""
-  },
-  {
-   "company": "Signet Jewelers Limited",
-   "ticker": "SIG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-20",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-21 $0.35",
    "source_url": ""
   },
   {
@@ -10534,6 +10504,21 @@
    "source_url": ""
   },
   {
+   "company": "Build-A-Bear Workshop, Inc.",
+   "ticker": "BBW",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Edgewell Personal Care Company",
    "ticker": "EPC",
    "exchange": "NYSE",
@@ -11854,6 +11839,21 @@
    "source_url": ""
   },
   {
+   "company": "Intuit Inc.",
+   "ticker": "INTU",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.38,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $1.38",
+   "source_url": ""
+  },
+  {
    "company": "Invitation Homes Inc.",
    "ticker": "INVH",
    "exchange": "NYSE",
@@ -12653,14 +12653,14 @@
    "ticker": "AGX",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.5,
+   "amount_per_share": 0.7,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-01-29",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.5",
+   "basis": "last confirmed 2026-10-30 $0.7",
    "source_url": ""
   },
   {
@@ -14655,7 +14655,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-21 $0.35",
+   "basis": "last confirmed 2026-11-20 $0.35",
    "source_url": ""
   },
   {
@@ -21289,6 +21289,21 @@
    "source_url": ""
   },
   {
+   "company": "Build-A-Bear Workshop, Inc.",
+   "ticker": "BBW",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Edgewell Personal Care Company",
    "ticker": "EPC",
    "exchange": "NYSE",
@@ -22594,6 +22609,21 @@
    "source_url": ""
   },
   {
+   "company": "Intuit Inc.",
+   "ticker": "INTU",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.38,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $1.38",
+   "source_url": ""
+  },
+  {
    "company": "Invitation Homes Inc.",
    "ticker": "INVH",
    "exchange": "NYSE",
@@ -23453,14 +23483,14 @@
    "ticker": "AGX",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.5,
+   "amount_per_share": 0.7,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-30",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.5",
+   "basis": "last confirmed 2026-10-30 $0.7",
    "source_url": ""
   },
   {
@@ -25425,7 +25455,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-21 $0.35",
+   "basis": "last confirmed 2026-11-20 $0.35",
    "source_url": ""
   },
   {
@@ -32149,6 +32179,21 @@
    "source_url": ""
   },
   {
+   "company": "Build-A-Bear Workshop, Inc.",
+   "ticker": "BBW",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Edgewell Personal Care Company",
    "ticker": "EPC",
    "exchange": "NYSE",
@@ -33454,6 +33499,21 @@
    "source_url": ""
   },
   {
+   "company": "Intuit Inc.",
+   "ticker": "INTU",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.38,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $1.38",
+   "source_url": ""
+  },
+  {
    "company": "Invitation Homes Inc.",
    "ticker": "INVH",
    "exchange": "NYSE",
@@ -34298,14 +34358,14 @@
    "ticker": "AGX",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.5,
+   "amount_per_share": 0.7,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-30",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.5",
+   "basis": "last confirmed 2026-10-30 $0.7",
    "source_url": ""
   },
   {
@@ -36270,7 +36330,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-21 $0.35",
+   "basis": "last confirmed 2026-11-20 $0.35",
    "source_url": ""
   },
   {
