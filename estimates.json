@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-11 06:18",
+ "updatedAt": "2026-09-11 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2625,
+ "count": 2636,
  "items": [
   {
    "company": "Agree Realty Corporation",
@@ -514,21 +514,6 @@
    "source_url": ""
   },
   {
-   "company": "Saga Communications, Inc",
-   "ticker": "SGA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.5",
-   "source_url": ""
-  },
-  {
    "company": "SOUTHWEST GAS HOLDINGS, INC.",
    "ticker": "SWX",
    "exchange": "NYSE",
@@ -691,21 +676,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-01 $0.01",
-   "source_url": ""
-  },
-  {
-   "company": "Macy's, Inc.",
-   "ticker": "M",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1915,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.1915",
    "source_url": ""
   },
   {
@@ -1549,21 +1519,6 @@
    "source_url": ""
   },
   {
-   "company": "REDWOOD TRUST, INC.",
-   "ticker": "RWT",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.625",
-   "source_url": ""
-  },
-  {
    "company": "Starwood Property Trust, Inc.",
    "ticker": "STWD",
    "exchange": "NYSE",
@@ -1819,6 +1774,21 @@
    "source_url": ""
   },
   {
+   "company": "Shoe Station Group, Inc.",
+   "ticker": "SHOE",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-20 $0.17",
+   "source_url": ""
+  },
+  {
    "company": "AMKOR TECHNOLOGY, INC.",
    "ticker": "AMKR",
    "exchange": "Nasdaq",
@@ -1981,6 +1951,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-23 $0.05",
+   "source_url": ""
+  },
+  {
+   "company": "AMERICAN EAGLE OUTFITTERS, INC.",
+   "ticker": "AEO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-24 $0.125",
    "source_url": ""
   },
   {
@@ -2551,21 +2536,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.5",
-   "source_url": ""
-  },
-  {
-   "company": "BUCKLE, INC",
-   "ticker": "BKE",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-02 $0.35",
    "source_url": ""
   },
   {
@@ -5686,6 +5656,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-04 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "BUCKLE, INC",
+   "ticker": "BKE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-04 $0.35",
    "source_url": ""
   },
   {
@@ -8989,21 +8974,6 @@
    "source_url": ""
   },
   {
-   "company": "Saga Communications, Inc",
-   "ticker": "SGA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.5",
-   "source_url": ""
-  },
-  {
    "company": "SOUTHWEST GAS HOLDINGS, INC.",
    "ticker": "SWX",
    "exchange": "NYSE",
@@ -9334,6 +9304,21 @@
    "source_url": ""
   },
   {
+   "company": "FIRST GUARANTY BANCSHARES, INC.",
+   "ticker": "FGBI",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.01",
+   "source_url": ""
+  },
+  {
    "company": "Flagstar Bank",
    "ticker": "FLG",
    "exchange": "NYSE",
@@ -9481,21 +9466,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $1.65",
-   "source_url": ""
-  },
-  {
-   "company": "Macy's, Inc.",
-   "ticker": "M",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1915,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.1915",
    "source_url": ""
   },
   {
@@ -9676,6 +9646,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-01 $1.38",
+   "source_url": ""
+  },
+  {
+   "company": "Redwood Trust, Inc.",
+   "ticker": "RWT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.18,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.18",
    "source_url": ""
   },
   {
@@ -10096,6 +10081,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.53",
+   "source_url": ""
+  },
+  {
+   "company": "Macy's, Inc.",
+   "ticker": "M",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1915,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.1915",
    "source_url": ""
   },
   {
@@ -11389,21 +11389,6 @@
    "source_url": ""
   },
   {
-   "company": "REDWOOD TRUST, INC.",
-   "ticker": "RWT",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.625",
-   "source_url": ""
-  },
-  {
    "company": "Stellus Capital Investment Corp",
    "ticker": "SCM",
    "exchange": "NYSE",
@@ -11869,6 +11854,21 @@
    "source_url": ""
   },
   {
+   "company": "Redwood Trust, Inc.",
+   "ticker": "RWT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.625",
+   "source_url": ""
+  },
+  {
    "company": "Sunstone Hotel Investors, Inc.",
    "ticker": "SHO",
    "exchange": "NYSE",
@@ -12064,6 +12064,21 @@
    "source_url": ""
   },
   {
+   "company": "Saga Communications, Inc.",
+   "ticker": "SGA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Chiron Real Estate Inc.",
    "ticker": "XRN",
    "exchange": "NYSE",
@@ -12091,6 +12106,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-19 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "Shoe Station Group, Inc.",
+   "ticker": "SHOE",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-20 $0.17",
    "source_url": ""
   },
   {
@@ -12376,6 +12406,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "AMERICAN EAGLE OUTFITTERS, INC.",
+   "ticker": "AEO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-24 $0.125",
    "source_url": ""
   },
   {
@@ -13111,21 +13156,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
-   "company": "BUCKLE, INC",
-   "ticker": "BKE",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-02 $0.35",
    "source_url": ""
   },
   {
@@ -16609,6 +16639,21 @@
    "source_url": ""
   },
   {
+   "company": "BUCKLE, INC",
+   "ticker": "BKE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-04 $0.35",
+   "source_url": ""
+  },
+  {
    "company": "Blackstone Real Estate Income Trust, Inc.",
    "ticker": "BSTT",
    "exchange": "OTC",
@@ -19954,21 +19999,6 @@
    "source_url": ""
   },
   {
-   "company": "Saga Communications, Inc",
-   "ticker": "SGA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.5",
-   "source_url": ""
-  },
-  {
    "company": "NXG Cushing® Midstream Energy Fund",
    "ticker": "SRV",
    "exchange": "NYSE",
@@ -20314,6 +20344,21 @@
    "source_url": ""
   },
   {
+   "company": "FIRST GUARANTY BANCSHARES, INC.",
+   "ticker": "FGBI",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.01",
+   "source_url": ""
+  },
+  {
    "company": "Flagstar Bank",
    "ticker": "FLG",
    "exchange": "NYSE",
@@ -20446,21 +20491,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $1.65",
-   "source_url": ""
-  },
-  {
-   "company": "Macy's, Inc.",
-   "ticker": "M",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1915,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.1915",
    "source_url": ""
   },
   {
@@ -20641,6 +20671,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-01 $1.38",
+   "source_url": ""
+  },
+  {
+   "company": "Redwood Trust, Inc.",
+   "ticker": "RWT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.18,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.18",
    "source_url": ""
   },
   {
@@ -21046,6 +21091,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.53",
+   "source_url": ""
+  },
+  {
+   "company": "Macy's, Inc.",
+   "ticker": "M",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1915,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.1915",
    "source_url": ""
   },
   {
@@ -22339,21 +22399,6 @@
    "source_url": ""
   },
   {
-   "company": "REDWOOD TRUST, INC.",
-   "ticker": "RWT",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.625",
-   "source_url": ""
-  },
-  {
    "company": "Starwood Property Trust, Inc.",
    "ticker": "STWD",
    "exchange": "NYSE",
@@ -22774,6 +22819,21 @@
    "source_url": ""
   },
   {
+   "company": "Redwood Trust, Inc.",
+   "ticker": "RWT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.625",
+   "source_url": ""
+  },
+  {
    "company": "Sunstone Hotel Investors, Inc.",
    "ticker": "SHO",
    "exchange": "NYSE",
@@ -22984,6 +23044,21 @@
    "source_url": ""
   },
   {
+   "company": "Saga Communications, Inc.",
+   "ticker": "SGA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Chiron Real Estate Inc.",
    "ticker": "XRN",
    "exchange": "NYSE",
@@ -23041,6 +23116,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-23 $0.1605",
+   "source_url": ""
+  },
+  {
+   "company": "Shoe Station Group, Inc.",
+   "ticker": "SHOE",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-20 $0.17",
    "source_url": ""
   },
   {
@@ -23311,6 +23401,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "AMERICAN EAGLE OUTFITTERS, INC.",
+   "ticker": "AEO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-24 $0.125",
    "source_url": ""
   },
   {
@@ -24061,21 +24166,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.5",
-   "source_url": ""
-  },
-  {
-   "company": "BUCKLE, INC",
-   "ticker": "BKE",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-02 $0.35",
    "source_url": ""
   },
   {
@@ -27559,6 +27649,21 @@
    "source_url": ""
   },
   {
+   "company": "BUCKLE, INC",
+   "ticker": "BKE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-04 $0.35",
+   "source_url": ""
+  },
+  {
    "company": "Cogent Communications Holdings, Inc.",
    "ticker": "CCOI",
    "exchange": "NASDAQ",
@@ -30979,21 +31084,6 @@
    "source_url": ""
   },
   {
-   "company": "Saga Communications, Inc",
-   "ticker": "SGA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.5",
-   "source_url": ""
-  },
-  {
    "company": "SOUTHWEST GAS HOLDINGS, INC.",
    "ticker": "SWX",
    "exchange": "NYSE",
@@ -31309,6 +31399,21 @@
    "source_url": ""
   },
   {
+   "company": "FIRST GUARANTY BANCSHARES, INC.",
+   "ticker": "FGBI",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.01",
+   "source_url": ""
+  },
+  {
    "company": "Flagstar Bank",
    "ticker": "FLG",
    "exchange": "NYSE",
@@ -31441,21 +31546,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $1.65",
-   "source_url": ""
-  },
-  {
-   "company": "Macy's, Inc.",
-   "ticker": "M",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1915,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.1915",
    "source_url": ""
   },
   {
@@ -31636,6 +31726,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-01 $1.38",
+   "source_url": ""
+  },
+  {
+   "company": "Redwood Trust, Inc.",
+   "ticker": "RWT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.18,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.18",
    "source_url": ""
   },
   {
@@ -32071,6 +32176,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.53",
+   "source_url": ""
+  },
+  {
+   "company": "Macy's, Inc.",
+   "ticker": "M",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1915,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.1915",
    "source_url": ""
   },
   {
@@ -33364,21 +33484,6 @@
    "source_url": ""
   },
   {
-   "company": "REDWOOD TRUST, INC.",
-   "ticker": "RWT",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.625",
-   "source_url": ""
-  },
-  {
    "company": "Starwood Property Trust, Inc.",
    "ticker": "STWD",
    "exchange": "NYSE",
@@ -33814,6 +33919,21 @@
    "source_url": ""
   },
   {
+   "company": "Redwood Trust, Inc.",
+   "ticker": "RWT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.625",
+   "source_url": ""
+  },
+  {
    "company": "Sunstone Hotel Investors, Inc.",
    "ticker": "SHO",
    "exchange": "NYSE",
@@ -34024,6 +34144,21 @@
    "source_url": ""
   },
   {
+   "company": "Saga Communications, Inc.",
+   "ticker": "SGA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Global X NASDAQ 100 Covered Call ETF",
    "ticker": "QYLD",
    "exchange": "NYSE ARCA",
@@ -34081,6 +34216,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-19 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "Shoe Station Group, Inc.",
+   "ticker": "SHOE",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-20 $0.17",
    "source_url": ""
   },
   {
@@ -34336,6 +34486,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "AMERICAN EAGLE OUTFITTERS, INC.",
+   "ticker": "AEO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-24 $0.125",
    "source_url": ""
   },
   {
@@ -35071,21 +35236,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.5",
-   "source_url": ""
-  },
-  {
-   "company": "BUCKLE, INC",
-   "ticker": "BKE",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-02 $0.35",
    "source_url": ""
   },
   {
@@ -38626,6 +38776,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-04 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "BUCKLE, INC",
+   "ticker": "BKE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-04 $0.35",
    "source_url": ""
   },
   {
