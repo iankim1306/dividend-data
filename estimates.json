@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-12 06:18",
+ "updatedAt": "2026-09-12 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2735,
+ "count": 2760,
  "items": [
   {
    "company": "Agree Realty Corporation",
@@ -2629,6 +2629,36 @@
    "source_url": ""
   },
   {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "ticker": "THQ",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "ticker": "THW",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "The Toro Company",
    "ticker": "TTC",
    "exchange": "NYSE",
@@ -5161,6 +5191,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "ticker": "THQ",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "ticker": "THW",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.12",
    "source_url": ""
   },
   {
@@ -9409,6 +9469,36 @@
    "source_url": ""
   },
   {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "ticker": "THQ",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "ticker": "THW",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Tennant Company",
    "ticker": "TNC",
    "exchange": "NYSE",
@@ -12784,6 +12874,21 @@
    "source_url": ""
   },
   {
+   "company": "Village Super Market, Inc.",
+   "ticker": "VLGEA",
+   "exchange": "NSD",
+   "security": "common",
+   "amount_per_share": 0.1625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-22 $0.1625",
+   "source_url": ""
+  },
+  {
    "company": "Versant Media Group, Inc.",
    "ticker": "VSNT",
    "exchange": "Nasdaq",
@@ -13366,6 +13471,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-30 $0.155",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "ticker": "THQ",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "ticker": "THW",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.12",
    "source_url": ""
   },
   {
@@ -16426,6 +16561,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "ticker": "THQ",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "ticker": "THW",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.12",
    "source_url": ""
   },
   {
@@ -20569,6 +20734,36 @@
    "source_url": ""
   },
   {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "ticker": "THQ",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "ticker": "THW",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "UDR, Inc.",
    "ticker": "UDR",
    "exchange": "NYSE",
@@ -24184,6 +24379,21 @@
    "source_url": ""
   },
   {
+   "company": "Village Super Market, Inc.",
+   "ticker": "VLGEA",
+   "exchange": "NSD",
+   "security": "common",
+   "amount_per_share": 0.1625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-22 $0.1625",
+   "source_url": ""
+  },
+  {
    "company": "Versant Media Group, Inc.",
    "ticker": "VSNT",
    "exchange": "Nasdaq",
@@ -24736,6 +24946,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-28 $0.52",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "ticker": "THQ",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "ticker": "THW",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.12",
    "source_url": ""
   },
   {
@@ -27766,6 +28006,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.62",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "ticker": "THQ",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "ticker": "THW",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.12",
    "source_url": ""
   },
   {
@@ -31909,6 +32179,36 @@
    "source_url": ""
   },
   {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "ticker": "THQ",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "ticker": "THW",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "UDR, Inc.",
    "ticker": "UDR",
    "exchange": "NYSE",
@@ -35674,6 +35974,21 @@
    "source_url": ""
   },
   {
+   "company": "Village Super Market, Inc.",
+   "ticker": "VLGEA",
+   "exchange": "NSD",
+   "security": "common",
+   "amount_per_share": 0.1625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-22 $0.1625",
+   "source_url": ""
+  },
+  {
    "company": "Versant Media Group, Inc.",
    "ticker": "VSNT",
    "exchange": "Nasdaq",
@@ -36166,6 +36481,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-28 $0.354",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "ticker": "THQ",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "ticker": "THW",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.12",
    "source_url": ""
   },
   {
@@ -39016,6 +39361,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-27 $0.012",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "ticker": "THQ",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "ticker": "THW",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.12",
    "source_url": ""
   },
   {

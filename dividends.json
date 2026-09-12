@@ -1,7 +1,22 @@
 {
- "updatedAt": "2026-09-12 06:18",
+ "updatedAt": "2026-09-12 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
+  {
+   "company": "SOUTHERN MISSOURI BANCORP, INC.",
+   "exchange": "Nasdaq",
+   "ticker": "SMBC",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "2023-07-01",
+   "payable_date": "2024-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/916907/000110465926107119/smbc-20260630x10k.htm",
+   "collected_at": "2026-09-12 09:23"
+  },
   {
    "company": "McDonald's Corp",
    "exchange": "NYSE",
@@ -29556,6 +29571,36 @@
    "collected_at": "2026-08-15 09:43"
   },
   {
+   "company": "USI, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AON",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-08-06",
+   "payable_date": "2026-08-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526388699/d67980dex991.htm",
+   "collected_at": "2026-09-12 09:26"
+  },
+  {
+   "company": "USI, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AON",
+   "security": "other",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-08-06",
+   "payable_date": "2026-08-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526388699/d67980dex991.htm",
+   "collected_at": "2026-09-12 09:26"
+  },
+  {
    "company": "ArcBest",
    "exchange": "Nasdaq",
    "ticker": "ARCB",
@@ -34715,6 +34760,21 @@
    "collected_at": "2026-08-07 00:15"
   },
   {
+   "company": "FREIT",
+   "exchange": "OTC",
+   "ticker": "FREVS",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/36840/000117494726000858/frevs-20260731.htm",
+   "collected_at": "2026-09-12 09:21"
+  },
+  {
    "company": "GRANITE RIDGE RESOURCES, INC.",
    "exchange": "NYSE",
    "ticker": "GRNT",
@@ -38780,6 +38840,21 @@
   {
    "company": "abrdn Income Credit Strategies Fund",
    "exchange": "NYSE",
+   "ticker": "ACP",
+   "security": "common",
+   "amount_per_share": 0.055,
+   "currency": "USD",
+   "record_date": "2026-09-22",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/abrdn-income-credit-strategies-fund-acp-announces-change-to-monthly-distribution-expected-to-be-maintained-for-at-least-the-next-12-months-302876708.html",
+   "collected_at": "2026-09-12 09:18"
+  },
+  {
+   "company": "abrdn Income Credit Strategies Fund",
+   "exchange": "NYSE",
    "ticker": "ACP PRA",
    "security": "preferred",
    "amount_per_share": 0.328125,
@@ -39399,6 +39474,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1109116/000119312526342346/evc-ex99_1.htm",
    "collected_at": "2026-08-13 11:12"
+  },
+  {
+   "company": "abrdn Asia-Pacific Income Fund, Inc.",
+   "exchange": "NYSE American",
+   "ticker": "FAX",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-09-22",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/abrdn-asia-pacific-income-fund-inc-fax-announces-new-managed-distribution-policy-and-declares-monthly-distribution-302876710.html",
+   "collected_at": "2026-09-12 09:18"
   },
   {
    "company": "F&G Annuities & Life, Inc.",
@@ -40621,6 +40711,21 @@
    "collected_at": "2026-08-12 06:07"
   },
   {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "exchange": "NYSE",
+   "ticker": "THQ",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-09-22",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/abrdn-healthcare-opportunities-fund-thq-and-abrdn-world-healthcare-fund-thw-announce-new-managed-distribution-policies-and-declare-monthly-distributions-302876709.html",
+   "collected_at": "2026-09-12 09:18"
+  },
+  {
    "company": "abrdn World Healthcare Fund",
    "exchange": "NYSE",
    "ticker": "THW",
@@ -40634,6 +40739,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302848767.html",
    "collected_at": "2026-08-12 06:07"
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "exchange": "NYSE",
+   "ticker": "THW",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-09-22",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/abrdn-healthcare-opportunities-fund-thq-and-abrdn-world-healthcare-fund-thw-announce-new-managed-distribution-policies-and-declare-monthly-distributions-302876709.html",
+   "collected_at": "2026-09-12 09:18"
   },
   {
    "company": "UDR, Inc.",
@@ -43149,6 +43269,21 @@
    "collected_at": "2026-08-15 09:28"
   },
   {
+   "company": "Oracle Corporation",
+   "exchange": "NYSE",
+   "ticker": "ORCL",
+   "security": "preferred",
+   "amount_per_share": 1625,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm",
+   "collected_at": "2026-09-12 09:27"
+  },
+  {
    "company": "Occidental",
    "exchange": "NYSE",
    "ticker": "OXY",
@@ -43723,6 +43858,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/920371/000162828026054396/ssd-20260630.htm",
    "collected_at": "2026-08-13 14:16"
+  },
+  {
+   "company": "Village Super Market, Inc.",
+   "exchange": "NSD",
+   "ticker": "VLGEA",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/103595/000010359526000014/vlgea-20260911ex99x1.htm",
+   "collected_at": "2026-09-12 09:19"
+  },
+  {
+   "company": "Village Super Market, Inc.",
+   "exchange": "NSD",
+   "ticker": "VLGEA",
+   "security": "common",
+   "amount_per_share": 0.1625,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/103595/000010359526000014/vlgea-20260911ex99x1.htm",
+   "collected_at": "2026-09-12 09:19"
   },
   {
    "company": "Versant Media Group, Inc.",
@@ -44870,5 +45035,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3012
+ "count": 3023
 }
