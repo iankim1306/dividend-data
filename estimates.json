@@ -1,38 +1,8 @@
 {
- "updatedAt": "2026-09-12 21:18",
+ "updatedAt": "2026-09-13 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2760,
+ "count": 2763,
  "items": [
-  {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.267,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
-   "source_url": ""
-  },
-  {
-   "company": "EPR Properties",
-   "ticker": "EPR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.93,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.93",
-   "source_url": ""
-  },
   {
    "company": "FIRST CITIZENS BANCSHARES INC",
    "ticker": "FCNCA",
@@ -40969,6 +40939,21 @@
    "source_url": ""
   },
   {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.267,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-14 $0.267",
+   "source_url": ""
+  },
+  {
    "company": "Aramark",
    "ticker": "ARMK",
    "exchange": "NYSE",
@@ -41026,6 +41011,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-09 $0.3",
+   "source_url": ""
+  },
+  {
+   "company": "EPR Properties",
+   "ticker": "EPR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.93,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-15 $0.93",
    "source_url": ""
   },
   {
@@ -41401,6 +41401,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.03",
+   "source_url": ""
+  },
+  {
+   "company": "Columbia Banking System, Inc.",
+   "ticker": "COLB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.37,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-14 $0.37",
+   "source_url": ""
+  },
+  {
+   "company": "Charles River Associates",
+   "ticker": "CRAI",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.57,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-14 $0.57",
+   "source_url": ""
+  },
+  {
+   "company": "Chiron Real Estate Inc.",
+   "ticker": "XRN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.16,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-18 $0.16",
    "source_url": ""
   }
  ]
