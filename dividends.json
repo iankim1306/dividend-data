@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-15 03:18",
+ "updatedAt": "2026-09-15 06:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -41890,6 +41890,21 @@
    "collected_at": "2026-09-10 09:19"
   },
   {
+   "company": "Bluerock Homes Trust, Inc.",
+   "exchange": "NYSE American",
+   "ticker": "BHM",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "2026-09-25",
+   "payable_date": "2026-10-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bluerock-homes-trust-bhm-announces-third-quarter-dividends-on-common-stock-302877995.html",
+   "collected_at": "2026-09-15 06:18"
+  },
+  {
    "company": "Broadridge Financial Solutions, Inc.",
    "exchange": "NYSE",
    "ticker": "BR",
@@ -43978,6 +43993,21 @@
    "collected_at": "2026-08-29 09:19"
   },
   {
+   "company": "TriNet",
+   "exchange": "NYSE",
+   "ticker": "TNET",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/trinet-announces-quarterly-dividend-302878075.html",
+   "collected_at": "2026-09-15 06:18"
+  },
+  {
    "company": "Gap Inc.",
    "exchange": "NYSE",
    "ticker": "GAP",
@@ -45035,5 +45065,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3023
+ "count": 3025
 }

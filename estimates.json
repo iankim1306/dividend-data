@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-15 03:18",
+ "updatedAt": "2026-09-15 06:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2821,
+ "count": 2820,
  "items": [
   {
    "company": "Apple Hospitality REIT, Inc.",
@@ -691,21 +691,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-01 $0.66",
-   "source_url": ""
-  },
-  {
-   "company": "TriNet Group, Inc.",
-   "ticker": "TNET",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.29,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.29",
    "source_url": ""
   },
   {
@@ -10189,21 +10174,6 @@
    "source_url": ""
   },
   {
-   "company": "TriNet Group, Inc.",
-   "ticker": "TNET",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.29,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.29",
-   "source_url": ""
-  },
-  {
    "company": "TXNM Energy, Inc.",
    "ticker": "TXNM",
    "exchange": "NYSE",
@@ -12991,6 +12961,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-27 $0.92",
+   "source_url": ""
+  },
+  {
+   "company": "TriNet",
+   "ticker": "TNET",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.29",
    "source_url": ""
   },
   {
@@ -21709,21 +21694,6 @@
    "source_url": ""
   },
   {
-   "company": "TriNet Group, Inc.",
-   "ticker": "TNET",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.29,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.29",
-   "source_url": ""
-  },
-  {
    "company": "TXNM Energy, Inc.",
    "ticker": "TXNM",
    "exchange": "NYSE",
@@ -24496,6 +24466,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-27 $0.92",
+   "source_url": ""
+  },
+  {
+   "company": "TriNet",
+   "ticker": "TNET",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.29",
    "source_url": ""
   },
   {
@@ -33274,21 +33259,6 @@
    "source_url": ""
   },
   {
-   "company": "TriNet Group, Inc.",
-   "ticker": "TNET",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.29,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.29",
-   "source_url": ""
-  },
-  {
    "company": "TXNM Energy, Inc.",
    "ticker": "TXNM",
    "exchange": "NYSE",
@@ -36121,6 +36091,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-29 $0.33168",
+   "source_url": ""
+  },
+  {
+   "company": "TriNet",
+   "ticker": "TNET",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.29",
    "source_url": ""
   },
   {
