@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-16 03:18",
+ "updatedAt": "2026-09-16 06:19",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2834,
+ "count": 2862,
  "items": [
   {
    "company": "iShares Core Dividend Growth ETF",
@@ -3559,6 +3559,36 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -6709,6 +6739,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "LifeVantage Corporation",
    "ticker": "LFVN",
    "exchange": "Nasdaq",
@@ -6736,6 +6781,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-15 $0.72",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05417",
    "source_url": ""
   },
   {
@@ -11614,6 +11674,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Kimco Realty Corporation",
    "ticker": "KIM",
    "exchange": "NYSE",
@@ -11701,6 +11776,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.77",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05417",
    "source_url": ""
   },
   {
@@ -11899,6 +11989,21 @@
    "source_url": ""
   },
   {
+   "company": "The Allstate Corporation",
+   "ticker": "ALL",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.4609375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.4609375",
+   "source_url": ""
+  },
+  {
    "company": "Apple Hospitality REIT, Inc.",
    "ticker": "APLE",
    "exchange": "NYSE",
@@ -12016,6 +12121,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.3125",
+   "source_url": ""
+  },
+  {
+   "company": "Fulton Financial Corporation",
+   "ticker": "FULT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.19",
    "source_url": ""
   },
   {
@@ -14644,6 +14764,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "KAISER ALUMINUM CORPORATION",
    "ticker": "KALU",
    "exchange": "Nasdaq",
@@ -14701,6 +14836,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $1.15",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05417",
    "source_url": ""
   },
   {
@@ -18151,6 +18301,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05417",
    "source_url": ""
   },
   {
@@ -22909,6 +23089,36 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -23434,6 +23644,21 @@
    "source_url": ""
   },
   {
+   "company": "The Allstate Corporation",
+   "ticker": "ALL",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.4609375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.4609375",
+   "source_url": ""
+  },
+  {
    "company": "Boyd Gaming Corporation",
    "ticker": "BYD",
    "exchange": "NYSE",
@@ -23536,6 +23761,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.3125",
+   "source_url": ""
+  },
+  {
+   "company": "Fulton Financial Corporation",
+   "ticker": "FULT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.19",
    "source_url": ""
   },
   {
@@ -26059,6 +26299,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "KADANT INC.",
    "ticker": "KAI",
    "exchange": "NYSE",
@@ -26071,6 +26326,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05417",
    "source_url": ""
   },
   {
@@ -29701,6 +29971,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05417",
    "source_url": ""
   },
   {
@@ -34459,6 +34759,36 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -35074,6 +35404,21 @@
    "source_url": ""
   },
   {
+   "company": "The Allstate Corporation",
+   "ticker": "ALL",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.4609375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.4609375",
+   "source_url": ""
+  },
+  {
    "company": "Boyd Gaming Corporation",
    "ticker": "BYD",
    "exchange": "NYSE",
@@ -35176,6 +35521,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.3125",
+   "source_url": ""
+  },
+  {
+   "company": "Fulton Financial Corporation",
+   "ticker": "FULT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.19",
    "source_url": ""
   },
   {
@@ -37606,6 +37966,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05417",
    "source_url": ""
   },
   {
@@ -41314,6 +41704,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Labcorp Holdings Inc.",
    "ticker": "LH",
    "exchange": "NYSE",
@@ -41326,6 +41731,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-11 $0.72",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05417",
    "source_url": ""
   },
   {
