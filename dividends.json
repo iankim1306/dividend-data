@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-15 18:18",
+ "updatedAt": "2026-09-15 21:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -43476,6 +43476,21 @@
    "collected_at": "2026-09-11 09:23"
   },
   {
+   "company": "Safehold Inc.",
+   "exchange": "NYSE",
+   "ticker": "SAFE",
+   "security": "common",
+   "amount_per_share": 0.177,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/safehold-declares-third-quarter-2026-common-stock-dividend-302878101.html",
+   "collected_at": "2026-09-15 21:18"
+  },
+  {
    "company": "Stellus Capital Investment Corp",
    "exchange": "NYSE",
    "ticker": "SCM",
@@ -45185,5 +45200,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3033
+ "count": 3034
 }
