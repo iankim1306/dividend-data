@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-15 06:18",
+ "updatedAt": "2026-09-15 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2820,
+ "count": 2826,
  "items": [
   {
    "company": "Apple Hospitality REIT, Inc.",
@@ -634,21 +634,6 @@
    "source_url": ""
   },
   {
-   "company": "NewtekOne, Inc.",
-   "ticker": "NEWT",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.19",
-   "source_url": ""
-  },
-  {
    "company": "New Jersey Resources",
    "ticker": "NJR",
    "exchange": "NYSE",
@@ -691,6 +676,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-01 $0.66",
+   "source_url": ""
+  },
+  {
+   "company": "Sysco Corporation",
+   "ticker": "SYY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.55,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-01 $0.55",
    "source_url": ""
   },
   {
@@ -9919,21 +9919,6 @@
    "source_url": ""
   },
   {
-   "company": "NewtekOne, Inc.",
-   "ticker": "NEWT",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.19",
-   "source_url": ""
-  },
-  {
    "company": "New Jersey Resources",
    "ticker": "NJR",
    "exchange": "NYSE",
@@ -10141,6 +10126,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Sysco Corporation",
+   "ticker": "SYY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.55,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-01 $0.55",
    "source_url": ""
   },
   {
@@ -10501,6 +10501,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.265",
+   "source_url": ""
+  },
+  {
+   "company": "NewtekOne, Inc.",
+   "ticker": "NEWT",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "NewtekOne, Inc.",
+   "ticker": "NEWTP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 21.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $21.25",
    "source_url": ""
   },
   {
@@ -21469,21 +21499,6 @@
    "source_url": ""
   },
   {
-   "company": "NewtekOne, Inc.",
-   "ticker": "NEWT",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.19",
-   "source_url": ""
-  },
-  {
    "company": "New Jersey Resources",
    "ticker": "NJR",
    "exchange": "NYSE",
@@ -21661,6 +21676,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Sysco Corporation",
+   "ticker": "SYY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.55,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-01 $0.55",
    "source_url": ""
   },
   {
@@ -22006,6 +22036,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.1915",
+   "source_url": ""
+  },
+  {
+   "company": "NewtekOne, Inc.",
+   "ticker": "NEWT",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "NewtekOne, Inc.",
+   "ticker": "NEWTP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 21.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $21.25",
    "source_url": ""
   },
   {
@@ -33034,21 +33094,6 @@
    "source_url": ""
   },
   {
-   "company": "NewtekOne, Inc.",
-   "ticker": "NEWT",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.19",
-   "source_url": ""
-  },
-  {
    "company": "New Jersey Resources",
    "ticker": "NJR",
    "exchange": "NYSE",
@@ -33226,6 +33271,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Sysco Corporation",
+   "ticker": "SYY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.55,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-01 $0.55",
    "source_url": ""
   },
   {
@@ -33601,6 +33661,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.1915",
+   "source_url": ""
+  },
+  {
+   "company": "NewtekOne, Inc.",
+   "ticker": "NEWT",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "NewtekOne, Inc.",
+   "ticker": "NEWTP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 21.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $21.25",
    "source_url": ""
   },
   {
