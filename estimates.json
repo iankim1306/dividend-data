@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-17 03:18",
+ "updatedAt": "2026-09-17 06:19",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2873,
+ "count": 2883,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -2026,21 +2026,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-29 $0.33168",
-   "source_url": ""
-  },
-  {
-   "company": "ACRES COMMERCIAL REALTY CORP.",
-   "ticker": "ACR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.4921875,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-01-30 $0.4921875",
    "source_url": ""
   },
   {
@@ -13474,7 +13459,7 @@
    "source_url": ""
   },
   {
-   "company": "ACRES COMMERCIAL REALTY CORP.",
+   "company": "ACRES Commercial Realty Corp.",
    "ticker": "ACR",
    "exchange": "NYSE",
    "security": "preferred",
@@ -13485,7 +13470,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-01-30 $0.4921875",
+   "basis": "last confirmed 2026-10-30 $0.4921875",
    "source_url": ""
   },
   {
@@ -13861,6 +13846,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-01 $1.16",
+   "source_url": ""
+  },
+  {
+   "company": "Trinity Capital Inc.",
+   "ticker": "TRIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.17",
    "source_url": ""
   },
   {
@@ -16834,6 +16834,21 @@
    "source_url": ""
   },
   {
+   "company": "Trinity Capital Inc.",
+   "ticker": "TRIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.17",
+   "source_url": ""
+  },
+  {
    "company": "Unitil Corporation",
    "ticker": "UTL",
    "exchange": "NYSE",
@@ -19021,6 +19036,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.92",
+   "source_url": ""
+  },
+  {
+   "company": "Scholastic Corporation",
+   "ticker": "SCHL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.25",
    "source_url": ""
   },
   {
@@ -21796,6 +21826,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $17.81",
+   "source_url": ""
+  },
+  {
+   "company": "Trinity Capital Inc.",
+   "ticker": "TRIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.17",
    "source_url": ""
   },
   {
@@ -25219,7 +25264,7 @@
    "source_url": ""
   },
   {
-   "company": "ACRES COMMERCIAL REALTY CORP.",
+   "company": "ACRES Commercial Realty Corp.",
    "ticker": "ACR",
    "exchange": "NYSE",
    "security": "preferred",
@@ -25230,7 +25275,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-01-30 $0.4921875",
+   "basis": "last confirmed 2026-10-30 $0.4921875",
    "source_url": ""
   },
   {
@@ -25471,6 +25516,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $1.90352",
+   "source_url": ""
+  },
+  {
+   "company": "Trinity Capital Inc.",
+   "ticker": "TRIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.17",
    "source_url": ""
   },
   {
@@ -28384,6 +28444,21 @@
    "source_url": ""
   },
   {
+   "company": "Trinity Capital Inc.",
+   "ticker": "TRIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.17",
+   "source_url": ""
+  },
+  {
    "company": "Albemarle Corporation",
    "ticker": "ALB",
    "exchange": "NYSE",
@@ -30739,6 +30814,21 @@
    "source_url": ""
   },
   {
+   "company": "Scholastic Corporation",
+   "ticker": "SCHL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Stepan Company",
    "ticker": "SCL",
    "exchange": "NYSE",
@@ -32851,6 +32941,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.31",
+   "source_url": ""
+  },
+  {
+   "company": "Trinity Capital Inc.",
+   "ticker": "TRIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.17",
    "source_url": ""
   },
   {
@@ -36994,7 +37099,22 @@
    "source_url": ""
   },
   {
-   "company": "ACRES COMMERCIAL REALTY CORP.",
+   "company": "Trinity Capital Inc.",
+   "ticker": "TRIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "ACRES Commercial Realty Corp.",
    "ticker": "ACR",
    "exchange": "NYSE",
    "security": "preferred",
@@ -37005,7 +37125,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-01-30 $0.4921875",
+   "basis": "last confirmed 2026-10-30 $0.4921875",
    "source_url": ""
   },
   {
@@ -40144,6 +40264,21 @@
    "source_url": ""
   },
   {
+   "company": "Trinity Capital Inc.",
+   "ticker": "TRIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.17",
+   "source_url": ""
+  },
+  {
    "company": "KB Home",
    "ticker": "KBH",
    "exchange": "NYSE",
@@ -42541,6 +42676,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.92",
+   "source_url": ""
+  },
+  {
+   "company": "Scholastic Corporation",
+   "ticker": "SCHL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.25",
    "source_url": ""
   },
   {

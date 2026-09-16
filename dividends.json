@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-17 03:18",
+ "updatedAt": "2026-09-17 06:19",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -42411,6 +42411,21 @@
    "collected_at": "2026-08-08 03:03"
   },
   {
+   "company": "Keurig Dr Pepper",
+   "exchange": "Nasdaq",
+   "ticker": "KDP",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "2026-09-28",
+   "payable_date": "2026-10-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/keurig-dr-pepper-declares-quarterly-dividend-302881100.html",
+   "collected_at": "2026-09-17 06:19"
+  },
+  {
    "company": "MSC Income Fund, Inc.",
    "exchange": "NYSE",
    "ticker": "MSIF",
@@ -44086,6 +44101,21 @@
    "collected_at": "2026-08-14 06:18"
   },
   {
+   "company": "West Fraser Timber Co. Ltd.",
+   "exchange": "TSX and NYSE",
+   "ticker": "WFG",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "2026-09-29",
+   "payable_date": "2026-10-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/west-fraser-announces-term-loan-refinancing-and-declares-dividend-302880917.html",
+   "collected_at": "2026-09-17 06:18"
+  },
+  {
    "company": "Dollar General Corporation",
    "exchange": "NYSE",
    "ticker": "DG",
@@ -44413,6 +44443,36 @@
    "collected_at": "2026-09-09 00:18"
   },
   {
+   "company": "ACRES Commercial Realty Corp.",
+   "exchange": "NYSE",
+   "ticker": "ACR",
+   "security": "preferred",
+   "amount_per_share": 0.610625,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/acres-commercial-realty-corp-declares-quarterly-cash-dividends-for-its-preferred-stock-302880844.html",
+   "collected_at": "2026-09-17 06:18"
+  },
+  {
+   "company": "ACRES Commercial Realty Corp.",
+   "exchange": "NYSE",
+   "ticker": "ACR",
+   "security": "preferred",
+   "amount_per_share": 0.4921875,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/acres-commercial-realty-corp-declares-quarterly-cash-dividends-for-its-preferred-stock-302880844.html",
+   "collected_at": "2026-09-17 06:18"
+  },
+  {
    "company": "Argan, Inc.",
    "exchange": "NYSE",
    "ticker": "AGX",
@@ -44620,6 +44680,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/nxg-cushing-midstream-energy-fund-nyse-srv-announces-distributions-302865780.html",
    "collected_at": "2026-09-01 21:18"
+  },
+  {
+   "company": "Trinity Capital Inc.",
+   "exchange": "NYSE",
+   "ticker": "TRIN",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-10-15",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/trinity-capital-declares-monthly-cash-distribution-of-0-17-per-share-for-the-fourth-quarter-of-2026--302880941.html",
+   "collected_at": "2026-09-17 06:18"
   },
   {
    "company": "Zimmer Biomet Holdings, Inc.",
@@ -45098,6 +45173,21 @@
    "collected_at": "2026-09-01 21:18"
   },
   {
+   "company": "Trinity Capital Inc.",
+   "exchange": "NYSE",
+   "ticker": "TRIN",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/trinity-capital-declares-monthly-cash-distribution-of-0-17-per-share-for-the-fourth-quarter-of-2026--302880941.html",
+   "collected_at": "2026-09-17 06:18"
+  },
+  {
    "company": "Bruker Corporation",
    "exchange": "Nasdaq",
    "ticker": "BRKR",
@@ -45248,6 +45338,21 @@
    "collected_at": "2026-08-15 00:19"
   },
   {
+   "company": "TE Connectivity plc",
+   "exchange": "NYSE",
+   "ticker": "TEL",
+   "security": "common",
+   "amount_per_share": 0.78,
+   "currency": "USD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/te-connectivity-declares-quarterly-dividend-302879773.html",
+   "collected_at": "2026-09-17 06:18"
+  },
+  {
    "company": "First Business Financial Services, Inc.",
    "exchange": "Nasdaq",
    "ticker": "FBIZ",
@@ -45289,6 +45394,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1487428/000143774926025691/ex_998155.htm",
    "collected_at": "2026-08-13 11:17"
+  },
+  {
+   "company": "Scholastic Corporation",
+   "exchange": "NASDAQ",
+   "ticker": "SCHL",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/scholastic-corporation-announces-second-quarter-dividend-302881047.html",
+   "collected_at": "2026-09-17 06:19"
   },
   {
    "company": "Tyson Foods, Inc.",
@@ -45425,6 +45545,21 @@
    "collected_at": "2026-08-06 23:58"
   },
   {
+   "company": "Trinity Capital Inc.",
+   "exchange": "NYSE",
+   "ticker": "TRIN",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-12-11",
+   "payable_date": "2026-12-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/trinity-capital-declares-monthly-cash-distribution-of-0-17-per-share-for-the-fourth-quarter-of-2026--302880941.html",
+   "collected_at": "2026-09-17 06:18"
+  },
+  {
    "company": "Walmart Inc.",
    "exchange": "Nasdaq",
    "ticker": "WMT",
@@ -45470,5 +45605,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3052
+ "count": 3061
 }
