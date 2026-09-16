@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-16 06:19",
+ "updatedAt": "2026-09-16 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2862,
+ "count": 2864,
  "items": [
   {
    "company": "iShares Core Dividend Growth ETF",
@@ -1366,21 +1366,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.43",
-   "source_url": ""
-  },
-  {
-   "company": "Pebblebrook Hotel Trust",
-   "ticker": "PEB",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.35625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.35625",
    "source_url": ""
   },
   {
@@ -6511,21 +6496,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-10 $1.0",
-   "source_url": ""
-  },
-  {
-   "company": "Microsoft Corporation",
-   "ticker": "MSFT",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.91,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-10",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-10 $0.91",
    "source_url": ""
   },
   {
@@ -11824,21 +11794,6 @@
    "source_url": ""
   },
   {
-   "company": "Pebblebrook Hotel Trust",
-   "ticker": "PEB",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.35625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.35625",
-   "source_url": ""
-  },
-  {
    "company": "Chicago Atlantic Real Estate Finance, Inc.",
    "ticker": "REFI",
    "exchange": "Nasdaq",
@@ -12301,6 +12256,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.02",
+   "source_url": ""
+  },
+  {
+   "company": "Pebblebrook Hotel Trust",
+   "ticker": "PEB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.01",
+   "source_url": ""
+  },
+  {
+   "company": "Pebblebrook Hotel Trust",
+   "ticker": "PEB",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.35625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.35625",
    "source_url": ""
   },
   {
@@ -18139,18 +18124,18 @@
    "source_url": ""
   },
   {
-   "company": "Microsoft Corporation",
+   "company": "Microsoft Corp.",
    "ticker": "MSFT",
    "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.91,
+   "amount_per_share": 0.98,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-11",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-10 $0.91",
+   "basis": "last confirmed 2026-12-10 $0.98",
    "source_url": ""
   },
   {
@@ -22219,6 +22204,21 @@
    "source_url": ""
   },
   {
+   "company": "NOBILITY HOMES, INC.",
+   "ticker": "NOBH",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 1.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "annual",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-04-01 $1.5",
+   "source_url": ""
+  },
+  {
    "company": "PepsiCo, Inc.",
    "ticker": "PEP",
    "exchange": "Nasdaq",
@@ -23494,21 +23494,6 @@
    "source_url": ""
   },
   {
-   "company": "Pebblebrook Hotel Trust",
-   "ticker": "PEB",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.35625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.35625",
-   "source_url": ""
-  },
-  {
    "company": "Chicago Atlantic Real Estate Finance, Inc.",
    "ticker": "REFI",
    "exchange": "Nasdaq",
@@ -23926,6 +23911,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.02",
+   "source_url": ""
+  },
+  {
+   "company": "Pebblebrook Hotel Trust",
+   "ticker": "PEB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.01",
+   "source_url": ""
+  },
+  {
+   "company": "Pebblebrook Hotel Trust",
+   "ticker": "PEB",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.35625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.35625",
    "source_url": ""
   },
   {
@@ -29824,18 +29839,18 @@
    "source_url": ""
   },
   {
-   "company": "Microsoft Corporation",
+   "company": "Microsoft Corp.",
    "ticker": "MSFT",
    "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.91,
+   "amount_per_share": 0.98,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-10",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-10 $0.91",
+   "basis": "last confirmed 2026-12-10 $0.98",
    "source_url": ""
   },
   {
@@ -35254,21 +35269,6 @@
    "source_url": ""
   },
   {
-   "company": "Pebblebrook Hotel Trust",
-   "ticker": "PEB",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.35625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.35625",
-   "source_url": ""
-  },
-  {
    "company": "Chicago Atlantic Real Estate Finance, Inc.",
    "ticker": "REFI",
    "exchange": "Nasdaq",
@@ -35701,6 +35701,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.02",
+   "source_url": ""
+  },
+  {
+   "company": "Pebblebrook Hotel Trust",
+   "ticker": "PEB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.01",
+   "source_url": ""
+  },
+  {
+   "company": "Pebblebrook Hotel Trust",
+   "ticker": "PEB",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.35625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.35625",
    "source_url": ""
   },
   {
@@ -41629,18 +41659,18 @@
    "source_url": ""
   },
   {
-   "company": "Microsoft Corporation",
+   "company": "Microsoft Corp.",
    "ticker": "MSFT",
    "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.91,
+   "amount_per_share": 0.98,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-09",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-10 $0.91",
+   "basis": "last confirmed 2026-12-10 $0.98",
    "source_url": ""
   },
   {
