@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-17 06:19",
+ "updatedAt": "2026-09-17 09:30",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2883,
+ "count": 2885,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -5341,21 +5341,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.6",
-   "source_url": ""
-  },
-  {
-   "company": "Helmerich & Payne, Inc.",
-   "ticker": "HP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-01 $0.25",
    "source_url": ""
   },
   {
@@ -14029,6 +14014,21 @@
    "source_url": ""
   },
   {
+   "company": "NORWOOD FINANCIAL CORP",
+   "ticker": "NWFL",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.32",
+   "source_url": ""
+  },
+  {
    "company": "AT&T Inc",
    "ticker": "T",
    "exchange": "NYSE",
@@ -16984,21 +16984,6 @@
    "source_url": ""
   },
   {
-   "company": "Helmerich & Payne, Inc.",
-   "ticker": "HP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-01 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "H2O America",
    "ticker": "HTO",
    "exchange": "Nasdaq",
@@ -17221,6 +17206,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-02 $0.05",
+   "source_url": ""
+  },
+  {
+   "company": "Helmerich & Payne, Inc.",
+   "ticker": "HP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-02 $0.25",
    "source_url": ""
   },
   {
@@ -25804,6 +25804,21 @@
    "source_url": ""
   },
   {
+   "company": "NORWOOD FINANCIAL CORP",
+   "ticker": "NWFL",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.32",
+   "source_url": ""
+  },
+  {
    "company": "AT&T Inc",
    "ticker": "T",
    "exchange": "NYSE",
@@ -28729,21 +28744,6 @@
    "source_url": ""
   },
   {
-   "company": "Helmerich & Payne, Inc.",
-   "ticker": "HP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-01 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "H2O America",
    "ticker": "HTO",
    "exchange": "Nasdaq",
@@ -29011,6 +29011,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-05 $0.130208",
+   "source_url": ""
+  },
+  {
+   "company": "Helmerich & Payne, Inc.",
+   "ticker": "HP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-02 $0.25",
    "source_url": ""
   },
   {
@@ -37654,6 +37669,21 @@
    "source_url": ""
   },
   {
+   "company": "NORWOOD FINANCIAL CORP",
+   "ticker": "NWFL",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.32",
+   "source_url": ""
+  },
+  {
    "company": "AT&T Inc",
    "ticker": "T",
    "exchange": "NYSE",
@@ -40624,21 +40654,6 @@
    "source_url": ""
   },
   {
-   "company": "Helmerich & Payne, Inc.",
-   "ticker": "HP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-01 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "H2O America",
    "ticker": "HTO",
    "exchange": "Nasdaq",
@@ -40921,6 +40936,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-08 $0.00662",
+   "source_url": ""
+  },
+  {
+   "company": "Helmerich & Payne, Inc.",
+   "ticker": "HP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-02 $0.25",
    "source_url": ""
   },
   {
