@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-17 21:18",
+ "updatedAt": "2026-09-18 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2885,
+ "count": 2887,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -43276,6 +43276,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-18 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Janus Living, Inc.",
+   "ticker": "JAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-18",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-23 $0.0475",
+   "source_url": ""
+  },
+  {
+   "company": "Manulife Financial Corporation",
+   "ticker": "MFC",
+   "exchange": "TSX/NYSE/PSE",
+   "security": "preferred",
+   "amount_per_share": 0.371375,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2027-09-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-19 $0.371375",
    "source_url": ""
   }
  ]
