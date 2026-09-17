@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-17 18:18",
+ "updatedAt": "2026-09-17 21:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
  "count": 2885,
  "items": [
@@ -11884,21 +11884,6 @@
    "source_url": ""
   },
   {
-   "company": "Boyd Gaming Corporation",
-   "ticker": "BYD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Cardinal Health",
    "ticker": "CAH",
    "exchange": "NYSE",
@@ -13036,6 +13021,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-29 $0.34",
+   "source_url": ""
+  },
+  {
+   "company": "Boyd Group Services Inc.",
+   "ticker": "BYD",
+   "exchange": "TSX",
+   "security": "common",
+   "amount_per_share": 0.156,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2027-01-27",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-28 $0.156",
    "source_url": ""
   },
   {
@@ -23629,21 +23629,6 @@
    "source_url": ""
   },
   {
-   "company": "Boyd Gaming Corporation",
-   "ticker": "BYD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Cardinal Health",
    "ticker": "CAH",
    "exchange": "NYSE",
@@ -24946,6 +24931,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.1371",
+   "source_url": ""
+  },
+  {
+   "company": "Boyd Group Services Inc.",
+   "ticker": "BYD",
+   "exchange": "TSX",
+   "security": "common",
+   "amount_per_share": 0.156,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-28 $0.156",
    "source_url": ""
   },
   {
@@ -35479,21 +35479,6 @@
    "source_url": ""
   },
   {
-   "company": "Boyd Gaming Corporation",
-   "ticker": "BYD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Cardinal Health",
    "ticker": "CAH",
    "exchange": "NYSE",
@@ -36976,6 +36961,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-29 $0.34",
+   "source_url": ""
+  },
+  {
+   "company": "Boyd Group Services Inc.",
+   "ticker": "BYD",
+   "exchange": "TSX",
+   "security": "common",
+   "amount_per_share": 0.156,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-28 $0.156",
    "source_url": ""
   },
   {
