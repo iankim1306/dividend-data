@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-18 03:18",
+ "updatedAt": "2026-09-18 06:19",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2887,
+ "count": 2894,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -1336,21 +1336,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $1.2",
-   "source_url": ""
-  },
-  {
-   "company": "Starwood Property Trust, Inc.",
-   "ticker": "STWD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.48",
    "source_url": ""
   },
   {
@@ -7489,21 +7474,6 @@
    "source_url": ""
   },
   {
-   "company": "McDonald's Corp",
-   "ticker": "MCD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.86,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-16 $1.86",
-   "source_url": ""
-  },
-  {
    "company": "Enpro",
    "ticker": "NPO",
    "exchange": "NYSE",
@@ -11749,21 +11719,6 @@
    "source_url": ""
   },
   {
-   "company": "Starwood Property Trust, Inc.",
-   "ticker": "STWD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "SUN COMMUNITIES, INC.",
    "ticker": "SUI",
    "exchange": "NYSE",
@@ -11881,6 +11836,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Saul Centers, Inc.",
+   "ticker": "BFS",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.375",
    "source_url": ""
   },
   {
@@ -12286,6 +12256,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.35625",
+   "source_url": ""
+  },
+  {
+   "company": "Starwood Property Trust, Inc.",
+   "ticker": "STWD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.48",
+   "source_url": ""
+  },
+  {
+   "company": "Third Coast Bancshares, Inc.",
+   "ticker": "TCBX",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 17.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $17.25",
    "source_url": ""
   },
   {
@@ -13471,6 +13471,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.7",
+   "source_url": ""
+  },
+  {
+   "company": "Saul Centers, Inc.",
+   "ticker": "BFS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.59",
    "source_url": ""
   },
   {
@@ -18814,6 +18829,21 @@
    "source_url": ""
   },
   {
+   "company": "McDonald's Corporation",
+   "ticker": "MCD",
+   "exchange": "",
+   "security": "common",
+   "amount_per_share": 1.93,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $1.93",
+   "source_url": ""
+  },
+  {
    "company": "MCHP",
    "ticker": "MCHP",
    "exchange": "Nasdaq",
@@ -19201,21 +19231,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-16 $5.16",
-   "source_url": ""
-  },
-  {
-   "company": "McDonald's Corp",
-   "ticker": "MCD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.86,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-16 $1.86",
    "source_url": ""
   },
   {
@@ -23509,21 +23524,6 @@
    "source_url": ""
   },
   {
-   "company": "Starwood Property Trust, Inc.",
-   "ticker": "STWD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "SUN COMMUNITIES, INC.",
    "ticker": "SUI",
    "exchange": "NYSE",
@@ -23626,6 +23626,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.4609375",
+   "source_url": ""
+  },
+  {
+   "company": "Saul Centers, Inc.",
+   "ticker": "BFS",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.375",
    "source_url": ""
   },
   {
@@ -24016,6 +24031,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.35625",
+   "source_url": ""
+  },
+  {
+   "company": "Starwood Property Trust, Inc.",
+   "ticker": "STWD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.48",
+   "source_url": ""
+  },
+  {
+   "company": "Third Coast Bancshares, Inc.",
+   "ticker": "TCBX",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 17.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $17.25",
    "source_url": ""
   },
   {
@@ -25306,6 +25351,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.7",
+   "source_url": ""
+  },
+  {
+   "company": "Saul Centers, Inc.",
+   "ticker": "BFS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.59",
    "source_url": ""
   },
   {
@@ -30604,6 +30664,21 @@
    "source_url": ""
   },
   {
+   "company": "McDonald's Corporation",
+   "ticker": "MCD",
+   "exchange": "",
+   "security": "common",
+   "amount_per_share": 1.93,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $1.93",
+   "source_url": ""
+  },
+  {
    "company": "MCHP",
    "ticker": "MCHP",
    "exchange": "Nasdaq",
@@ -31006,21 +31081,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-16 $5.16",
-   "source_url": ""
-  },
-  {
-   "company": "McDonald's Corp",
-   "ticker": "MCD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.86,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-16 $1.86",
    "source_url": ""
   },
   {
@@ -35359,21 +35419,6 @@
    "source_url": ""
   },
   {
-   "company": "Starwood Property Trust, Inc.",
-   "ticker": "STWD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "SUN COMMUNITIES, INC.",
    "ticker": "SUI",
    "exchange": "NYSE",
@@ -35476,6 +35521,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.4609375",
+   "source_url": ""
+  },
+  {
+   "company": "Saul Centers, Inc.",
+   "ticker": "BFS",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.375",
    "source_url": ""
   },
   {
@@ -35881,6 +35941,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.35625",
+   "source_url": ""
+  },
+  {
+   "company": "Starwood Property Trust, Inc.",
+   "ticker": "STWD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.48",
+   "source_url": ""
+  },
+  {
+   "company": "Third Coast Bancshares, Inc.",
+   "ticker": "TCBX",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 17.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $17.25",
    "source_url": ""
   },
   {
@@ -37156,6 +37246,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.7",
+   "source_url": ""
+  },
+  {
+   "company": "Saul Centers, Inc.",
+   "ticker": "BFS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.59",
    "source_url": ""
   },
   {
@@ -42484,6 +42589,21 @@
    "source_url": ""
   },
   {
+   "company": "McDonald's Corporation",
+   "ticker": "MCD",
+   "exchange": "",
+   "security": "common",
+   "amount_per_share": 1.93,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $1.93",
+   "source_url": ""
+  },
+  {
    "company": "MCHP",
    "ticker": "MCHP",
    "exchange": "Nasdaq",
@@ -42871,21 +42991,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-16 $5.16",
-   "source_url": ""
-  },
-  {
-   "company": "McDonald's Corp",
-   "ticker": "MCD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.86,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-16 $1.86",
    "source_url": ""
   },
   {
