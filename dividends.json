@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19 00:18",
+ "updatedAt": "2026-09-19 03:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -43704,6 +43704,21 @@
    "collected_at": "2026-09-09 09:23"
   },
   {
+   "company": "Lennox International Inc.",
+   "exchange": "NYSE",
+   "ticker": "LII",
+   "security": "common",
+   "amount_per_share": 1.36,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/lennox-declares-quarterly-dividend-302883415.html",
+   "collected_at": "2026-09-19 03:18"
+  },
+  {
    "company": "Neuberger Municipal Fund Inc.",
    "exchange": "NYSE American",
    "ticker": "NBH",
@@ -46205,5 +46220,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3101
+ "count": 3102
 }
