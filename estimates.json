@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18 21:19",
+ "updatedAt": "2026-09-19 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
  "count": 2923,
  "items": [
@@ -2911,21 +2911,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-10 $0.34",
-   "source_url": ""
-  },
-  {
-   "company": "Nucor Corporation",
-   "ticker": "NUE",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.56,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-10",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-11 $0.56",
    "source_url": ""
   },
   {
@@ -14490,7 +14475,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-11 $0.56",
+   "basis": "last confirmed 2026-11-10 $0.56",
    "source_url": ""
   },
   {
@@ -26490,7 +26475,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-11 $0.56",
+   "basis": "last confirmed 2026-11-10 $0.56",
    "source_url": ""
   },
   {
@@ -38505,7 +38490,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-11 $0.56",
+   "basis": "last confirmed 2026-11-10 $0.56",
    "source_url": ""
   },
   {
@@ -43846,6 +43831,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-19 $0.371375",
+   "source_url": ""
+  },
+  {
+   "company": "The Bank of New York Mellon",
+   "ticker": "BNY",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 6.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-20 $6.15",
    "source_url": ""
   }
  ]
