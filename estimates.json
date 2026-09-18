@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-18 06:19",
+ "updatedAt": "2026-09-18 09:32",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2894,
+ "count": 2903,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -11884,6 +11884,21 @@
    "source_url": ""
   },
   {
+   "company": "Energy Services of America Corporation",
+   "ticker": "ESOA",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.04,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.04",
+   "source_url": ""
+  },
+  {
    "company": "F&G Annuities & Life, Inc.",
    "ticker": "FG",
    "exchange": "NYSE",
@@ -12286,6 +12301,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $17.25",
+   "source_url": ""
+  },
+  {
+   "company": "First Financial Corporation",
+   "ticker": "THFF",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.56,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.56",
    "source_url": ""
   },
   {
@@ -13441,6 +13471,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.145",
+   "source_url": ""
+  },
+  {
+   "company": "AECOM",
+   "ticker": "ACM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.31",
    "source_url": ""
   },
   {
@@ -23674,6 +23719,21 @@
    "source_url": ""
   },
   {
+   "company": "Energy Services of America Corporation",
+   "ticker": "ESOA",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.04,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.04",
+   "source_url": ""
+  },
+  {
    "company": "F&G Annuities & Life, Inc.",
    "ticker": "FG",
    "exchange": "NYSE",
@@ -24061,6 +24121,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $17.25",
+   "source_url": ""
+  },
+  {
+   "company": "First Financial Corporation",
+   "ticker": "THFF",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.56,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.56",
    "source_url": ""
   },
   {
@@ -25306,6 +25381,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "AECOM",
+   "ticker": "ACM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.31",
    "source_url": ""
   },
   {
@@ -35569,6 +35659,21 @@
    "source_url": ""
   },
   {
+   "company": "Energy Services of America Corporation",
+   "ticker": "ESOA",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.04,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.04",
+   "source_url": ""
+  },
+  {
    "company": "F&G Annuities & Life, Inc.",
    "ticker": "FG",
    "exchange": "NYSE",
@@ -35971,6 +36076,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $17.25",
+   "source_url": ""
+  },
+  {
+   "company": "First Financial Corporation",
+   "ticker": "THFF",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.56,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.56",
    "source_url": ""
   },
   {
@@ -37216,6 +37336,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "AECOM",
+   "ticker": "ACM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.31",
    "source_url": ""
   },
   {

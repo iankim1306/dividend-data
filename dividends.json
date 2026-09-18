@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18 06:19",
+ "updatedAt": "2026-09-18 09:32",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -43263,6 +43263,21 @@
    "collected_at": "2026-09-15 09:18"
   },
   {
+   "company": "Energy Services of America Corporation",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "ticker": "ESOA",
+   "security": "common",
+   "amount_per_share": 0.04,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1357971/000110465926108588/tm2625637d1_8k.htm",
+   "collected_at": "2026-09-18 09:19"
+  },
+  {
    "company": "Entergy Texas",
    "exchange": "NYSE",
    "ticker": "ETI-PR",
@@ -43423,6 +43438,66 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1988494/000119312526338354/fvr-20260630.htm",
    "collected_at": "2026-08-15 09:29"
+  },
+  {
+   "company": "Global Net Lease, Inc.",
+   "exchange": "NYSE",
+   "ticker": "GNL PRA",
+   "security": "preferred",
+   "amount_per_share": 0.453125,
+   "currency": "USD",
+   "record_date": "2026-10-02",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926108393/tm2625387d1_ex99-1.htm",
+   "collected_at": "2026-09-18 09:29"
+  },
+  {
+   "company": "Global Net Lease, Inc.",
+   "exchange": "NYSE",
+   "ticker": "GNL PRB",
+   "security": "preferred",
+   "amount_per_share": 0.4296875,
+   "currency": "USD",
+   "record_date": "2026-10-02",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926108393/tm2625387d1_ex99-1.htm",
+   "collected_at": "2026-09-18 09:29"
+  },
+  {
+   "company": "Global Net Lease, Inc.",
+   "exchange": "NYSE",
+   "ticker": "GNL PRD",
+   "security": "preferred",
+   "amount_per_share": 0.46875,
+   "currency": "USD",
+   "record_date": "2026-10-02",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926108393/tm2625387d1_ex99-1.htm",
+   "collected_at": "2026-09-18 09:29"
+  },
+  {
+   "company": "Global Net Lease, Inc.",
+   "exchange": "NYSE",
+   "ticker": "GNL PRE",
+   "security": "preferred",
+   "amount_per_share": 0.4609375,
+   "currency": "USD",
+   "record_date": "2026-10-02",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926108393/tm2625387d1_ex99-1.htm",
+   "collected_at": "2026-09-18 09:29"
   },
   {
    "company": "Huntington Bancshares Incorporated",
@@ -43921,6 +43996,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/third-coast-bancshares-inc-declares-quarterly-cash-dividend-on-its-6-75-series-a-convertible-non-cumulative-preferred-stock-302882484.html",
    "collected_at": "2026-09-18 06:18"
+  },
+  {
+   "company": "First Financial Corporation",
+   "exchange": "NASDAQ",
+   "ticker": "THFF",
+   "security": "common",
+   "amount_per_share": 0.56,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/714562/000071456226000065/thff-20260915xex99d1.htm",
+   "collected_at": "2026-09-18 09:19"
   },
   {
    "company": "Vistra Corp",
@@ -44608,6 +44698,21 @@
    "collected_at": "2026-09-09 00:18"
   },
   {
+   "company": "AECOM",
+   "exchange": "NYSE",
+   "ticker": "ACM",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/868857/000110465926108415/tm2625416d2_ex99-1.htm",
+   "collected_at": "2026-09-18 09:18"
+  },
+  {
    "company": "ACRES Commercial Realty Corp.",
    "exchange": "NYSE",
    "ticker": "ACR",
@@ -44681,6 +44786,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-kondigt-registratiedatum-en-betaaldatum-aan-voor-contante-dividenden-op-9-50-eeuwigdurende-preferente-aandelen-van-serie-a-302851840.html",
    "collected_at": "2026-08-15 00:19"
+  },
+  {
+   "company": "Chimera Investment Corporation",
+   "exchange": "NYSE",
+   "ticker": "CIM",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1409493/000120677426000529/cim4691131-ex991.htm",
+   "collected_at": "2026-09-18 09:28"
   },
   {
    "company": "CION Investment Corporation",
@@ -45890,5 +46010,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3080
+ "count": 3088
 }
