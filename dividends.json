@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18 18:18",
+ "updatedAt": "2026-09-18 21:19",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -42648,6 +42648,36 @@
    "collected_at": "2026-08-15 09:36"
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "exchange": "NYSE American",
+   "ticker": "GPUS",
+   "security": "preferred",
+   "amount_per_share": 0.2708333,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/hyperscale-data-declares-monthly-cash-dividend-of-0-2708333-per-share-of-13-00-series-d-cumulative-redeemable-perpetual-preferred-stock-302881479.html",
+   "collected_at": "2026-09-18 21:19"
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "exchange": "NYSE American",
+   "ticker": "GPUS",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/hyperscale-data-declares-monthly-cash-dividend-of-0-2708333-per-share-of-13-00-series-d-cumulative-redeemable-perpetual-preferred-stock-302881479.html",
+   "collected_at": "2026-09-18 21:19"
+  },
+  {
    "company": "Academy Sports and Outdoors, Inc.",
    "exchange": "Nasdaq",
    "ticker": "ASO",
@@ -43186,6 +43216,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/cms-energy-declares-quarterly-dividend-on-cumulative-redeemable-perpetual-preferred-stock-302845307.html",
    "collected_at": "2026-08-07 07:31"
+  },
+  {
+   "company": "Cross Timbers Royalty Trust",
+   "exchange": "NYSE",
+   "ticker": "CRT",
+   "security": "common",
+   "amount_per_share": 0.064277,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cross-timbers-royalty-trust-declares-september-cash-distribution-302881496.html",
+   "collected_at": "2026-09-18 21:18"
   },
   {
    "company": "Cousins Properties",
@@ -43733,6 +43778,36 @@
    "collected_at": "2026-08-13 11:06"
   },
   {
+   "company": "Permian Basin Royalty Trust",
+   "exchange": "NYSE",
+   "ticker": "PBT",
+   "security": "common",
+   "amount_per_share": 0.019593,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-15",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/permian-basin-royalty-trust-announces-september-cash-distribution-and-excess-cost-position-on-waddell-ranch-properties-302881487.html",
+   "collected_at": "2026-09-18 21:18"
+  },
+  {
+   "company": "PG&E Corporation",
+   "exchange": "NYSE",
+   "ticker": "PCG",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/pge-sets-dates-for-quarterly-stock-dividends-302882677.html",
+   "collected_at": "2026-09-18 21:19"
+  },
+  {
    "company": "Pebblebrook Hotel Trust",
    "exchange": "NYSE",
    "ticker": "PEB",
@@ -44070,6 +44145,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/936528/000093652826000043/wfsl-20260331.htm",
    "collected_at": "2026-08-13 14:21"
+  },
+  {
+   "company": "W. P. Carey Inc.",
+   "exchange": "NYSE",
+   "ticker": "WPC",
+   "security": "common",
+   "amount_per_share": 0.95,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/w-p-carey-increases-quarterly-dividend-to-0-950-per-share-302882645.html",
+   "collected_at": "2026-09-18 21:18"
   },
   {
    "company": "Groupe WSP Global Inc.",
@@ -45251,6 +45341,96 @@
    "collected_at": "2026-08-06 23:56"
   },
   {
+   "company": "Pacific Gas and Electric Company",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 0.3125,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/pge-sets-dates-for-quarterly-stock-dividends-302882677.html",
+   "collected_at": "2026-09-18 21:19"
+  },
+  {
+   "company": "Pacific Gas and Electric Company",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/pge-sets-dates-for-quarterly-stock-dividends-302882677.html",
+   "collected_at": "2026-09-18 21:19"
+  },
+  {
+   "company": "Pacific Gas and Electric Company",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 0.28125,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/pge-sets-dates-for-quarterly-stock-dividends-302882677.html",
+   "collected_at": "2026-09-18 21:19"
+  },
+  {
+   "company": "Pacific Gas and Electric Company",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 0.2725,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/pge-sets-dates-for-quarterly-stock-dividends-302882677.html",
+   "collected_at": "2026-09-18 21:19"
+  },
+  {
+   "company": "Pacific Gas and Electric Company",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 0.375,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/pge-sets-dates-for-quarterly-stock-dividends-302882677.html",
+   "collected_at": "2026-09-18 21:19"
+  },
+  {
+   "company": "Pacific Gas and Electric Company",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 0.34375,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/pge-sets-dates-for-quarterly-stock-dividends-302882677.html",
+   "collected_at": "2026-09-18 21:19"
+  },
+  {
    "company": "Citi",
    "exchange": "NYSE",
    "ticker": "C",
@@ -46010,5 +46190,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3088
+ "count": 3100
 }
