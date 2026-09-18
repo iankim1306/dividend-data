@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-19 03:18",
+ "updatedAt": "2026-09-19 06:19",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2923,
+ "count": 2922,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -1231,21 +1231,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.04",
-   "source_url": ""
-  },
-  {
-   "company": "Lument Finance Trust, Inc.",
-   "ticker": "LFT",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.49219,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.49219",
    "source_url": ""
   },
   {
@@ -11599,21 +11584,6 @@
    "source_url": ""
   },
   {
-   "company": "Lument Finance Trust, Inc.",
-   "ticker": "LFT",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.49219,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.49219",
-   "source_url": ""
-  },
-  {
    "company": "Mondelēz International, Inc.",
    "ticker": "MDLZ",
    "exchange": "Nasdaq",
@@ -12065,21 +12035,6 @@
   },
   {
    "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBANM",
-   "exchange": "",
-   "security": "preferred",
-   "amount_per_share": 1406.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $1406.25",
-   "source_url": ""
-  },
-  {
-   "company": "Huntington Bancshares Incorporated",
    "ticker": "HBANP",
    "exchange": "Nasdaq",
    "security": "preferred",
@@ -12121,6 +12076,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Lument Finance Trust, Inc.",
+   "ticker": "LFT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.4921875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.4921875",
    "source_url": ""
   },
   {
@@ -17101,6 +17071,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.84",
+   "source_url": ""
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "ticker": "HBANM",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 356.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $356.25",
    "source_url": ""
   },
   {
@@ -23599,21 +23584,6 @@
    "source_url": ""
   },
   {
-   "company": "Lument Finance Trust, Inc.",
-   "ticker": "LFT",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.49219,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.49219",
-   "source_url": ""
-  },
-  {
    "company": "Mondelēz International, Inc.",
    "ticker": "MDLZ",
    "exchange": "Nasdaq",
@@ -23990,21 +23960,6 @@
   },
   {
    "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBANM",
-   "exchange": "",
-   "security": "preferred",
-   "amount_per_share": 1406.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $1406.25",
-   "source_url": ""
-  },
-  {
-   "company": "Huntington Bancshares Incorporated",
    "ticker": "HBANP",
    "exchange": "Nasdaq",
    "security": "preferred",
@@ -24031,6 +23986,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Lument Finance Trust, Inc.",
+   "ticker": "LFT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.4921875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.4921875",
    "source_url": ""
   },
   {
@@ -29041,6 +29011,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.84",
+   "source_url": ""
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "ticker": "HBANM",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 356.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $356.25",
    "source_url": ""
   },
   {
@@ -35629,21 +35614,6 @@
    "source_url": ""
   },
   {
-   "company": "Lument Finance Trust, Inc.",
-   "ticker": "LFT",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.49219,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.49219",
-   "source_url": ""
-  },
-  {
    "company": "Mondelēz International, Inc.",
    "ticker": "MDLZ",
    "exchange": "Nasdaq",
@@ -36020,21 +35990,6 @@
   },
   {
    "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBANM",
-   "exchange": "",
-   "security": "preferred",
-   "amount_per_share": 1406.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $1406.25",
-   "source_url": ""
-  },
-  {
-   "company": "Huntington Bancshares Incorporated",
    "ticker": "HBANP",
    "exchange": "Nasdaq",
    "security": "preferred",
@@ -36061,6 +36016,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Lument Finance Trust, Inc.",
+   "ticker": "LFT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.4921875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.4921875",
    "source_url": ""
   },
   {
@@ -41131,6 +41101,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-05 $0.130208",
+   "source_url": ""
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "ticker": "HBANM",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 356.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $356.25",
    "source_url": ""
   },
   {
