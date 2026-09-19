@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-19 06:19",
+ "updatedAt": "2026-09-19 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2922,
+ "count": 2920,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -826,21 +826,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-07 $0.11",
-   "source_url": ""
-  },
-  {
-   "company": "Omega Flex, Inc.",
-   "ticker": "OFLX",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.34,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-06",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-07 $0.34",
    "source_url": ""
   },
   {
@@ -2431,21 +2416,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.5",
-   "source_url": ""
-  },
-  {
-   "company": "Community Bancorp",
-   "ticker": "CMTV",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-01 $0.25",
    "source_url": ""
   },
   {
@@ -10819,21 +10789,6 @@
    "source_url": ""
   },
   {
-   "company": "Omega Flex, Inc.",
-   "ticker": "OFLX",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.34,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-05",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-07 $0.34",
-   "source_url": ""
-  },
-  {
    "company": "UPBOUND GROUP, INC.",
    "ticker": "UPBD",
    "exchange": "Nasdaq",
@@ -11671,6 +11626,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.2715",
+   "source_url": ""
+  },
+  {
+   "company": "Omega Flex, Inc.",
+   "ticker": "OFLX",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-14 $0.34",
    "source_url": ""
   },
   {
@@ -13834,21 +13804,6 @@
    "source_url": ""
   },
   {
-   "company": "Community Bancorp",
-   "ticker": "CMTV",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-01 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "GERMAN AMERICAN BANCORP, INC.",
    "ticker": "GABC",
    "exchange": "Nasdaq",
@@ -13936,6 +13891,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-05-03 $1.92",
+   "source_url": ""
+  },
+  {
+   "company": "Community Bancorp",
+   "ticker": "CMTV",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-01 $0.26",
    "source_url": ""
   },
   {
@@ -22744,21 +22714,6 @@
    "source_url": ""
   },
   {
-   "company": "Omega Flex, Inc.",
-   "ticker": "OFLX",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.34,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-06",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-07 $0.34",
-   "source_url": ""
-  },
-  {
    "company": "UPBOUND GROUP, INC.",
    "ticker": "UPBD",
    "exchange": "Nasdaq",
@@ -23641,6 +23596,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.43",
+   "source_url": ""
+  },
+  {
+   "company": "Omega Flex, Inc.",
+   "ticker": "OFLX",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-14 $0.34",
    "source_url": ""
   },
   {
@@ -25819,21 +25789,6 @@
    "source_url": ""
   },
   {
-   "company": "Community Bancorp",
-   "ticker": "CMTV",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-01 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "GERMAN AMERICAN BANCORP, INC.",
    "ticker": "GABC",
    "exchange": "Nasdaq",
@@ -25906,6 +25861,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-05-03 $1.92",
+   "source_url": ""
+  },
+  {
+   "company": "Community Bancorp",
+   "ticker": "CMTV",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-01 $0.26",
    "source_url": ""
   },
   {
@@ -34789,21 +34759,6 @@
    "source_url": ""
   },
   {
-   "company": "Omega Flex, Inc.",
-   "ticker": "OFLX",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.34,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-06",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-07 $0.34",
-   "source_url": ""
-  },
-  {
    "company": "UPBOUND GROUP, INC.",
    "ticker": "UPBD",
    "exchange": "Nasdaq",
@@ -35671,6 +35626,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.43",
+   "source_url": ""
+  },
+  {
+   "company": "Omega Flex, Inc.",
+   "ticker": "OFLX",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-14 $0.34",
    "source_url": ""
   },
   {
@@ -37819,21 +37789,6 @@
    "source_url": ""
   },
   {
-   "company": "Community Bancorp",
-   "ticker": "CMTV",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-01 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "GERMAN AMERICAN BANCORP, INC.",
    "ticker": "GABC",
    "exchange": "Nasdaq",
@@ -37921,6 +37876,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-05-03 $1.92",
+   "source_url": ""
+  },
+  {
+   "company": "Community Bancorp",
+   "ticker": "CMTV",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-01 $0.26",
    "source_url": ""
   },
   {
