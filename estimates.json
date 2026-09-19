@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-19 21:18",
+ "updatedAt": "2026-09-20 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2920,
+ "count": 2923,
  "items": [
   {
    "company": "Global X NASDAQ 100 Covered Call ETF",
@@ -43801,6 +43801,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-20 $6.15",
+   "source_url": ""
+  },
+  {
+   "company": "Healthpeak Properties, Inc.",
+   "ticker": "DOC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.10167,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-20",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-25 $0.10167",
+   "source_url": ""
+  },
+  {
+   "company": "SM Energy Company",
+   "ticker": "SM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-21 $0.22",
+   "source_url": ""
+  },
+  {
+   "company": "Tapestry, Inc.",
+   "ticker": "TPR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-21 $0.4625",
    "source_url": ""
   }
  ]
