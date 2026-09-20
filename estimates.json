@@ -1,53 +1,8 @@
 {
- "updatedAt": "2026-09-20 21:18",
+ "updatedAt": "2026-09-21 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2923,
+ "count": 2926,
  "items": [
-  {
-   "company": "Global X NASDAQ 100 Covered Call ETF",
-   "ticker": "QYLD",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1775,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-21",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-23 $0.1775",
-   "source_url": ""
-  },
-  {
-   "company": "Global X Russell 2000 Covered Call ETF",
-   "ticker": "RYLD",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1605,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-21",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-23 $0.1605",
-   "source_url": ""
-  },
-  {
-   "company": "Global X S&P 500 Covered Call ETF",
-   "ticker": "XYLD",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.4088,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-21",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-23 $0.4088",
-   "source_url": ""
-  },
   {
    "company": "UnitedHealth Group",
    "ticker": "UNH",
@@ -43549,6 +43504,21 @@
    "source_url": ""
   },
   {
+   "company": "Global X NASDAQ 100 Covered Call ETF",
+   "ticker": "QYLD",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.1775,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-23 $0.1775",
+   "source_url": ""
+  },
+  {
    "company": "RB Global, Inc.",
    "ticker": "RBA",
    "exchange": "New York Stock Exchange",
@@ -43594,6 +43564,21 @@
    "source_url": ""
   },
   {
+   "company": "Global X Russell 2000 Covered Call ETF",
+   "ticker": "RYLD",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.1605,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-23 $0.1605",
+   "source_url": ""
+  },
+  {
    "company": "Unity Bancorp, Inc.",
    "ticker": "UNTY",
    "exchange": "Nasdaq",
@@ -43621,6 +43606,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-17 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "Global X S&P 500 Covered Call ETF",
+   "ticker": "XYLD",
+   "exchange": "NYSE ARCA",
+   "security": "fund",
+   "amount_per_share": 0.4088,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-23 $0.4088",
    "source_url": ""
   },
   {
@@ -43846,6 +43846,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-21 $0.4625",
+   "source_url": ""
+  },
+  {
+   "company": "Vaalco Energy, Inc.",
+   "ticker": "EGY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-22 $0.0625",
+   "source_url": ""
+  },
+  {
+   "company": "Movado Group, Inc.",
+   "ticker": "MOV",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-22 $0.4",
+   "source_url": ""
+  },
+  {
+   "company": "NLI Holdings, Inc.",
+   "ticker": "NL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-22 $0.1",
    "source_url": ""
   }
  ]
