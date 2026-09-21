@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-22 03:18",
+ "updatedAt": "2026-09-22 06:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -40564,6 +40564,21 @@
    "collected_at": "2026-08-07 00:00"
   },
   {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "preferred",
+   "amount_per_share": 0.344938,
+   "currency": "CAD",
+   "record_date": null,
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sun-life-reports-results-of-conversion-privilege-of-class-a-non-cumulative-rate-reset-preferred-shares-series-10r-and-class-a-non-cumulative-floating-rate-preferred-shares-series-11qr-302885208.html",
+   "collected_at": "2026-09-22 06:18"
+  },
+  {
    "company": "Simon Property Group",
    "exchange": "NYSE",
    "ticker": "SPG",
@@ -44222,6 +44237,36 @@
    "collected_at": "2026-08-06 23:57"
   },
   {
+   "company": "Xenia Hotels & Resorts, Inc.",
+   "exchange": "NYSE",
+   "ticker": "XHR",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/xenia-hotels--resorts-declares-dividend-for-third-quarter-2026-302883479.html",
+   "collected_at": "2026-09-22 06:18"
+  },
+  {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AFB",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-16",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/alliancebernstein-closed-end-funds-announce-distribution-rates-302885004.html",
+   "collected_at": "2026-09-22 06:18"
+  },
+  {
    "company": "American Healthcare REIT, Inc.",
    "exchange": "NYSE",
    "ticker": "AHR",
@@ -44235,6 +44280,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1632970/000119312526395604/ahr-ex99_1.htm",
    "collected_at": "2026-09-19 09:29"
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AWF",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-16",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/alliancebernstein-closed-end-funds-announce-distribution-rates-302885004.html",
+   "collected_at": "2026-09-22 06:18"
   },
   {
    "company": "Bitmine Immersion Technologies, Inc.",
@@ -44786,6 +44846,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-october-and-november-2026-302882135.html",
    "collected_at": "2026-09-19 06:18"
+  },
+  {
+   "company": "GE Aerospace",
+   "exchange": "NYSE",
+   "ticker": "GE",
+   "security": "common",
+   "amount_per_share": 0.47,
+   "currency": "USD",
+   "record_date": "2026-10-05",
+   "payable_date": "2026-10-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ge-aerospace-board-of-directors-authorizes-quarterly-dividend-302885226.html",
+   "collected_at": "2026-09-22 06:18"
   },
   {
    "company": "NexPoint Real Estate Finance, Inc.",
@@ -46430,5 +46505,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3116
+ "count": 3121
 }

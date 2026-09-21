@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-22 03:18",
+ "updatedAt": "2026-09-22 06:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2931,
+ "count": 2955,
  "items": [
   {
    "company": "SPDR Portfolio S&P 500 High Dividend ETF",
@@ -1246,21 +1246,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.96",
-   "source_url": ""
-  },
-  {
-   "company": "Xenia Hotels & Resorts, Inc.",
-   "ticker": "XHR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.14",
    "source_url": ""
   },
   {
@@ -3364,6 +3349,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
    "company": "Apple Hospitality REIT, Inc.",
    "ticker": "APLE",
    "exchange": "NYSE",
@@ -3376,6 +3376,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.0655",
    "source_url": ""
   },
   {
@@ -6589,6 +6604,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
    "company": "AGCO CORP",
    "ticker": "AGCO",
    "exchange": "NYSE",
@@ -6661,6 +6691,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.3515625",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.0655",
    "source_url": ""
   },
   {
@@ -9814,6 +9859,21 @@
    "source_url": ""
   },
   {
+   "company": "Sun Life Financial Inc.",
+   "ticker": "SLF",
+   "exchange": "TSX",
+   "security": "preferred",
+   "amount_per_share": 0.344938,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.344938",
+   "source_url": ""
+  },
+  {
    "company": "THE SCOTTS MIRACLE-GRO COMPANY",
    "ticker": "SMG",
    "exchange": "NYSE",
@@ -11659,21 +11719,6 @@
    "source_url": ""
   },
   {
-   "company": "Xenia Hotels & Resorts, Inc.",
-   "ticker": "XHR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.14",
-   "source_url": ""
-  },
-  {
    "company": "ACRE Commercial Real Estate Corporation",
    "ticker": "ACRE",
    "exchange": "NYSE",
@@ -11686,6 +11731,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.05018",
    "source_url": ""
   },
   {
@@ -11716,6 +11776,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.0655",
    "source_url": ""
   },
   {
@@ -12256,6 +12331,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.95",
+   "source_url": ""
+  },
+  {
+   "company": "Xenia Hotels & Resorts, Inc.",
+   "ticker": "XHR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.14",
    "source_url": ""
   },
   {
@@ -14914,6 +15004,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
    "company": "Apple Hospitality REIT, Inc.",
    "ticker": "APLE",
    "exchange": "NYSE",
@@ -14926,6 +15031,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.0655",
    "source_url": ""
   },
   {
@@ -18334,6 +18454,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
    "company": "Apple Hospitality REIT, Inc.",
    "ticker": "APLE",
    "exchange": "NYSE",
@@ -18346,6 +18481,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.0655",
    "source_url": ""
   },
   {
@@ -21754,6 +21904,21 @@
    "source_url": ""
   },
   {
+   "company": "Sun Life Financial Inc.",
+   "ticker": "SLF",
+   "exchange": "TSX",
+   "security": "preferred",
+   "amount_per_share": 0.344938,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.344938",
+   "source_url": ""
+  },
+  {
    "company": "THE SCOTTS MIRACLE-GRO COMPANY",
    "ticker": "SMG",
    "exchange": "NYSE",
@@ -23194,6 +23359,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
    "company": "Advanced Flower Capital Inc.",
    "ticker": "AFCG",
    "exchange": "Nasdaq",
@@ -23236,6 +23416,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.0655",
    "source_url": ""
   },
   {
@@ -23596,21 +23791,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.96",
-   "source_url": ""
-  },
-  {
-   "company": "Xenia Hotels & Resorts, Inc.",
-   "ticker": "XHR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.14",
    "source_url": ""
   },
   {
@@ -24181,6 +24361,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.95",
+   "source_url": ""
+  },
+  {
+   "company": "Xenia Hotels & Resorts, Inc.",
+   "ticker": "XHR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.14",
    "source_url": ""
   },
   {
@@ -26614,6 +26809,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
    "company": "Apple Hospitality REIT, Inc.",
    "ticker": "APLE",
    "exchange": "NYSE",
@@ -26626,6 +26836,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.0655",
    "source_url": ""
   },
   {
@@ -30289,6 +30514,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
    "company": "Apple Hospitality REIT, Inc.",
    "ticker": "APLE",
    "exchange": "NYSE",
@@ -30301,6 +30541,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.0655",
    "source_url": ""
   },
   {
@@ -33784,6 +34039,21 @@
    "source_url": ""
   },
   {
+   "company": "Sun Life Financial Inc.",
+   "ticker": "SLF",
+   "exchange": "TSX",
+   "security": "preferred",
+   "amount_per_share": 0.344938,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.344938",
+   "source_url": ""
+  },
+  {
    "company": "THE SCOTTS MIRACLE-GRO COMPANY",
    "ticker": "SMG",
    "exchange": "NYSE",
@@ -35119,6 +35389,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
    "company": "Apple Hospitality REIT, Inc.",
    "ticker": "APLE",
    "exchange": "NYSE",
@@ -35131,6 +35416,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.0655",
    "source_url": ""
   },
   {
@@ -35626,21 +35926,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.96",
-   "source_url": ""
-  },
-  {
-   "company": "Xenia Hotels & Resorts, Inc.",
-   "ticker": "XHR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.14",
    "source_url": ""
   },
   {
@@ -36211,6 +36496,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.95",
+   "source_url": ""
+  },
+  {
+   "company": "Xenia Hotels & Resorts, Inc.",
+   "ticker": "XHR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.14",
    "source_url": ""
   },
   {
@@ -38539,6 +38839,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
    "company": "Apple Hospitality REIT, Inc.",
    "ticker": "APLE",
    "exchange": "NYSE",
@@ -38551,6 +38866,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.0655",
    "source_url": ""
   },
   {
@@ -42349,6 +42679,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
    "company": "Apple Hospitality REIT, Inc.",
    "ticker": "APLE",
    "exchange": "NYSE",
@@ -42361,6 +42706,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.0655",
    "source_url": ""
   },
   {
