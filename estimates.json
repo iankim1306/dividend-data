@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-22 06:18",
+ "updatedAt": "2026-09-22 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2955,
+ "count": 2961,
  "items": [
   {
    "company": "SPDR Portfolio S&P 500 High Dividend ETF",
@@ -12019,6 +12019,21 @@
    "source_url": ""
   },
   {
+   "company": "First Internet Bancorp",
+   "ticker": "INBK",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.06",
+   "source_url": ""
+  },
+  {
    "company": "Korn Ferry",
    "ticker": "KFY",
    "exchange": "NYSE",
@@ -14221,6 +14236,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $1.47",
+   "source_url": ""
+  },
+  {
+   "company": "Ennis, Inc.",
+   "ticker": "EBF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.2625",
    "source_url": ""
   },
   {
@@ -24034,6 +24064,21 @@
    "source_url": ""
   },
   {
+   "company": "First Internet Bancorp",
+   "ticker": "INBK",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.06",
+   "source_url": ""
+  },
+  {
    "company": "Korn Ferry",
    "ticker": "KFY",
    "exchange": "NYSE",
@@ -26296,6 +26341,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $1.47",
+   "source_url": ""
+  },
+  {
+   "company": "Ennis, Inc.",
+   "ticker": "EBF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.2625",
    "source_url": ""
   },
   {
@@ -36169,6 +36229,21 @@
    "source_url": ""
   },
   {
+   "company": "First Internet Bancorp",
+   "ticker": "INBK",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.06",
+   "source_url": ""
+  },
+  {
    "company": "Korn Ferry",
    "ticker": "KFY",
    "exchange": "NYSE",
@@ -38431,6 +38506,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $1.47",
+   "source_url": ""
+  },
+  {
+   "company": "Ennis, Inc.",
+   "ticker": "EBF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.2625",
    "source_url": ""
   },
   {

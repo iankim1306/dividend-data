@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-22 06:18",
+ "updatedAt": "2026-09-22 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -43704,6 +43704,21 @@
    "collected_at": "2026-08-13 11:17"
   },
   {
+   "company": "First Internet Bancorp",
+   "exchange": "Nasdaq",
+   "ticker": "INBK",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1562463/000156246326000097/inbk3q2026dividendpressrel.htm",
+   "collected_at": "2026-09-22 09:19"
+  },
+  {
    "company": "Invesco Mortgage Capital Inc.",
    "exchange": "NYSE",
    "ticker": "IVR",
@@ -45522,6 +45537,21 @@
    "collected_at": "2026-08-15 00:19"
   },
   {
+   "company": "Ennis, Inc.",
+   "exchange": "NYSE",
+   "ticker": "EBF",
+   "security": "common",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "2026-10-09",
+   "payable_date": "2026-11-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/33002/000119312526396197/ebf-ex99_1.htm",
+   "collected_at": "2026-09-22 09:20"
+  },
+  {
    "company": "National Health Investors, Inc.",
    "exchange": "NYSE",
    "ticker": "NHI",
@@ -46505,5 +46535,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3121
+ "count": 3123
 }
