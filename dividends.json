@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-23 03:18",
+ "updatedAt": "2026-09-23 06:19",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -44416,6 +44416,21 @@
    "collected_at": "2026-08-21 06:18"
   },
   {
+   "company": "Parke Bancorp, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "PKBK",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "2026-10-02",
+   "payable_date": "2026-10-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/parke-bancorp-inc-announces-cash-dividend-302886593.html",
+   "collected_at": "2026-09-23 06:18"
+  },
+  {
    "company": "Saga Communications, Inc.",
    "exchange": "Nasdaq",
    "ticker": "SGA",
@@ -45177,6 +45192,21 @@
    "collected_at": "2026-08-13 12:16"
   },
   {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "FOF",
+   "security": "fund",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "2026-10-13",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-closed-end-funds-declare-distributions-for-october-november-and-december-2026-302886752.html",
+   "collected_at": "2026-09-23 06:18"
+  },
+  {
    "company": "Globe Life Inc.",
    "exchange": "NYSE",
    "ticker": "GL",
@@ -45220,6 +45250,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/investar-holding-corporation-declares-quarterly-common-and-preferred-stock-cash-dividends-302881198.html",
    "collected_at": "2026-09-17 09:18"
+  },
+  {
+   "company": "Mid-America Apartment Communities, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MAA",
+   "security": "common",
+   "amount_per_share": 1.53,
+   "currency": "USD",
+   "record_date": "2026-10-15",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/maa-announces-quarterly-common-dividend-302886653.html",
+   "collected_at": "2026-09-23 06:19"
   },
   {
    "company": "Morningstar, Inc.",
@@ -45312,6 +45357,36 @@
    "collected_at": "2026-08-06 23:56"
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "RFI",
+   "security": "fund",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "2026-10-13",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-closed-end-funds-declare-distributions-for-october-november-and-december-2026-302886752.html",
+   "collected_at": "2026-09-23 06:18"
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "RQI",
+   "security": "fund",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "2026-10-13",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-closed-end-funds-declare-distributions-for-october-november-and-december-2026-302886752.html",
+   "collected_at": "2026-09-23 06:18"
+  },
+  {
    "company": "NXG Cushing® Midstream Energy Fund",
    "exchange": "NYSE",
    "ticker": "SRV",
@@ -45340,6 +45415,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/trinity-capital-declares-monthly-cash-distribution-of-0-17-per-share-for-the-fourth-quarter-of-2026--302880941.html",
    "collected_at": "2026-09-17 06:18"
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "UTF",
+   "security": "fund",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "2026-10-13",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-closed-end-funds-declare-distributions-for-october-november-and-december-2026-302886752.html",
+   "collected_at": "2026-09-23 06:18"
   },
   {
    "company": "Zimmer Biomet Holdings, Inc.",
@@ -46013,6 +46103,21 @@
    "collected_at": "2026-08-13 11:18"
   },
   {
+   "company": "Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "LDP",
+   "security": "fund",
+   "amount_per_share": 0.131,
+   "currency": "USD",
+   "record_date": "2026-11-10",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-closed-end-funds-declare-distributions-for-october-november-and-december-2026-302886752.html",
+   "collected_at": "2026-09-23 06:18"
+  },
+  {
    "company": "NXG NextGen Infrastructure Income Fund",
    "exchange": "NYSE",
    "ticker": "NXG",
@@ -46026,6 +46131,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/nxg-nextgen-infrastructure-income-fund-nyse-nxg-announces-distributions-302865747.html",
    "collected_at": "2026-09-01 21:18"
+  },
+  {
+   "company": "Cohen & Steers Real Estate Opportunities and Income Fund",
+   "exchange": "NYSE",
+   "ticker": "RLTY",
+   "security": "fund",
+   "amount_per_share": 0.11,
+   "currency": "USD",
+   "record_date": "2026-11-10",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-closed-end-funds-declare-distributions-for-october-november-and-december-2026-302886752.html",
+   "collected_at": "2026-09-23 06:18"
   },
   {
    "company": "NXG Cushing® Midstream Energy Fund",
@@ -46475,6 +46595,51 @@
    "collected_at": "2026-08-06 23:58"
   },
   {
+   "company": "Cohen & Steers Select Preferred and Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "PSF",
+   "security": "fund",
+   "amount_per_share": 0.126,
+   "currency": "USD",
+   "record_date": "2026-12-08",
+   "payable_date": "2026-12-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-closed-end-funds-declare-distributions-for-october-november-and-december-2026-302886752.html",
+   "collected_at": "2026-09-23 06:18"
+  },
+  {
+   "company": "Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund",
+   "exchange": "NYSE",
+   "ticker": "PTA",
+   "security": "fund",
+   "amount_per_share": 0.134,
+   "currency": "USD",
+   "record_date": "2026-12-08",
+   "payable_date": "2026-12-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-closed-end-funds-declare-distributions-for-october-november-and-december-2026-302886752.html",
+   "collected_at": "2026-09-23 06:18"
+  },
+  {
+   "company": "Cohen & Steers REIT and Preferred and Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "RNP",
+   "security": "fund",
+   "amount_per_share": 0.136,
+   "currency": "USD",
+   "record_date": "2026-12-08",
+   "payable_date": "2026-12-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-closed-end-funds-declare-distributions-for-october-november-and-december-2026-302886752.html",
+   "collected_at": "2026-09-23 06:18"
+  },
+  {
    "company": "Trinity Capital Inc.",
    "exchange": "NYSE",
    "ticker": "TRIN",
@@ -46535,5 +46700,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3123
+ "count": 3134
 }
