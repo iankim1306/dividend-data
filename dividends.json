@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-23 18:18",
+ "updatedAt": "2026-09-23 21:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -46328,6 +46328,21 @@
    "collected_at": "2026-08-14 09:37"
   },
   {
+   "company": "Target Corporation",
+   "exchange": "NYSE",
+   "ticker": "TGT",
+   "security": "common",
+   "amount_per_share": 1.16,
+   "currency": "USD",
+   "record_date": "2026-11-11",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/target-corporation-declares-regular-quarterly-dividend-302886527.html",
+   "collected_at": "2026-09-23 21:18"
+  },
+  {
    "company": "Helmerich & Payne, Inc.",
    "exchange": "NYSE",
    "ticker": "HP",
@@ -46760,5 +46775,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3138
+ "count": 3139
 }
