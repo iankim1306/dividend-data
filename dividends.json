@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-23 06:19",
+ "updatedAt": "2026-09-23 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -42485,6 +42485,21 @@
    "collected_at": "2026-09-03 06:18"
   },
   {
+   "company": "ServisFirst Bancshares, Inc.",
+   "exchange": "NYSE",
+   "ticker": "SFBS",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1430723/000117184326006146/exh_991.htm",
+   "collected_at": "2026-09-23 09:19"
+  },
+  {
    "company": "Schneider National, Inc.",
    "exchange": "NYSE",
    "ticker": "SNDR",
@@ -43777,6 +43792,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/lennox-declares-quarterly-dividend-302883415.html",
    "collected_at": "2026-09-19 03:18"
+  },
+  {
+   "company": "MillerKnoll, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "MLKN",
+   "security": "common",
+   "amount_per_share": 0.1875,
+   "currency": "USD",
+   "record_date": "2026-08-29",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/66382/000006638226000150/mlkn8k_08292026ex991.htm",
+   "collected_at": "2026-09-23 09:19"
   },
   {
    "company": "Neuberger Municipal Fund Inc.",
@@ -45761,6 +45791,21 @@
    "collected_at": "2026-08-06 23:56"
   },
   {
+   "company": "TXNM Energy, Inc.",
+   "exchange": "NYSE",
+   "ticker": "TXNM",
+   "security": "common",
+   "amount_per_share": 0.4225,
+   "currency": "USD",
+   "record_date": "2026-10-23",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/txnm-energy-board-declares-quarterly-common-stock-dividend-302886805.html",
+   "collected_at": "2026-09-23 09:18"
+  },
+  {
    "company": "Pacific Gas and Electric Company",
    "exchange": null,
    "ticker": null,
@@ -46565,6 +46610,21 @@
    "collected_at": "2026-08-13 11:18"
   },
   {
+   "company": "WORTHINGTON ENTERPRISES, INC.",
+   "exchange": "The New York Stock Exchange",
+   "ticker": "WOR",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "2026-12-15",
+   "payable_date": "2026-12-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526397953/wor-20260922.htm",
+   "collected_at": "2026-09-23 09:19"
+  },
+  {
    "company": "Dana Incorporated",
    "exchange": "NYSE",
    "ticker": "DAN",
@@ -46700,5 +46760,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3134
+ "count": 3138
 }

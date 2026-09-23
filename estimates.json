@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-23 06:19",
+ "updatedAt": "2026-09-23 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2968,
+ "count": 2972,
  "items": [
   {
    "company": "Gaming and Leisure Properties, Inc.",
@@ -511,21 +511,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-01 $0.55",
-   "source_url": ""
-  },
-  {
-   "company": "TXNM Energy, Inc.",
-   "ticker": "TXNM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.4225,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.4225",
    "source_url": ""
   },
   {
@@ -9274,21 +9259,6 @@
    "source_url": ""
   },
   {
-   "company": "Worthington Enterprises Inc.",
-   "ticker": "WOR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-29 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Allstate Corporation",
    "ticker": "ALL",
    "exchange": "NYSE",
@@ -9976,21 +9946,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $17.81",
-   "source_url": ""
-  },
-  {
-   "company": "TXNM Energy, Inc.",
-   "ticker": "TXNM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.4225,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.4225",
    "source_url": ""
   },
   {
@@ -11011,6 +10966,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-10 $0.81349",
+   "source_url": ""
+  },
+  {
+   "company": "ServisFirst Bancshares, Inc.",
+   "ticker": "SFBS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-09 $0.19",
    "source_url": ""
   },
   {
@@ -12046,6 +12016,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.4921875",
+   "source_url": ""
+  },
+  {
+   "company": "MillerKnoll, Inc.",
+   "ticker": "MLKN",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.1875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.1875",
    "source_url": ""
   },
   {
@@ -15001,6 +14986,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $1.25",
+   "source_url": ""
+  },
+  {
+   "company": "TXNM Energy, Inc.",
+   "ticker": "TXNM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4225,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.4225",
    "source_url": ""
   },
   {
@@ -21349,9 +21349,9 @@
    "source_url": ""
   },
   {
-   "company": "Worthington Enterprises Inc.",
+   "company": "WORTHINGTON ENTERPRISES, INC.",
    "ticker": "WOR",
-   "exchange": "NYSE",
+   "exchange": "The New York Stock Exchange",
    "security": "common",
    "amount_per_share": 0.2,
    "currency": "USD",
@@ -21360,7 +21360,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-29 $0.2",
+   "basis": "last confirmed 2026-12-29 $0.2",
    "source_url": ""
   },
   {
@@ -22051,21 +22051,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.17",
-   "source_url": ""
-  },
-  {
-   "company": "TXNM Energy, Inc.",
-   "ticker": "TXNM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.4225,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.4225",
    "source_url": ""
   },
   {
@@ -23071,6 +23056,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-10 $0.81349",
+   "source_url": ""
+  },
+  {
+   "company": "ServisFirst Bancshares, Inc.",
+   "ticker": "SFBS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-09 $0.19",
    "source_url": ""
   },
   {
@@ -24091,6 +24091,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.4921875",
+   "source_url": ""
+  },
+  {
+   "company": "MillerKnoll, Inc.",
+   "ticker": "MLKN",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.1875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.1875",
    "source_url": ""
   },
   {
@@ -27151,6 +27166,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $1.25",
+   "source_url": ""
+  },
+  {
+   "company": "TXNM Energy, Inc.",
+   "ticker": "TXNM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4225,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.4225",
    "source_url": ""
   },
   {
@@ -33529,9 +33559,9 @@
    "source_url": ""
   },
   {
-   "company": "Worthington Enterprises Inc.",
+   "company": "WORTHINGTON ENTERPRISES, INC.",
    "ticker": "WOR",
-   "exchange": "NYSE",
+   "exchange": "The New York Stock Exchange",
    "security": "common",
    "amount_per_share": 0.2,
    "currency": "USD",
@@ -33540,7 +33570,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-29 $0.2",
+   "basis": "last confirmed 2026-12-29 $0.2",
    "source_url": ""
   },
   {
@@ -34201,21 +34231,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $17.81",
-   "source_url": ""
-  },
-  {
-   "company": "TXNM Energy, Inc.",
-   "ticker": "TXNM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.4225,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.4225",
    "source_url": ""
   },
   {
@@ -35221,6 +35236,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-10 $0.81349",
+   "source_url": ""
+  },
+  {
+   "company": "ServisFirst Bancshares, Inc.",
+   "ticker": "SFBS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-09 $0.19",
    "source_url": ""
   },
   {
@@ -36271,6 +36301,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $1.36",
+   "source_url": ""
+  },
+  {
+   "company": "MillerKnoll, Inc.",
+   "ticker": "MLKN",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.1875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.1875",
    "source_url": ""
   },
   {
@@ -39301,6 +39346,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $1.25",
+   "source_url": ""
+  },
+  {
+   "company": "TXNM Energy, Inc.",
+   "ticker": "TXNM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4225,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.4225",
    "source_url": ""
   },
   {
