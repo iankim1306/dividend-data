@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-24 03:18",
+ "updatedAt": "2026-09-24 06:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -44730,6 +44730,36 @@
    "collected_at": "2026-08-21 06:19"
   },
   {
+   "company": "Lennar Corporation",
+   "exchange": "NYSE",
+   "ticker": "LEN",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-10-07",
+   "payable_date": "2026-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/lennar-corporation-declares-quarterly-dividends-302887920.html",
+   "collected_at": "2026-09-24 06:18"
+  },
+  {
+   "company": "Lennar Corporation",
+   "exchange": "NYSE",
+   "ticker": "LEN.B",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-10-07",
+   "payable_date": "2026-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/lennar-corporation-declares-quarterly-dividends-302887920.html",
+   "collected_at": "2026-09-24 06:18"
+  },
+  {
    "company": "Simpson Manufacturing Co., Inc.",
    "exchange": "NYSE",
    "ticker": "SSD",
@@ -45342,6 +45372,21 @@
    "collected_at": "2026-09-01 21:18"
   },
   {
+   "company": "OGE Energy Corp.",
+   "exchange": "NYSE",
+   "ticker": "OGE",
+   "security": "common",
+   "amount_per_share": 0.42875,
+   "currency": "USD",
+   "record_date": "2026-10-05",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/oge-energy-corp-board-of-directors-declares-quarterly-dividend-302888212.html",
+   "collected_at": "2026-09-24 06:18"
+  },
+  {
    "company": "Oxford Industries, Inc.",
    "exchange": "NYSE",
    "ticker": "OXM",
@@ -45462,6 +45507,21 @@
    "collected_at": "2026-09-23 06:18"
   },
   {
+   "company": "Veralto",
+   "exchange": "NYSE",
+   "ticker": "VLTO",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/veralto-announces-quarterly-dividend-302886886.html",
+   "collected_at": "2026-09-24 06:18"
+  },
+  {
    "company": "Zimmer Biomet Holdings, Inc.",
    "exchange": "NYSE",
    "ticker": "ZBH",
@@ -45565,6 +45625,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-october-and-november-2026-302882135.html",
    "collected_at": "2026-09-19 06:18"
+  },
+  {
+   "company": "First United Corporation",
+   "exchange": "NASDAQ",
+   "ticker": "FUNC",
+   "security": "common",
+   "amount_per_share": 0.28,
+   "currency": "USD",
+   "record_date": "2026-10-19",
+   "payable_date": "2026-11-02",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/first-united-corporation-announces-fourth-quarter-2026-dividend-302888165.html",
+   "collected_at": "2026-09-24 06:18"
   },
   {
    "company": "The Hartford",
@@ -46775,5 +46850,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3139
+ "count": 3144
 }
