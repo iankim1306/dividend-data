@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-25 03:18",
+ "updatedAt": "2026-09-25 06:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2998,
+ "count": 3000,
  "items": [
   {
    "company": "Papa John’s International, Inc.",
@@ -2326,21 +2326,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.15",
-   "source_url": ""
-  },
-  {
-   "company": "AT&T Inc",
-   "ticker": "T",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2775,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.2775",
    "source_url": ""
   },
   {
@@ -13864,7 +13849,7 @@
    "source_url": ""
   },
   {
-   "company": "AT&T Inc",
+   "company": "AT&T",
    "ticker": "T",
    "exchange": "NYSE",
    "security": "common",
@@ -13875,7 +13860,22 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.2775",
+   "basis": "last confirmed 2026-11-02 $0.2775",
+   "source_url": ""
+  },
+  {
+   "company": "AT&T",
+   "ticker": "T",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 296.875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $296.875",
    "source_url": ""
   },
   {
@@ -25954,7 +25954,7 @@
    "source_url": ""
   },
   {
-   "company": "AT&T Inc",
+   "company": "AT&T",
    "ticker": "T",
    "exchange": "NYSE",
    "security": "common",
@@ -25965,7 +25965,22 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.2775",
+   "basis": "last confirmed 2026-11-02 $0.2775",
+   "source_url": ""
+  },
+  {
+   "company": "AT&T",
+   "ticker": "T",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 296.875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $296.875",
    "source_url": ""
   },
   {
@@ -38104,7 +38119,7 @@
    "source_url": ""
   },
   {
-   "company": "AT&T Inc",
+   "company": "AT&T",
    "ticker": "T",
    "exchange": "NYSE",
    "security": "common",
@@ -38115,7 +38130,22 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.2775",
+   "basis": "last confirmed 2026-11-02 $0.2775",
+   "source_url": ""
+  },
+  {
+   "company": "AT&T",
+   "ticker": "T",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 296.875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $296.875",
    "source_url": ""
   },
   {
