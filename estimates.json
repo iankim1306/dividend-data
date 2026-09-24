@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-24 18:18",
+ "updatedAt": "2026-09-24 21:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2986,
+ "count": 2989,
  "items": [
   {
    "company": "Gaming and Leisure Properties, Inc.",
@@ -17359,6 +17359,21 @@
    "source_url": ""
   },
   {
+   "company": "Conagra Brands, Inc.",
+   "ticker": "CAG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-03 $0.175",
+   "source_url": ""
+  },
+  {
    "company": "Cognex Corporation",
    "ticker": "CGNX",
    "exchange": "NASDAQ",
@@ -29491,6 +29506,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-03 $0.075",
+   "source_url": ""
+  },
+  {
+   "company": "Conagra Brands, Inc.",
+   "ticker": "CAG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-03 $0.175",
    "source_url": ""
   },
   {
@@ -41716,6 +41746,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-03 $0.075",
+   "source_url": ""
+  },
+  {
+   "company": "Conagra Brands, Inc.",
+   "ticker": "CAG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-03 $0.175",
    "source_url": ""
   },
   {
