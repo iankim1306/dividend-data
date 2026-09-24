@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-24 06:18",
+ "updatedAt": "2026-09-24 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 2988,
+ "count": 2986,
  "items": [
   {
    "company": "Gaming and Leisure Properties, Inc.",
@@ -1111,21 +1111,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.460938",
-   "source_url": ""
-  },
-  {
-   "company": "Millrose Properties, Inc.",
-   "ticker": "MRP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.77,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.77",
    "source_url": ""
   },
   {
@@ -2716,21 +2701,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-11 $0.3",
-   "source_url": ""
-  },
-  {
-   "company": "Cracker Barrel Old Country Store, Inc.",
-   "ticker": "CBRL",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-11",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-12 $0.25",
    "source_url": ""
   },
   {
@@ -11464,21 +11434,6 @@
    "source_url": ""
   },
   {
-   "company": "Millrose Properties, Inc.",
-   "ticker": "MRP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.77,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.77",
-   "source_url": ""
-  },
-  {
    "company": "Neuberger Municipal Fund Inc.",
    "ticker": "NBH",
    "exchange": "NYSE American",
@@ -12016,6 +11971,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-16 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "Millrose Properties, Inc.",
+   "ticker": "MRP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.79,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.79",
    "source_url": ""
   },
   {
@@ -14389,21 +14359,6 @@
    "source_url": ""
   },
   {
-   "company": "Cracker Barrel Old Country Store, Inc.",
-   "ticker": "CBRL",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-10",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-12 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "EPR Properties",
    "ticker": "EPR",
    "exchange": "NYSE",
@@ -14476,6 +14431,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.27",
+   "source_url": ""
+  },
+  {
+   "company": "Cracker Barrel Old Country Store, Inc.",
+   "ticker": "CBRL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.25",
    "source_url": ""
   },
   {
@@ -23644,21 +23614,6 @@
    "source_url": ""
   },
   {
-   "company": "Millrose Properties, Inc.",
-   "ticker": "MRP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.77,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.77",
-   "source_url": ""
-  },
-  {
    "company": "NewLake Capital Partners, Inc.",
    "ticker": "NLCP",
    "exchange": "OTC",
@@ -24076,6 +24031,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-16 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "Millrose Properties, Inc.",
+   "ticker": "MRP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.79,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.79",
    "source_url": ""
   },
   {
@@ -26524,21 +26494,6 @@
    "source_url": ""
   },
   {
-   "company": "Cracker Barrel Old Country Store, Inc.",
-   "ticker": "CBRL",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-12",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-12 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
    "ticker": "NTIC",
    "exchange": "Nasdaq",
@@ -26596,6 +26551,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.17708",
+   "source_url": ""
+  },
+  {
+   "company": "Cracker Barrel Old Country Store, Inc.",
+   "ticker": "CBRL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.25",
    "source_url": ""
   },
   {
@@ -35824,21 +35794,6 @@
    "source_url": ""
   },
   {
-   "company": "Millrose Properties, Inc.",
-   "ticker": "MRP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.77,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.77",
-   "source_url": ""
-  },
-  {
    "company": "NewLake Capital Partners, Inc.",
    "ticker": "NLCP",
    "exchange": "OTC",
@@ -36271,6 +36226,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-16 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "Millrose Properties, Inc.",
+   "ticker": "MRP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.79,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.79",
    "source_url": ""
   },
   {
@@ -38704,21 +38674,6 @@
    "source_url": ""
   },
   {
-   "company": "Cracker Barrel Old Country Store, Inc.",
-   "ticker": "CBRL",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-11",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-12 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "Cross Timbers Royalty Trust",
    "ticker": "CRT",
    "exchange": "NYSE",
@@ -38911,6 +38866,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.0655",
+   "source_url": ""
+  },
+  {
+   "company": "Cracker Barrel Old Country Store, Inc.",
+   "ticker": "CBRL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.25",
    "source_url": ""
   },
   {

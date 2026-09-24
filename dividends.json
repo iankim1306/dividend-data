@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-24 06:18",
+ "updatedAt": "2026-09-24 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -43809,6 +43809,21 @@
    "collected_at": "2026-09-23 09:19"
   },
   {
+   "company": "Millrose Properties, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MRP",
+   "security": "common",
+   "amount_per_share": 0.79,
+   "currency": "USD",
+   "record_date": "2026-10-05",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526399549/ck0002017206-ex99_1.htm",
+   "collected_at": "2026-09-24 09:18"
+  },
+  {
    "company": "Neuberger Municipal Fund Inc.",
    "exchange": "NYSE American",
    "ticker": "NBH",
@@ -45821,6 +45836,21 @@
    "collected_at": "2026-09-18 06:19"
   },
   {
+   "company": "Cracker Barrel Old Country Store, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "CBRL",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-10-16",
+   "payable_date": "2026-11-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1067294/000110465926109812/tm2625926d1_ex99-1.htm",
+   "collected_at": "2026-09-24 09:26"
+  },
+  {
    "company": "Bitmine Immersion Technologies, Inc.",
    "exchange": "NYSE",
    "ticker": "BMNP",
@@ -46850,5 +46880,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3144
+ "count": 3146
 }
