@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-25 21:18",
+ "updatedAt": "2026-09-26 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3008,
+ "count": 3014,
  "items": [
   {
    "company": "Papa John’s International, Inc.",
@@ -11581,6 +11581,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.5158",
+   "source_url": ""
+  },
+  {
+   "company": "Cadiz, Inc.",
+   "ticker": "CDZIP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 0.56,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.56",
    "source_url": ""
   },
   {
@@ -23686,6 +23701,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.5158",
+   "source_url": ""
+  },
+  {
+   "company": "Cadiz, Inc.",
+   "ticker": "CDZIP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 0.56,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.56",
    "source_url": ""
   },
   {
@@ -35899,6 +35929,21 @@
    "source_url": ""
   },
   {
+   "company": "Cadiz, Inc.",
+   "ticker": "CDZIP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 0.56,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.56",
+   "source_url": ""
+  },
+  {
    "company": "Encompass Health Corporation",
    "ticker": "EHC",
    "exchange": "NYSE",
@@ -45121,6 +45166,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.145",
+   "source_url": ""
+  },
+  {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
+   "company": "NXG NextGen Infrastructure Income Fund",
+   "ticker": "NXG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.6",
+   "source_url": ""
+  },
+  {
+   "company": "NXG Cushing® Midstream Energy Fund",
+   "ticker": "SRV",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.5",
    "source_url": ""
   }
  ]
