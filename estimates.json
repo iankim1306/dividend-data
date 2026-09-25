@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-25 06:18",
+ "updatedAt": "2026-09-25 09:32",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3000,
+ "count": 3008,
  "items": [
   {
    "company": "Papa John’s International, Inc.",
@@ -1231,21 +1231,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-17 $1.06",
-   "source_url": ""
-  },
-  {
-   "company": "The First Bancorp",
-   "ticker": "FNLC",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.38,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-17 $0.38",
    "source_url": ""
   },
   {
@@ -11209,6 +11194,21 @@
    "source_url": ""
   },
   {
+   "company": "IDT CORPORATION",
+   "ticker": "IDT",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-14 $0.07",
+   "source_url": ""
+  },
+  {
    "company": "Innovative Industrial Properties, Inc.",
    "ticker": "IIPR",
    "exchange": "NYSE",
@@ -12180,7 +12180,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-17 $0.38",
+   "basis": "last confirmed 2026-10-16 $0.38",
    "source_url": ""
   },
   {
@@ -12676,6 +12676,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.77",
+   "source_url": ""
+  },
+  {
+   "company": "Dime Commercial Bancshares, Inc.",
+   "ticker": "DCOM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.25",
    "source_url": ""
   },
   {
@@ -13771,6 +13786,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Darden Restaurants, Inc.",
+   "ticker": "DRI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.62,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $1.62",
    "source_url": ""
   },
   {
@@ -23389,6 +23419,21 @@
    "source_url": ""
   },
   {
+   "company": "IDT CORPORATION",
+   "ticker": "IDT",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-14 $0.07",
+   "source_url": ""
+  },
+  {
    "company": "Innovative Industrial Properties, Inc.",
    "ticker": "IIPR",
    "exchange": "NYSE",
@@ -24240,7 +24285,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-17 $0.38",
+   "basis": "last confirmed 2026-10-16 $0.38",
    "source_url": ""
   },
   {
@@ -24751,6 +24796,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.77",
+   "source_url": ""
+  },
+  {
+   "company": "Dime Commercial Bancshares, Inc.",
+   "ticker": "DCOM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.25",
    "source_url": ""
   },
   {
@@ -25891,6 +25951,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Darden Restaurants, Inc.",
+   "ticker": "DRI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.62,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $1.62",
    "source_url": ""
   },
   {
@@ -35554,6 +35629,21 @@
    "source_url": ""
   },
   {
+   "company": "IDT CORPORATION",
+   "ticker": "IDT",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-14 $0.07",
+   "source_url": ""
+  },
+  {
    "company": "Innovative Industrial Properties, Inc.",
    "ticker": "IIPR",
    "exchange": "NYSE",
@@ -36420,7 +36510,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-17 $0.38",
+   "basis": "last confirmed 2026-10-16 $0.38",
    "source_url": ""
   },
   {
@@ -36916,6 +37006,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.77",
+   "source_url": ""
+  },
+  {
+   "company": "Dime Commercial Bancshares, Inc.",
+   "ticker": "DCOM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.25",
    "source_url": ""
   },
   {
@@ -38071,6 +38176,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Darden Restaurants, Inc.",
+   "ticker": "DRI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.62,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $1.62",
    "source_url": ""
   },
   {
