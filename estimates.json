@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-26 03:18",
+ "updatedAt": "2026-09-26 06:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3014,
+ "count": 3013,
  "items": [
   {
    "company": "Papa John’s International, Inc.",
@@ -1771,21 +1771,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.1125",
-   "source_url": ""
-  },
-  {
-   "company": "abrdn Global Infrastructure Income Fund",
-   "ticker": "ASGI",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.22,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.22",
    "source_url": ""
   },
   {
@@ -4440,7 +4425,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.22",
+   "basis": "last confirmed 2026-10-30 $0.22",
    "source_url": ""
   },
   {
@@ -8535,7 +8520,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.22",
+   "basis": "last confirmed 2026-10-30 $0.22",
    "source_url": ""
   },
   {
@@ -13020,7 +13005,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.22",
+   "basis": "last confirmed 2026-10-30 $0.22",
    "source_url": ""
   },
   {
@@ -16305,7 +16290,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.22",
+   "basis": "last confirmed 2026-10-30 $0.22",
    "source_url": ""
   },
   {
@@ -20550,7 +20535,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.22",
+   "basis": "last confirmed 2026-10-30 $0.22",
    "source_url": ""
   },
   {
@@ -25125,7 +25110,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.22",
+   "basis": "last confirmed 2026-10-30 $0.22",
    "source_url": ""
   },
   {
@@ -28200,7 +28185,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.22",
+   "basis": "last confirmed 2026-10-30 $0.22",
    "source_url": ""
   },
   {
@@ -32700,7 +32685,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.22",
+   "basis": "last confirmed 2026-10-30 $0.22",
    "source_url": ""
   },
   {
@@ -37305,7 +37290,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.22",
+   "basis": "last confirmed 2026-10-30 $0.22",
    "source_url": ""
   },
   {
@@ -40290,7 +40275,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.22",
+   "basis": "last confirmed 2026-10-30 $0.22",
    "source_url": ""
   },
   {
@@ -44925,7 +44910,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.22",
+   "basis": "last confirmed 2026-10-30 $0.22",
    "source_url": ""
   },
   {
