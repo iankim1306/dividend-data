@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-28 18:18",
+ "updatedAt": "2026-09-28 21:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -39153,6 +39153,21 @@
    "collected_at": "2026-08-13 14:45"
   },
   {
+   "company": "Infrastructure Capital",
+   "exchange": "NYSE Arca",
+   "ticker": "BNDS",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "2026-09-29",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-a-dividend-increase-for-its-bond-income-etf-bnds-equity-income-etf-icap-small-cap-income-etf-scap-and-nasdaq-option-income-etf-qvol-302891149.html",
+   "collected_at": "2026-09-28 21:18"
+  },
+  {
    "company": "Bluerock Private Real Estate Fund",
    "exchange": "NYSE",
    "ticker": "BPRE",
@@ -39816,6 +39831,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1580905/000158090526000045/ibp-20260630.htm",
    "collected_at": "2026-08-14 09:40"
+  },
+  {
+   "company": "Infrastructure Capital",
+   "exchange": "NYSE Arca",
+   "ticker": "ICAP",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "2026-09-29",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-a-dividend-increase-for-its-bond-income-etf-bnds-equity-income-etf-icap-small-cap-income-etf-scap-and-nasdaq-option-income-etf-qvol-302891149.html",
+   "collected_at": "2026-09-28 21:18"
   },
   {
    "company": "Intercontinental Exchange, Inc.",
@@ -40504,6 +40534,21 @@
    "collected_at": "2026-08-13 11:20"
   },
   {
+   "company": "Infrastructure Capital",
+   "exchange": "NYSE Arca",
+   "ticker": "QVOL",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "2026-09-29",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-a-dividend-increase-for-its-bond-income-etf-bnds-equity-income-etf-icap-small-cap-income-etf-scap-and-nasdaq-option-income-etf-qvol-302891149.html",
+   "collected_at": "2026-09-28 21:18"
+  },
+  {
    "company": "Ross Stores, Inc.",
    "exchange": "Nasdaq",
    "ticker": "ROST",
@@ -40532,6 +40577,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/930236/000110465926106539/tm2625156d1_ex99-1.htm",
    "collected_at": "2026-09-11 09:23"
+  },
+  {
+   "company": "Infrastructure Capital",
+   "exchange": "NYSE Arca",
+   "ticker": "SCAP",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "2026-09-29",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-a-dividend-increase-for-its-bond-income-etf-bnds-equity-income-etf-icap-small-cap-income-etf-scap-and-nasdaq-option-income-etf-qvol-302891149.html",
+   "collected_at": "2026-09-28 21:18"
   },
   {
    "company": "Service Corporation International",
@@ -47210,5 +47270,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3168
+ "count": 3172
 }
