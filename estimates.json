@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-29 06:18",
+ "updatedAt": "2026-09-29 09:32",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3104,
+ "count": 3122,
  "items": [
   {
    "company": "Allstate Corporation",
@@ -1951,6 +1951,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-01 $0.31",
+   "source_url": ""
+  },
+  {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5625",
    "source_url": ""
   },
   {
@@ -4531,6 +4546,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5625",
    "source_url": ""
   },
   {
@@ -9304,6 +9334,21 @@
    "source_url": ""
   },
   {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5625",
+   "source_url": ""
+  },
+  {
    "company": "Merck & Co., Inc.",
    "ticker": "MRK",
    "exchange": "NYSE",
@@ -12709,6 +12754,21 @@
    "source_url": ""
   },
   {
+   "company": "Vail Resorts, Inc.",
+   "ticker": "MTN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-27 $2.22",
+   "source_url": ""
+  },
+  {
    "company": "Alamo Group Inc.",
    "ticker": "ALG",
    "exchange": "NYSE",
@@ -13399,6 +13459,21 @@
    "source_url": ""
   },
   {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5625",
+   "source_url": ""
+  },
+  {
    "company": "Northern Oil and Gas, Inc.",
    "ticker": "NOG",
    "exchange": "NYSE",
@@ -13996,6 +14071,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-06 $0.94",
+   "source_url": ""
+  },
+  {
+   "company": "PATHFINDER BANCORP, INC.",
+   "ticker": "PBHC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1",
    "source_url": ""
   },
   {
@@ -16561,6 +16651,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-05-31 $0.57",
+   "source_url": ""
+  },
+  {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5625",
    "source_url": ""
   },
   {
@@ -21049,6 +21154,21 @@
    "source_url": ""
   },
   {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5625",
+   "source_url": ""
+  },
+  {
    "company": "NATHAN'S FAMOUS, INC.",
    "ticker": "NATH",
    "exchange": "NASDAQ",
@@ -25069,6 +25189,21 @@
    "source_url": ""
   },
   {
+   "company": "Vail Resorts, Inc.",
+   "ticker": "MTN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-27 $2.22",
+   "source_url": ""
+  },
+  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -25531,6 +25666,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5625",
    "source_url": ""
   },
   {
@@ -26356,6 +26506,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-06 $0.94",
+   "source_url": ""
+  },
+  {
+   "company": "PATHFINDER BANCORP, INC.",
+   "ticker": "PBHC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1",
    "source_url": ""
   },
   {
@@ -28846,6 +29011,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5625",
    "source_url": ""
   },
   {
@@ -33241,6 +33421,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-28 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5625",
    "source_url": ""
   },
   {
@@ -37744,6 +37939,21 @@
    "source_url": ""
   },
   {
+   "company": "Vail Resorts, Inc.",
+   "ticker": "MTN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-27 $2.22",
+   "source_url": ""
+  },
+  {
    "company": "Infrastructure Capital",
    "ticker": "QVOL",
    "exchange": "NYSE Arca",
@@ -37876,6 +38086,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5625",
    "source_url": ""
   },
   {
@@ -38761,6 +38986,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-06 $0.94",
+   "source_url": ""
+  },
+  {
+   "company": "PATHFINDER BANCORP, INC.",
+   "ticker": "PBHC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1",
    "source_url": ""
   },
   {
@@ -41101,6 +41341,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5625",
    "source_url": ""
   },
   {
@@ -45586,6 +45841,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.045",
+   "source_url": ""
+  },
+  {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5625",
    "source_url": ""
   },
   {

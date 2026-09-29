@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-29 06:18",
+ "updatedAt": "2026-09-29 09:32",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -37483,6 +37483,21 @@
    "collected_at": "2026-09-02 06:19"
   },
   {
+   "company": "Kentucky First Federal Bancorp",
+   "exchange": "Nasdaq",
+   "ticker": "KFFB",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1297341/000121390026103633/ea0305657-10k_kentucky.htm",
+   "collected_at": "2026-09-29 09:27"
+  },
+  {
    "company": "Manulife Financial Corporation",
    "exchange": "TSX/NYSE/PSE",
    "ticker": "MFC",
@@ -41653,6 +41668,51 @@
    "collected_at": "2026-08-14 06:18"
   },
   {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "exchange": "Nasdaq",
+   "ticker": "MKZR",
+   "security": "preferred",
+   "amount_per_share": 0.375,
+   "currency": "USD",
+   "record_date": "2026-07-31",
+   "payable_date": "2026-10-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1550913/000114036126037858/ef20075467_10k.htm",
+   "collected_at": "2026-09-29 09:29"
+  },
+  {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "exchange": "Nasdaq",
+   "ticker": "MKZR",
+   "security": "preferred",
+   "amount_per_share": 0.1875,
+   "currency": "USD",
+   "record_date": "2026-07-31",
+   "payable_date": "2026-10-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1550913/000114036126037858/ef20075467_10k.htm",
+   "collected_at": "2026-09-29 09:29"
+  },
+  {
+   "company": "MACKENZIE REALTY CAPITAL, INC.",
+   "exchange": "Nasdaq",
+   "ticker": "MKZR",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "2026-07-31",
+   "payable_date": "2026-10-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1550913/000114036126037858/ef20075467_10k.htm",
+   "collected_at": "2026-09-29 09:29"
+  },
+  {
    "company": "NewMarket Corporation",
    "exchange": "NYSE",
    "ticker": "NEU",
@@ -45163,6 +45223,21 @@
    "collected_at": "2026-09-19 06:18"
   },
   {
+   "company": "Vail Resorts, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MTN",
+   "security": "common",
+   "amount_per_share": 2.22,
+   "currency": "USD",
+   "record_date": "2026-10-08",
+   "payable_date": "2026-10-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/812011/000081201126000048/a20260731pressrelease.htm",
+   "collected_at": "2026-09-29 09:19"
+  },
+  {
    "company": "Boyd Group Services Inc.",
    "exchange": "TSX",
    "ticker": "BYD",
@@ -46121,6 +46196,21 @@
    "collected_at": "2026-08-13 11:07"
   },
   {
+   "company": "PATHFINDER BANCORP, INC.",
+   "exchange": "Nasdaq",
+   "ticker": "PBHC",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-10-16",
+   "payable_date": "2026-11-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1609065/000119312526405354/pbhc-20260928.htm",
+   "collected_at": "2026-09-29 09:19"
+  },
+  {
    "company": "Deere & Company",
    "exchange": "NYSE",
    "ticker": "DE",
@@ -46537,6 +46627,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/bmo-financial-group-declares-dividends-302859262.html",
    "collected_at": "2026-08-25 21:18"
+  },
+  {
+   "company": "Jefferies Financial Group Inc.",
+   "exchange": "NYSE",
+   "ticker": "JEF",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-11-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/96223/000009622326000028/jfgpressrelease8312026.htm",
+   "collected_at": "2026-09-29 09:19"
   },
   {
    "company": "Bank of Montreal",
@@ -47270,5 +47375,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3172
+ "count": 3179
 }
