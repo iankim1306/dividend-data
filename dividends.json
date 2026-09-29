@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-29 18:18",
+ "updatedAt": "2026-09-29 21:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -45552,6 +45552,21 @@
    "collected_at": "2026-09-23 06:18"
   },
   {
+   "company": "GFL Environmental Inc.",
+   "exchange": "NYSE",
+   "ticker": "GFL",
+   "security": "common",
+   "amount_per_share": 0.0169,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/gfl-environmental-inc-announces-quarterly-dividend-302892759.html",
+   "collected_at": "2026-09-29 21:18"
+  },
+  {
    "company": "Globe Life Inc.",
    "exchange": "NYSE",
    "ticker": "GL",
@@ -47390,5 +47405,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3180
+ "count": 3181
 }
