@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-30 03:18",
+ "updatedAt": "2026-09-30 06:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3145,
+ "count": 3147,
  "items": [
   {
    "company": "AH Realty Trust, Inc.",
@@ -1351,21 +1351,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.1371",
-   "source_url": ""
-  },
-  {
-   "company": "Camden National Corporation",
-   "ticker": "CAC",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.42,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.42",
    "source_url": ""
   },
   {
@@ -13170,7 +13155,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.42",
+   "basis": "last confirmed 2026-10-30 $0.42",
    "source_url": ""
   },
   {
@@ -16816,6 +16801,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.84",
+   "source_url": ""
+  },
+  {
+   "company": "FirstEnergy Corp.",
+   "ticker": "FE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.465,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.465",
    "source_url": ""
   },
   {
@@ -25650,7 +25650,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.42",
+   "basis": "last confirmed 2026-10-30 $0.42",
    "source_url": ""
   },
   {
@@ -29206,6 +29206,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.84",
+   "source_url": ""
+  },
+  {
+   "company": "FirstEnergy Corp.",
+   "ticker": "FE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.465,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.465",
    "source_url": ""
   },
   {
@@ -38130,7 +38145,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.42",
+   "basis": "last confirmed 2026-10-30 $0.42",
    "source_url": ""
   },
   {
@@ -41731,6 +41746,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.84",
+   "source_url": ""
+  },
+  {
+   "company": "FirstEnergy Corp.",
+   "ticker": "FE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.465,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.465",
    "source_url": ""
   },
   {
