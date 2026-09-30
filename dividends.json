@@ -1,97 +1,7 @@
 {
- "updatedAt": "2026-10-01 03:18",
+ "updatedAt": "2026-10-01 06:19",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
-  {
-   "company": "iShares Core Dividend Growth ETF",
-   "exchange": "NYSE ARCA",
-   "ticker": "DGRO",
-   "security": "fund",
-   "amount_per_share": 0.403081,
-   "currency": "USD",
-   "record_date": "2024-09-25",
-   "payable_date": "2024-09-30",
-   "frequency": "Quarterly",
-   "us_listed": true,
-   "wire": "ISSUER:iShares",
-   "source_url": "https://www.ishares.com/us/products/264623/ishares-core-dividend-growth-etf",
-   "collected_at": "2026-08-18T15:00:37+09:00"
-  },
-  {
-   "company": "iShares Select Dividend ETF",
-   "exchange": "NYSE ARCA",
-   "ticker": "DVY",
-   "security": "fund",
-   "amount_per_share": 1.549625,
-   "currency": "USD",
-   "record_date": "2024-09-25",
-   "payable_date": "2024-09-30",
-   "frequency": "Quarterly",
-   "us_listed": true,
-   "wire": "ISSUER:iShares",
-   "source_url": "https://www.ishares.com/us/products/239500/ishares-select-dividend-etf",
-   "collected_at": "2026-08-18T15:00:40+09:00"
-  },
-  {
-   "company": "iShares Core High Dividend ETF",
-   "exchange": "NYSE ARCA",
-   "ticker": "HDV",
-   "security": "fund",
-   "amount_per_share": 0.245899,
-   "currency": "USD",
-   "record_date": "2024-09-25",
-   "payable_date": "2024-09-30",
-   "frequency": "Quarterly",
-   "us_listed": true,
-   "wire": "ISSUER:iShares",
-   "source_url": "https://www.ishares.com/us/products/239563/ishares-high-dividend-etf",
-   "collected_at": "2026-08-18T15:00:38+09:00"
-  },
-  {
-   "company": "iShares Core S&P 500 ETF",
-   "exchange": "NYSE ARCA",
-   "ticker": "IVV",
-   "security": "fund",
-   "amount_per_share": 2.234609,
-   "currency": "USD",
-   "record_date": null,
-   "payable_date": "2024-09-30",
-   "frequency": "Quarterly",
-   "us_listed": true,
-   "wire": "ISSUER:iShares",
-   "source_url": "https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf",
-   "collected_at": "2026-08-18T15:00:41+09:00"
-  },
-  {
-   "company": "New Mountain Finance Corporation",
-   "exchange": "Nasdaq",
-   "ticker": "NMFC",
-   "security": "common",
-   "amount_per_share": 0.34,
-   "currency": "USD",
-   "record_date": "2024-09-16",
-   "payable_date": "2024-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "wire": "EDGAR",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1496099/000149609926000029/nmfc-20260630.htm",
-   "collected_at": "2026-08-14 09:34"
-  },
-  {
-   "company": "Schwab U.S. Dividend Equity ETF",
-   "exchange": "NYSE ARCA",
-   "ticker": "SCHD",
-   "security": "fund",
-   "amount_per_share": 0.2515,
-   "currency": "USD",
-   "record_date": "2024-09-25",
-   "payable_date": "2024-09-30",
-   "frequency": "Quarterly",
-   "us_listed": true,
-   "wire": "AGG:stockanalysis",
-   "source_url": "https://stockanalysis.com/etf/schd/dividend/",
-   "collected_at": "2026-08-18T15:26:30+09:00"
-  },
   {
    "company": "New Jersey Resources",
    "exchange": "NYSE",
@@ -7768,6 +7678,21 @@
    "collected_at": "2026-08-13 14:41"
   },
   {
+   "company": "Neuberger Next Generation Connectivity Fund Inc.",
+   "exchange": "NYSE",
+   "ticker": "NBXG",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-01-15",
+   "payable_date": "2026-01-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302894912.html",
+   "collected_at": "2026-10-01 06:18"
+  },
+  {
    "company": "SPDR S&P 500 ETF Trust",
    "exchange": "NYSE ARCA",
    "ticker": "SPY",
@@ -8741,6 +8666,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/69733/000143774926019921/ex_969027.htm",
    "collected_at": "2026-08-07 00:16"
+  },
+  {
+   "company": "Neuberger Next Generation Connectivity Fund Inc.",
+   "exchange": "NYSE",
+   "ticker": "NBXG",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-02-17",
+   "payable_date": "2026-02-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302894912.html",
+   "collected_at": "2026-10-01 06:18"
   },
   {
    "company": "PRICESMART, INC.",
@@ -10658,6 +10598,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1055160/000105516026000015/mfa-20260630.htm",
    "collected_at": "2026-08-13 14:41"
+  },
+  {
+   "company": "Neuberger Next Generation Connectivity Fund Inc.",
+   "exchange": "NYSE",
+   "ticker": "NBXG",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-03-16",
+   "payable_date": "2026-03-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302894912.html",
+   "collected_at": "2026-10-01 06:18"
   },
   {
    "company": "New Mountain Finance Corporation",
@@ -13595,6 +13550,21 @@
    "collected_at": "2026-08-13 12:34"
   },
   {
+   "company": "Neuberger Next Generation Connectivity Fund Inc.",
+   "exchange": "NYSE",
+   "ticker": "NBXG",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-04-15",
+   "payable_date": "2026-04-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302894912.html",
+   "collected_at": "2026-10-01 06:18"
+  },
+  {
    "company": "NACCO Industries, Inc.",
    "exchange": "NYSE",
    "ticker": "NC",
@@ -16181,6 +16151,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/835011/000083501126000068/mgpi-20260331.htm",
    "collected_at": "2026-08-13 12:20"
+  },
+  {
+   "company": "Neuberger Next Generation Connectivity Fund Inc.",
+   "exchange": "NYSE",
+   "ticker": "NBXG",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-05-15",
+   "payable_date": "2026-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302894912.html",
+   "collected_at": "2026-10-01 06:18"
   },
   {
    "company": "NVE Corporation",
@@ -21123,6 +21108,21 @@
    "collected_at": "2026-08-07 00:16"
   },
   {
+   "company": "Neuberger Next Generation Connectivity Fund Inc.",
+   "exchange": "NYSE",
+   "ticker": "NBXG",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-06-15",
+   "payable_date": "2026-06-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302894912.html",
+   "collected_at": "2026-10-01 06:18"
+  },
+  {
    "company": "NorthEast Community Bancorp, Inc.",
    "exchange": "Nasdaq",
    "ticker": "NECB",
@@ -26046,6 +26046,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1514281/000162828026055328/mitt-20260630.htm",
    "collected_at": "2026-08-14 09:35"
+  },
+  {
+   "company": "Neuberger Next Generation Connectivity Fund Inc.",
+   "exchange": "NYSE",
+   "ticker": "NBXG",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-07-15",
+   "payable_date": "2026-07-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302894912.html",
+   "collected_at": "2026-10-01 06:18"
   },
   {
    "company": "NACCO Industries, Inc.",
@@ -31871,6 +31886,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302848767.html",
    "collected_at": "2026-08-12 06:07"
+  },
+  {
+   "company": "Neuberger Next Generation Connectivity Fund Inc.",
+   "exchange": "NYSE",
+   "ticker": "NBXG",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-08-17",
+   "payable_date": "2026-08-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302894912.html",
+   "collected_at": "2026-10-01 06:18"
   },
   {
    "company": "NVE Corporation",
@@ -39123,6 +39153,21 @@
    "collected_at": "2026-09-12 06:18"
   },
   {
+   "company": "abrdn Global Infrastructure Income Fund",
+   "exchange": "NYSE",
+   "ticker": "ASGI",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "2026-09-22",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-announce-distribution-payment-details-302894967.html",
+   "collected_at": "2026-10-01 06:19"
+  },
+  {
    "company": "Broadcom Inc.",
    "exchange": "Nasdaq",
    "ticker": "AVGO",
@@ -39271,6 +39316,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/john-hancock-closed-end-funds-declare-quarterly-distributions-302866792.html",
    "collected_at": "2026-09-02 06:19"
+  },
+  {
+   "company": "John Hancock Financial Opportunities Fund",
+   "exchange": "NYSE",
+   "ticker": "BTO",
+   "security": "common",
+   "amount_per_share": 0.65,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/john-hancock-financial-opportunities-fund-notice-to-shareholders--sources-of-distribution-under-section-19a-302894984.html",
+   "collected_at": "2026-10-01 06:19"
   },
   {
    "company": "Commercial Bancgroup, Inc.",
@@ -39713,6 +39773,21 @@
    "collected_at": "2026-09-02 06:19"
   },
   {
+   "company": "John Hancock Diversified Income Fund",
+   "exchange": "NYSE",
+   "ticker": "HEQ",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/john-hancock-diversified-income-fund-notice-to-shareholders--sources-of-distribution-under-section-19-a-302894982.html",
+   "collected_at": "2026-10-01 06:19"
+  },
+  {
    "company": "Hooker Furnishings Corporation",
    "exchange": "Nasdaq-GS",
    "ticker": "HOFT",
@@ -39788,6 +39863,21 @@
    "collected_at": "2026-08-12 06:07"
   },
   {
+   "company": "abrdn Healthcare Investors",
+   "exchange": "NYSE",
+   "ticker": "HQH",
+   "security": "common",
+   "amount_per_share": 0.66,
+   "currency": "USD",
+   "record_date": "2026-08-24",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-announce-distribution-payment-details-302894967.html",
+   "collected_at": "2026-10-01 06:19"
+  },
+  {
    "company": "abrdn Life Sciences Investors",
    "exchange": "NYSE",
    "ticker": "HQL",
@@ -39801,6 +39891,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302848767.html",
    "collected_at": "2026-08-12 06:07"
+  },
+  {
+   "company": "abrdn Life Sciences Investors",
+   "exchange": "NYSE",
+   "ticker": "HQL",
+   "security": "common",
+   "amount_per_share": 0.62,
+   "currency": "USD",
+   "record_date": "2026-08-24",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-announce-distribution-payment-details-302894967.html",
+   "collected_at": "2026-10-01 06:19"
   },
   {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
@@ -39818,6 +39923,21 @@
    "collected_at": "2026-09-02 06:19"
   },
   {
+   "company": "John Hancock Tax-Advantaged Dividend Income Fund",
+   "exchange": "NYSE",
+   "ticker": "HTD",
+   "security": "common",
+   "amount_per_share": 0.158,
+   "currency": "USD",
+   "record_date": "2026-09-11",
+   "payable_date": "2026-09-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/john-hancock-tax-advantaged-dividend-income-fund-notice-to-shareholders--sources-of-distribution-under-section-19a-302894986.html",
+   "collected_at": "2026-10-01 06:19"
+  },
+  {
    "company": "abrdn Australia Equity Fund, Inc.",
    "exchange": "NYSE American",
    "ticker": "IAF",
@@ -39831,6 +39951,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302848767.html",
    "collected_at": "2026-08-12 06:07"
+  },
+  {
+   "company": "abrdn Australia Equity Fund, Inc.",
+   "exchange": "NYSE American",
+   "ticker": "IAF",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "2026-08-24",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-announce-distribution-payment-details-302894967.html",
+   "collected_at": "2026-10-01 06:19"
   },
   {
    "company": "INSTALLED BUILDING PRODUCTS, INC.",
@@ -39891,6 +40026,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302848767.html",
    "collected_at": "2026-08-12 06:07"
+  },
+  {
+   "company": "Aberdeen India Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "IFN",
+   "security": "common",
+   "amount_per_share": 0.37,
+   "currency": "USD",
+   "record_date": "2026-08-24",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-announce-distribution-payment-details-302894967.html",
+   "collected_at": "2026-10-01 06:19"
   },
   {
    "company": "Invesco Value Municipal Income Trust",
@@ -40876,6 +41026,21 @@
    "collected_at": "2026-09-12 09:18"
   },
   {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "exchange": "NYSE",
+   "ticker": "THQ",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-09-22",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-announce-distribution-payment-details-302894967.html",
+   "collected_at": "2026-10-01 06:19"
+  },
+  {
    "company": "abrdn World Healthcare Fund",
    "exchange": "NYSE",
    "ticker": "THW",
@@ -40904,6 +41069,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/abrdn-healthcare-opportunities-fund-thq-and-abrdn-world-healthcare-fund-thw-announce-new-managed-distribution-policies-and-declare-monthly-distributions-302876709.html",
    "collected_at": "2026-09-12 09:18"
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "exchange": "NYSE",
+   "ticker": "THW",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-09-22",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-announce-distribution-payment-details-302894967.html",
+   "collected_at": "2026-10-01 06:19"
   },
   {
    "company": "UDR, Inc.",
@@ -45702,6 +45882,36 @@
    "collected_at": "2026-09-19 09:20"
   },
   {
+   "company": "Neuberger Next Generation Connectivity Fund Inc.",
+   "exchange": "NYSE",
+   "ticker": "NBXG",
+   "security": "common",
+   "amount_per_share": 0.132,
+   "currency": "USD",
+   "record_date": "2026-10-15",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-announces-increase-in-distribution-rate-and-declaration-of-next-monthly-distribution-302894854.html",
+   "collected_at": "2026-10-01 06:19"
+  },
+  {
+   "company": "Neuberger High Yield Strategies Fund Inc.",
+   "exchange": "NYSE American",
+   "ticker": "NHS",
+   "security": "common",
+   "amount_per_share": 0.0905,
+   "currency": "USD",
+   "record_date": "2026-10-15",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-high-yield-strategies-fund-announces-monthly-distribution-302894842.html",
+   "collected_at": "2026-10-01 06:18"
+  },
+  {
    "company": "Northern Oil and Gas, Inc.",
    "exchange": "NYSE",
    "ticker": "NOG",
@@ -45715,6 +45925,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1104485/000110448526000032/nog-20260630.htm",
    "collected_at": "2026-08-13 14:49"
+  },
+  {
+   "company": "Neuberger Real Estate Securities Income Fund Inc.",
+   "exchange": "NYSE American",
+   "ticker": "NRO",
+   "security": "common",
+   "amount_per_share": 0.0312,
+   "currency": "USD",
+   "record_date": "2026-10-15",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-real-estate-securities-income-fund-announces-monthly-distribution-302894853.html",
+   "collected_at": "2026-10-01 06:18"
   },
   {
    "company": "NXG NextGen Infrastructure Income Fund",
@@ -46015,6 +46240,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/16732/000001673226000026/cpb-20260802.htm",
    "collected_at": "2026-09-25 09:19"
+  },
+  {
+   "company": "CVS Health",
+   "exchange": "NYSE",
+   "ticker": "CVS",
+   "security": "common",
+   "amount_per_share": 0.665,
+   "currency": "USD",
+   "record_date": "2026-10-22",
+   "payable_date": "2026-11-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cvs-health-declares-quarterly-dividend-302894998.html",
+   "collected_at": "2026-10-01 06:19"
   },
   {
    "company": "Darden Restaurants, Inc.",
@@ -47480,5 +47720,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3186
+ "count": 3202
 }
