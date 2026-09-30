@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-30 06:18",
+ "updatedAt": "2026-09-30 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3147,
+ "count": 3170,
  "items": [
   {
    "company": "AH Realty Trust, Inc.",
@@ -1024,21 +1024,6 @@
    "source_url": ""
   },
   {
-   "company": "Helios Technologies, Inc.",
-   "ticker": "HLIO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "IDEX CORPORATION",
    "ticker": "IEX",
    "exchange": "NYSE",
@@ -1636,6 +1621,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $1.63",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.09",
    "source_url": ""
   },
   {
@@ -4261,6 +4276,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $1.09",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.09",
    "source_url": ""
   },
   {
@@ -8599,6 +8644,21 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "RenaissanceRe Holdings Ltd.",
    "ticker": "RNR",
    "exchange": "NYSE",
@@ -8611,6 +8671,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.41",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.09",
    "source_url": ""
   },
   {
@@ -12409,21 +12484,6 @@
    "source_url": ""
   },
   {
-   "company": "Helios Technologies, Inc.",
-   "ticker": "HLIO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "IDEX CORPORATION",
    "ticker": "IEX",
    "exchange": "NYSE",
@@ -12511,6 +12571,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-26 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "Helios Technologies, Inc.",
+   "ticker": "HLIO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.12",
    "source_url": ""
   },
   {
@@ -13021,6 +13096,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-30 $0.155",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.09",
    "source_url": ""
   },
   {
@@ -16351,6 +16456,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $1.09",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.09",
    "source_url": ""
   },
   {
@@ -20749,6 +20884,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Infrastructure Capital",
    "ticker": "SCAP",
    "exchange": "NYSE Arca",
@@ -24844,21 +25009,6 @@
    "source_url": ""
   },
   {
-   "company": "Helios Technologies, Inc.",
-   "ticker": "HLIO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "IDEX CORPORATION",
    "ticker": "IEX",
    "exchange": "NYSE",
@@ -24931,6 +25081,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-26 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "Helios Technologies, Inc.",
+   "ticker": "HLIO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.12",
    "source_url": ""
   },
   {
@@ -25396,6 +25561,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $1.09",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.09",
    "source_url": ""
   },
   {
@@ -28654,6 +28849,21 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "Sturm, Ruger & Company, Inc.",
    "ticker": "RGR",
    "exchange": "NYSE",
@@ -28666,6 +28876,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.09",
    "source_url": ""
   },
   {
@@ -33124,6 +33349,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Infrastructure Capital",
    "ticker": "SCAP",
    "exchange": "NYSE Arca",
@@ -37309,21 +37564,6 @@
    "source_url": ""
   },
   {
-   "company": "Helios Technologies, Inc.",
-   "ticker": "HLIO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "IDEX CORPORATION",
    "ticker": "IEX",
    "exchange": "NYSE",
@@ -37426,6 +37666,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.1882",
+   "source_url": ""
+  },
+  {
+   "company": "Helios Technologies, Inc.",
+   "ticker": "HLIO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.12",
    "source_url": ""
   },
   {
@@ -37801,6 +38056,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $1.09",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.09",
    "source_url": ""
   },
   {
@@ -40936,6 +41221,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $1.09",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.09",
    "source_url": ""
   },
   {
@@ -45616,6 +45931,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $1.09",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.09",
    "source_url": ""
   },
   {
