@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02 00:19",
+ "updatedAt": "2026-10-02 03:19",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -45943,6 +45943,21 @@
    "collected_at": "2026-08-07 07:31"
   },
   {
+   "company": "Invesco Value Municipal Income Trust",
+   "exchange": null,
+   "ticker": "IIM",
+   "security": "fund",
+   "amount_per_share": 0.0771,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
+  },
+  {
    "company": "IMMERSION CORPORATION",
    "exchange": "Nasdaq",
    "ticker": "IMMR",
@@ -45956,6 +45971,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1058811/000119312526389915/immr-20260914.htm",
    "collected_at": "2026-09-15 09:19"
+  },
+  {
+   "company": "Invesco Quality Municipal Income Trust",
+   "exchange": null,
+   "ticker": "IQI",
+   "security": "fund",
+   "amount_per_share": 0.0631,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
   },
   {
    "company": "Investar Holding Corporation",
@@ -46093,6 +46123,21 @@
    "collected_at": "2026-09-24 06:18"
   },
   {
+   "company": "Invesco Municipal Income Opportunities Trust",
+   "exchange": null,
+   "ticker": "OIA",
+   "security": "fund",
+   "amount_per_share": 0.0291,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
+  },
+  {
    "company": "Oxford Industries, Inc.",
    "exchange": "NYSE",
    "ticker": "OXM",
@@ -46228,6 +46273,96 @@
    "collected_at": "2026-09-23 06:18"
   },
   {
+   "company": "Invesco Bond Fund",
+   "exchange": null,
+   "ticker": "VBF",
+   "security": "fund",
+   "amount_per_share": 0.0695,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
+  },
+  {
+   "company": "Invesco California Value Municipal Income Trust",
+   "exchange": null,
+   "ticker": "VCV",
+   "security": "fund",
+   "amount_per_share": 0.0646,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
+  },
+  {
+   "company": "Invesco Trust for Investment Grade Municipals",
+   "exchange": null,
+   "ticker": "VGM",
+   "security": "fund",
+   "amount_per_share": 0.0646,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
+  },
+  {
+   "company": "Invesco Advantage Municipal Income Trust II",
+   "exchange": null,
+   "ticker": "VKI",
+   "security": "fund",
+   "amount_per_share": 0.0559,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
+  },
+  {
+   "company": "Invesco Municipal Trust",
+   "exchange": null,
+   "ticker": "VKQ",
+   "security": "fund",
+   "amount_per_share": 0.0628,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
+  },
+  {
+   "company": "Invesco High Income Trust II",
+   "exchange": null,
+   "ticker": "VLT",
+   "security": "fund",
+   "amount_per_share": 0.0895,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
+  },
+  {
    "company": "Veralto",
    "exchange": "NYSE",
    "ticker": "VLTO",
@@ -46241,6 +46376,66 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/veralto-announces-quarterly-dividend-302886886.html",
    "collected_at": "2026-09-24 06:18"
+  },
+  {
+   "company": "Invesco Municipal Opportunity Trust",
+   "exchange": null,
+   "ticker": "VMO",
+   "security": "fund",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
+  },
+  {
+   "company": "Invesco Pennsylvania Value Municipal Income Trust",
+   "exchange": null,
+   "ticker": "VPV",
+   "security": "fund",
+   "amount_per_share": 0.0667,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
+  },
+  {
+   "company": "Invesco Trust for Investment Grade New York Municipals",
+   "exchange": null,
+   "ticker": "VTN",
+   "security": "fund",
+   "amount_per_share": 0.0685,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
+  },
+  {
+   "company": "Invesco Senior Income Trust",
+   "exchange": null,
+   "ticker": "VVR",
+   "security": "fund",
+   "amount_per_share": 0.029,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-closed-end-funds-declare-dividends-302896150.html",
+   "collected_at": "2026-10-02 03:19"
   },
   {
    "company": "Zimmer Biomet Holdings, Inc.",
@@ -47617,6 +47812,36 @@
    "collected_at": "2026-08-07 07:31"
   },
   {
+   "company": "Duke Energy",
+   "exchange": "NYSE",
+   "ticker": "DUK",
+   "security": "common",
+   "amount_per_share": 1.085,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-12-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/duke-energy-announces-dividend-payments-to-shareholders-302896361.html",
+   "collected_at": "2026-10-02 03:18"
+  },
+  {
+   "company": "Duke Energy",
+   "exchange": "NYSE",
+   "ticker": "DUK",
+   "security": "preferred",
+   "amount_per_share": 359.375,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-12-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/duke-energy-announces-dividend-payments-to-shareholders-302896361.html",
+   "collected_at": "2026-10-02 03:18"
+  },
+  {
    "company": "Bitmine Immersion Technologies, Inc.",
    "exchange": "NYSE",
    "ticker": "BMNP",
@@ -47841,5 +48066,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3210
+ "count": 3225
 }
