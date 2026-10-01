@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-01 06:19",
+ "updatedAt": "2026-10-01 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3234,
+ "count": 3237,
  "items": [
   {
    "company": "Agree Realty Corporation",
@@ -13189,6 +13189,21 @@
    "source_url": ""
   },
   {
+   "company": "Micron Technology, Inc.",
+   "ticker": "MU",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-29 $0.15",
+   "source_url": ""
+  },
+  {
    "company": "Neuberger Next Generation Connectivity Fund Inc.",
    "ticker": "NBXG",
    "exchange": "NYSE",
@@ -26104,6 +26119,21 @@
    "source_url": ""
   },
   {
+   "company": "Micron Technology, Inc.",
+   "ticker": "MU",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-29 $0.15",
+   "source_url": ""
+  },
+  {
    "company": "NXG NextGen Infrastructure Income Fund",
    "ticker": "NXG",
    "exchange": "NYSE",
@@ -38941,6 +38971,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-29 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "Micron Technology, Inc.",
+   "ticker": "MU",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-29 $0.15",
    "source_url": ""
   },
   {

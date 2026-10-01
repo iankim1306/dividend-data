@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01 06:19",
+ "updatedAt": "2026-10-01 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -45523,6 +45523,21 @@
    "collected_at": "2026-09-25 09:19"
   },
   {
+   "company": "First Real Estate Investment Trust of New Jersey, Inc.",
+   "exchange": "OTC",
+   "ticker": "FREVS",
+   "security": "common",
+   "amount_per_share": 3.2,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-29",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/36840/000117494726000906/ex99-1.htm",
+   "collected_at": "2026-10-01 09:19"
+  },
+  {
    "company": "Marvell Technology, Inc.",
    "exchange": "NASDAQ",
    "ticker": "MRVL",
@@ -45536,6 +45551,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026063592/a20260925dividendpressrele.htm",
    "collected_at": "2026-09-26 09:19"
+  },
+  {
+   "company": "Micron Technology, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "MU",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-10-14",
+   "payable_date": "2026-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/723125/000072312526000018/a2026q4ex991-pressrelease.htm",
+   "collected_at": "2026-10-01 09:22"
   },
   {
    "company": "The Mexico Fund, Inc.",
@@ -45701,6 +45731,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/camden-national-corporation-announces-its-third-quarter-2026-dividend-302893007.html",
    "collected_at": "2026-09-30 06:18"
+  },
+  {
+   "company": "City Holding Company",
+   "exchange": "Nasdaq",
+   "ticker": "CHCO",
+   "security": "common",
+   "amount_per_share": 1.0,
+   "currency": "USD",
+   "record_date": "2026-10-15",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/726854/000072685426000175/ex99-1dividendincrease9302.htm",
+   "collected_at": "2026-10-01 09:22"
   },
   {
    "company": "Chimera Investment Corporation",
@@ -47720,5 +47765,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3202
+ "count": 3205
 }
