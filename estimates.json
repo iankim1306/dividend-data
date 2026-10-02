@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-02 06:19",
+ "updatedAt": "2026-10-02 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3551,
+ "count": 3557,
  "items": [
   {
    "company": "LEAR CORP",
@@ -12844,6 +12844,21 @@
    "source_url": ""
   },
   {
+   "company": "Global Net Lease, Inc.",
+   "ticker": "GNL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.19",
+   "source_url": ""
+  },
+  {
    "company": "HA Sustainable Infrastructure Capital, Inc.",
    "ticker": "HASI",
    "exchange": "NYSE",
@@ -13576,6 +13591,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-26 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "McCormick & Company, Incorporated",
+   "ticker": "MKC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.48",
    "source_url": ""
   },
   {
@@ -26869,6 +26899,21 @@
    "source_url": ""
   },
   {
+   "company": "Global Net Lease, Inc.",
+   "ticker": "GNL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.19",
+   "source_url": ""
+  },
+  {
    "company": "HA Sustainable Infrastructure Capital, Inc.",
    "ticker": "HASI",
    "exchange": "NYSE",
@@ -27631,6 +27676,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-26 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "McCormick & Company, Incorporated",
+   "ticker": "MKC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.48",
    "source_url": ""
   },
   {
@@ -41014,6 +41074,21 @@
    "source_url": ""
   },
   {
+   "company": "Global Net Lease, Inc.",
+   "ticker": "GNL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.19",
+   "source_url": ""
+  },
+  {
    "company": "HA Sustainable Infrastructure Capital, Inc.",
    "ticker": "HASI",
    "exchange": "NYSE",
@@ -41761,6 +41836,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-26 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "McCormick & Company, Incorporated",
+   "ticker": "MKC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.48",
    "source_url": ""
   },
   {

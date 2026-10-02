@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02 06:19",
+ "updatedAt": "2026-10-02 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -32646,6 +32646,21 @@
    "collected_at": "2026-08-15 09:21"
   },
   {
+   "company": "McCormick & Company, Incorporated",
+   "exchange": "NYSE",
+   "ticker": "MKC",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/63754/000006375426000329/mkc-20260831.htm",
+   "collected_at": "2026-10-02 09:20"
+  },
+  {
    "company": "Penske Automotive Group, Inc.",
    "exchange": "NYSE",
    "ticker": "PAG",
@@ -44733,6 +44748,21 @@
    "collected_at": "2026-09-25 09:18"
   },
   {
+   "company": "Global Net Lease, Inc.",
+   "exchange": "NYSE",
+   "ticker": "GNL",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "2026-10-12",
+   "payable_date": "2026-10-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926112549/tm2626173d1_ex99-1.htm",
+   "collected_at": "2026-10-02 09:28"
+  },
+  {
    "company": "HA Sustainable Infrastructure Capital, Inc.",
    "exchange": "NYSE",
    "ticker": "HASI",
@@ -48336,5 +48366,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3243
+ "count": 3245
 }
