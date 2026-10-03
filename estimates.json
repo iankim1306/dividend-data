@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-03 06:18",
+ "updatedAt": "2026-10-03 09:30",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3569,
+ "count": 3583,
  "items": [
   {
    "company": "JPMorgan Equity Premium Income ETF",
@@ -8551,6 +8551,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-28 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "NIKE, INC.",
+   "ticker": "NKE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.41,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-28 $0.41",
+   "source_url": ""
+  },
+  {
+   "company": "NIKE, INC.",
+   "ticker": "NKE",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-28 $0.1",
    "source_url": ""
   },
   {
@@ -21199,6 +21229,36 @@
    "source_url": ""
   },
   {
+   "company": "UMH Properties, Inc.",
+   "ticker": "UMH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.225,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.225",
+   "source_url": ""
+  },
+  {
+   "company": "UMH Properties, Inc.",
+   "ticker": "UMH",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.3984375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.3984375",
+   "source_url": ""
+  },
+  {
    "company": "The Wendy’s Company",
    "ticker": "WEN",
    "exchange": "Nasdaq",
@@ -23116,6 +23176,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.0905",
+   "source_url": ""
+  },
+  {
+   "company": "NIKE, INC.",
+   "ticker": "NKE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.41,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-28 $0.41",
+   "source_url": ""
+  },
+  {
+   "company": "NIKE, INC.",
+   "ticker": "NKE",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-28 $0.1",
    "source_url": ""
   },
   {
@@ -35359,6 +35449,36 @@
    "source_url": ""
   },
   {
+   "company": "UMH Properties, Inc.",
+   "ticker": "UMH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.225,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.225",
+   "source_url": ""
+  },
+  {
+   "company": "UMH Properties, Inc.",
+   "ticker": "UMH",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.3984375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.3984375",
+   "source_url": ""
+  },
+  {
    "company": "The Wendy’s Company",
    "ticker": "WEN",
    "exchange": "Nasdaq",
@@ -37606,6 +37726,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.5625",
+   "source_url": ""
+  },
+  {
+   "company": "NIKE, INC.",
+   "ticker": "NKE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.41,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-28 $0.41",
+   "source_url": ""
+  },
+  {
+   "company": "NIKE, INC.",
+   "ticker": "NKE",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-28 $0.1",
    "source_url": ""
   },
   {
@@ -49609,6 +49759,36 @@
    "source_url": ""
   },
   {
+   "company": "UMH Properties, Inc.",
+   "ticker": "UMH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.225,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.225",
+   "source_url": ""
+  },
+  {
+   "company": "UMH Properties, Inc.",
+   "ticker": "UMH",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.3984375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.3984375",
+   "source_url": ""
+  },
+  {
    "company": "The Wendy’s Company",
    "ticker": "WEN",
    "exchange": "Nasdaq",
@@ -51916,6 +52096,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.265",
+   "source_url": ""
+  },
+  {
+   "company": "NIKE, INC.",
+   "ticker": "NKE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.41,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-28 $0.41",
+   "source_url": ""
+  },
+  {
+   "company": "NIKE, INC.",
+   "ticker": "NKE",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-28 $0.1",
    "source_url": ""
   },
   {

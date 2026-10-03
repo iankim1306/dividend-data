@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03 06:18",
+ "updatedAt": "2026-10-03 09:30",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -5173,6 +5173,36 @@
    "wire": "ISSUER:Vanguard",
    "source_url": "https://investor.vanguard.com/investment-products/etfs/profile/distributions/voog",
    "collected_at": "2026-08-18T13:09:09+09:00"
+  },
+  {
+   "company": "NIKE, INC.",
+   "exchange": "NYSE",
+   "ticker": "NKE",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2025-08-31",
+   "payable_date": "2025-09-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000193/nke-20260831.htm",
+   "collected_at": "2026-10-03 09:21"
+  },
+  {
+   "company": "NIKE, INC.",
+   "exchange": "NYSE",
+   "ticker": "NKE",
+   "security": "preferred",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2025-08-31",
+   "payable_date": "2025-09-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000193/nke-20260831.htm",
+   "collected_at": "2026-10-03 09:21"
   },
   {
    "company": "Schwab U.S. Dividend Equity ETF",
@@ -38616,6 +38646,36 @@
    "collected_at": "2026-09-11 09:18"
   },
   {
+   "company": "NIKE, INC.",
+   "exchange": "NYSE",
+   "ticker": "NKE",
+   "security": "common",
+   "amount_per_share": 0.41,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000193/nke-20260831.htm",
+   "collected_at": "2026-10-03 09:21"
+  },
+  {
+   "company": "NIKE, INC.",
+   "exchange": "NYSE",
+   "ticker": "NKE",
+   "security": "preferred",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-08-31",
+   "payable_date": "2026-09-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000193/nke-20260831.htm",
+   "collected_at": "2026-10-03 09:21"
+  },
+  {
    "company": "Fidus Investment Corporation",
    "exchange": "NASDAQ",
    "ticker": "FDUS",
@@ -48247,6 +48307,36 @@
    "collected_at": "2026-08-07 07:31"
   },
   {
+   "company": "UMH Properties, Inc.",
+   "exchange": "NYSE",
+   "ticker": "UMH",
+   "security": "common",
+   "amount_per_share": 0.225,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/752642/000149315226045445/ex99-1.htm",
+   "collected_at": "2026-10-03 09:22"
+  },
+  {
+   "company": "UMH Properties, Inc.",
+   "exchange": "NYSE",
+   "ticker": "UMH",
+   "security": "preferred",
+   "amount_per_share": 0.3984375,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/752642/000149315226045445/ex99-1.htm",
+   "collected_at": "2026-10-03 09:22"
+  },
+  {
    "company": "Duke Energy",
    "exchange": "NYSE",
    "ticker": "DUK",
@@ -48516,5 +48606,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3255
+ "count": 3261
 }
