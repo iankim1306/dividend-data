@@ -1,53 +1,8 @@
 {
- "updatedAt": "2026-10-05 21:18",
+ "updatedAt": "2026-10-06 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3586,
+ "count": 3585,
  "items": [
-  {
-   "company": "Blackstone Real Estate Income Trust, Inc.",
-   "ticker": "BSTT",
-   "exchange": "OTC",
-   "security": "common",
-   "amount_per_share": 0.0553,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-06",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-07 $0.0553",
-   "source_url": ""
-  },
-  {
-   "company": "Graphic Packaging Holding Company",
-   "ticker": "GPK",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.11,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-06",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-07 $0.11",
-   "source_url": ""
-  },
-  {
-   "company": "UPBOUND GROUP, INC.",
-   "ticker": "UPBD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.39,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-06",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-07 $0.39",
-   "source_url": ""
-  },
   {
    "company": "ATN International, Inc.",
    "ticker": "ATNI",
@@ -1981,21 +1936,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-11 $0.3",
-   "source_url": ""
-  },
-  {
-   "company": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
-   "ticker": "NTIC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-11",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-02-11 $0.01",
    "source_url": ""
   },
   {
@@ -15616,21 +15556,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $0.20833",
-   "source_url": ""
-  },
-  {
-   "company": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
-   "ticker": "NTIC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-10",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-02-11 $0.01",
    "source_url": ""
   },
   {
@@ -29821,21 +29746,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-11 $0.3",
-   "source_url": ""
-  },
-  {
-   "company": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
-   "ticker": "NTIC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-12",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-02-11 $0.01",
    "source_url": ""
   },
   {
@@ -44164,21 +44074,6 @@
    "source_url": ""
   },
   {
-   "company": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
-   "ticker": "NTIC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-11",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-02-11 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -53614,6 +53509,21 @@
    "source_url": ""
   },
   {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.0553,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-07 $0.0553",
+   "source_url": ""
+  },
+  {
    "company": "Chubb Limited",
    "ticker": "CB",
    "exchange": "NYSE",
@@ -53779,6 +53689,21 @@
    "source_url": ""
   },
   {
+   "company": "Graphic Packaging Holding Company",
+   "ticker": "GPK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.11,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-07 $0.11",
+   "source_url": ""
+  },
+  {
    "company": "MSC Income Fund, Inc.",
    "ticker": "MSIF",
    "exchange": "NYSE",
@@ -53791,6 +53716,66 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-09 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "UPBOUND GROUP, INC.",
+   "ticker": "UPBD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-07 $0.39",
+   "source_url": ""
+  },
+  {
+   "company": "J.Jill, Inc.",
+   "ticker": "JILL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "Kulicke and Soffa Industries, Inc.",
+   "ticker": "KLIC",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.205,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.205",
+   "source_url": ""
+  },
+  {
+   "company": "Seagate Technology Holdings plc",
+   "ticker": "STX",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.74,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.74",
    "source_url": ""
   }
  ]
