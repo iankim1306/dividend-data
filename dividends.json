@@ -1,22 +1,7 @@
 {
- "updatedAt": "2026-10-05 18:18",
+ "updatedAt": "2026-10-05 21:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
-  {
-   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
-   "exchange": "Nasdaq",
-   "ticker": "NSSC",
-   "security": "common",
-   "amount_per_share": 0.125,
-   "currency": "USD",
-   "record_date": "2024-09-12",
-   "payable_date": "2024-10-03",
-   "frequency": null,
-   "us_listed": true,
-   "wire": "EDGAR",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926100081/nssc-20260630x10k.htm",
-   "collected_at": "2026-08-25 09:28"
-  },
   {
    "company": "EVI INDUSTRIES, INC.",
    "exchange": "NYSE",
@@ -45882,6 +45867,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/pnc-declares-dividend-of-2-00-on-common-stock-302897280.html",
    "collected_at": "2026-10-03 03:18"
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "exchange": "NYSE",
+   "ticker": "SBR",
+   "security": "common",
+   "amount_per_share": 0.35545,
+   "currency": "USD",
+   "record_date": "2026-10-15",
+   "payable_date": "2026-10-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sabine-royalty-trust-announces-monthly-cash-distribution-for-october-2026-302897493.html",
+   "collected_at": "2026-10-05 21:18"
   },
   {
    "company": "AECOM",
