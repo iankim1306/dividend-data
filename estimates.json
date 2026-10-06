@@ -1,38 +1,8 @@
 {
- "updatedAt": "2026-10-06 21:18",
+ "updatedAt": "2026-10-07 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3585,
+ "count": 3588,
  "items": [
-  {
-   "company": "ATN International, Inc.",
-   "ticker": "ATNI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.29,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-07",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-08 $0.29",
-   "source_url": ""
-  },
-  {
-   "company": "Kilroy Realty Corporation",
-   "ticker": "KRC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.54,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-07",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-08 $0.54",
-   "source_url": ""
-  },
   {
    "company": "Equity LifeStyle Properties, Inc.",
    "ticker": "ELS",
@@ -53734,6 +53704,21 @@
    "source_url": ""
   },
   {
+   "company": "ATN International, Inc.",
+   "ticker": "ATNI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-08 $0.29",
+   "source_url": ""
+  },
+  {
    "company": "J.Jill, Inc.",
    "ticker": "JILL",
    "exchange": "NYSE",
@@ -53764,6 +53749,21 @@
    "source_url": ""
   },
   {
+   "company": "Kilroy Realty Corporation",
+   "ticker": "KRC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.54,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-08 $0.54",
+   "source_url": ""
+  },
+  {
    "company": "Seagate Technology Holdings plc",
    "ticker": "STX",
    "exchange": "Nasdaq",
@@ -53776,6 +53776,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-07 $0.74",
+   "source_url": ""
+  },
+  {
+   "company": "Build-A-Bear Workshop, Inc.",
+   "ticker": "BBW",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $0.23",
+   "source_url": ""
+  },
+  {
+   "company": "Edgewell Personal Care Company",
+   "ticker": "EPC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "Royal Caribbean Group",
+   "ticker": "RCL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $1.5",
    "source_url": ""
   }
  ]
