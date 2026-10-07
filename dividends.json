@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07 06:18",
+ "updatedAt": "2026-10-07 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -12818,6 +12818,21 @@
    "collected_at": "2026-08-18T14:37:26+09:00"
   },
   {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "exchange": "NYSE",
+   "ticker": "SAR",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-04-07",
+   "payable_date": "2026-04-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1377936/000121390026107187/ea0306042-10q_saratoga.htm",
+   "collected_at": "2026-10-07 09:27"
+  },
+  {
    "company": "SIGA Technologies, Inc.",
    "exchange": "Nasdaq",
    "ticker": "SIGA",
@@ -15396,6 +15411,21 @@
    "wire": "ISSUER:GlobalX",
    "source_url": "https://assets.globalxetfs.com/funds/tax_supplements/RYLD_Form-19a_05182026.docx",
    "collected_at": "2026-08-18T14:37:22+09:00"
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "exchange": "NYSE",
+   "ticker": "SAR",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-05-05",
+   "payable_date": "2026-05-21",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1377936/000121390026107187/ea0306042-10q_saratoga.htm",
+   "collected_at": "2026-10-07 09:27"
   },
   {
    "company": "Welltower Inc.",
@@ -19541,6 +19571,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/2041385/000204138526000043/ralq12026-ex991.htm",
    "collected_at": "2026-08-13 11:30"
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "exchange": "NYSE",
+   "ticker": "SAR",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-06-04",
+   "payable_date": "2026-06-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1377936/000121390026107187/ea0306042-10q_saratoga.htm",
+   "collected_at": "2026-10-07 09:27"
   },
   {
    "company": "UnitedHealth Group",
@@ -25037,6 +25082,21 @@
    "collected_at": "2026-08-18T14:36:50+09:00"
   },
   {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "exchange": "NYSE",
+   "ticker": "SAR",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-07-06",
+   "payable_date": "2026-07-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1377936/000121390026107187/ea0306042-10q_saratoga.htm",
+   "collected_at": "2026-10-07 09:27"
+  },
+  {
    "company": "Simpson Manufacturing Co., Inc.",
    "exchange": "NYSE",
    "ticker": "SSD",
@@ -30190,6 +30250,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1849253/000184925326000036/ryan-20260630.htm",
    "collected_at": "2026-08-15 09:27"
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "exchange": "NYSE",
+   "ticker": "SAR",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-08-05",
+   "payable_date": "2026-08-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1377936/000121390026107187/ea0306042-10q_saratoga.htm",
+   "collected_at": "2026-10-07 09:27"
   },
   {
    "company": "Richardson Electronics, Ltd.",
@@ -37796,6 +37871,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/78239/000121390026085690/ea030037001ex99-1.htm",
    "collected_at": "2026-08-07 00:15"
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "exchange": "NYSE",
+   "ticker": "SAR",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-09-03",
+   "payable_date": "2026-09-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1377936/000121390026107187/ea0306042-10q_saratoga.htm",
+   "collected_at": "2026-10-07 09:27"
   },
   {
    "company": "TFS Financial Corporation",
@@ -45406,6 +45496,21 @@
    "collected_at": "2026-09-24 06:18"
   },
   {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "exchange": "NYSE",
+   "ticker": "SAR",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-10-06",
+   "payable_date": "2026-10-22",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1377936/000121390026107187/ea0306042-10q_saratoga.htm",
+   "collected_at": "2026-10-07 09:27"
+  },
+  {
    "company": "Simpson Manufacturing Co., Inc.",
    "exchange": "NYSE",
    "ticker": "SSD",
@@ -45537,6 +45642,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/first-bancorp-announces-cash-dividend-302878196.html",
    "collected_at": "2026-09-16 00:18"
+  },
+  {
+   "company": "Medalist Diversified, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "MDRR",
+   "security": "common",
+   "amount_per_share": 0.0675,
+   "currency": "USD",
+   "record_date": "2026-10-16",
+   "payable_date": "2026-10-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1654595/000110465926114041/mdrr-ex99d1.htm",
+   "collected_at": "2026-10-07 09:29"
   },
   {
    "company": "Oracle Corporation",
@@ -47382,6 +47502,21 @@
    "collected_at": "2026-08-06 23:56"
   },
   {
+   "company": "Constellation Brands, Inc.",
+   "exchange": "NYSE",
+   "ticker": "STZ",
+   "security": "common",
+   "amount_per_share": 1.03,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/16918/000001691826000039/stzex991_83120268kearnings.htm",
+   "collected_at": "2026-10-07 09:19"
+  },
+  {
    "company": "TXNM Energy, Inc.",
    "exchange": "NYSE",
    "ticker": "TXNM",
@@ -47678,6 +47813,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/832988/000083298826000227/fy27ex99109x09x26pressrele.htm",
    "collected_at": "2026-09-10 09:19"
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "exchange": "NYSE",
+   "ticker": "SAR",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-11-05",
+   "payable_date": "2026-11-24",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1377936/000121390026107187/ea0306042-10q_saratoga.htm",
+   "collected_at": "2026-10-07 09:27"
   },
   {
    "company": "Bank of Montreal",
@@ -48069,6 +48219,21 @@
    "collected_at": "2026-08-15 00:19"
   },
   {
+   "company": "Lamb Weston Holdings, Inc.",
+   "exchange": "NYSE",
+   "ticker": "LW",
+   "security": "common",
+   "amount_per_share": 0.38,
+   "currency": "USD",
+   "record_date": "2026-11-06",
+   "payable_date": "2026-12-04",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1679273/000167927326000052/lw-20260830.htm",
+   "collected_at": "2026-10-07 09:29"
+  },
+  {
    "company": "MSC Income Fund, Inc.",
    "exchange": "NYSE",
    "ticker": "MSIF",
@@ -48397,6 +48562,21 @@
    "collected_at": "2026-08-14 09:29"
   },
   {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "exchange": "NYSE",
+   "ticker": "SAR",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-12-03",
+   "payable_date": "2026-12-22",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1377936/000121390026107187/ea0306042-10q_saratoga.htm",
+   "collected_at": "2026-10-07 09:27"
+  },
+  {
    "company": "MSC Income Fund, Inc.",
    "exchange": "NYSE",
    "ticker": "MSIF",
@@ -48576,6 +48756,21 @@
    "collected_at": "2026-08-29 09:30"
   },
   {
+   "company": "Avient Corporation",
+   "exchange": "NYSE",
+   "ticker": "AVNT",
+   "security": "common",
+   "amount_per_share": 0.2825,
+   "currency": "USD",
+   "record_date": "2026-12-11",
+   "payable_date": "2027-01-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/avient-announces-sixteenth-consecutive-annual-dividend-increase-302900361.html",
+   "collected_at": "2026-10-07 09:18"
+  },
+  {
    "company": "Millicom International Cellular S.A.",
    "exchange": "NASDAQ",
    "ticker": "TIGO",
@@ -48606,5 +48801,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3261
+ "count": 3274
 }

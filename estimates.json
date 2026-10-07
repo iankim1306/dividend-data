@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-07 06:18",
+ "updatedAt": "2026-10-07 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3588,
+ "count": 3599,
  "items": [
   {
    "company": "Equity LifeStyle Properties, Inc.",
@@ -631,21 +631,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-21 $9.0",
-   "source_url": ""
-  },
-  {
-   "company": "MEDALIST DIVERSIFIED, INC.",
-   "ticker": "MDRR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.135,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-20",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-04-21 $0.135",
    "source_url": ""
   },
   {
@@ -13084,21 +13069,6 @@
    "source_url": ""
   },
   {
-   "company": "MEDALIST DIVERSIFIED, INC.",
-   "ticker": "MDRR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.135,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-04-21 $0.135",
-   "source_url": ""
-  },
-  {
    "company": "Match Group",
    "ticker": "MTCH",
    "exchange": "NASDAQ",
@@ -13264,6 +13234,21 @@
    "source_url": ""
   },
   {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "ticker": "SAR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-21",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Simpson Manufacturing Co., Inc.",
    "ticker": "SSD",
    "exchange": "NYSE",
@@ -13381,6 +13366,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $1.46",
+   "source_url": ""
+  },
+  {
+   "company": "Medalist Diversified, Inc.",
+   "ticker": "MDRR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.0675,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.0675",
    "source_url": ""
   },
   {
@@ -16009,6 +16009,21 @@
    "source_url": ""
   },
   {
+   "company": "Constellation Brands, Inc.",
+   "ticker": "STZ",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.03,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $1.03",
+   "source_url": ""
+  },
+  {
    "company": "Targa Resources Corp.",
    "ticker": "TRGP",
    "exchange": "NYSE",
@@ -16891,6 +16906,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-23 $0.0475",
+   "source_url": ""
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "ticker": "SAR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-20",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.25",
    "source_url": ""
   },
   {
@@ -21751,6 +21781,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-23 $0.0475",
+   "source_url": ""
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "ticker": "SAR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-22",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.25",
    "source_url": ""
   },
   {
@@ -27289,21 +27334,6 @@
    "source_url": ""
   },
   {
-   "company": "MEDALIST DIVERSIFIED, INC.",
-   "ticker": "MDRR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.135,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-20",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-04-21 $0.135",
-   "source_url": ""
-  },
-  {
    "company": "Match Group",
    "ticker": "MTCH",
    "exchange": "NASDAQ",
@@ -27406,6 +27436,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.91",
+   "source_url": ""
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "ticker": "SAR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-21",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.25",
    "source_url": ""
   },
   {
@@ -27586,6 +27631,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $1.46",
+   "source_url": ""
+  },
+  {
+   "company": "Medalist Diversified, Inc.",
+   "ticker": "MDRR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.0675,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.0675",
    "source_url": ""
   },
   {
@@ -30274,6 +30334,21 @@
    "source_url": ""
   },
   {
+   "company": "Constellation Brands, Inc.",
+   "ticker": "STZ",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.03,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $1.03",
+   "source_url": ""
+  },
+  {
    "company": "Targa Resources Corp.",
    "ticker": "TRGP",
    "exchange": "NYSE",
@@ -31036,6 +31111,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-20 $17.5",
+   "source_url": ""
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "ticker": "SAR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-21",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.25",
    "source_url": ""
   },
   {
@@ -35956,6 +36046,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-23 $0.0475",
+   "source_url": ""
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "ticker": "SAR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-20",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.25",
    "source_url": ""
   },
   {
@@ -41569,21 +41674,6 @@
    "source_url": ""
   },
   {
-   "company": "MEDALIST DIVERSIFIED, INC.",
-   "ticker": "MDRR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.135,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-20",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-04-21 $0.135",
-   "source_url": ""
-  },
-  {
    "company": "Match Group",
    "ticker": "MTCH",
    "exchange": "NASDAQ",
@@ -41596,6 +41686,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-20 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "ticker": "SAR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-20",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.25",
    "source_url": ""
   },
   {
@@ -41821,6 +41926,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $1.46",
+   "source_url": ""
+  },
+  {
+   "company": "Medalist Diversified, Inc.",
+   "ticker": "MDRR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.0675,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.0675",
    "source_url": ""
   },
   {
@@ -44524,6 +44644,21 @@
    "source_url": ""
   },
   {
+   "company": "Constellation Brands, Inc.",
+   "ticker": "STZ",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.03,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $1.03",
+   "source_url": ""
+  },
+  {
    "company": "Targa Resources Corp.",
    "ticker": "TRGP",
    "exchange": "NYSE",
@@ -45136,6 +45271,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-20 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "ticker": "SAR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-19",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.25",
    "source_url": ""
   },
   {
@@ -50221,6 +50371,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-19 $0.371375",
+   "source_url": ""
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "ticker": "SAR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-18",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.25",
    "source_url": ""
   },
   {
