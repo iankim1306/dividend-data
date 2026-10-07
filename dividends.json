@@ -1,22 +1,7 @@
 {
- "updatedAt": "2026-10-08 03:18",
+ "updatedAt": "2026-10-08 06:18",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
-  {
-   "company": "EVI INDUSTRIES, INC.",
-   "exchange": "NYSE",
-   "ticker": "EVI",
-   "security": "common",
-   "amount_per_share": 0.31,
-   "currency": "USD",
-   "record_date": "2024-09-26",
-   "payable_date": "2024-10-07",
-   "frequency": "special",
-   "us_listed": true,
-   "wire": "EDGAR",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/65312/000143774926029759/evi20260630_10k.htm",
-   "collected_at": "2026-09-09 09:23"
-  },
   {
    "company": "Medical Properties Trust, Inc.",
    "exchange": "NYSE",
@@ -47397,6 +47382,21 @@
    "collected_at": "2026-08-06 23:59"
   },
   {
+   "company": "AGNC Investment Corp.",
+   "exchange": "Nasdaq",
+   "ticker": "AGNC",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/agnc-investment-corp-declares-monthly-common-stock-dividend-of-0-12-per-common-share-for-october-2026--302901289.html",
+   "collected_at": "2026-10-08 06:18"
+  },
+  {
    "company": "Nucor Corporation",
    "exchange": "NYSE",
    "ticker": "NUE",
@@ -47738,6 +47738,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1487428/000143774926025691/ex_998155.htm",
    "collected_at": "2026-08-13 11:17"
+  },
+  {
+   "company": "Carrier Global Corporation",
+   "exchange": "NYSE",
+   "ticker": "CARR",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "2026-10-29",
+   "payable_date": "2026-11-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/carrier-board-of-directors-declares-quarterly-cash-dividend-302901298.html",
+   "collected_at": "2026-10-08 06:18"
   },
   {
    "company": "Bitmine Immersion Technologies, Inc.",
@@ -48801,5 +48816,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3274
+ "count": 3275
 }

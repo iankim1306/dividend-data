@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-08 03:18",
+ "updatedAt": "2026-10-08 06:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3607,
+ "count": 3606,
  "items": [
   {
    "company": "Equity LifeStyle Properties, Inc.",
@@ -1771,21 +1771,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $0.16",
-   "source_url": ""
-  },
-  {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.12",
    "source_url": ""
   },
   {
@@ -5494,21 +5479,6 @@
    "source_url": ""
   },
   {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Johnson & Johnson",
    "ticker": "JNJ",
    "exchange": "NYSE",
@@ -5776,6 +5746,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-10 $0.8",
+   "source_url": ""
+  },
+  {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -11104,21 +11089,6 @@
    "source_url": ""
   },
   {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-07",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Build-A-Bear Workshop, Inc.",
    "ticker": "BBW",
    "exchange": "New York Stock Exchange",
@@ -11326,6 +11296,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-09 $0.57",
+   "source_url": ""
+  },
+  {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -15349,21 +15334,6 @@
    "source_url": ""
   },
   {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-06",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Company",
    "ticker": "MDV",
    "exchange": "NYSE",
@@ -15391,6 +15361,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-09 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -19519,21 +19504,6 @@
    "source_url": ""
   },
   {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Company",
    "ticker": "MDV",
    "exchange": "NYSE",
@@ -19681,6 +19651,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-09 $0.075",
+   "source_url": ""
+  },
+  {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -25249,21 +25234,6 @@
    "source_url": ""
   },
   {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-07",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "ATN International, Inc.",
    "ticker": "ATNI",
    "exchange": "Nasdaq",
@@ -25411,6 +25381,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-08 $1.5",
+   "source_url": ""
+  },
+  {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -29494,21 +29479,6 @@
    "source_url": ""
   },
   {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-07",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "COSTCO WHOLESALE CORPORATION",
    "ticker": "COST",
    "exchange": "NASDAQ",
@@ -29641,6 +29611,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-09 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -33754,21 +33739,6 @@
    "source_url": ""
   },
   {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-06",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Company",
    "ticker": "MDV",
    "exchange": "NYSE",
@@ -33796,6 +33766,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-09 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -39529,21 +39514,6 @@
    "source_url": ""
   },
   {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-06",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Graphic Packaging Holding Company",
    "ticker": "GPK",
    "exchange": "NYSE",
@@ -39676,6 +39646,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-07 $0.74",
+   "source_url": ""
+  },
+  {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -43789,21 +43774,6 @@
    "source_url": ""
   },
   {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-05",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Company",
    "ticker": "MDV",
    "exchange": "NYSE",
@@ -43951,6 +43921,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-07",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -48109,21 +48094,6 @@
    "source_url": ""
   },
   {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-04",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Company",
    "ticker": "MDV",
    "exchange": "NYSE",
@@ -48151,6 +48121,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-09 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-06",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -53779,21 +53764,6 @@
    "source_url": ""
   },
   {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-04",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "WhiteHorse Finance, Inc.",
    "ticker": "WHF",
    "exchange": "Nasdaq",
@@ -53866,6 +53836,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-07 $0.39",
+   "source_url": ""
+  },
+  {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-06",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
