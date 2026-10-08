@@ -1,53 +1,8 @@
 {
- "updatedAt": "2026-10-08 21:18",
+ "updatedAt": "2026-10-09 00:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
  "count": 3616,
  "items": [
-  {
-   "company": "Equity LifeStyle Properties, Inc.",
-   "ticker": "ELS",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.5425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-10 $0.5425",
-   "source_url": ""
-  },
-  {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-09",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco QQQ Trust",
-   "ticker": "QQQ",
-   "exchange": "NASDAQ",
-   "security": "fund",
-   "amount_per_share": 0.81349,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-10 $0.81349",
-   "source_url": ""
-  },
   {
    "company": "American Tower Corporation",
    "ticker": "AMT",
@@ -53914,6 +53869,21 @@
    "source_url": ""
   },
   {
+   "company": "Company",
+   "ticker": "MDV",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-10 $0.1",
+   "source_url": ""
+  },
+  {
    "company": "WhiteHorse Finance, Inc.",
    "ticker": "WHF",
    "exchange": "Nasdaq",
@@ -54139,6 +54109,21 @@
    "source_url": ""
   },
   {
+   "company": "Equity LifeStyle Properties, Inc.",
+   "ticker": "ELS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-10 $0.5425",
+   "source_url": ""
+  },
+  {
    "company": "Hyperscale Data, Inc.",
    "ticker": "GPUS",
    "exchange": "NYSE American",
@@ -54196,6 +54181,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-09 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco QQQ Trust",
+   "ticker": "QQQ",
+   "exchange": "NASDAQ",
+   "security": "fund",
+   "amount_per_share": 0.81349,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-10 $0.81349",
    "source_url": ""
   },
   {
