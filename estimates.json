@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-09 03:17",
+ "updatedAt": "2026-10-09 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3616,
+ "count": 3618,
  "items": [
   {
    "company": "American Tower Corporation",
@@ -4021,21 +4021,6 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.0631",
-   "source_url": ""
-  },
-  {
-   "company": "KB Home",
-   "ticker": "KBH",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-31 $0.25",
    "source_url": ""
   },
   {
@@ -17059,6 +17044,21 @@
    "source_url": ""
   },
   {
+   "company": "KB Home",
+   "ticker": "KBH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Kenvue Inc.",
    "ticker": "KVUE",
    "exchange": "NYSE",
@@ -18346,21 +18346,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.045",
-   "source_url": ""
-  },
-  {
-   "company": "KB Home",
-   "ticker": "KBH",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-28",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-31 $0.25",
    "source_url": ""
   },
   {
@@ -21991,6 +21976,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-23 $0.3175",
+   "source_url": ""
+  },
+  {
+   "company": "FS KKR Capital Corp.",
+   "ticker": "FSK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.44,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-24 $0.44",
    "source_url": ""
   },
   {
@@ -31354,6 +31354,21 @@
    "source_url": ""
   },
   {
+   "company": "KB Home",
+   "ticker": "KBH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Kenvue Inc.",
    "ticker": "KVUE",
    "exchange": "NYSE",
@@ -32701,21 +32716,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.085",
-   "source_url": ""
-  },
-  {
-   "company": "KB Home",
-   "ticker": "KBH",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-31 $0.25",
    "source_url": ""
   },
   {
@@ -36301,6 +36301,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-23 $0.3175",
+   "source_url": ""
+  },
+  {
+   "company": "FS KKR Capital Corp.",
+   "ticker": "FSK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.44,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-24 $0.44",
    "source_url": ""
   },
   {
@@ -45739,6 +45754,21 @@
    "source_url": ""
   },
   {
+   "company": "KB Home",
+   "ticker": "KBH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Kenvue Inc.",
    "ticker": "KVUE",
    "exchange": "NYSE",
@@ -47116,21 +47146,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.17",
-   "source_url": ""
-  },
-  {
-   "company": "KB Home",
-   "ticker": "KBH",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-05-31 $0.25",
    "source_url": ""
   },
   {
@@ -50686,6 +50701,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-23 $0.3175",
+   "source_url": ""
+  },
+  {
+   "company": "FS KKR Capital Corp.",
+   "ticker": "FSK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.44,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-24 $0.44",
    "source_url": ""
   },
   {
