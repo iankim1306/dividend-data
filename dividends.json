@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08 06:18",
+ "updatedAt": "2026-10-08 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -2881,6 +2881,21 @@
    "collected_at": "2026-08-13 12:07"
   },
   {
+   "company": "Cintas Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "CTAS",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": "2025-05-15",
+   "payable_date": "2025-06-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000047/ctas-20260831.htm",
+   "collected_at": "2026-10-08 09:22"
+  },
+  {
    "company": "LCI Industries",
    "exchange": "NYSE",
    "ticker": "LCII",
@@ -4888,6 +4903,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000070/lcii-20260630.htm",
    "collected_at": "2026-08-13 12:02"
+  },
+  {
+   "company": "Cintas Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "CTAS",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "2025-08-15",
+   "payable_date": "2025-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000047/ctas-20260831.htm",
+   "collected_at": "2026-10-08 09:22"
   },
   {
    "company": "The Estée Lauder Companies Inc.",
@@ -18331,6 +18361,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/356037/000035603726000024/cspi-20260507xex99d1.htm",
    "collected_at": "2026-08-13 11:50"
+  },
+  {
+   "company": "Cintas Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "CTAS",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "2026-05-15",
+   "payable_date": "2026-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000047/ctas-20260831.htm",
+   "collected_at": "2026-10-08 09:22"
   },
   {
    "company": "Corteva, Inc.",
@@ -35416,6 +35461,21 @@
    "collected_at": "2026-08-15 09:44"
   },
   {
+   "company": "Cintas Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "CTAS",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "2026-08-14",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000047/ctas-20260831.htm",
+   "collected_at": "2026-10-08 09:22"
+  },
+  {
    "company": "Corteva, Inc.",
    "exchange": "NYSE",
    "ticker": "CTVA",
@@ -38734,6 +38794,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000193/nke-20260831.htm",
    "collected_at": "2026-10-03 09:21"
+  },
+  {
+   "company": "COSTCO WHOLESALE CORP",
+   "exchange": "Nasdaq",
+   "ticker": "COST",
+   "security": "common",
+   "amount_per_share": 1.47,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+   "collected_at": "2026-10-08 09:24"
   },
   {
    "company": "Fidus Investment Corporation",
@@ -42146,6 +42221,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176126000055/rf-20260630.htm",
    "collected_at": "2026-08-14 09:22"
+  },
+  {
+   "company": "Resources Connection, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "RGP",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "2026-09-03",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1084765/000108476526000080/rgp-20260829.htm",
+   "collected_at": "2026-10-08 09:26"
   },
   {
    "company": "Simmons First National Corporation",
@@ -47248,6 +47338,21 @@
    "collected_at": "2026-09-19 06:18"
   },
   {
+   "company": "Levi Strauss & Co.",
+   "exchange": "NYSE",
+   "ticker": "LEVI",
+   "security": "common",
+   "amount_per_share": 0.16,
+   "currency": "USD",
+   "record_date": "2026-10-21",
+   "payable_date": "2026-11-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/94845/000009484526000047/lvis-20260830.htm",
+   "collected_at": "2026-10-08 09:21"
+  },
+  {
    "company": "Lowe's Companies, Inc.",
    "exchange": "NYSE",
    "ticker": "LOW",
@@ -47873,6 +47978,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/96223/000009622326000028/jfgpressrelease8312026.htm",
    "collected_at": "2026-09-29 09:19"
+  },
+  {
+   "company": "Richardson Electronics, Ltd.",
+   "exchange": "NASDAQ",
+   "ticker": "RELL",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "2026-11-06",
+   "payable_date": "2026-11-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/355948/000035594826000017/rell-ex99_1.htm",
+   "collected_at": "2026-10-08 09:19"
   },
   {
    "company": "Bank of Montreal",
@@ -48636,6 +48756,21 @@
    "collected_at": "2026-08-13 11:18"
   },
   {
+   "company": "WORTHINGTON STEEL, INC.",
+   "exchange": "New York Stock Exchange",
+   "ticker": "WS",
+   "security": "common",
+   "amount_per_share": 0.16,
+   "currency": "USD",
+   "record_date": "2026-12-14",
+   "payable_date": "2026-12-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1968487/000196848726000032/ws-20261006.htm",
+   "collected_at": "2026-10-08 09:19"
+  },
+  {
    "company": "WORTHINGTON ENTERPRISES, INC.",
    "exchange": "The New York Stock Exchange",
    "ticker": "WOR",
@@ -48816,5 +48951,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3275
+ "count": 3284
 }

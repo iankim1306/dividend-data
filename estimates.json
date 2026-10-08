@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-08 06:18",
+ "updatedAt": "2026-10-08 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3606,
+ "count": 3617,
  "items": [
   {
    "company": "Equity LifeStyle Properties, Inc.",
@@ -1711,21 +1711,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $0.0553",
-   "source_url": ""
-  },
-  {
-   "company": "COSTCO WHOLESALE CORPORATION",
-   "ticker": "COST",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 1.47,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-06",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-07 $1.47",
    "source_url": ""
   },
   {
@@ -6454,6 +6439,21 @@
    "source_url": ""
   },
   {
+   "company": "Cintas Corporation",
+   "ticker": "CTAS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.52",
+   "source_url": ""
+  },
+  {
    "company": "Corteva, Inc.",
    "ticker": "CTVA",
    "exchange": "NYSE",
@@ -8554,6 +8554,21 @@
    "source_url": ""
   },
   {
+   "company": "COSTCO WHOLESALE CORP",
+   "ticker": "COST",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.47,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $1.47",
+   "source_url": ""
+  },
+  {
    "company": "Corebridge Parent",
    "ticker": "CRBG",
    "exchange": "NYSE",
@@ -10651,6 +10666,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.285",
+   "source_url": ""
+  },
+  {
+   "company": "Resources Connection, Inc.",
+   "ticker": "RGP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.07",
    "source_url": ""
   },
   {
@@ -15229,21 +15259,6 @@
    "source_url": ""
   },
   {
-   "company": "COSTCO WHOLESALE CORPORATION",
-   "ticker": "COST",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 1.47,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-05",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-07 $1.47",
-   "source_url": ""
-  },
-  {
    "company": "Ennis, Inc.",
    "ticker": "EBF",
    "exchange": "NYSE",
@@ -17116,6 +17131,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-26 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "Richardson Electronics, Ltd.",
+   "ticker": "RELL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.06",
    "source_url": ""
   },
   {
@@ -20509,6 +20539,21 @@
    "source_url": ""
   },
   {
+   "company": "Cintas Corporation",
+   "ticker": "CTAS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.52",
+   "source_url": ""
+  },
+  {
    "company": "Corteva, Inc.",
    "ticker": "CTVA",
    "exchange": "NYSE",
@@ -23404,6 +23449,21 @@
    "source_url": ""
   },
   {
+   "company": "COSTCO WHOLESALE CORP",
+   "ticker": "COST",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.47,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $1.47",
+   "source_url": ""
+  },
+  {
    "company": "Corebridge Parent",
    "ticker": "CRBG",
    "exchange": "NYSE",
@@ -24886,6 +24946,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.285",
+   "source_url": ""
+  },
+  {
+   "company": "Resources Connection, Inc.",
+   "ticker": "RGP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.07",
    "source_url": ""
   },
   {
@@ -29479,21 +29554,6 @@
    "source_url": ""
   },
   {
-   "company": "COSTCO WHOLESALE CORPORATION",
-   "ticker": "COST",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 1.47,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-07",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-07 $1.47",
-   "source_url": ""
-  },
-  {
    "company": "Ennis, Inc.",
    "ticker": "EBF",
    "exchange": "NYSE",
@@ -31366,6 +31426,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-26 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "Richardson Electronics, Ltd.",
+   "ticker": "RELL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.06",
    "source_url": ""
   },
   {
@@ -34774,6 +34849,21 @@
    "source_url": ""
   },
   {
+   "company": "Cintas Corporation",
+   "ticker": "CTAS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.52",
+   "source_url": ""
+  },
+  {
    "company": "Corteva, Inc.",
    "ticker": "CTVA",
    "exchange": "NYSE",
@@ -37744,6 +37834,21 @@
    "source_url": ""
   },
   {
+   "company": "COSTCO WHOLESALE CORP",
+   "ticker": "COST",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.47,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $1.47",
+   "source_url": ""
+  },
+  {
    "company": "Corebridge Parent",
    "ticker": "CRBG",
    "exchange": "NYSE",
@@ -39211,6 +39316,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.285",
+   "source_url": ""
+  },
+  {
+   "company": "Resources Connection, Inc.",
+   "ticker": "RGP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.07",
    "source_url": ""
   },
   {
@@ -43804,21 +43924,6 @@
    "source_url": ""
   },
   {
-   "company": "COSTCO WHOLESALE CORPORATION",
-   "ticker": "COST",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 1.47,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-06",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-07 $1.47",
-   "source_url": ""
-  },
-  {
    "company": "Ennis, Inc.",
    "ticker": "EBF",
    "exchange": "NYSE",
@@ -45706,6 +45811,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-26 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "Richardson Electronics, Ltd.",
+   "ticker": "RELL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.06",
    "source_url": ""
   },
   {
@@ -49129,6 +49249,21 @@
    "source_url": ""
   },
   {
+   "company": "Cintas Corporation",
+   "ticker": "CTAS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.52",
+   "source_url": ""
+  },
+  {
    "company": "Corteva, Inc.",
    "ticker": "CTVA",
    "exchange": "NYSE",
@@ -52129,6 +52264,21 @@
    "source_url": ""
   },
   {
+   "company": "COSTCO WHOLESALE CORP",
+   "ticker": "COST",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.47,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-29 $1.47",
+   "source_url": ""
+  },
+  {
    "company": "Corebridge Parent",
    "ticker": "CRBG",
    "exchange": "NYSE",
@@ -53521,6 +53671,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.285",
+   "source_url": ""
+  },
+  {
+   "company": "Resources Connection, Inc.",
+   "ticker": "RGP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.07",
    "source_url": ""
   },
   {
