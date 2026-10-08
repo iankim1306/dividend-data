@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-08 09:31",
+ "updatedAt": "2026-10-08 12:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3617,
+ "count": 3616,
  "items": [
   {
    "company": "Equity LifeStyle Properties, Inc.",
@@ -1021,21 +1021,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.3425",
-   "source_url": ""
-  },
-  {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1371",
    "source_url": ""
   },
   {
@@ -3825,7 +3810,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1371",
+   "basis": "last confirmed 2026-10-30 $0.1371",
    "source_url": ""
   },
   {
@@ -8550,7 +8535,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1371",
+   "basis": "last confirmed 2026-10-30 $0.1371",
    "source_url": ""
   },
   {
@@ -13770,7 +13755,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1371",
+   "basis": "last confirmed 2026-10-30 $0.1371",
    "source_url": ""
   },
   {
@@ -17730,7 +17715,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1371",
+   "basis": "last confirmed 2026-10-30 $0.1371",
    "source_url": ""
   },
   {
@@ -22665,7 +22650,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1371",
+   "basis": "last confirmed 2026-10-30 $0.1371",
    "source_url": ""
   },
   {
@@ -28020,7 +28005,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1371",
+   "basis": "last confirmed 2026-10-30 $0.1371",
    "source_url": ""
   },
   {
@@ -31770,7 +31755,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1371",
+   "basis": "last confirmed 2026-10-30 $0.1371",
    "source_url": ""
   },
   {
@@ -36960,7 +36945,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1371",
+   "basis": "last confirmed 2026-10-30 $0.1371",
    "source_url": ""
   },
   {
@@ -42330,7 +42315,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1371",
+   "basis": "last confirmed 2026-10-30 $0.1371",
    "source_url": ""
   },
   {
@@ -46020,7 +46005,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1371",
+   "basis": "last confirmed 2026-10-30 $0.1371",
    "source_url": ""
   },
   {
@@ -51345,7 +51330,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1371",
+   "basis": "last confirmed 2026-10-30 $0.1371",
    "source_url": ""
   },
   {
