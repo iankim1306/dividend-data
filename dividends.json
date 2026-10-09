@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09 06:17",
+ "updatedAt": "2026-10-09 09:34",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -47920,6 +47920,36 @@
    "collected_at": "2026-08-07 00:19"
   },
   {
+   "company": "Oil-Dri Corporation of America",
+   "exchange": "NYSE",
+   "ticker": "ODC",
+   "security": "common",
+   "amount_per_share": 0.225,
+   "currency": "USD",
+   "record_date": "2026-11-06",
+   "payable_date": "2026-11-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/74046/000162828026065455/odcf26q4ex992-dividendrele.htm",
+   "collected_at": "2026-10-09 09:20"
+  },
+  {
+   "company": "Oil-Dri Corporation of America",
+   "exchange": "NYSE",
+   "ticker": "ODC",
+   "security": "preferred",
+   "amount_per_share": 0.168,
+   "currency": "USD",
+   "record_date": "2026-11-06",
+   "payable_date": "2026-11-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/74046/000162828026065455/odcf26q4ex992-dividendrele.htm",
+   "collected_at": "2026-10-09 09:20"
+  },
+  {
    "company": "Old National Bancorp",
    "exchange": "NASDAQ",
    "ticker": "ONBPO",
@@ -48038,6 +48068,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/355948/000035594826000017/rell-ex99_1.htm",
    "collected_at": "2026-10-08 09:19"
+  },
+  {
+   "company": "Richardson Electronics, Ltd.",
+   "exchange": "NASDAQ",
+   "ticker": "RELL",
+   "security": "Class B common",
+   "amount_per_share": 0.054,
+   "currency": "USD",
+   "record_date": "2026-11-06",
+   "payable_date": "2026-11-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/355948/000035594826000021/rell-ex99_1.htm",
+   "collected_at": "2026-10-09 09:19"
   },
   {
    "company": "Bank of Montreal",
@@ -49026,5 +49071,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3289
+ "count": 3292
 }
