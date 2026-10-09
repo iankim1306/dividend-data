@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10 00:17",
+ "updatedAt": "2026-10-10 03:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -48906,6 +48906,21 @@
    "collected_at": "2026-09-23 09:19"
   },
   {
+   "company": "Ameren Corporation",
+   "exchange": "NYSE",
+   "ticker": "AEE",
+   "security": "common",
+   "amount_per_share": 0.75,
+   "currency": "USD",
+   "record_date": "2026-12-08",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ameren-corporation-directors-declare-quarterly-dividend-302903753.html",
+   "collected_at": "2026-10-10 03:17"
+  },
+  {
    "company": "Dana Incorporated",
    "exchange": "NYSE",
    "ticker": "DAN",
@@ -49071,5 +49086,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3292
+ "count": 3293
 }

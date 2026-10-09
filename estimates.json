@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-10 00:17",
+ "updatedAt": "2026-10-10 03:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3599,
+ "count": 3602,
  "items": [
   {
    "company": "American Tower Corporation",
@@ -24334,6 +24334,21 @@
    "source_url": ""
   },
   {
+   "company": "Ameren Corporation",
+   "ticker": "AEE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.75",
+   "source_url": ""
+  },
+  {
    "company": "AH Realty Trust, Inc.",
    "ticker": "AHRT",
    "exchange": "NYSE",
@@ -38611,6 +38626,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $1.7",
+   "source_url": ""
+  },
+  {
+   "company": "Ameren Corporation",
+   "ticker": "AEE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.75",
    "source_url": ""
   },
   {
@@ -52906,6 +52936,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $1.7",
+   "source_url": ""
+  },
+  {
+   "company": "Ameren Corporation",
+   "ticker": "AEE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.75",
    "source_url": ""
   },
   {
