@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-10 03:17",
+ "updatedAt": "2026-10-10 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3602,
+ "count": 3597,
  "items": [
   {
    "company": "American Tower Corporation",
@@ -859,66 +859,6 @@
    "source_url": ""
   },
   {
-   "company": "abrdn Global Dynamic Dividend Fund",
-   "ticker": "AGD",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
-   "source_url": ""
-  },
-  {
-   "company": "abrdn Total Dynamic Dividend Fund",
-   "ticker": "AOD",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.11,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.11",
-   "source_url": ""
-  },
-  {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1125",
-   "source_url": ""
-  },
-  {
-   "company": "abrdn Global Premier Properties Fund",
-   "ticker": "AWP",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Infrastructure Capital",
    "ticker": "BNDS",
    "exchange": "NYSE Arca",
@@ -1114,51 +1054,6 @@
    "source_url": ""
   },
   {
-   "company": "Aberdeen Municipal Income Fund",
-   "ticker": "MFM",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.03,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.03",
-   "source_url": ""
-  },
-  {
-   "company": "Aberdeen Government Markets Income Fund",
-   "ticker": "MGF",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.02,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
-   "source_url": ""
-  },
-  {
-   "company": "Aberdeen Intermediate Income Fund",
-   "ticker": "MIN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.02,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
-   "source_url": ""
-  },
-  {
    "company": "TPG Mortgage Investment Trust, Inc.",
    "ticker": "MITT",
    "exchange": "NYSE",
@@ -1171,21 +1066,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "Aberdeen Multi-Market Income Fund",
-   "ticker": "MMT",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.04,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.04",
    "source_url": ""
   },
   {
@@ -1291,36 +1171,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $1.90352",
-   "source_url": ""
-  },
-  {
-   "company": "abrdn Healthcare Opportunities Fund",
-   "ticker": "THQ",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.17",
-   "source_url": ""
-  },
-  {
-   "company": "abrdn World Healthcare Fund",
-   "ticker": "THW",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
    "source_url": ""
   },
   {
@@ -1891,21 +1741,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.04",
-   "source_url": ""
-  },
-  {
-   "company": "The AES Corporation",
-   "ticker": "AES",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.17595,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.17595",
    "source_url": ""
   },
   {
@@ -3585,7 +3420,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -3593,14 +3428,14 @@
    "ticker": "AOD",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.11,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-11-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.11",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -3615,7 +3450,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1125",
+   "basis": "last confirmed 2026-10-30 $0.1125",
    "source_url": ""
   },
   {
@@ -3638,14 +3473,14 @@
    "ticker": "AWP",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-11-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -3975,7 +3810,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.03",
+   "basis": "last confirmed 2026-10-30 $0.03",
    "source_url": ""
   },
   {
@@ -3983,14 +3818,14 @@
    "ticker": "MGF",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-11-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -3998,14 +3833,14 @@
    "ticker": "MIN",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.12,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-11-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -4020,7 +3855,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.04",
+   "basis": "last confirmed 2026-10-30 $0.04",
    "source_url": ""
   },
   {
@@ -4170,7 +4005,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.17",
+   "basis": "last confirmed 2026-10-30 $0.17",
    "source_url": ""
   },
   {
@@ -4178,14 +4013,14 @@
    "ticker": "THW",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-11-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -8250,7 +8085,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -8258,14 +8093,14 @@
    "ticker": "AOD",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.11,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-12-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.11",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -8280,7 +8115,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1125",
+   "basis": "last confirmed 2026-10-30 $0.1125",
    "source_url": ""
   },
   {
@@ -8303,14 +8138,14 @@
    "ticker": "AWP",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-12-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -8775,7 +8610,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.03",
+   "basis": "last confirmed 2026-10-30 $0.03",
    "source_url": ""
   },
   {
@@ -8783,14 +8618,14 @@
    "ticker": "MGF",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-12-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -8798,14 +8633,14 @@
    "ticker": "MIN",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.12,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-12-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -8820,7 +8655,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.04",
+   "basis": "last confirmed 2026-10-30 $0.04",
    "source_url": ""
   },
   {
@@ -9075,7 +8910,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.17",
+   "basis": "last confirmed 2026-10-30 $0.17",
    "source_url": ""
   },
   {
@@ -9083,14 +8918,14 @@
    "ticker": "THW",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2026-12-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -13425,7 +13260,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -13433,14 +13268,14 @@
    "ticker": "AOD",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.11,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-01-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.11",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -13455,7 +13290,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1125",
+   "basis": "last confirmed 2026-10-30 $0.1125",
    "source_url": ""
   },
   {
@@ -13478,14 +13313,14 @@
    "ticker": "AWP",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-01-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -13815,7 +13650,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.03",
+   "basis": "last confirmed 2026-10-30 $0.03",
    "source_url": ""
   },
   {
@@ -13823,14 +13658,14 @@
    "ticker": "MGF",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-01-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -13838,14 +13673,14 @@
    "ticker": "MIN",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.12,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-01-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -13860,7 +13695,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.04",
+   "basis": "last confirmed 2026-10-30 $0.04",
    "source_url": ""
   },
   {
@@ -14055,7 +13890,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.17",
+   "basis": "last confirmed 2026-10-30 $0.17",
    "source_url": ""
   },
   {
@@ -14063,14 +13898,14 @@
    "ticker": "THW",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-01-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -15405,7 +15240,22 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.17595",
+   "basis": "last confirmed 2026-11-13 $0.17595",
+   "source_url": ""
+  },
+  {
+   "company": "Aon plc",
+   "ticker": "AON",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.82,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.82",
    "source_url": ""
   },
   {
@@ -17400,7 +17250,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -17408,14 +17258,14 @@
    "ticker": "AOD",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.11,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-02-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.11",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -17430,7 +17280,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1125",
+   "basis": "last confirmed 2026-10-30 $0.1125",
    "source_url": ""
   },
   {
@@ -17453,14 +17303,14 @@
    "ticker": "AWP",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-02-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -17775,7 +17625,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.03",
+   "basis": "last confirmed 2026-10-30 $0.03",
    "source_url": ""
   },
   {
@@ -17783,14 +17633,14 @@
    "ticker": "MGF",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-02-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -17798,14 +17648,14 @@
    "ticker": "MIN",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.12,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-02-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -17820,7 +17670,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.04",
+   "basis": "last confirmed 2026-10-30 $0.04",
    "source_url": ""
   },
   {
@@ -17970,7 +17820,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.17",
+   "basis": "last confirmed 2026-10-30 $0.17",
    "source_url": ""
   },
   {
@@ -17978,14 +17828,14 @@
    "ticker": "THW",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-02-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -22290,7 +22140,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -22298,14 +22148,14 @@
    "ticker": "AOD",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.11,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.11",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -22320,7 +22170,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1125",
+   "basis": "last confirmed 2026-10-30 $0.1125",
    "source_url": ""
   },
   {
@@ -22343,14 +22193,14 @@
    "ticker": "AWP",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -22725,7 +22575,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.03",
+   "basis": "last confirmed 2026-10-30 $0.03",
    "source_url": ""
   },
   {
@@ -22733,14 +22583,14 @@
    "ticker": "MGF",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -22748,14 +22598,14 @@
    "ticker": "MIN",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.12,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -22770,7 +22620,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.04",
+   "basis": "last confirmed 2026-10-30 $0.04",
    "source_url": ""
   },
   {
@@ -22965,7 +22815,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.17",
+   "basis": "last confirmed 2026-10-30 $0.17",
    "source_url": ""
   },
   {
@@ -22973,14 +22823,14 @@
    "ticker": "THW",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-29",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -24571,6 +24421,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.53",
+   "source_url": ""
+  },
+  {
+   "company": "Lockheed Martin Corporation",
+   "ticker": "LMT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 3.6,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $3.6",
    "source_url": ""
   },
   {
@@ -27600,7 +27465,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -27623,14 +27488,14 @@
    "ticker": "AOD",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.11,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.11",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -27645,7 +27510,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1125",
+   "basis": "last confirmed 2026-10-30 $0.1125",
    "source_url": ""
   },
   {
@@ -27668,14 +27533,14 @@
    "ticker": "AWP",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -28020,7 +27885,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.03",
+   "basis": "last confirmed 2026-10-30 $0.03",
    "source_url": ""
   },
   {
@@ -28028,14 +27893,14 @@
    "ticker": "MGF",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -28043,14 +27908,14 @@
    "ticker": "MIN",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.12,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -28065,7 +27930,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.04",
+   "basis": "last confirmed 2026-10-30 $0.04",
    "source_url": ""
   },
   {
@@ -28230,7 +28095,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.17",
+   "basis": "last confirmed 2026-10-30 $0.17",
    "source_url": ""
   },
   {
@@ -28238,14 +28103,14 @@
    "ticker": "THW",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -29760,7 +29625,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.17595",
+   "basis": "last confirmed 2026-11-13 $0.17595",
    "source_url": ""
   },
   {
@@ -29776,6 +29641,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
+   "company": "Aon plc",
+   "ticker": "AON",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.82,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.82",
    "source_url": ""
   },
   {
@@ -31365,7 +31245,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -31388,14 +31268,14 @@
    "ticker": "AOD",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.11,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-05-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.11",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -31410,7 +31290,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1125",
+   "basis": "last confirmed 2026-10-30 $0.1125",
    "source_url": ""
   },
   {
@@ -31433,14 +31313,14 @@
    "ticker": "AWP",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-05-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -31830,7 +31710,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.03",
+   "basis": "last confirmed 2026-10-30 $0.03",
    "source_url": ""
   },
   {
@@ -31838,14 +31718,14 @@
    "ticker": "MGF",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-05-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -31868,14 +31748,14 @@
    "ticker": "MIN",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.12,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-05-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -31890,7 +31770,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.04",
+   "basis": "last confirmed 2026-10-30 $0.04",
    "source_url": ""
   },
   {
@@ -32145,7 +32025,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.17",
+   "basis": "last confirmed 2026-10-30 $0.17",
    "source_url": ""
   },
   {
@@ -32153,14 +32033,14 @@
    "ticker": "THW",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-05-28",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -36525,7 +36405,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -36533,14 +36413,14 @@
    "ticker": "AOD",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.11,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.11",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -36555,7 +36435,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1125",
+   "basis": "last confirmed 2026-10-30 $0.1125",
    "source_url": ""
   },
   {
@@ -36578,14 +36458,14 @@
    "ticker": "AWP",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -36900,7 +36780,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.03",
+   "basis": "last confirmed 2026-10-30 $0.03",
    "source_url": ""
   },
   {
@@ -36908,14 +36788,14 @@
    "ticker": "MGF",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -36923,14 +36803,14 @@
    "ticker": "MIN",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.12,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -36945,7 +36825,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.04",
+   "basis": "last confirmed 2026-10-30 $0.04",
    "source_url": ""
   },
   {
@@ -37110,7 +36990,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.17",
+   "basis": "last confirmed 2026-10-30 $0.17",
    "source_url": ""
   },
   {
@@ -37118,14 +36998,14 @@
    "ticker": "THW",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -38896,6 +38776,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.53",
+   "source_url": ""
+  },
+  {
+   "company": "Lockheed Martin Corporation",
+   "ticker": "LMT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 3.6,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $3.6",
    "source_url": ""
   },
   {
@@ -41865,7 +41760,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -41873,14 +41768,14 @@
    "ticker": "AOD",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.11,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.11",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -41895,7 +41790,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1125",
+   "basis": "last confirmed 2026-10-30 $0.1125",
    "source_url": ""
   },
   {
@@ -41918,14 +41813,14 @@
    "ticker": "AWP",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -42240,7 +42135,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.03",
+   "basis": "last confirmed 2026-10-30 $0.03",
    "source_url": ""
   },
   {
@@ -42248,14 +42143,14 @@
    "ticker": "MGF",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -42263,14 +42158,14 @@
    "ticker": "MIN",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.12,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -42285,7 +42180,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.04",
+   "basis": "last confirmed 2026-10-30 $0.04",
    "source_url": ""
   },
   {
@@ -42450,7 +42345,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.17",
+   "basis": "last confirmed 2026-10-30 $0.17",
    "source_url": ""
   },
   {
@@ -42458,14 +42353,14 @@
    "ticker": "THW",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-27",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -44130,7 +44025,22 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.17595",
+   "basis": "last confirmed 2026-11-13 $0.17595",
+   "source_url": ""
+  },
+  {
+   "company": "Aon plc",
+   "ticker": "AON",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.82,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.82",
    "source_url": ""
   },
   {
@@ -45555,7 +45465,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -45563,14 +45473,14 @@
    "ticker": "AOD",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.11,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-08-26",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.11",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -45585,7 +45495,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1125",
+   "basis": "last confirmed 2026-10-30 $0.1125",
    "source_url": ""
   },
   {
@@ -45623,14 +45533,14 @@
    "ticker": "AWP",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-08-26",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -45945,7 +45855,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.03",
+   "basis": "last confirmed 2026-10-30 $0.03",
    "source_url": ""
   },
   {
@@ -45953,14 +45863,14 @@
    "ticker": "MGF",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-08-26",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -45968,14 +45878,14 @@
    "ticker": "MIN",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.12,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-08-26",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -45990,7 +45900,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.04",
+   "basis": "last confirmed 2026-10-30 $0.04",
    "source_url": ""
   },
   {
@@ -46200,7 +46110,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.17",
+   "basis": "last confirmed 2026-10-30 $0.17",
    "source_url": ""
   },
   {
@@ -46208,14 +46118,14 @@
    "ticker": "THW",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-08-26",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -50835,7 +50745,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -50858,14 +50768,14 @@
    "ticker": "AOD",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.11,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-25",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.11",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -50880,7 +50790,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1125",
+   "basis": "last confirmed 2026-10-30 $0.1125",
    "source_url": ""
   },
   {
@@ -50903,14 +50813,14 @@
    "ticker": "AWP",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-25",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -51225,7 +51135,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.03",
+   "basis": "last confirmed 2026-10-30 $0.03",
    "source_url": ""
   },
   {
@@ -51233,14 +51143,14 @@
    "ticker": "MGF",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-25",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.1",
    "source_url": ""
   },
   {
@@ -51248,14 +51158,14 @@
    "ticker": "MIN",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.02,
+   "amount_per_share": 0.12,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-25",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.02",
+   "basis": "last confirmed 2026-10-30 $0.12",
    "source_url": ""
   },
   {
@@ -51270,7 +51180,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.04",
+   "basis": "last confirmed 2026-10-30 $0.04",
    "source_url": ""
   },
   {
@@ -51420,7 +51330,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.17",
+   "basis": "last confirmed 2026-10-30 $0.17",
    "source_url": ""
   },
   {
@@ -51428,14 +51338,14 @@
    "ticker": "THW",
    "exchange": "NYSE",
    "security": "fund",
-   "amount_per_share": 0.12,
+   "amount_per_share": 0.11,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-25",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.12",
+   "basis": "last confirmed 2026-10-30 $0.11",
    "source_url": ""
   },
   {
@@ -53191,6 +53101,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.53",
+   "source_url": ""
+  },
+  {
+   "company": "Lockheed Martin Corporation",
+   "ticker": "LMT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 3.6,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $3.6",
    "source_url": ""
   },
   {

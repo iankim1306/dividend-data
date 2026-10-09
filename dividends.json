@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10 03:17",
+ "updatedAt": "2026-10-10 06:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -46094,6 +46094,21 @@
    "collected_at": "2026-09-18 09:18"
   },
   {
+   "company": "abrdn Income Credit Strategies Fund",
+   "exchange": "NYSE",
+   "ticker": "ACP",
+   "security": "fund",
+   "amount_per_share": 0.055,
+   "currency": "USD",
+   "record_date": "2026-10-23",
+   "payable_date": "2026-10-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302903828.html",
+   "collected_at": "2026-10-10 06:17"
+  },
+  {
    "company": "ACRES Commercial Realty Corp.",
    "exchange": "NYSE",
    "ticker": "ACR",
@@ -46124,6 +46139,21 @@
    "collected_at": "2026-09-17 06:18"
   },
   {
+   "company": "abrdn Global Dynamic Dividend Fund",
+   "exchange": "NYSE",
+   "ticker": "AGD",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-10-23",
+   "payable_date": "2026-10-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302903828.html",
+   "collected_at": "2026-10-10 06:17"
+  },
+  {
    "company": "Argan, Inc.",
    "exchange": "NYSE",
    "ticker": "AGX",
@@ -46139,6 +46169,36 @@
    "collected_at": "2026-09-10 09:25"
   },
   {
+   "company": "abrdn Total Dynamic Dividend Fund",
+   "exchange": "NYSE",
+   "ticker": "AOD",
+   "security": "fund",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-10-23",
+   "payable_date": "2026-10-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302903828.html",
+   "collected_at": "2026-10-10 06:17"
+  },
+  {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "ARDC",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "2026-10-19",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ares-dynamic-credit-allocation-fund-declares-a-monthly-distribution-of-0-1125-per-share-302903437.html",
+   "collected_at": "2026-10-10 06:17"
+  },
+  {
    "company": "abrdn Global Infrastructure Income Fund",
    "exchange": "NYSE",
    "ticker": "ASGI",
@@ -46152,6 +46212,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/abrdn-global-infrastructure-income-fund-declares-distribution-dates-and-amount-302890358.html",
    "collected_at": "2026-09-26 06:18"
+  },
+  {
+   "company": "abrdn Global Premier Properties Fund",
+   "exchange": "NYSE",
+   "ticker": "AWP",
+   "security": "fund",
+   "amount_per_share": 0.11,
+   "currency": "USD",
+   "record_date": "2026-10-23",
+   "payable_date": "2026-10-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302903828.html",
+   "collected_at": "2026-10-10 06:17"
   },
   {
    "company": "Bank of America Corporation",
@@ -46378,6 +46453,21 @@
    "collected_at": "2026-08-13 12:16"
   },
   {
+   "company": "abrdn Asia-Pacific Income Fund, Inc.",
+   "exchange": "NYSE American",
+   "ticker": "FAX",
+   "security": "fund",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-10-23",
+   "payable_date": "2026-10-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302903828.html",
+   "collected_at": "2026-10-10 06:17"
+  },
+  {
    "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
    "exchange": "NYSE",
    "ticker": "FOF",
@@ -46586,6 +46676,66 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/maa-announces-quarterly-common-dividend-302886653.html",
    "collected_at": "2026-09-23 06:19"
+  },
+  {
+   "company": "Aberdeen Municipal Income Fund",
+   "exchange": "NYSE",
+   "ticker": "MFM",
+   "security": "fund",
+   "amount_per_share": 0.03,
+   "currency": "USD",
+   "record_date": "2026-10-23",
+   "payable_date": "2026-10-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302903828.html",
+   "collected_at": "2026-10-10 06:17"
+  },
+  {
+   "company": "Aberdeen Government Markets Income Fund",
+   "exchange": "NYSE",
+   "ticker": "MGF",
+   "security": "fund",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-10-23",
+   "payable_date": "2026-10-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302903828.html",
+   "collected_at": "2026-10-10 06:17"
+  },
+  {
+   "company": "Aberdeen Intermediate Income Fund",
+   "exchange": "NYSE",
+   "ticker": "MIN",
+   "security": "fund",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-10-23",
+   "payable_date": "2026-10-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302903828.html",
+   "collected_at": "2026-10-10 06:17"
+  },
+  {
+   "company": "Aberdeen Multi-Market Income Fund",
+   "exchange": "NYSE",
+   "ticker": "MMT",
+   "security": "fund",
+   "amount_per_share": 0.04,
+   "currency": "USD",
+   "record_date": "2026-10-23",
+   "payable_date": "2026-10-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302903828.html",
+   "collected_at": "2026-10-10 06:17"
   },
   {
    "company": "Morningstar, Inc.",
@@ -46826,6 +46976,36 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/nxg-cushing-midstream-energy-fund-nyse-srv-announces-distributions-302865780.html",
    "collected_at": "2026-09-01 21:18"
+  },
+  {
+   "company": "abrdn Healthcare Opportunities Fund",
+   "exchange": "NYSE",
+   "ticker": "THQ",
+   "security": "fund",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-10-23",
+   "payable_date": "2026-10-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302903828.html",
+   "collected_at": "2026-10-10 06:17"
+  },
+  {
+   "company": "abrdn World Healthcare Fund",
+   "exchange": "NYSE",
+   "ticker": "THW",
+   "security": "fund",
+   "amount_per_share": 0.11,
+   "currency": "USD",
+   "record_date": "2026-10-23",
+   "payable_date": "2026-10-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/certain-aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302903828.html",
+   "collected_at": "2026-10-10 06:17"
   },
   {
    "company": "Trinity Capital Inc.",
@@ -47577,6 +47757,36 @@
    "collected_at": "2026-09-24 09:26"
   },
   {
+   "company": "The AES Corporation",
+   "exchange": "NYSE",
+   "ticker": "AES",
+   "security": "common",
+   "amount_per_share": 0.17595,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aes-announces-quarterly-dividend-302903571.html",
+   "collected_at": "2026-10-10 06:17"
+  },
+  {
+   "company": "Aon plc",
+   "exchange": "NYSE",
+   "ticker": "AON",
+   "security": "common",
+   "amount_per_share": 0.82,
+   "currency": "USD",
+   "record_date": "2026-11-02",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aon-announces-quarterly-cash-dividend-302903652.html",
+   "collected_at": "2026-10-10 06:17"
+  },
+  {
    "company": "Bitmine Immersion Technologies, Inc.",
    "exchange": "NYSE",
    "ticker": "BMNP",
@@ -48008,6 +48218,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1377936/000121390026107187/ea0306042-10q_saratoga.htm",
    "collected_at": "2026-10-07 09:27"
+  },
+  {
+   "company": "Vulcan Materials Company",
+   "exchange": "NYSE",
+   "ticker": "VMC",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "2026-11-09",
+   "payable_date": "2026-11-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/vulcan-declares-quarterly-dividend-on-common-stock-302903804.html",
+   "collected_at": "2026-10-10 06:17"
   },
   {
    "company": "Bank of Montreal",
@@ -48966,6 +49191,21 @@
    "collected_at": "2026-10-02 06:18"
   },
   {
+   "company": "Lockheed Martin Corporation",
+   "exchange": "NYSE",
+   "ticker": "LMT",
+   "security": "common",
+   "amount_per_share": 3.6,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/lockheed-martin-declares-fourth-quarter-2026-dividend-302903859.html",
+   "collected_at": "2026-10-10 06:17"
+  },
+  {
    "company": "Cohen & Steers Select Preferred and Income Fund, Inc.",
    "exchange": "NYSE",
    "ticker": "PSF",
@@ -49086,5 +49326,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3293
+ "count": 3309
 }
