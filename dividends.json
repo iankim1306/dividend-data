@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10 06:17",
+ "updatedAt": "2026-10-10 09:30",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -810,6 +810,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/831641/000083164126000011/ttek-20260329.htm",
    "collected_at": "2026-08-13 12:19"
+  },
+  {
+   "company": "Jefferies Financial Group Inc.",
+   "exchange": "NYSE",
+   "ticker": "JEF",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2025-02-14",
+   "payable_date": "2025-02-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/96223/000009622326000033/jef-20260831.htm",
+   "collected_at": "2026-10-10 09:19"
   },
   {
    "company": "Amerant Bancorp Inc.",
@@ -2639,6 +2654,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/908937/000090893726000022/siri-20260630.htm",
    "collected_at": "2026-08-13 12:41"
+  },
+  {
+   "company": "Jefferies Financial Group Inc.",
+   "exchange": "NYSE",
+   "ticker": "JEF",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2025-05-19",
+   "payable_date": "2025-05-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/96223/000009622326000033/jef-20260831.htm",
+   "collected_at": "2026-10-10 09:19"
   },
   {
    "company": "LeMaitre Vascular, Inc.",
@@ -4738,6 +4768,21 @@
    "wire": "AGG:stockanalysis",
    "source_url": "https://stockanalysis.com/etf/divo/dividend/",
    "collected_at": "2026-08-18T15:34:56+09:00"
+  },
+  {
+   "company": "Jefferies Financial Group Inc.",
+   "exchange": "NYSE",
+   "ticker": "JEF",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2025-08-18",
+   "payable_date": "2025-08-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/96223/000009622326000033/jef-20260831.htm",
+   "collected_at": "2026-10-10 09:19"
   },
   {
    "company": "Jerash Holdings (US), Inc.",
@@ -8667,6 +8712,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/315709/000110465926091933/iboc-20260630x10q.htm",
    "collected_at": "2026-08-15 09:44"
+  },
+  {
+   "company": "Jefferies Financial Group Inc.",
+   "exchange": "NYSE",
+   "ticker": "JEF",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-02-17",
+   "payable_date": "2026-02-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/96223/000009622326000033/jef-20260831.htm",
+   "collected_at": "2026-10-10 09:19"
   },
   {
    "company": "NATHAN'S FAMOUS, INC.",
@@ -16167,6 +16227,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1054905/000119312526213160/iosp-ex99_1.htm",
    "collected_at": "2026-08-13 14:41"
+  },
+  {
+   "company": "Jefferies Financial Group Inc.",
+   "exchange": "NYSE",
+   "ticker": "JEF",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-05-18",
+   "payable_date": "2026-05-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/96223/000009622326000033/jef-20260831.htm",
+   "collected_at": "2026-10-10 09:19"
   },
   {
    "company": "LTC PROPERTIES INC",
@@ -25710,6 +25785,21 @@
    "collected_at": "2026-08-13 14:31"
   },
   {
+   "company": "Delta Air Lines, Inc.",
+   "exchange": "NYSE",
+   "ticker": "DAL",
+   "security": "common",
+   "amount_per_share": 0.215,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-07-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000038/dal-20260930.htm",
+   "collected_at": "2026-10-10 09:18"
+  },
+  {
    "company": "Ellington Financial Inc.",
    "exchange": "NYSE",
    "ticker": "EFC",
@@ -31173,6 +31263,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-a-dividend-for-the-infrastructure-capital-nasdaq-option-income-etf-qvol-302860722.html",
    "collected_at": "2026-08-27 00:18"
+  },
+  {
+   "company": "Jefferies Financial Group Inc.",
+   "exchange": "NYSE",
+   "ticker": "JEF",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-08-18",
+   "payable_date": "2026-08-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/96223/000009622326000033/jef-20260831.htm",
+   "collected_at": "2026-10-10 09:19"
   },
   {
    "company": "Karat Packaging Inc.",
@@ -48250,6 +48355,21 @@
    "collected_at": "2026-08-25 21:18"
   },
   {
+   "company": "Richardson Electronics, Ltd.",
+   "exchange": null,
+   "ticker": null,
+   "security": "Class B common",
+   "amount_per_share": 0.054,
+   "currency": "USD",
+   "record_date": "2026-11-06",
+   "payable_date": "2026-11-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/355948/000035594826000021/rell-ex99_1.htm",
+   "collected_at": "2026-10-10 09:17"
+  },
+  {
    "company": "Jefferies Financial Group Inc.",
    "exchange": "NYSE",
    "ticker": "JEF",
@@ -49326,5 +49446,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3309
+ "count": 3317
 }

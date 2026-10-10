@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-10 06:17",
+ "updatedAt": "2026-10-10 09:30",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3597,
+ "count": 3603,
  "items": [
   {
    "company": "American Tower Corporation",
@@ -14824,6 +14824,21 @@
    "source_url": ""
   },
   {
+   "company": "Delta Air Lines",
+   "ticker": "DAL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.215,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-05 $0.215",
+   "source_url": ""
+  },
+  {
    "company": "The PNC Financial Services Group, Inc.",
    "ticker": "PNC",
    "exchange": "NYSE",
@@ -16696,6 +16711,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-26 $0.025",
+   "source_url": ""
+  },
+  {
+   "company": "Jefferies Financial Group Inc.",
+   "ticker": "JEF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.4",
    "source_url": ""
   },
   {
@@ -29089,6 +29119,21 @@
    "source_url": ""
   },
   {
+   "company": "Delta Air Lines",
+   "ticker": "DAL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.215,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-05 $0.215",
+   "source_url": ""
+  },
+  {
    "company": "The PNC Financial Services Group, Inc.",
    "ticker": "PNC",
    "exchange": "NYSE",
@@ -30961,6 +31006,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-26 $0.025",
+   "source_url": ""
+  },
+  {
+   "company": "Jefferies Financial Group Inc.",
+   "ticker": "JEF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.4",
    "source_url": ""
   },
   {
@@ -43414,6 +43474,21 @@
    "source_url": ""
   },
   {
+   "company": "Delta Air Lines",
+   "ticker": "DAL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.215,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-05 $0.215",
+   "source_url": ""
+  },
+  {
    "company": "Company",
    "ticker": "MDV",
    "exchange": "NYSE",
@@ -45316,6 +45391,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.1882",
+   "source_url": ""
+  },
+  {
+   "company": "Jefferies Financial Group Inc.",
+   "ticker": "JEF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.4",
    "source_url": ""
   },
   {
