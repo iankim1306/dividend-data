@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-10 21:17",
+ "updatedAt": "2026-10-11 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3603,
+ "count": 3607,
  "items": [
   {
    "company": "American Tower Corporation",
@@ -54046,6 +54046,66 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.0833",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05018,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.0655",
+   "source_url": ""
+  },
+  {
+   "company": "Horizon Technology Finance Corporation",
+   "ticker": "HRZN",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.03,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.03",
+   "source_url": ""
+  },
+  {
+   "company": "The PNC Financial Services Group, Inc.",
+   "ticker": "PNC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1562.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $1562.5",
    "source_url": ""
   }
  ]
