@@ -1,23 +1,8 @@
 {
- "updatedAt": "2026-10-11 21:17",
+ "updatedAt": "2026-10-12 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3607,
+ "count": 3610,
  "items": [
-  {
-   "company": "American Tower Corporation",
-   "ticker": "AMT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.79,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-12",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-13 $1.79",
-   "source_url": ""
-  },
   {
    "company": "Agree Realty Corporation",
    "ticker": "ADC",
@@ -54064,6 +54049,21 @@
    "source_url": ""
   },
   {
+   "company": "American Tower Corporation",
+   "ticker": "AMT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.79,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-13 $1.79",
+   "source_url": ""
+  },
+  {
    "company": "AllianceBernstein Global High Income Fund, Inc.",
    "ticker": "AWF",
    "exchange": "NYSE",
@@ -54106,6 +54106,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $1562.5",
+   "source_url": ""
+  },
+  {
+   "company": "Benchmark Electronics, Inc.",
+   "ticker": "BHE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-13 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Community Financial System, Inc.",
+   "ticker": "CBU",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.49,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-13 $0.49",
+   "source_url": ""
+  },
+  {
+   "company": "FIRST HORIZON CORP",
+   "ticker": "FHN",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1687.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-13 $1687.5",
    "source_url": ""
   }
  ]
