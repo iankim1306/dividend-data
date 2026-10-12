@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-13 03:17",
+ "updatedAt": "2026-10-13 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3613,
+ "count": 3615,
  "items": [
   {
    "company": "ADAMAS TRUST, INC.",
@@ -859,36 +859,6 @@
    "source_url": ""
   },
   {
-   "company": "FS Credit Opportunities Corp.",
-   "ticker": "FSCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.0594",
-   "source_url": ""
-  },
-  {
-   "company": "FS Specialty Lending Fund",
-   "ticker": "FSSL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1495,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1495",
-   "source_url": ""
-  },
-  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -946,21 +916,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.255",
-   "source_url": ""
-  },
-  {
-   "company": "INTERNATIONAL PAPER COMPANY",
-   "ticker": "IP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.925,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.925",
    "source_url": ""
   },
   {
@@ -3511,36 +3466,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.13",
-   "source_url": ""
-  },
-  {
-   "company": "FS Credit Opportunities Corp.",
-   "ticker": "FSCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.0594",
-   "source_url": ""
-  },
-  {
-   "company": "FS Specialty Lending Fund",
-   "ticker": "FSSL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1495,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1495",
    "source_url": ""
   },
   {
@@ -8251,36 +8176,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "FS Credit Opportunities Corp.",
-   "ticker": "FSCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.0594",
-   "source_url": ""
-  },
-  {
-   "company": "FS Specialty Lending Fund",
-   "ticker": "FSSL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1495,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1495",
    "source_url": ""
   },
   {
@@ -13369,36 +13264,6 @@
    "source_url": ""
   },
   {
-   "company": "FS Credit Opportunities Corp.",
-   "ticker": "FSCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.0594",
-   "source_url": ""
-  },
-  {
-   "company": "FS Specialty Lending Fund",
-   "ticker": "FSSL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1495,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1495",
-   "source_url": ""
-  },
-  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -14119,21 +13984,6 @@
    "source_url": ""
   },
   {
-   "company": "INTERNATIONAL PAPER COMPANY",
-   "ticker": "IP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.925,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.925",
-   "source_url": ""
-  },
-  {
    "company": "MFA Financial, Inc.",
    "ticker": "MFA",
    "exchange": "NYSE",
@@ -14326,6 +14176,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.08854",
+   "source_url": ""
+  },
+  {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.1495",
    "source_url": ""
   },
   {
@@ -14746,6 +14626,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-05 $0.29",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Homes Trust, Inc.",
+   "ticker": "BHM",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.15625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-05 $0.15625",
    "source_url": ""
   },
   {
@@ -17374,36 +17269,6 @@
    "source_url": ""
   },
   {
-   "company": "FS Credit Opportunities Corp.",
-   "ticker": "FSCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.0594",
-   "source_url": ""
-  },
-  {
-   "company": "FS Specialty Lending Fund",
-   "ticker": "FSSL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1495,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1495",
-   "source_url": ""
-  },
-  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -18046,6 +17911,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-01 $18.125",
+   "source_url": ""
+  },
+  {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.1495",
    "source_url": ""
   },
   {
@@ -19081,6 +18976,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-04 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Homes Trust, Inc.",
+   "ticker": "BHM",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.15625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-06",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-05 $0.15625",
    "source_url": ""
   },
   {
@@ -20296,6 +20206,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.365",
+   "source_url": ""
+  },
+  {
+   "company": "International Paper",
+   "ticker": "IP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.4625",
    "source_url": ""
   },
   {
@@ -22264,36 +22189,6 @@
    "source_url": ""
   },
   {
-   "company": "FS Credit Opportunities Corp.",
-   "ticker": "FSCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.0594",
-   "source_url": ""
-  },
-  {
-   "company": "FS Specialty Lending Fund",
-   "ticker": "FSSL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1495,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1495",
-   "source_url": ""
-  },
-  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -23599,6 +23494,21 @@
    "source_url": ""
   },
   {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.0594",
+   "source_url": ""
+  },
+  {
    "company": "Franklin Street Properties Corp.",
    "ticker": "FSP",
    "exchange": "NYSE",
@@ -23611,6 +23521,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-01 $0.01",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.1495",
    "source_url": ""
   },
   {
@@ -24796,6 +24721,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $0.0553",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Homes Trust, Inc.",
+   "ticker": "BHM",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.15625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-05 $0.15625",
    "source_url": ""
   },
   {
@@ -27634,36 +27574,6 @@
    "source_url": ""
   },
   {
-   "company": "FS Credit Opportunities Corp.",
-   "ticker": "FSCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.0594",
-   "source_url": ""
-  },
-  {
-   "company": "FS Specialty Lending Fund",
-   "ticker": "FSSL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1495,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1495",
-   "source_url": ""
-  },
-  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -28474,6 +28384,36 @@
    "source_url": ""
   },
   {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.1495",
+   "source_url": ""
+  },
+  {
    "company": "Highland Global Allocation Fund",
    "ticker": "HGLB",
    "exchange": "NYSE",
@@ -28486,21 +28426,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.085",
-   "source_url": ""
-  },
-  {
-   "company": "INTERNATIONAL PAPER COMPANY",
-   "ticker": "IP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.925,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.925",
    "source_url": ""
   },
   {
@@ -29011,6 +28936,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $0.0553",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Homes Trust, Inc.",
+   "ticker": "BHM",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.15625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-05 $0.15625",
    "source_url": ""
   },
   {
@@ -31459,36 +31399,6 @@
    "source_url": ""
   },
   {
-   "company": "FS Credit Opportunities Corp.",
-   "ticker": "FSCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.0594",
-   "source_url": ""
-  },
-  {
-   "company": "FS Specialty Lending Fund",
-   "ticker": "FSSL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1495,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1495",
-   "source_url": ""
-  },
-  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -32296,6 +32206,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.08854",
+   "source_url": ""
+  },
+  {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.1495",
    "source_url": ""
   },
   {
@@ -33211,6 +33151,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-04 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Homes Trust, Inc.",
+   "ticker": "BHM",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.15625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-05 $0.15625",
    "source_url": ""
   },
   {
@@ -34606,6 +34561,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.365",
+   "source_url": ""
+  },
+  {
+   "company": "International Paper",
+   "ticker": "IP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.4625",
    "source_url": ""
   },
   {
@@ -36559,36 +36529,6 @@
    "source_url": ""
   },
   {
-   "company": "FS Credit Opportunities Corp.",
-   "ticker": "FSCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.0594",
-   "source_url": ""
-  },
-  {
-   "company": "FS Specialty Lending Fund",
-   "ticker": "FSSL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1495,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1495",
-   "source_url": ""
-  },
-  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -37411,6 +37351,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.1495",
    "source_url": ""
   },
   {
@@ -39151,6 +39121,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-04 $0.77",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Homes Trust, Inc.",
+   "ticker": "BHM",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.15625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-05 $0.15625",
    "source_url": ""
   },
   {
@@ -41914,36 +41899,6 @@
    "source_url": ""
   },
   {
-   "company": "FS Credit Opportunities Corp.",
-   "ticker": "FSCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.0594",
-   "source_url": ""
-  },
-  {
-   "company": "FS Specialty Lending Fund",
-   "ticker": "FSSL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1495,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1495",
-   "source_url": ""
-  },
-  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -42649,6 +42604,36 @@
    "source_url": ""
   },
   {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.1495",
+   "source_url": ""
+  },
+  {
    "company": "Highland Global Allocation Fund",
    "ticker": "HGLB",
    "exchange": "NYSE",
@@ -42871,21 +42856,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.045",
-   "source_url": ""
-  },
-  {
-   "company": "INTERNATIONAL PAPER COMPANY",
-   "ticker": "IP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.925,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.925",
    "source_url": ""
   },
   {
@@ -43351,6 +43321,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.7075",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Homes Trust, Inc.",
+   "ticker": "BHM",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.15625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-05 $0.15625",
    "source_url": ""
   },
   {
@@ -45664,36 +45649,6 @@
    "source_url": ""
   },
   {
-   "company": "FS Credit Opportunities Corp.",
-   "ticker": "FSCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.0594",
-   "source_url": ""
-  },
-  {
-   "company": "FS Specialty Lending Fund",
-   "ticker": "FSSL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1495,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1495",
-   "source_url": ""
-  },
-  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -46669,6 +46624,36 @@
    "source_url": ""
   },
   {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.1495",
+   "source_url": ""
+  },
+  {
    "company": "Highland Global Allocation Fund",
    "ticker": "HGLB",
    "exchange": "NYSE",
@@ -47431,6 +47416,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-02 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Homes Trust, Inc.",
+   "ticker": "BHM",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.15625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-05 $0.15625",
    "source_url": ""
   },
   {
@@ -49006,6 +49006,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.365",
+   "source_url": ""
+  },
+  {
+   "company": "International Paper",
+   "ticker": "IP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.4625",
    "source_url": ""
   },
   {
@@ -50944,36 +50959,6 @@
    "source_url": ""
   },
   {
-   "company": "FS Credit Opportunities Corp.",
-   "ticker": "FSCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.0594",
-   "source_url": ""
-  },
-  {
-   "company": "FS Specialty Lending Fund",
-   "ticker": "FSSL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1495,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.1495",
-   "source_url": ""
-  },
-  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -51601,6 +51586,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.08854",
+   "source_url": ""
+  },
+  {
+   "company": "FS Credit Opportunities Corp.",
+   "ticker": "FSCO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.0594",
+   "source_url": ""
+  },
+  {
+   "company": "FS Specialty Lending Fund",
+   "ticker": "FSSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1495,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.1495",
    "source_url": ""
   },
   {
@@ -53461,6 +53476,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-02 $0.755",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Homes Trust, Inc.",
+   "ticker": "BHM",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.15625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-05 $0.15625",
    "source_url": ""
   },
   {
