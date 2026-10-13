@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-14 03:17",
+ "updatedAt": "2026-10-14 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3655,
+ "count": 3653,
  "items": [
   {
    "company": "Glacier Bancorp, Inc.",
@@ -1621,21 +1621,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -5179,6 +5164,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2715,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.2715",
+   "source_url": ""
+  },
+  {
    "company": "Braemar Hotels & Resorts Inc.",
    "ticker": "BHR",
    "exchange": "NYSE",
@@ -5326,21 +5326,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -5656,21 +5641,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.18",
-   "source_url": ""
-  },
-  {
-   "company": "DuPont de Nemours, Inc.",
-   "ticker": "DD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.6,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.6",
    "source_url": ""
   },
   {
@@ -10579,6 +10549,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2715,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.2715",
+   "source_url": ""
+  },
+  {
    "company": "ADAMAS TRUST, INC.",
    "ticker": "ADAM",
    "exchange": "Nasdaq",
@@ -10966,21 +10951,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.43",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -14704,6 +14674,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2715,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.2715",
+   "source_url": ""
+  },
+  {
    "company": "SERVICE PROPERTIES TRUST",
    "ticker": "SVC",
    "exchange": "Nasdaq",
@@ -14986,21 +14971,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $0.62",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -19204,6 +19174,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2715,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.2715",
+   "source_url": ""
+  },
+  {
    "company": "Braemar Hotels & Resorts Inc.",
    "ticker": "BHR",
    "exchange": "NYSE",
@@ -19276,21 +19261,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -19699,7 +19669,7 @@
    "source_url": ""
   },
   {
-   "company": "DuPont de Nemours, Inc.",
+   "company": "DuPont",
    "ticker": "DD",
    "exchange": "NYSE",
    "security": "common",
@@ -19710,7 +19680,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.6",
+   "basis": "last confirmed 2026-12-15 $0.6",
    "source_url": ""
   },
   {
@@ -24814,6 +24784,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2715,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.2715",
+   "source_url": ""
+  },
+  {
    "company": "BAB, INC.",
    "ticker": "BABB",
    "exchange": "OTC",
@@ -24961,21 +24946,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -28954,6 +28924,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2715,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.2715",
+   "source_url": ""
+  },
+  {
    "company": "Riley Exploration Permian, Inc.",
    "ticker": "REPX",
    "exchange": "NYSE",
@@ -29116,21 +29101,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -33499,6 +33469,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2715,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.2715",
+   "source_url": ""
+  },
+  {
    "company": "Piper Sandler Companies",
    "ticker": "PIPR",
    "exchange": "NYSE",
@@ -33616,21 +33601,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -34054,7 +34024,7 @@
    "source_url": ""
   },
   {
-   "company": "DuPont de Nemours, Inc.",
+   "company": "DuPont",
    "ticker": "DD",
    "exchange": "NYSE",
    "security": "common",
@@ -34065,7 +34035,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.6",
+   "basis": "last confirmed 2026-12-15 $0.6",
    "source_url": ""
   },
   {
@@ -39199,6 +39169,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2715,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.2715",
+   "source_url": ""
+  },
+  {
    "company": "American Tower Corporation",
    "ticker": "AMT",
    "exchange": "NYSE",
@@ -39286,21 +39271,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -43339,6 +43309,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2715,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.2715",
+   "source_url": ""
+  },
+  {
    "company": "Orrstown Financial Services, Inc.",
    "ticker": "ORRF",
    "exchange": "Nasdaq",
@@ -43426,21 +43411,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -47899,6 +47869,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2715,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.2715",
+   "source_url": ""
+  },
+  {
    "company": "RPC, Inc.",
    "ticker": "RES",
    "exchange": "NYSE",
@@ -48016,21 +48001,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
@@ -48499,7 +48469,7 @@
    "source_url": ""
   },
   {
-   "company": "DuPont de Nemours, Inc.",
+   "company": "DuPont",
    "ticker": "DD",
    "exchange": "NYSE",
    "security": "common",
@@ -48510,7 +48480,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.6",
+   "basis": "last confirmed 2026-12-15 $0.6",
    "source_url": ""
   },
   {
@@ -53569,6 +53539,21 @@
    "source_url": ""
   },
   {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2715,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.2715",
+   "source_url": ""
+  },
+  {
    "company": "Braemar Hotels & Resorts Inc.",
    "ticker": "BHR",
    "exchange": "NYSE",
@@ -53641,21 +53626,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.2715",
    "source_url": ""
   },
   {
