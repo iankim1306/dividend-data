@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14 21:17",
+ "updatedAt": "2026-10-15 00:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -48475,6 +48475,21 @@
    "collected_at": "2026-10-08 06:18"
   },
   {
+   "company": "Caterpillar Inc.",
+   "exchange": "NYSE",
+   "ticker": "CAT",
+   "security": "common",
+   "amount_per_share": 1.63,
+   "currency": "USD",
+   "record_date": "2026-10-26",
+   "payable_date": "2026-11-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/caterpillar-inc-maintains-dividend-302908600.html",
+   "collected_at": "2026-10-15 00:17"
+  },
+  {
    "company": "Bitmine Immersion Technologies, Inc.",
    "exchange": "NYSE",
    "ticker": "BMNP",
@@ -49911,5 +49926,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3348
+ "count": 3349
 }
