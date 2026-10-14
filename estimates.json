@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-14 18:17",
+ "updatedAt": "2026-10-14 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3659,
+ "count": 3658,
  "items": [
   {
    "company": "Glacier Bancorp, Inc.",
@@ -2416,21 +2416,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-25 $0.26",
-   "source_url": ""
-  },
-  {
-   "company": "Howmet Aerospace",
-   "ticker": "HWM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-25 $0.14",
    "source_url": ""
   },
   {
@@ -16144,21 +16129,6 @@
    "source_url": ""
   },
   {
-   "company": "Howmet Aerospace",
-   "ticker": "HWM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-25 $0.14",
-   "source_url": ""
-  },
-  {
    "company": "CLARUS CORPORATION",
    "ticker": "CLAR",
    "exchange": "Nasdaq",
@@ -16171,6 +16141,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-26 $0.025",
+   "source_url": ""
+  },
+  {
+   "company": "Howmet Aerospace Inc.",
+   "ticker": "HWM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.14",
    "source_url": ""
   },
   {
@@ -30529,21 +30514,6 @@
    "source_url": ""
   },
   {
-   "company": "Howmet Aerospace",
-   "ticker": "HWM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-25 $0.14",
-   "source_url": ""
-  },
-  {
    "company": "CLARUS CORPORATION",
    "ticker": "CLAR",
    "exchange": "Nasdaq",
@@ -30556,6 +30526,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-26 $0.025",
+   "source_url": ""
+  },
+  {
+   "company": "Howmet Aerospace Inc.",
+   "ticker": "HWM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.14",
    "source_url": ""
   },
   {
@@ -44974,21 +44959,6 @@
    "source_url": ""
   },
   {
-   "company": "Howmet Aerospace",
-   "ticker": "HWM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-25 $0.14",
-   "source_url": ""
-  },
-  {
    "company": "CION Investment Corporation",
    "ticker": "CION",
    "exchange": "NYSE",
@@ -45031,6 +45001,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.1882",
+   "source_url": ""
+  },
+  {
+   "company": "Howmet Aerospace Inc.",
+   "ticker": "HWM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.14",
    "source_url": ""
   },
   {
