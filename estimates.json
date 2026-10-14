@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-14 06:17",
+ "updatedAt": "2026-10-14 09:29",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3653,
+ "count": 3659,
  "items": [
   {
    "company": "Glacier Bancorp, Inc.",
@@ -316,21 +316,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $0.81688",
-   "source_url": ""
-  },
-  {
-   "company": "Procter & Gamble Co",
-   "ticker": "PG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.089,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $1.089",
    "source_url": ""
   },
   {
@@ -1366,21 +1351,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $0.47",
-   "source_url": ""
-  },
-  {
-   "company": "KAISER ALUMINUM CORPORATION",
-   "ticker": "KALU",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.77,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.77",
    "source_url": ""
   },
   {
@@ -10474,21 +10444,6 @@
    "source_url": ""
   },
   {
-   "company": "BAB, INC.",
-   "ticker": "BABB",
-   "exchange": "OTC",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-12",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-14 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "Benchmark Electronics, Inc.",
    "ticker": "BHE",
    "exchange": "NYSE",
@@ -12019,6 +11974,21 @@
    "source_url": ""
   },
   {
+   "company": "BAB, Inc.",
+   "ticker": "BABB",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $0.01",
+   "source_url": ""
+  },
+  {
    "company": "Calamos Dynamic Convertible and Income Fund",
    "ticker": "CCD",
    "exchange": "NASDAQ",
@@ -12451,21 +12421,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $0.81688",
-   "source_url": ""
-  },
-  {
-   "company": "Procter & Gamble Co",
-   "ticker": "PG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.089,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $1.089",
    "source_url": ""
   },
   {
@@ -14269,6 +14224,21 @@
    "source_url": ""
   },
   {
+   "company": "AZZ Inc.",
+   "ticker": "AZZ",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-05 $0.24",
+   "source_url": ""
+  },
+  {
    "company": "Bluerock Homes Trust, Inc.",
    "ticker": "BHM",
    "exchange": "NYSE American",
@@ -14296,6 +14266,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-05 $0.215",
+   "source_url": ""
+  },
+  {
+   "company": "LAKELAND FINANCIAL CORPORATION",
+   "ticker": "LKFN",
+   "exchange": "The Nasdaq Stock Market, LLC",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-05 $0.52",
    "source_url": ""
   },
   {
@@ -14884,9 +14869,9 @@
    "source_url": ""
   },
   {
-   "company": "KAISER ALUMINUM CORPORATION",
+   "company": "Kaiser Aluminum Corporation",
    "ticker": "KALU",
-   "exchange": "Nasdaq",
+   "exchange": "NASDAQ",
    "security": "common",
    "amount_per_share": 0.77,
    "currency": "USD",
@@ -14895,7 +14880,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.77",
+   "basis": "last confirmed 2026-11-13 $0.77",
    "source_url": ""
   },
   {
@@ -15376,6 +15361,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.475",
+   "source_url": ""
+  },
+  {
+   "company": "The Procter & Gamble Company",
+   "ticker": "PG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.0885,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $1.0885",
    "source_url": ""
   },
   {
@@ -23044,6 +23044,21 @@
    "source_url": ""
   },
   {
+   "company": "Domino's Pizza, Inc.",
+   "ticker": "DPZ",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.99,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $1.99",
+   "source_url": ""
+  },
+  {
    "company": "Devon Energy Corporation",
    "ticker": "DVN",
    "exchange": "NYSE",
@@ -24799,21 +24814,6 @@
    "source_url": ""
   },
   {
-   "company": "BAB, INC.",
-   "ticker": "BABB",
-   "exchange": "OTC",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-14 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "Benchmark Electronics, Inc.",
    "ticker": "BHE",
    "exchange": "NYSE",
@@ -26434,6 +26434,21 @@
    "source_url": ""
   },
   {
+   "company": "BAB, Inc.",
+   "ticker": "BABB",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $0.01",
+   "source_url": ""
+  },
+  {
    "company": "CF Bankshares Inc.",
    "ticker": "CFBK",
    "exchange": "NASDAQ",
@@ -26806,21 +26821,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $0.81688",
-   "source_url": ""
-  },
-  {
-   "company": "Procter & Gamble Co",
-   "ticker": "PG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.089,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $1.089",
    "source_url": ""
   },
   {
@@ -28624,6 +28624,21 @@
    "source_url": ""
   },
   {
+   "company": "AZZ Inc.",
+   "ticker": "AZZ",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-05 $0.24",
+   "source_url": ""
+  },
+  {
    "company": "Delta Air Lines",
    "ticker": "DAL",
    "exchange": "NYSE",
@@ -28636,6 +28651,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-05 $0.215",
+   "source_url": ""
+  },
+  {
+   "company": "LAKELAND FINANCIAL CORPORATION",
+   "ticker": "LKFN",
+   "exchange": "The Nasdaq Stock Market, LLC",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-05 $0.52",
    "source_url": ""
   },
   {
@@ -29329,9 +29359,9 @@
    "source_url": ""
   },
   {
-   "company": "KAISER ALUMINUM CORPORATION",
+   "company": "Kaiser Aluminum Corporation",
    "ticker": "KALU",
-   "exchange": "Nasdaq",
+   "exchange": "NASDAQ",
    "security": "common",
    "amount_per_share": 0.77,
    "currency": "USD",
@@ -29340,7 +29370,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.77",
+   "basis": "last confirmed 2026-11-13 $0.77",
    "source_url": ""
   },
   {
@@ -29731,6 +29761,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.475",
+   "source_url": ""
+  },
+  {
+   "company": "The Procter & Gamble Company",
+   "ticker": "PG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.0885,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $1.0885",
    "source_url": ""
   },
   {
@@ -37504,6 +37549,21 @@
    "source_url": ""
   },
   {
+   "company": "Domino's Pizza, Inc.",
+   "ticker": "DPZ",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.99,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $1.99",
+   "source_url": ""
+  },
+  {
    "company": "Devon Energy Corporation",
    "ticker": "DVN",
    "exchange": "NYSE",
@@ -39349,21 +39409,6 @@
    "source_url": ""
   },
   {
-   "company": "BAB, INC.",
-   "ticker": "BABB",
-   "exchange": "OTC",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-14 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "Benchmark Electronics, Inc.",
    "ticker": "BHE",
    "exchange": "NYSE",
@@ -40849,6 +40894,21 @@
    "source_url": ""
   },
   {
+   "company": "BAB, Inc.",
+   "ticker": "BABB",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $0.01",
+   "source_url": ""
+  },
+  {
    "company": "CF Bankshares Inc.",
    "ticker": "CFBK",
    "exchange": "NASDAQ",
@@ -41191,21 +41251,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $0.81688",
-   "source_url": ""
-  },
-  {
-   "company": "Procter & Gamble Co",
-   "ticker": "PG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.089,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $1.089",
    "source_url": ""
   },
   {
@@ -43024,6 +43069,21 @@
    "source_url": ""
   },
   {
+   "company": "AZZ Inc.",
+   "ticker": "AZZ",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-05 $0.24",
+   "source_url": ""
+  },
+  {
    "company": "Delta Air Lines",
    "ticker": "DAL",
    "exchange": "NYSE",
@@ -43036,6 +43096,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-05 $0.215",
+   "source_url": ""
+  },
+  {
+   "company": "LAKELAND FINANCIAL CORPORATION",
+   "ticker": "LKFN",
+   "exchange": "The Nasdaq Stock Market, LLC",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-05 $0.52",
    "source_url": ""
   },
   {
@@ -43744,9 +43819,9 @@
    "source_url": ""
   },
   {
-   "company": "KAISER ALUMINUM CORPORATION",
+   "company": "Kaiser Aluminum Corporation",
    "ticker": "KALU",
-   "exchange": "Nasdaq",
+   "exchange": "NASDAQ",
    "security": "common",
    "amount_per_share": 0.77,
    "currency": "USD",
@@ -43755,7 +43830,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.77",
+   "basis": "last confirmed 2026-11-13 $0.77",
    "source_url": ""
   },
   {
@@ -44131,6 +44206,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.475",
+   "source_url": ""
+  },
+  {
+   "company": "The Procter & Gamble Company",
+   "ticker": "PG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.0885,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $1.0885",
    "source_url": ""
   },
   {
@@ -51919,6 +52009,21 @@
    "source_url": ""
   },
   {
+   "company": "Domino's Pizza, Inc.",
+   "ticker": "DPZ",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.99,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $1.99",
+   "source_url": ""
+  },
+  {
    "company": "Devon Energy Corporation",
    "ticker": "DVN",
    "exchange": "NYSE",
@@ -53731,21 +53836,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $1562.5",
-   "source_url": ""
-  },
-  {
-   "company": "BAB, INC.",
-   "ticker": "BABB",
-   "exchange": "OTC",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-12",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-14 $0.01",
    "source_url": ""
   },
   {
