@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15 03:17",
+ "updatedAt": "2026-10-15 06:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -46244,6 +46244,21 @@
    "collected_at": "2026-10-05 21:18"
   },
   {
+   "company": "Stellus Private Credit BDC",
+   "exchange": null,
+   "ticker": null,
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "2026-10-09",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/stellus-private-credit-bdc-announces-0-31-fourth-quarter-2026-regular-dividend-payable-monthly-in-increments-of-0-1033-in-october-november-and-december-2026--302909142.html",
+   "collected_at": "2026-10-15 06:17"
+  },
+  {
    "company": "AECOM",
    "exchange": "NYSE",
    "ticker": "ACM",
@@ -48042,6 +48057,21 @@
    "collected_at": "2026-10-14 00:17"
   },
   {
+   "company": "Riley Exploration Permian, Inc.",
+   "exchange": "NYSE American",
+   "ticker": "REPX",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "2026-10-28",
+   "payable_date": "2026-11-11",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/riley-permian-increases-dividend-and-schedules-third-quarter-2026-earnings-release-and-conference-call-302909039.html",
+   "collected_at": "2026-10-15 06:17"
+  },
+  {
    "company": "Cracker Barrel Old Country Store, Inc.",
    "exchange": "Nasdaq",
    "ticker": "CBRL",
@@ -48175,6 +48205,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/realty-income-announces-676th-consecutive-common-stock-monthly-dividend-302907388.html",
    "collected_at": "2026-10-14 06:17"
+  },
+  {
+   "company": "Stellus Capital Investment Corporation",
+   "exchange": "NYSE",
+   "ticker": "SCM",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/stellus-capital-investment-corporation-announces-0-25-fourth-quarter-2026-regular-dividend-payable-monthly-in-increments-of-0-0833-in-november-and-december-2026--and-january-2027--302909141.html",
+   "collected_at": "2026-10-15 06:17"
   },
   {
    "company": "Constellation Brands, Inc.",
@@ -48428,6 +48473,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1487428/000143774926025691/ex_998155.htm",
    "collected_at": "2026-08-13 11:17"
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "exchange": "NYSE",
+   "ticker": "IVR",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-10-26",
+   "payable_date": "2026-11-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/invesco-mortgage-capital-inc-october-2026-dividend-announcement-and-september-financial-update-302909123.html",
+   "collected_at": "2026-10-15 06:17"
   },
   {
    "company": "The Procter & Gamble Company",
@@ -48804,6 +48864,21 @@
    "collected_at": "2026-08-13 11:18"
   },
   {
+   "company": "Stellus Private Credit BDC",
+   "exchange": null,
+   "ticker": null,
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "2026-10-09",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/stellus-private-credit-bdc-announces-0-31-fourth-quarter-2026-regular-dividend-payable-monthly-in-increments-of-0-1033-in-october-november-and-december-2026--302909142.html",
+   "collected_at": "2026-10-15 06:17"
+  },
+  {
    "company": "FS Credit Opportunities Corp.",
    "exchange": "NYSE",
    "ticker": "FSCO",
@@ -48939,6 +49014,21 @@
    "collected_at": "2026-08-13 14:50"
   },
   {
+   "company": "EQT Corporation",
+   "exchange": "NYSE",
+   "ticker": "EQT",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-11-04",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/eqt-increases-base-dividend-302908988.html",
+   "collected_at": "2026-10-15 06:17"
+  },
+  {
    "company": "FirstEnergy Corp.",
    "exchange": "NYSE",
    "ticker": "FE",
@@ -49042,6 +49132,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535778/000153577826000085/msif-20260630.htm",
    "collected_at": "2026-08-14 09:37"
+  },
+  {
+   "company": "Southwest Gas Holdings, Inc.",
+   "exchange": "NYSE",
+   "ticker": "SWX",
+   "security": "common",
+   "amount_per_share": 0.645,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/southwest-gas-holdings-declares-fourth-quarter-2026-dividend-302908892.html",
+   "collected_at": "2026-10-15 06:17"
   },
   {
    "company": "Target Corporation",
@@ -49222,6 +49327,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/pnc-declares-dividend-of-2-00-on-common-stock-302897280.html",
    "collected_at": "2026-10-03 03:18"
+  },
+  {
+   "company": "WhiteHorse Finance, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "WHF",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-12-10",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/whitehorse-finance-inc-announces-special-distribution-and-to-report-third-quarter-2026-financial-results-302909059.html",
+   "collected_at": "2026-10-15 06:17"
   },
   {
    "company": "Bitmine Immersion Technologies, Inc.",
@@ -49430,6 +49550,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/scholastic-corporation-announces-second-quarter-dividend-302881047.html",
    "collected_at": "2026-09-17 06:19"
+  },
+  {
+   "company": "Stellus Capital Investment Corporation",
+   "exchange": "NYSE",
+   "ticker": "SCM",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/stellus-capital-investment-corporation-announces-0-25-fourth-quarter-2026-regular-dividend-payable-monthly-in-increments-of-0-0833-in-november-and-december-2026--and-january-2027--302909141.html",
+   "collected_at": "2026-10-15 06:17"
   },
   {
    "company": "Tyson Foods, Inc.",
@@ -49671,6 +49806,21 @@
    "collected_at": "2026-10-14 09:25"
   },
   {
+   "company": "Stellus Private Credit BDC",
+   "exchange": null,
+   "ticker": null,
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "2026-10-09",
+   "payable_date": "2026-12-31",
+   "frequency": "monthly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/stellus-private-credit-bdc-announces-0-31-fourth-quarter-2026-regular-dividend-payable-monthly-in-increments-of-0-1033-in-october-november-and-december-2026--302909142.html",
+   "collected_at": "2026-10-15 06:17"
+  },
+  {
    "company": "Ameren Corporation",
    "exchange": "NYSE",
    "ticker": "AEE",
@@ -49896,6 +50046,21 @@
    "collected_at": "2026-10-07 09:18"
   },
   {
+   "company": "Stellus Capital Investment Corporation",
+   "exchange": "NYSE",
+   "ticker": "SCM",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "2026-12-31",
+   "payable_date": "2027-01-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/stellus-capital-investment-corporation-announces-0-25-fourth-quarter-2026-regular-dividend-payable-monthly-in-increments-of-0-0833-in-november-and-december-2026--and-january-2027--302909141.html",
+   "collected_at": "2026-10-15 06:17"
+  },
+  {
    "company": "Millicom International Cellular S.A.",
    "exchange": "NASDAQ",
    "ticker": "TIGO",
@@ -49926,5 +50091,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3349
+ "count": 3360
 }

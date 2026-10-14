@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-15 03:17",
+ "updatedAt": "2026-10-15 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3669,
+ "count": 3663,
  "items": [
   {
    "company": "Apple Hospitality REIT, Inc.",
@@ -1084,21 +1084,6 @@
    "source_url": ""
   },
   {
-   "company": "Riley Exploration Permian, Inc.",
-   "ticker": "REPX",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.4,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-11",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-12 $0.4",
-   "source_url": ""
-  },
-  {
    "company": "Apple",
    "ticker": "AAPL",
    "exchange": "",
@@ -1504,21 +1489,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Neuberger Municipal Fund Inc.",
    "ticker": "NBH",
    "exchange": "NYSE American",
@@ -1546,21 +1516,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.019593",
-   "source_url": ""
-  },
-  {
-   "company": "Stellus Capital Investment Corp",
-   "ticker": "SCM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.0833",
    "source_url": ""
   },
   {
@@ -5164,21 +5119,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "LifeVantage Corporation",
    "ticker": "LFVN",
    "exchange": "Nasdaq",
@@ -5251,21 +5191,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-15 $0.68",
-   "source_url": ""
-  },
-  {
-   "company": "Stellus Capital Investment Corp",
-   "ticker": "SCM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.0833",
    "source_url": ""
   },
   {
@@ -6061,6 +5986,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-16 $5.16",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
@@ -8221,21 +8161,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.255",
-   "source_url": ""
-  },
-  {
-   "company": "SOUTHWEST GAS HOLDINGS, INC.",
-   "ticker": "SWX",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.645,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.645",
    "source_url": ""
   },
   {
@@ -10729,21 +10654,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Kimco Realty Corporation",
    "ticker": "KIM",
    "exchange": "NYSE",
@@ -10891,21 +10801,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $1.2",
-   "source_url": ""
-  },
-  {
-   "company": "Stellus Capital Investment Corp",
-   "ticker": "SCM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.0833",
    "source_url": ""
   },
   {
@@ -11776,6 +11671,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-17 $0.18",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
@@ -14496,16 +14406,16 @@
   {
    "company": "Riley Exploration Permian, Inc.",
    "ticker": "REPX",
-   "exchange": "NYSE",
+   "exchange": "NYSE American",
    "security": "common",
-   "amount_per_share": 0.4,
+   "amount_per_share": 0.42,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-02-10",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-12 $0.4",
+   "basis": "last confirmed 2026-11-11 $0.42",
    "source_url": ""
   },
   {
@@ -14779,21 +14689,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Kaiser Aluminum Corporation",
    "ticker": "KALU",
    "exchange": "NASDAQ",
@@ -14941,21 +14836,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.019593",
-   "source_url": ""
-  },
-  {
-   "company": "Stellus Capital Investment Corp",
-   "ticker": "SCM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.0833",
    "source_url": ""
   },
   {
@@ -15151,6 +15031,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-15 $1000",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Stellus Capital Investment Corporation",
+   "ticker": "SCM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.0833",
    "source_url": ""
   },
   {
@@ -17989,6 +17899,21 @@
    "source_url": ""
   },
   {
+   "company": "Southwest Gas Holdings, Inc.",
+   "ticker": "SWX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.645,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.645",
+   "source_url": ""
+  },
+  {
    "company": "Target Corporation",
    "ticker": "TGT",
    "exchange": "NYSE",
@@ -19174,21 +19099,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Neuberger Municipal Fund Inc.",
    "ticker": "NBH",
    "exchange": "NYSE American",
@@ -19216,21 +19126,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.019593",
-   "source_url": ""
-  },
-  {
-   "company": "Stellus Capital Investment Corp",
-   "ticker": "SCM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.0833",
    "source_url": ""
   },
   {
@@ -19804,6 +19699,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "La-Z-Boy Incorporated",
    "ticker": "LZB",
    "exchange": "NYSE",
@@ -20086,6 +19996,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.395",
+   "source_url": ""
+  },
+  {
+   "company": "Stellus Capital Investment Corporation",
+   "ticker": "SCM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.0833",
    "source_url": ""
   },
   {
@@ -22684,21 +22609,6 @@
    "source_url": ""
   },
   {
-   "company": "SOUTHWEST GAS HOLDINGS, INC.",
-   "ticker": "SWX",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.645,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.645",
-   "source_url": ""
-  },
-  {
    "company": "Teleflex Incorporated",
    "ticker": "TFX",
    "exchange": "NYSE",
@@ -24859,21 +24769,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Neuberger Municipal Fund Inc.",
    "ticker": "NBH",
    "exchange": "NYSE American",
@@ -24901,21 +24796,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.019593",
-   "source_url": ""
-  },
-  {
-   "company": "Stellus Capital Investment Corp",
-   "ticker": "SCM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.0833",
    "source_url": ""
   },
   {
@@ -25654,6 +25534,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Korn Ferry",
    "ticker": "KFY",
    "exchange": "NYSE",
@@ -25876,6 +25771,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.177",
+   "source_url": ""
+  },
+  {
+   "company": "Stellus Capital Investment Corporation",
+   "ticker": "SCM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.0833",
    "source_url": ""
   },
   {
@@ -28911,16 +28821,16 @@
   {
    "company": "Riley Exploration Permian, Inc.",
    "ticker": "REPX",
-   "exchange": "NYSE",
+   "exchange": "NYSE American",
    "security": "common",
-   "amount_per_share": 0.4,
+   "amount_per_share": 0.42,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-05-12",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-12 $0.4",
+   "basis": "last confirmed 2026-11-11 $0.42",
    "source_url": ""
   },
   {
@@ -29029,21 +28939,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "KADANT INC.",
    "ticker": "KAI",
    "exchange": "NYSE",
@@ -29086,21 +28981,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.019593",
-   "source_url": ""
-  },
-  {
-   "company": "Stellus Capital Investment Corp",
-   "ticker": "SCM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.0833",
    "source_url": ""
   },
   {
@@ -29536,6 +29416,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-15 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Stellus Capital Investment Corporation",
+   "ticker": "SCM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.0833",
    "source_url": ""
   },
   {
@@ -32404,6 +32314,21 @@
    "source_url": ""
   },
   {
+   "company": "Southwest Gas Holdings, Inc.",
+   "ticker": "SWX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.645,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.645",
+   "source_url": ""
+  },
+  {
    "company": "Target Corporation",
    "ticker": "TGT",
    "exchange": "NYSE",
@@ -33574,21 +33499,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Neuberger Municipal Fund Inc.",
    "ticker": "NBH",
    "exchange": "NYSE American",
@@ -33616,21 +33526,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.019593",
-   "source_url": ""
-  },
-  {
-   "company": "Stellus Capital Investment Corp",
-   "ticker": "SCM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.0833",
    "source_url": ""
   },
   {
@@ -33754,6 +33649,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "LifeVantage Corporation",
    "ticker": "LFVN",
    "exchange": "Nasdaq",
@@ -33796,6 +33706,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-15 $0.68",
+   "source_url": ""
+  },
+  {
+   "company": "Stellus Capital Investment Corporation",
+   "ticker": "SCM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.0833",
    "source_url": ""
   },
   {
@@ -37204,21 +37129,6 @@
    "source_url": ""
   },
   {
-   "company": "SOUTHWEST GAS HOLDINGS, INC.",
-   "ticker": "SWX",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.645,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.645",
-   "source_url": ""
-  },
-  {
    "company": "Teleflex Incorporated",
    "ticker": "TFX",
    "exchange": "NYSE",
@@ -39259,21 +39169,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Neuberger Municipal Fund Inc.",
    "ticker": "NBH",
    "exchange": "NYSE American",
@@ -39301,21 +39196,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.019593",
-   "source_url": ""
-  },
-  {
-   "company": "Stellus Capital Investment Corp",
-   "ticker": "SCM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.0833",
    "source_url": ""
   },
   {
@@ -39694,6 +39574,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Kimco Realty Corporation",
    "ticker": "KIM",
    "exchange": "NYSE",
@@ -39811,6 +39706,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $1.2",
+   "source_url": ""
+  },
+  {
+   "company": "Stellus Capital Investment Corporation",
+   "ticker": "SCM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.0833",
    "source_url": ""
   },
   {
@@ -43414,21 +43324,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Neuberger Municipal Fund Inc.",
    "ticker": "NBH",
    "exchange": "NYSE American",
@@ -43461,31 +43356,16 @@
   {
    "company": "Riley Exploration Permian, Inc.",
    "ticker": "REPX",
-   "exchange": "NYSE",
+   "exchange": "NYSE American",
    "security": "common",
-   "amount_per_share": 0.4,
+   "amount_per_share": 0.42,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-08-11",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-12 $0.4",
-   "source_url": ""
-  },
-  {
-   "company": "Stellus Capital Investment Corp",
-   "ticker": "SCM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.0833",
+   "basis": "last confirmed 2026-11-11 $0.42",
    "source_url": ""
   },
   {
@@ -43774,6 +43654,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Kaiser Aluminum Corporation",
    "ticker": "KALU",
    "exchange": "NASDAQ",
@@ -43891,6 +43786,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $1.05",
+   "source_url": ""
+  },
+  {
+   "company": "Stellus Capital Investment Corporation",
+   "ticker": "SCM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.0833",
    "source_url": ""
   },
   {
@@ -46924,6 +46834,21 @@
    "source_url": ""
   },
   {
+   "company": "Southwest Gas Holdings, Inc.",
+   "ticker": "SWX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.645,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.645",
+   "source_url": ""
+  },
+  {
    "company": "Target Corporation",
    "ticker": "TGT",
    "exchange": "NYSE",
@@ -48019,21 +47944,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Labcorp Holdings Inc.",
    "ticker": "LH",
    "exchange": "NYSE",
@@ -48091,21 +48001,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-11 $0.2",
-   "source_url": ""
-  },
-  {
-   "company": "Stellus Capital Investment Corp",
-   "ticker": "SCM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.0833",
    "source_url": ""
   },
   {
@@ -48211,6 +48106,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $1562.5",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Stellus Capital Investment Corporation",
+   "ticker": "SCM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.0833",
    "source_url": ""
   },
   {
@@ -51694,21 +51619,6 @@
    "source_url": ""
   },
   {
-   "company": "SOUTHWEST GAS HOLDINGS, INC.",
-   "ticker": "SWX",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.645,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-28",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.645",
-   "source_url": ""
-  },
-  {
    "company": "Teleflex Incorporated",
    "ticker": "TFX",
    "exchange": "NYSE",
@@ -53674,21 +53584,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Neuberger Municipal Fund Inc.",
    "ticker": "NBH",
    "exchange": "NYSE American",
@@ -53716,21 +53611,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.019593",
-   "source_url": ""
-  },
-  {
-   "company": "Stellus Capital Investment Corp",
-   "ticker": "SCM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.0833",
    "source_url": ""
   },
   {
@@ -53866,6 +53746,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $1687.5",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Stellus Capital Investment Corporation",
+   "ticker": "SCM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.0833",
    "source_url": ""
   },
   {
