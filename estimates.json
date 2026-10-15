@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-16 03:17",
+ "updatedAt": "2026-10-16 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3671,
+ "count": 3675,
  "items": [
   {
    "company": "Chiron Real Estate Inc.",
@@ -1396,21 +1396,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.05417",
    "source_url": ""
   },
   {
@@ -5029,21 +5014,6 @@
    "source_url": ""
   },
   {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
    "company": "Permian Basin Royalty Trust",
    "ticker": "PBT",
    "exchange": "NYSE",
@@ -5884,6 +5854,21 @@
    "source_url": ""
   },
   {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "Enpro",
    "ticker": "NPO",
    "exchange": "NYSE",
@@ -6661,21 +6646,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.10167",
-   "source_url": ""
-  },
-  {
-   "company": "Genpact Limited",
-   "ticker": "G",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1875,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-24 $0.1875",
    "source_url": ""
   },
   {
@@ -10579,21 +10549,6 @@
    "source_url": ""
   },
   {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
    "company": "NewLake Capital Partners, Inc.",
    "ticker": "NLCP",
    "exchange": "OTC",
@@ -11581,6 +11536,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.72",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -14629,21 +14599,6 @@
    "source_url": ""
   },
   {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
    "company": "NNN REIT, Inc.",
    "ticker": "NNN",
    "exchange": "NYSE",
@@ -14926,6 +14881,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -18844,6 +18814,21 @@
    "source_url": ""
   },
   {
+   "company": "Dow",
+   "ticker": "DOW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-11 $0.35",
+   "source_url": ""
+  },
+  {
    "company": "FIRST BANCORP",
    "ticker": "FBP",
    "exchange": "NYSE",
@@ -18991,21 +18976,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.05417",
    "source_url": ""
   },
   {
@@ -19414,6 +19384,21 @@
    "source_url": ""
   },
   {
+   "company": "Consolidated Edison, Inc.",
+   "ticker": "ED",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.8875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.8875",
+   "source_url": ""
+  },
+  {
    "company": "Enterprise Financial Services Corp",
    "ticker": "EFSC",
    "exchange": "Nasdaq",
@@ -19726,6 +19711,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -20794,6 +20794,21 @@
    "source_url": ""
   },
   {
+   "company": "Genpact Limited",
+   "ticker": "G",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1875",
+   "source_url": ""
+  },
+  {
    "company": "Jack Henry & Associates, Inc.",
    "ticker": "JKHY",
    "exchange": "Nasdaq",
@@ -20896,21 +20911,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-24 $0.44",
-   "source_url": ""
-  },
-  {
-   "company": "Genpact Limited",
-   "ticker": "G",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1875,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-24 $0.1875",
    "source_url": ""
   },
   {
@@ -24649,21 +24649,6 @@
    "source_url": ""
   },
   {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
    "company": "Permian Basin Royalty Trust",
    "ticker": "PBT",
    "exchange": "NYSE",
@@ -25501,6 +25486,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.79",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -28849,21 +28849,6 @@
    "source_url": ""
   },
   {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
    "company": "Permian Basin Royalty Trust",
    "ticker": "PBT",
    "exchange": "NYSE",
@@ -29341,6 +29326,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -33289,6 +33289,21 @@
    "source_url": ""
   },
   {
+   "company": "Dow",
+   "ticker": "DOW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-11 $0.35",
+   "source_url": ""
+  },
+  {
    "company": "FIRST BANCORP",
    "ticker": "FBP",
    "exchange": "NYSE",
@@ -33421,21 +33436,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.05417",
    "source_url": ""
   },
   {
@@ -33616,6 +33616,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-15 $0.72",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -33886,6 +33901,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.6",
+   "source_url": ""
+  },
+  {
+   "company": "Consolidated Edison, Inc.",
+   "ticker": "ED",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.8875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.8875",
    "source_url": ""
   },
   {
@@ -35239,6 +35269,21 @@
    "source_url": ""
   },
   {
+   "company": "Genpact Limited",
+   "ticker": "G",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1875",
+   "source_url": ""
+  },
+  {
    "company": "Jack Henry & Associates, Inc.",
    "ticker": "JKHY",
    "exchange": "Nasdaq",
@@ -35341,21 +35386,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-24 $0.44",
-   "source_url": ""
-  },
-  {
-   "company": "Genpact Limited",
-   "ticker": "G",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1875,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-24 $0.1875",
    "source_url": ""
   },
   {
@@ -39079,21 +39109,6 @@
    "source_url": ""
   },
   {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
    "company": "Permian Basin Royalty Trust",
    "ticker": "PBT",
    "exchange": "NYSE",
@@ -39556,6 +39571,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.460938",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -43249,21 +43279,6 @@
    "source_url": ""
   },
   {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
    "company": "Permian Basin Royalty Trust",
    "ticker": "PBT",
    "exchange": "NYSE",
@@ -43666,6 +43681,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $1.15",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -47869,6 +47899,21 @@
    "source_url": ""
   },
   {
+   "company": "Dow",
+   "ticker": "DOW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-11 $0.35",
+   "source_url": ""
+  },
+  {
    "company": "FIRST BANCORP",
    "ticker": "FBP",
    "exchange": "NYSE",
@@ -47911,21 +47956,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-11 $0.72",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.05417",
    "source_url": ""
   },
   {
@@ -48076,6 +48106,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -48421,6 +48466,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.6",
+   "source_url": ""
+  },
+  {
+   "company": "Consolidated Edison, Inc.",
+   "ticker": "ED",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.8875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.8875",
    "source_url": ""
   },
   {
@@ -49759,6 +49819,21 @@
    "source_url": ""
   },
   {
+   "company": "Genpact Limited",
+   "ticker": "G",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1875",
+   "source_url": ""
+  },
+  {
    "company": "Jack Henry & Associates, Inc.",
    "ticker": "JKHY",
    "exchange": "Nasdaq",
@@ -49861,21 +49936,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-24 $0.44",
-   "source_url": ""
-  },
-  {
-   "company": "Genpact Limited",
-   "ticker": "G",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1875,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-24 $0.1875",
    "source_url": ""
   },
   {
@@ -53524,21 +53584,6 @@
    "source_url": ""
   },
   {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.05417",
-   "source_url": ""
-  },
-  {
    "company": "Permian Basin Royalty Trust",
    "ticker": "PBT",
    "exchange": "NYSE",
@@ -53716,6 +53761,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
