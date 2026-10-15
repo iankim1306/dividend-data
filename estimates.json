@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-16 00:17",
+ "updatedAt": "2026-10-16 03:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3669,
+ "count": 3671,
  "items": [
   {
    "company": "Chiron Real Estate Inc.",
@@ -28084,6 +28084,21 @@
    "source_url": ""
   },
   {
+   "company": "Wisconsin Electric Power Co.",
+   "ticker": "WEC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-31 $1.5",
+   "source_url": ""
+  },
+  {
    "company": "ABM",
    "ticker": "ABM",
    "exchange": "NYSE",
@@ -42556,6 +42571,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-06 $0.330454",
+   "source_url": ""
+  },
+  {
+   "company": "Wisconsin Electric Power Co.",
+   "ticker": "WEC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-31 $1.5",
    "source_url": ""
   },
   {
