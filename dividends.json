@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15 06:17",
+ "updatedAt": "2026-10-15 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -33020,6 +33020,21 @@
    "collected_at": "2026-08-13 12:06"
   },
   {
+   "company": "WINMARK CORPORATION",
+   "exchange": "Nasdaq",
+   "ticker": "WINA",
+   "security": "common",
+   "amount_per_share": 1.02,
+   "currency": "USD",
+   "record_date": "2026-08-12",
+   "payable_date": "2026-09-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/908315/000090831526000040/wina-20260926x10q.htm",
+   "collected_at": "2026-10-15 09:23"
+  },
+  {
    "company": "Warner Music Group Corp.",
    "exchange": "NYSE",
    "ticker": "WMG",
@@ -48147,6 +48162,21 @@
    "collected_at": "2026-09-24 12:18"
   },
   {
+   "company": "COSTCO WHOLESALE CORPORATION",
+   "exchange": "NASDAQ",
+   "ticker": "COST",
+   "security": "common",
+   "amount_per_share": 1.47,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000096/cost-20261014.htm",
+   "collected_at": "2026-10-15 09:17"
+  },
+  {
    "company": "General Dynamics",
    "exchange": "NYSE",
    "ticker": "GD",
@@ -48533,6 +48563,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/carrier-board-of-directors-declares-quarterly-cash-dividend-302901298.html",
    "collected_at": "2026-10-08 06:18"
+  },
+  {
+   "company": "Entegris, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "ENTG",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-10-28",
+   "payable_date": "2026-11-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101302/000110130226000154/newsreleaseannouncingq4202.htm",
+   "collected_at": "2026-10-15 09:17"
   },
   {
    "company": "Caterpillar Inc.",
@@ -50091,5 +50136,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3360
+ "count": 3363
 }

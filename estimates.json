@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-15 06:17",
+ "updatedAt": "2026-10-15 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3663,
+ "count": 3661,
  "items": [
   {
    "company": "Apple Hospitality REIT, Inc.",
@@ -1741,21 +1741,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-19 $0.36",
-   "source_url": ""
-  },
-  {
-   "company": "Entegris, Inc.",
-   "ticker": "ENTG",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-18",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-19 $0.1",
    "source_url": ""
   },
   {
@@ -3709,21 +3694,6 @@
    "source_url": ""
   },
   {
-   "company": "WINMARK CORPORATION",
-   "ticker": "WINA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.02,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-01 $1.02",
-   "source_url": ""
-  },
-  {
    "company": "Agree Realty Corporation",
    "ticker": "ADC",
    "exchange": "NYSE",
@@ -3961,6 +3931,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.9525",
+   "source_url": ""
+  },
+  {
+   "company": "WINMARK CORPORATION",
+   "ticker": "WINA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.02,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-01 $1.02",
    "source_url": ""
   },
   {
@@ -7501,21 +7486,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
-   "company": "COSTCO WHOLESALE CORP",
-   "ticker": "COST",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.47,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-29 $1.47",
    "source_url": ""
   },
   {
@@ -14599,6 +14569,21 @@
    "source_url": ""
   },
   {
+   "company": "COSTCO WHOLESALE CORPORATION",
+   "ticker": "COST",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 1.47,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $1.47",
+   "source_url": ""
+  },
+  {
    "company": "Cross Timbers Royalty Trust",
    "ticker": "CRT",
    "exchange": "NYSE",
@@ -15315,7 +15300,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-19 $0.1",
+   "basis": "last confirmed 2026-11-18 $0.1",
    "source_url": ""
   },
   {
@@ -17614,21 +17599,6 @@
    "source_url": ""
   },
   {
-   "company": "WINMARK CORPORATION",
-   "ticker": "WINA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.02,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-01 $1.02",
-   "source_url": ""
-  },
-  {
    "company": "AdvanSix Inc.",
    "ticker": "ASIX",
    "exchange": "NYSE",
@@ -17941,6 +17911,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.9525",
+   "source_url": ""
+  },
+  {
+   "company": "WINMARK CORPORATION",
+   "ticker": "WINA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.02,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-01 $1.02",
    "source_url": ""
   },
   {
@@ -22366,21 +22351,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "COSTCO WHOLESALE CORP",
-   "ticker": "COST",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.47,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-29 $1.47",
    "source_url": ""
   },
   {
@@ -29104,6 +29074,21 @@
    "source_url": ""
   },
   {
+   "company": "COSTCO WHOLESALE CORPORATION",
+   "ticker": "COST",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 1.47,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $1.47",
+   "source_url": ""
+  },
+  {
    "company": "Citizens & Northern Corporation",
    "ticker": "CZNC",
    "exchange": "Nasdaq",
@@ -29835,7 +29820,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-19 $0.1",
+   "basis": "last confirmed 2026-11-18 $0.1",
    "source_url": ""
   },
   {
@@ -32014,21 +31999,6 @@
    "source_url": ""
   },
   {
-   "company": "WINMARK CORPORATION",
-   "ticker": "WINA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.02,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-01 $1.02",
-   "source_url": ""
-  },
-  {
    "company": "AdvanSix Inc.",
    "ticker": "ASIX",
    "exchange": "NYSE",
@@ -32356,6 +32326,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.9525",
+   "source_url": ""
+  },
+  {
+   "company": "WINMARK CORPORATION",
+   "ticker": "WINA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.02,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-01 $1.02",
    "source_url": ""
   },
   {
@@ -36841,21 +36826,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
-   "company": "COSTCO WHOLESALE CORP",
-   "ticker": "COST",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.47,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-29 $1.47",
    "source_url": ""
   },
   {
@@ -43594,6 +43564,21 @@
    "source_url": ""
   },
   {
+   "company": "COSTCO WHOLESALE CORPORATION",
+   "ticker": "COST",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 1.47,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $1.47",
+   "source_url": ""
+  },
+  {
    "company": "Citizens & Northern Corporation",
    "ticker": "CZNC",
    "exchange": "Nasdaq",
@@ -44295,7 +44280,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-19 $0.1",
+   "basis": "last confirmed 2026-11-18 $0.1",
    "source_url": ""
   },
   {
@@ -46534,21 +46519,6 @@
    "source_url": ""
   },
   {
-   "company": "WINMARK CORPORATION",
-   "ticker": "WINA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.02,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-01 $1.02",
-   "source_url": ""
-  },
-  {
    "company": "AdvanSix Inc.",
    "ticker": "ASIX",
    "exchange": "NYSE",
@@ -46891,6 +46861,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.9525",
+   "source_url": ""
+  },
+  {
+   "company": "WINMARK CORPORATION",
+   "ticker": "WINA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.02,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-01 $1.02",
    "source_url": ""
   },
   {
@@ -51406,21 +51391,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "COSTCO WHOLESALE CORP",
-   "ticker": "COST",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.47,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-28",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-29 $1.47",
    "source_url": ""
   },
   {
