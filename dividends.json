@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15 21:17",
+ "updatedAt": "2026-10-16 00:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -48237,6 +48237,21 @@
    "collected_at": "2026-08-06 23:56"
   },
   {
+   "company": "NNN REIT, Inc.",
+   "exchange": "NYSE",
+   "ticker": "NNN",
+   "security": "common",
+   "amount_per_share": 0.62,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/common-dividend-declared-by-nnn-reit-inc-302907530.html",
+   "collected_at": "2026-10-16 00:17"
+  },
+  {
    "company": "Realty Income Corporation",
    "exchange": "NYSE",
    "ticker": "O",
@@ -49237,6 +49252,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/target-corporation-declares-regular-quarterly-dividend-302886527.html",
    "collected_at": "2026-09-23 21:18"
+  },
+  {
+   "company": "WEC Energy Group",
+   "exchange": "NYSE",
+   "ticker": "WEC",
+   "security": "common",
+   "amount_per_share": 0.9525,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/wec-energy-group-declares-quarterly-dividend-302910264.html",
+   "collected_at": "2026-10-16 00:17"
   },
   {
    "company": "Worthington Enterprises",
@@ -50271,5 +50301,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3372
+ "count": 3374
 }

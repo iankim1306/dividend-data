@@ -1,83 +1,8 @@
 {
- "updatedAt": "2026-10-15 21:17",
+ "updatedAt": "2026-10-16 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3664,
+ "count": 3669,
  "items": [
-  {
-   "company": "Apple Hospitality REIT, Inc.",
-   "ticker": "APLE",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-16",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "CAMDEN PROPERTY TRUST",
-   "ticker": "CPT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.06,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-17 $1.06",
-   "source_url": ""
-  },
-  {
-   "company": "Invitation Homes Inc.",
-   "ticker": "INVH",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.3,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-17 $0.3",
-   "source_url": ""
-  },
-  {
-   "company": "Independence Realty Trust, Inc.",
-   "ticker": "IRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.18,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-17 $0.18",
-   "source_url": ""
-  },
-  {
-   "company": "Independence Realty Trust, Inc.",
-   "ticker": "IRT",
-   "exchange": "NYSE",
-   "security": "other",
-   "amount_per_share": 0.18,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-17 $0.18",
-   "source_url": ""
-  },
   {
    "company": "Chiron Real Estate Inc.",
    "ticker": "XRN",
@@ -1306,21 +1231,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $1.15",
-   "source_url": ""
-  },
-  {
-   "company": "NNN REIT, Inc.",
-   "ticker": "NNN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.62,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.62",
    "source_url": ""
   },
   {
@@ -3916,21 +3826,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $1.27",
-   "source_url": ""
-  },
-  {
-   "company": "WEC Energy Group, Inc.",
-   "ticker": "WEC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.9525,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-01 $0.9525",
    "source_url": ""
   },
   {
@@ -14760,7 +14655,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.62",
+   "basis": "last confirmed 2026-11-13 $0.62",
    "source_url": ""
   },
   {
@@ -17914,7 +17809,7 @@
    "source_url": ""
   },
   {
-   "company": "WEC Energy Group, Inc.",
+   "company": "WEC Energy Group",
    "ticker": "WEC",
    "exchange": "NYSE",
    "security": "common",
@@ -17925,7 +17820,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-01 $0.9525",
+   "basis": "last confirmed 2026-12-01 $0.9525",
    "source_url": ""
   },
   {
@@ -29250,7 +29145,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.62",
+   "basis": "last confirmed 2026-11-13 $0.62",
    "source_url": ""
   },
   {
@@ -32344,7 +32239,7 @@
    "source_url": ""
   },
   {
-   "company": "WEC Energy Group, Inc.",
+   "company": "WEC Energy Group",
    "ticker": "WEC",
    "exchange": "NYSE",
    "security": "common",
@@ -32355,7 +32250,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-01 $0.9525",
+   "basis": "last confirmed 2026-12-01 $0.9525",
    "source_url": ""
   },
   {
@@ -43755,7 +43650,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.62",
+   "basis": "last confirmed 2026-11-13 $0.62",
    "source_url": ""
   },
   {
@@ -46894,7 +46789,7 @@
    "source_url": ""
   },
   {
-   "company": "WEC Energy Group, Inc.",
+   "company": "WEC Energy Group",
    "ticker": "WEC",
    "exchange": "NYSE",
    "security": "common",
@@ -46905,7 +46800,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-01 $0.9525",
+   "basis": "last confirmed 2026-12-01 $0.9525",
    "source_url": ""
   },
   {
@@ -53659,6 +53554,21 @@
    "source_url": ""
   },
   {
+   "company": "Apple Hospitality REIT, Inc.",
+   "ticker": "APLE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-17 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "AllianceBernstein Global High Income Fund, Inc.",
    "ticker": "AWF",
    "exchange": "NYSE",
@@ -54844,6 +54754,21 @@
    "source_url": ""
   },
   {
+   "company": "CAMDEN PROPERTY TRUST",
+   "ticker": "CPT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-17 $1.06",
+   "source_url": ""
+  },
+  {
    "company": "The First Bancorp",
    "ticker": "FNLC",
    "exchange": "NASDAQ",
@@ -54904,6 +54829,51 @@
    "source_url": ""
   },
   {
+   "company": "Invitation Homes Inc.",
+   "ticker": "INVH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-17 $0.3",
+   "source_url": ""
+  },
+  {
+   "company": "Independence Realty Trust, Inc.",
+   "ticker": "IRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.18,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-17 $0.18",
+   "source_url": ""
+  },
+  {
+   "company": "Independence Realty Trust, Inc.",
+   "ticker": "IRT",
+   "exchange": "NYSE",
+   "security": "other",
+   "amount_per_share": 0.18,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-17 $0.18",
+   "source_url": ""
+  },
+  {
    "company": "Kayne Anderson BDC, Inc.",
    "ticker": "KBDC",
    "exchange": "NYSE",
@@ -54961,6 +54931,111 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-20 $0.10417",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Dynamic Convertible and Income Fund",
+   "ticker": "CCD",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.195,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.195",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Global Total Return Fund",
+   "ticker": "CGO",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Convertible Opportunities and Income Fund",
+   "ticker": "CHI",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.095,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.095",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Global Dynamic Income Fund",
+   "ticker": "CHW",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Convertible and High Income Fund",
+   "ticker": "CHY",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Long/Short Equity & Dynamic Income Trust",
+   "ticker": "CPZ",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Strategic Total Return Fund",
+   "ticker": "CSQ",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.135,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.135",
    "source_url": ""
   }
  ]
