@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15 18:17",
+ "updatedAt": "2026-10-15 21:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -47967,6 +47967,21 @@
    "collected_at": "2026-09-29 09:19"
   },
   {
+   "company": "The Bank of New York Mellon Corporation",
+   "exchange": "NYSE",
+   "ticker": "BNY",
+   "security": "common",
+   "amount_per_share": 0.63,
+   "currency": "USD",
+   "record_date": "2026-10-26",
+   "payable_date": "2026-11-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bny-declares-dividends-302909941.html",
+   "collected_at": "2026-10-15 21:17"
+  },
+  {
    "company": "Deere & Company",
    "exchange": "NYSE",
    "ticker": "DE",
@@ -49179,6 +49194,21 @@
    "collected_at": "2026-08-14 09:37"
   },
   {
+   "company": "Penske Automotive Group, Inc.",
+   "exchange": "NYSE",
+   "ticker": "PAG",
+   "security": "common",
+   "amount_per_share": 1.46,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/penske-automotive-group-announces-dividend-increase-302909165.html",
+   "collected_at": "2026-10-15 21:17"
+  },
+  {
    "company": "Southwest Gas Holdings, Inc.",
    "exchange": "NYSE",
    "ticker": "SWX",
@@ -49717,6 +49747,21 @@
    "collected_at": "2026-08-15 00:19"
   },
   {
+   "company": "Terex Corporation",
+   "exchange": "NYSE",
+   "ticker": "TEX",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-11-09",
+   "payable_date": "2026-12-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/terex-announces-quarterly-dividend-302909228.html",
+   "collected_at": "2026-10-15 21:17"
+  },
+  {
    "company": "The Bank of New York Mellon",
    "exchange": "NYSE",
    "ticker": "BNY",
@@ -49730,6 +49775,96 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000086/bk-20260630.htm",
    "collected_at": "2026-08-14 09:29"
+  },
+  {
+   "company": "The Bank of New York Mellon Corporation",
+   "exchange": "NYSE",
+   "ticker": "BNY",
+   "security": "preferred",
+   "amount_per_share": 1219.05,
+   "currency": "USD",
+   "record_date": "2026-12-05",
+   "payable_date": "2026-12-21",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bny-declares-dividends-302909941.html",
+   "collected_at": "2026-10-15 21:17"
+  },
+  {
+   "company": "The Bank of New York Mellon Corporation",
+   "exchange": "NYSE",
+   "ticker": "BNY",
+   "security": "preferred",
+   "amount_per_share": 937.5,
+   "currency": "USD",
+   "record_date": "2026-12-05",
+   "payable_date": "2026-12-21",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bny-declares-dividends-302909941.html",
+   "collected_at": "2026-10-15 21:17"
+  },
+  {
+   "company": "The Bank of New York Mellon Corporation",
+   "exchange": "NYSE",
+   "ticker": "BNY",
+   "security": "preferred",
+   "amount_per_share": 1537.5,
+   "currency": "USD",
+   "record_date": "2026-12-05",
+   "payable_date": "2026-12-21",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bny-declares-dividends-302909941.html",
+   "collected_at": "2026-10-15 21:17"
+  },
+  {
+   "company": "The Bank of New York Mellon Corporation",
+   "exchange": "NYSE",
+   "ticker": "BNY",
+   "security": "preferred",
+   "amount_per_share": 2975.0,
+   "currency": "USD",
+   "record_date": "2026-12-05",
+   "payable_date": "2026-12-21",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bny-declares-dividends-302909941.html",
+   "collected_at": "2026-10-15 21:17"
+  },
+  {
+   "company": "The Bank of New York Mellon Corporation",
+   "exchange": "NYSE",
+   "ticker": "BNY",
+   "security": "preferred",
+   "amount_per_share": 1406.25,
+   "currency": "USD",
+   "record_date": "2026-12-05",
+   "payable_date": "2026-12-21",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bny-declares-dividends-302909941.html",
+   "collected_at": "2026-10-15 21:17"
+  },
+  {
+   "company": "The Bank of New York Mellon Corporation",
+   "exchange": "NYSE",
+   "ticker": "BNY",
+   "security": "preferred",
+   "amount_per_share": 2511.25,
+   "currency": "USD",
+   "record_date": "2026-12-05",
+   "payable_date": "2026-12-21",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bny-declares-dividends-302909941.html",
+   "collected_at": "2026-10-15 21:17"
   },
   {
    "company": "SARATOGA INVESTMENT CORP.",
@@ -50136,5 +50271,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3363
+ "count": 3372
 }

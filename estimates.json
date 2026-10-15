@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-15 18:17",
+ "updatedAt": "2026-10-15 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3661,
+ "count": 3664,
  "items": [
   {
    "company": "Apple Hospitality REIT, Inc.",
@@ -17824,6 +17824,21 @@
    "source_url": ""
   },
   {
+   "company": "Penske Automotive Group, Inc.",
+   "ticker": "PAG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.46,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $1.46",
+   "source_url": ""
+  },
+  {
    "company": "Pfizer Inc.",
    "ticker": "PFE",
    "exchange": "NYSE",
@@ -20704,18 +20719,18 @@
    "source_url": ""
   },
   {
-   "company": "The Bank of New York Mellon",
+   "company": "The Bank of New York Mellon Corporation",
    "ticker": "BNY",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 6.15,
+   "amount_per_share": 2511.25,
    "currency": "USD",
    "record_date": "",
-   "payable_date": "2027-03-21",
+   "payable_date": "2027-03-22",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-20 $6.15",
+   "basis": "last confirmed 2026-12-21 $2511.25",
    "source_url": ""
   },
   {
@@ -32239,6 +32254,21 @@
    "source_url": ""
   },
   {
+   "company": "Penske Automotive Group, Inc.",
+   "ticker": "PAG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.46,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $1.46",
+   "source_url": ""
+  },
+  {
    "company": "Pfizer Inc.",
    "ticker": "PFE",
    "exchange": "NYSE",
@@ -35119,21 +35149,6 @@
    "source_url": ""
   },
   {
-   "company": "The Bank of New York Mellon",
-   "ticker": "BNY",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 6.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-20",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-20 $6.15",
-   "source_url": ""
-  },
-  {
    "company": "Janus Living, Inc.",
    "ticker": "JAN",
    "exchange": "NYSE",
@@ -35161,6 +35176,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-22 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "The Bank of New York Mellon Corporation",
+   "ticker": "BNY",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 2511.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-21 $2511.25",
    "source_url": ""
   },
   {
@@ -46744,6 +46774,21 @@
    "source_url": ""
   },
   {
+   "company": "Penske Automotive Group, Inc.",
+   "ticker": "PAG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.46,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $1.46",
+   "source_url": ""
+  },
+  {
    "company": "Pfizer Inc.",
    "ticker": "PFE",
    "exchange": "NYSE",
@@ -49639,18 +49684,18 @@
    "source_url": ""
   },
   {
-   "company": "The Bank of New York Mellon",
+   "company": "The Bank of New York Mellon Corporation",
    "ticker": "BNY",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 6.15,
+   "amount_per_share": 2511.25,
    "currency": "USD",
    "record_date": "",
-   "payable_date": "2027-09-19",
+   "payable_date": "2027-09-20",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-20 $6.15",
+   "basis": "last confirmed 2026-12-21 $2511.25",
    "source_url": ""
   },
   {
