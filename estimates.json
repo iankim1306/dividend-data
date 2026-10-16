@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-17 03:17",
+ "updatedAt": "2026-10-17 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3690,
+ "count": 3687,
  "items": [
   {
    "company": "Chiron Real Estate Inc.",
@@ -1336,21 +1336,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $2.4",
-   "source_url": ""
-  },
-  {
-   "company": "Braemar Hotels & Resorts Inc.",
-   "ticker": "BHR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.17708,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.17708",
    "source_url": ""
   },
   {
@@ -4891,21 +4876,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
-   "company": "Braemar Hotels & Resorts Inc.",
-   "ticker": "BHR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.17708,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.17708",
    "source_url": ""
   },
   {
@@ -10249,21 +10219,6 @@
    "source_url": ""
   },
   {
-   "company": "Braemar Hotels & Resorts Inc.",
-   "ticker": "BHR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.17708,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.17708",
-   "source_url": ""
-  },
-  {
    "company": "Blackstone Mortgage Trust, Inc.",
    "ticker": "BXMT",
    "exchange": "NYSE",
@@ -14464,21 +14419,6 @@
    "source_url": ""
   },
   {
-   "company": "Braemar Hotels & Resorts Inc.",
-   "ticker": "BHR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.17708,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.17708",
-   "source_url": ""
-  },
-  {
    "company": "COSTCO WHOLESALE CORPORATION",
    "ticker": "COST",
    "exchange": "NASDAQ",
@@ -14896,6 +14836,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $1562.5",
+   "source_url": ""
+  },
+  {
+   "company": "Braemar Hotels & Resorts Inc.",
+   "ticker": "BHR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.17708,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.17708",
    "source_url": ""
   },
   {
@@ -18994,21 +18949,6 @@
    "source_url": ""
   },
   {
-   "company": "Braemar Hotels & Resorts Inc.",
-   "ticker": "BHR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.17708,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.17708",
-   "source_url": ""
-  },
-  {
    "company": "Cross Timbers Royalty Trust",
    "ticker": "CRT",
    "exchange": "NYSE",
@@ -19306,6 +19246,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.23",
+   "source_url": ""
+  },
+  {
+   "company": "Braemar Hotels & Resorts Inc.",
+   "ticker": "BHR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.17708,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.17708",
    "source_url": ""
   },
   {
@@ -24634,21 +24589,6 @@
    "source_url": ""
   },
   {
-   "company": "Braemar Hotels & Resorts Inc.",
-   "ticker": "BHR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.17708,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.17708",
-   "source_url": ""
-  },
-  {
    "company": "Community Financial System, Inc.",
    "ticker": "CBU",
    "exchange": "NYSE",
@@ -25246,6 +25186,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.375",
+   "source_url": ""
+  },
+  {
+   "company": "Braemar Hotels & Resorts Inc.",
+   "ticker": "BHR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.17708,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.17708",
    "source_url": ""
   },
   {
@@ -28849,21 +28804,6 @@
    "source_url": ""
   },
   {
-   "company": "Braemar Hotels & Resorts Inc.",
-   "ticker": "BHR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.17708,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.17708",
-   "source_url": ""
-  },
-  {
    "company": "Cracker Barrel Old Country Store, Inc.",
    "ticker": "CBRL",
    "exchange": "Nasdaq",
@@ -29416,6 +29356,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $2.4",
+   "source_url": ""
+  },
+  {
+   "company": "Braemar Hotels & Resorts Inc.",
+   "ticker": "BHR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.17708,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.17708",
    "source_url": ""
   },
   {
@@ -33529,21 +33484,6 @@
    "source_url": ""
   },
   {
-   "company": "Braemar Hotels & Resorts Inc.",
-   "ticker": "BHR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.17708,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.17708",
-   "source_url": ""
-  },
-  {
    "company": "Cross Timbers Royalty Trust",
    "ticker": "CRT",
    "exchange": "NYSE",
@@ -33661,6 +33601,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $1562.5",
+   "source_url": ""
+  },
+  {
+   "company": "Braemar Hotels & Resorts Inc.",
+   "ticker": "BHR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.17708,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.17708",
    "source_url": ""
   },
   {
@@ -39214,21 +39169,6 @@
    "source_url": ""
   },
   {
-   "company": "Braemar Hotels & Resorts Inc.",
-   "ticker": "BHR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.17708,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.17708",
-   "source_url": ""
-  },
-  {
    "company": "Cross Timbers Royalty Trust",
    "ticker": "CRT",
    "exchange": "NYSE",
@@ -39451,6 +39391,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.421875",
+   "source_url": ""
+  },
+  {
+   "company": "Braemar Hotels & Resorts Inc.",
+   "ticker": "BHR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.17708,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.17708",
    "source_url": ""
   },
   {
@@ -43414,21 +43369,6 @@
    "source_url": ""
   },
   {
-   "company": "Braemar Hotels & Resorts Inc.",
-   "ticker": "BHR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.17708,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.17708",
-   "source_url": ""
-  },
-  {
    "company": "Cross Timbers Royalty Trust",
    "ticker": "CRT",
    "exchange": "NYSE",
@@ -43726,6 +43666,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $0.52",
+   "source_url": ""
+  },
+  {
+   "company": "Braemar Hotels & Resorts Inc.",
+   "ticker": "BHR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.17708,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.17708",
    "source_url": ""
   },
   {
@@ -48079,21 +48034,6 @@
    "source_url": ""
   },
   {
-   "company": "Braemar Hotels & Resorts Inc.",
-   "ticker": "BHR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.17708,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.17708",
-   "source_url": ""
-  },
-  {
    "company": "Cross Timbers Royalty Trust",
    "ticker": "CRT",
    "exchange": "NYSE",
@@ -48301,6 +48241,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $1562.5",
+   "source_url": ""
+  },
+  {
+   "company": "Braemar Hotels & Resorts Inc.",
+   "ticker": "BHR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.17708,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.17708",
    "source_url": ""
   },
   {
@@ -53764,21 +53719,6 @@
    "source_url": ""
   },
   {
-   "company": "Braemar Hotels & Resorts Inc.",
-   "ticker": "BHR",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.17708,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.17708",
-   "source_url": ""
-  },
-  {
    "company": "Cross Timbers Royalty Trust",
    "ticker": "CRT",
    "exchange": "NYSE",
@@ -53926,6 +53866,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Braemar Hotels & Resorts Inc.",
+   "ticker": "BHR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.17708,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.17708",
    "source_url": ""
   },
   {
