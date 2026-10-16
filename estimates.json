@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-16 06:17",
+ "updatedAt": "2026-10-16 09:32",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3675,
+ "count": 3690,
  "items": [
   {
    "company": "Chiron Real Estate Inc.",
@@ -13579,6 +13579,21 @@
    "source_url": ""
   },
   {
+   "company": "Marsh & McLennan Companies, Inc.",
+   "ticker": "MMC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.99,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-01 $0.99",
+   "source_url": ""
+  },
+  {
    "company": "REVVITY, INC",
    "ticker": "RVTY",
    "exchange": "NYSE",
@@ -14149,6 +14164,21 @@
    "source_url": ""
   },
   {
+   "company": "Quaint Oak Bancorp, Inc.",
+   "ticker": "QNTO",
+   "exchange": "OTCQB",
+   "security": "common",
+   "amount_per_share": 0.04,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-09 $0.04",
+   "source_url": ""
+  },
+  {
    "company": "South Plains Financial, Inc.",
    "ticker": "SPFI",
    "exchange": "NASDAQ",
@@ -14326,6 +14356,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "NB Bancorp, Inc.",
+   "ticker": "NBBK",
+   "exchange": "Nasdaq Capital Market",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.07",
    "source_url": ""
   },
   {
@@ -14986,6 +15031,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.8",
+   "source_url": ""
+  },
+  {
+   "company": "First Merchants Corporation",
+   "ticker": "FRMEP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 46.88,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $46.88",
    "source_url": ""
   },
   {
@@ -19096,6 +19156,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.03",
+   "source_url": ""
+  },
+  {
+   "company": "Interactive Brokers Group, Inc.",
+   "ticker": "IBKR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.15",
    "source_url": ""
   },
   {
@@ -28069,6 +28144,21 @@
    "source_url": ""
   },
   {
+   "company": "Marsh & McLennan Companies, Inc.",
+   "ticker": "MMC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.99,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-01 $0.99",
+   "source_url": ""
+  },
+  {
    "company": "REVVITY, INC",
    "ticker": "RVTY",
    "exchange": "NYSE",
@@ -28609,6 +28699,21 @@
    "source_url": ""
   },
   {
+   "company": "Quaint Oak Bancorp, Inc.",
+   "ticker": "QNTO",
+   "exchange": "OTCQB",
+   "security": "common",
+   "amount_per_share": 0.04,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-09 $0.04",
+   "source_url": ""
+  },
+  {
    "company": "South Plains Financial, Inc.",
    "ticker": "SPFI",
    "exchange": "NASDAQ",
@@ -28846,6 +28951,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "NB Bancorp, Inc.",
+   "ticker": "NBBK",
+   "exchange": "Nasdaq Capital Market",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.07",
    "source_url": ""
   },
   {
@@ -29461,6 +29581,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.8",
+   "source_url": ""
+  },
+  {
+   "company": "First Merchants Corporation",
+   "ticker": "FRMEP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 46.88,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $46.88",
    "source_url": ""
   },
   {
@@ -33571,6 +33706,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-15 $6.625",
+   "source_url": ""
+  },
+  {
+   "company": "Interactive Brokers Group, Inc.",
+   "ticker": "IBKR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.15",
    "source_url": ""
   },
   {
@@ -42574,6 +42724,21 @@
    "source_url": ""
   },
   {
+   "company": "Marsh & McLennan Companies, Inc.",
+   "ticker": "MMC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.99,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-01 $0.99",
+   "source_url": ""
+  },
+  {
    "company": "REVVITY, INC",
    "ticker": "RVTY",
    "exchange": "NYSE",
@@ -43159,6 +43324,21 @@
    "source_url": ""
   },
   {
+   "company": "Quaint Oak Bancorp, Inc.",
+   "ticker": "QNTO",
+   "exchange": "OTCQB",
+   "security": "common",
+   "amount_per_share": 0.04,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-09 $0.04",
+   "source_url": ""
+  },
+  {
    "company": "South Plains Financial, Inc.",
    "ticker": "SPFI",
    "exchange": "NASDAQ",
@@ -43441,6 +43621,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "NB Bancorp, Inc.",
+   "ticker": "NBBK",
+   "exchange": "Nasdaq Capital Market",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.07",
    "source_url": ""
   },
   {
@@ -43981,6 +44176,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.8",
+   "source_url": ""
+  },
+  {
+   "company": "First Merchants Corporation",
+   "ticker": "FRMEP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 46.88,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $46.88",
    "source_url": ""
   },
   {
@@ -48181,6 +48391,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-15 $6.625",
+   "source_url": ""
+  },
+  {
+   "company": "Interactive Brokers Group, Inc.",
+   "ticker": "IBKR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.15",
    "source_url": ""
   },
   {
