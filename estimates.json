@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-17 06:17",
+ "updatedAt": "2026-10-17 09:29",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3687,
+ "count": 3697,
  "items": [
   {
    "company": "Chiron Real Estate Inc.",
@@ -5101,6 +5101,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.3515625",
+   "source_url": ""
+  },
+  {
+   "company": "Ames National Corporation",
+   "ticker": "ATLO",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.24",
    "source_url": ""
   },
   {
@@ -13504,6 +13519,21 @@
    "source_url": ""
   },
   {
+   "company": "Bio Green Med Solution, Inc.",
+   "ticker": "BGMS",
+   "exchange": "The Nasdaq Capital Market",
+   "security": "preferred",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-01 $0.15",
+   "source_url": ""
+  },
+  {
    "company": "Community Bancorp",
    "ticker": "CMTV",
    "exchange": "The Nasdaq Stock Market LLC",
@@ -14371,6 +14401,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Accenture plc",
+   "ticker": "ACN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.71,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $1.71",
    "source_url": ""
   },
   {
@@ -19216,6 +19261,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.3515625",
+   "source_url": ""
+  },
+  {
+   "company": "Ames National Corporation",
+   "ticker": "ATLO",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.24",
    "source_url": ""
   },
   {
@@ -28054,6 +28114,21 @@
    "source_url": ""
   },
   {
+   "company": "Bio Green Med Solution, Inc.",
+   "ticker": "BGMS",
+   "exchange": "The Nasdaq Capital Market",
+   "security": "preferred",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-01 $0.15",
+   "source_url": ""
+  },
+  {
    "company": "Community Bancorp",
    "ticker": "CMTV",
    "exchange": "The Nasdaq Stock Market LLC",
@@ -28951,6 +29026,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Accenture plc",
+   "ticker": "ACN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.71,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $1.71",
    "source_url": ""
   },
   {
@@ -33826,6 +33916,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.3515625",
+   "source_url": ""
+  },
+  {
+   "company": "Ames National Corporation",
+   "ticker": "ATLO",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.24",
    "source_url": ""
   },
   {
@@ -42649,6 +42754,21 @@
    "source_url": ""
   },
   {
+   "company": "Bio Green Med Solution, Inc.",
+   "ticker": "BGMS",
+   "exchange": "The Nasdaq Capital Market",
+   "security": "preferred",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-01 $0.15",
+   "source_url": ""
+  },
+  {
    "company": "Community Bancorp",
    "ticker": "CMTV",
    "exchange": "The Nasdaq Stock Market LLC",
@@ -43621,6 +43741,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Accenture plc",
+   "ticker": "ACN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.71,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $1.71",
    "source_url": ""
   },
   {
@@ -48466,6 +48601,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.3515625",
+   "source_url": ""
+  },
+  {
+   "company": "Ames National Corporation",
+   "ticker": "ATLO",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.24",
    "source_url": ""
   },
   {

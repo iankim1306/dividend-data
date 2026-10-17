@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17 06:17",
+ "updatedAt": "2026-10-17 09:29",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -8144,6 +8144,21 @@
    "collected_at": "2026-08-13 12:30"
   },
   {
+   "company": "Accenture plc",
+   "exchange": "NYSE",
+   "ticker": "ACN",
+   "security": "common",
+   "amount_per_share": 1.63,
+   "currency": "USD",
+   "record_date": "2026-01-12",
+   "payable_date": "2026-02-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000049/acn-20260831.htm",
+   "collected_at": "2026-10-17 09:26"
+  },
+  {
    "company": "D.R. Horton, Inc.",
    "exchange": "NYSE",
    "ticker": "DHI",
@@ -14845,6 +14860,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/842633/000084263326000029/trs-20260331.htm",
    "collected_at": "2026-08-13 12:22"
+  },
+  {
+   "company": "Accenture plc",
+   "exchange": "NYSE",
+   "ticker": "ACN",
+   "security": "common",
+   "amount_per_share": 1.63,
+   "currency": "USD",
+   "record_date": "2026-04-08",
+   "payable_date": "2026-05-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000049/acn-20260831.htm",
+   "collected_at": "2026-10-17 09:26"
   },
   {
    "company": "The AES Corporation",
@@ -28255,6 +28285,21 @@
    "collected_at": "2026-08-14 09:38"
   },
   {
+   "company": "Accenture plc",
+   "exchange": "NYSE",
+   "ticker": "ACN",
+   "security": "common",
+   "amount_per_share": 1.63,
+   "currency": "USD",
+   "record_date": "2026-07-08",
+   "payable_date": "2026-08-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000049/acn-20260831.htm",
+   "collected_at": "2026-10-17 09:26"
+  },
+  {
    "company": "Agree Realty Corporation",
    "exchange": "NYSE",
    "ticker": "ADC",
@@ -35328,6 +35373,21 @@
    "wire": "GNW",
    "source_url": "https://www.globenewswire.com/news-release/2026/08/07/3341406/0/en/ashland-board-authorizes-quarterly-dividend.html",
    "collected_at": "2026-08-08 07:56"
+  },
+  {
+   "company": "Ames National Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "ATLO",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "2026-09-01",
+   "payable_date": "2026-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1132651/000143774926032805/ex_1008479.htm",
+   "collected_at": "2026-10-17 09:18"
   },
   {
    "company": "Barrick Mining Corporation",
@@ -47503,6 +47563,21 @@
    "collected_at": "2026-08-29 06:18"
   },
   {
+   "company": "Bio Green Med Solution, Inc.",
+   "exchange": "The Nasdaq Capital Market",
+   "ticker": "BGMS",
+   "security": "preferred",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-10-26",
+   "payable_date": "2026-11-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1130166/000149315226047396/form8-k.htm",
+   "collected_at": "2026-10-17 09:17"
+  },
+  {
    "company": "Community Bancorp",
    "exchange": "The Nasdaq Stock Market LLC",
    "ticker": "CMTV",
@@ -48205,6 +48280,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1979330/000110465926116250/nbbk-ex99d1.htm",
    "collected_at": "2026-10-16 09:17"
+  },
+  {
+   "company": "Accenture plc",
+   "exchange": "NYSE",
+   "ticker": "ACN",
+   "security": "common",
+   "amount_per_share": 1.71,
+   "currency": "USD",
+   "record_date": "2026-10-13",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000049/acn-20260831.htm",
+   "collected_at": "2026-10-17 09:26"
   },
   {
    "company": "The AES Corporation",
@@ -50691,6 +50781,21 @@
    "collected_at": "2026-09-17 06:18"
   },
   {
+   "company": "The Travelers Companies, Inc.",
+   "exchange": "NYSE",
+   "ticker": "TRV",
+   "security": "common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "2026-12-10",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000181/trv-20260930.htm",
+   "collected_at": "2026-10-17 09:19"
+  },
+  {
    "company": "Walmart Inc.",
    "exchange": "Nasdaq",
    "ticker": "WMT",
@@ -50901,5 +51006,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3414
+ "count": 3421
 }
