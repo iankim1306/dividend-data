@@ -1,23 +1,8 @@
 {
- "updatedAt": "2026-10-17 21:17",
+ "updatedAt": "2026-10-18 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3697,
+ "count": 3687,
  "items": [
-  {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-18",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
-   "source_url": ""
-  },
   {
    "company": "Shoe Station Group, Inc.",
    "ticker": "SHOE",
@@ -286,21 +271,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-30 $0.07",
-   "source_url": ""
-  },
-  {
-   "company": "Amplify CWP Enhanced Dividend Income ETF",
-   "ticker": "DIVO",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1882,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.1882",
    "source_url": ""
   },
   {
@@ -2626,21 +2596,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "Amplify CWP Enhanced Dividend Income ETF",
-   "ticker": "DIVO",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1882,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.1882",
    "source_url": ""
   },
   {
@@ -7081,21 +7036,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-28 $0.46",
-   "source_url": ""
-  },
-  {
-   "company": "Amplify CWP Enhanced Dividend Income ETF",
-   "ticker": "DIVO",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1882,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.1882",
    "source_url": ""
   },
   {
@@ -12244,21 +12184,6 @@
    "source_url": ""
   },
   {
-   "company": "Amplify CWP Enhanced Dividend Income ETF",
-   "ticker": "DIVO",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1882,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.1882",
-   "source_url": ""
-  },
-  {
    "company": "ELECTRONIC ARTS INC.",
    "ticker": "EA",
    "exchange": "Nasdaq",
@@ -16231,21 +16156,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.2",
-   "source_url": ""
-  },
-  {
-   "company": "Amplify CWP Enhanced Dividend Income ETF",
-   "ticker": "DIVO",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1882,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.1882",
    "source_url": ""
   },
   {
@@ -21451,21 +21361,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.1",
-   "source_url": ""
-  },
-  {
-   "company": "Amplify CWP Enhanced Dividend Income ETF",
-   "ticker": "DIVO",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1882,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.1882",
    "source_url": ""
   },
   {
@@ -26764,21 +26659,6 @@
    "source_url": ""
   },
   {
-   "company": "Amplify CWP Enhanced Dividend Income ETF",
-   "ticker": "DIVO",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1882,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.1882",
-   "source_url": ""
-  },
-  {
    "company": "Vail Resorts, Inc.",
    "ticker": "MTN",
    "exchange": "NYSE",
@@ -30676,21 +30556,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.1",
-   "source_url": ""
-  },
-  {
-   "company": "Amplify CWP Enhanced Dividend Income ETF",
-   "ticker": "DIVO",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1882,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.1882",
    "source_url": ""
   },
   {
@@ -36049,21 +35914,6 @@
    "source_url": ""
   },
   {
-   "company": "Amplify CWP Enhanced Dividend Income ETF",
-   "ticker": "DIVO",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1882,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.1882",
-   "source_url": ""
-  },
-  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -41314,21 +41164,6 @@
    "source_url": ""
   },
   {
-   "company": "Amplify CWP Enhanced Dividend Income ETF",
-   "ticker": "DIVO",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1882,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.1882",
-   "source_url": ""
-  },
-  {
    "company": "Helios Technologies, Inc.",
    "ticker": "HLIO",
    "exchange": "NYSE",
@@ -45151,21 +44986,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-26 $0.025",
-   "source_url": ""
-  },
-  {
-   "company": "Amplify CWP Enhanced Dividend Income ETF",
-   "ticker": "DIVO",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1882,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.1882",
    "source_url": ""
   },
   {
@@ -50479,21 +50299,6 @@
    "source_url": ""
   },
   {
-   "company": "Amplify CWP Enhanced Dividend Income ETF",
-   "ticker": "DIVO",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.1882,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-24",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.1882",
-   "source_url": ""
-  },
-  {
    "company": "DICK’S SPORTING GOODS, INC.",
    "ticker": "DKS",
    "exchange": "NYSE",
@@ -54514,6 +54319,21 @@
    "source_url": ""
   },
   {
+   "company": "Chiron Real Estate Inc.",
+   "ticker": "XRN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.16,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-18 $0.16",
+   "source_url": ""
+  },
+  {
    "company": "ACRE Commercial Real Estate Corporation",
    "ticker": "ACRE",
    "exchange": "NYSE",
@@ -55456,6 +55276,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.135",
+   "source_url": ""
+  },
+  {
+   "company": "First Industrial Realty Trust, Inc.",
+   "ticker": "FR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-19 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "SARATOGA INVESTMENT CORP.",
+   "ticker": "SAR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-18",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.25",
    "source_url": ""
   }
  ]
