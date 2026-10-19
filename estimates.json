@@ -1,38 +1,8 @@
 {
- "updatedAt": "2026-10-19 21:17",
+ "updatedAt": "2026-10-20 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3691,
+ "count": 3693,
  "items": [
-  {
-   "company": "AMKOR TECHNOLOGY, INC.",
-   "ticker": "AMKR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.08352,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-20",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-21 $0.08352",
-   "source_url": ""
-  },
-  {
-   "company": "CF Bankshares Inc.",
-   "ticker": "CFBK",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 9.0,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-20",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-21 $9.0",
-   "source_url": ""
-  },
   {
    "company": "Brandywine Realty Trust",
    "ticker": "BDN",
@@ -55309,6 +55279,21 @@
    "source_url": ""
   },
   {
+   "company": "AMKOR TECHNOLOGY, INC.",
+   "ticker": "AMKR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.08352,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-21 $0.08352",
+   "source_url": ""
+  },
+  {
    "company": "BAB, Inc.",
    "ticker": "BABB",
    "exchange": "OTC",
@@ -55339,6 +55324,21 @@
    "source_url": ""
   },
   {
+   "company": "CF Bankshares Inc.",
+   "ticker": "CFBK",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 9.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-21 $9.0",
+   "source_url": ""
+  },
+  {
    "company": "Dollar General Corporation",
    "ticker": "DG",
    "exchange": "NYSE",
@@ -55366,6 +55366,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-20 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "Cisco",
+   "ticker": "CSCO",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.42",
+   "source_url": ""
+  },
+  {
+   "company": "Roper Technologies, Inc.",
+   "ticker": "ROP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.91,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-20",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.91",
    "source_url": ""
   }
  ]
