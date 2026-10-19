@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20 03:17",
+ "updatedAt": "2026-10-20 06:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -48043,6 +48043,21 @@
    "collected_at": "2026-08-15 00:19"
   },
   {
+   "company": "Community Heritage Financial, Inc.",
+   "exchange": "OTC",
+   "ticker": "CMHF",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-06",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/community-heritage-financial-inc-announces-third-quarter-2026-dividend-302913015.html",
+   "collected_at": "2026-10-20 06:17"
+  },
+  {
    "company": "Ennis, Inc.",
    "exchange": "NYSE",
    "ticker": "EBF",
@@ -48477,6 +48492,21 @@
    "collected_at": "2026-09-23 09:18"
   },
   {
+   "company": "Western Midstream Partners, LP",
+   "exchange": "NYSE",
+   "ticker": "WES",
+   "security": "common",
+   "amount_per_share": 0.93,
+   "currency": "USD",
+   "record_date": "2026-11-02",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/western-midstream-announces-third-quarter-2026-distribution-and-earnings-conference-call-302912911.html",
+   "collected_at": "2026-10-20 06:17"
+  },
+  {
    "company": "Pacific Gas and Electric Company",
    "exchange": null,
    "ticker": null,
@@ -48567,6 +48597,36 @@
    "collected_at": "2026-09-18 21:19"
   },
   {
+   "company": "Ally Financial",
+   "exchange": "NYSE",
+   "ticker": "ALLY",
+   "security": "preferred",
+   "amount_per_share": 11.75,
+   "currency": "USD",
+   "record_date": "2026-10-31",
+   "payable_date": "2026-11-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ally-financial-declares-dividend-on-common-stock-and-series-c-and-series-d-preferred-stock-302912982.html",
+   "collected_at": "2026-10-20 06:17"
+  },
+  {
+   "company": "Ally Financial",
+   "exchange": "NYSE",
+   "ticker": "ALLY",
+   "security": "preferred",
+   "amount_per_share": 17.75,
+   "currency": "USD",
+   "record_date": "2026-10-31",
+   "payable_date": "2026-11-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ally-financial-declares-dividend-on-common-stock-and-series-c-and-series-d-preferred-stock-302912982.html",
+   "collected_at": "2026-10-20 06:17"
+  },
+  {
    "company": "Citi",
    "exchange": "NYSE",
    "ticker": "C",
@@ -48640,6 +48700,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/abbott-declares-411th-consecutive-quarterly-dividend-302882411.html",
    "collected_at": "2026-09-18 03:18"
+  },
+  {
+   "company": "Ally Financial",
+   "exchange": "NYSE",
+   "ticker": "ALLY",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "2026-11-02",
+   "payable_date": "2026-11-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ally-financial-declares-dividend-on-common-stock-and-series-c-and-series-d-preferred-stock-302912982.html",
+   "collected_at": "2026-10-20 06:17"
   },
   {
    "company": "A. O. Smith Corporation",
@@ -51006,5 +51081,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3421
+ "count": 3426
 }

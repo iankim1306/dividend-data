@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-20 03:17",
+ "updatedAt": "2026-10-20 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3693,
+ "count": 3696,
  "items": [
   {
    "company": "Brandywine Realty Trust",
@@ -14764,6 +14764,21 @@
    "source_url": ""
   },
   {
+   "company": "Ally Financial",
+   "ticker": "ALLY",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 17.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-15 $17.75",
+   "source_url": ""
+  },
+  {
    "company": "Braemar Hotels & Resorts Inc.",
    "ticker": "BHR",
    "exchange": "NYSE",
@@ -29356,6 +29371,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.0833",
+   "source_url": ""
+  },
+  {
+   "company": "Ally Financial",
+   "ticker": "ALLY",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 17.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-15 $17.75",
    "source_url": ""
   },
   {
@@ -43966,6 +43996,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-18 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "Ally Financial",
+   "ticker": "ALLY",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 17.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-15 $17.75",
    "source_url": ""
   },
   {
