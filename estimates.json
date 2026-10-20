@@ -1,53 +1,8 @@
 {
- "updatedAt": "2026-10-20 21:17",
+ "updatedAt": "2026-10-21 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3711,
+ "count": 3714,
  "items": [
-  {
-   "company": "Brandywine Realty Trust",
-   "ticker": "BDN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-21",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-22 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Kforce Inc.",
-   "ticker": "KFRC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.4,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-21",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-04-22 $0.4",
-   "source_url": ""
-  },
-  {
-   "company": "Insperity, Inc.",
-   "ticker": "NSP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.6,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-21",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-22 $0.6",
-   "source_url": ""
-  },
   {
    "company": "BELDEN INC.",
    "ticker": "BDC",
@@ -589,21 +544,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.08854,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
    "company": "Best Buy Co., Inc.",
    "ticker": "BBY",
    "exchange": "NYSE",
@@ -994,21 +934,6 @@
    "source_url": ""
   },
   {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.20833",
-   "source_url": ""
-  },
-  {
    "company": "KADANT INC.",
    "ticker": "KAI",
    "exchange": "NYSE",
@@ -1279,21 +1204,6 @@
    "source_url": ""
   },
   {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.064277,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.064277",
-   "source_url": ""
-  },
-  {
    "company": "Four Corners Property Trust, Inc.",
    "ticker": "FCPT",
    "exchange": "NYSE",
@@ -1306,21 +1216,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
-   "source_url": ""
-  },
-  {
-   "company": "Permian Basin Royalty Trust",
-   "ticker": "PBT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.019593,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.019593",
    "source_url": ""
   },
   {
@@ -3469,21 +3364,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.08854,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
    "company": "AdvanSix Inc.",
    "ticker": "ASIX",
    "exchange": "NYSE",
@@ -4579,6 +4459,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "Hecla Mining Company",
    "ticker": "HL",
    "exchange": "NYSE",
@@ -4744,21 +4639,6 @@
    "source_url": ""
   },
   {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.20833",
-   "source_url": ""
-  },
-  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -4801,21 +4681,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-14 $0.57",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.064277,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.064277",
    "source_url": ""
   },
   {
@@ -4876,21 +4741,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-15 $0.72",
-   "source_url": ""
-  },
-  {
-   "company": "Permian Basin Royalty Trust",
-   "ticker": "PBT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.019593,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.019593",
    "source_url": ""
   },
   {
@@ -5704,6 +5554,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.277908",
+   "source_url": ""
+  },
+  {
    "company": "Equinix, Inc.",
    "ticker": "EQIX",
    "exchange": "Nasdaq",
@@ -5779,6 +5644,21 @@
    "source_url": ""
   },
   {
+   "company": "Permian Basin Royalty Trust",
+   "ticker": "PBT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.045191",
+   "source_url": ""
+  },
+  {
    "company": "e Plus inc.",
    "ticker": "PLUS",
    "exchange": "Nasdaq",
@@ -5806,6 +5686,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-16 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -8914,21 +8809,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.08854,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
    "company": "Automatic Data Processing, Inc.",
    "ticker": "ADP",
    "exchange": "Nasdaq",
@@ -9949,6 +9829,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "Agree Realty Corporation",
    "ticker": "ADC",
    "exchange": "NYSE",
@@ -9976,21 +9871,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-13 $1.79",
-   "source_url": ""
-  },
-  {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.20833",
    "source_url": ""
   },
   {
@@ -10171,21 +10051,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.33",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.064277,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.064277",
    "source_url": ""
   },
   {
@@ -10426,21 +10291,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-14 $0.34",
-   "source_url": ""
-  },
-  {
-   "company": "Permian Basin Royalty Trust",
-   "ticker": "PBT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.019593,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.019593",
    "source_url": ""
   },
   {
@@ -11239,6 +11089,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.277908",
+   "source_url": ""
+  },
+  {
    "company": "The First Bancorp",
    "ticker": "FNLC",
    "exchange": "NASDAQ",
@@ -11401,6 +11266,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.05417",
+   "source_url": ""
+  },
+  {
+   "company": "Permian Basin Royalty Trust",
+   "ticker": "PBT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.045191",
+   "source_url": ""
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -13279,21 +13174,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.08854,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -14029,6 +13909,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "Old Second Bancorp, Inc.",
    "ticker": "OSBC",
    "exchange": "NASDAQ",
@@ -14146,21 +14041,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $0.267",
-   "source_url": ""
-  },
-  {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.20833",
    "source_url": ""
   },
   {
@@ -14404,21 +14284,6 @@
    "source_url": ""
   },
   {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.064277,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.064277",
-   "source_url": ""
-  },
-  {
    "company": "Citizens & Northern Corporation",
    "ticker": "CZNC",
    "exchange": "Nasdaq",
@@ -14611,21 +14476,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $1.05",
-   "source_url": ""
-  },
-  {
-   "company": "Permian Basin Royalty Trust",
-   "ticker": "PBT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.019593,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.019593",
    "source_url": ""
   },
   {
@@ -14854,6 +14704,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.277908",
+   "source_url": ""
+  },
+  {
    "company": "Invesco Mortgage Capital Inc.",
    "ticker": "IVR",
    "exchange": "NYSE",
@@ -14881,6 +14746,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.05417",
+   "source_url": ""
+  },
+  {
+   "company": "Permian Basin Royalty Trust",
+   "ticker": "PBT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.045191",
+   "source_url": ""
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -15046,6 +14941,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.475",
+   "source_url": ""
+  },
+  {
+   "company": "Peoples Bancorp Inc.",
+   "ticker": "PEBO",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.42",
    "source_url": ""
   },
   {
@@ -17209,21 +17119,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.08854,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
    "company": "Albemarle Corporation",
    "ticker": "ALB",
    "exchange": "NYSE",
@@ -18604,6 +18499,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "Landstar System, Inc.",
    "ticker": "LSTR",
    "exchange": "Nasdaq",
@@ -18844,21 +18754,6 @@
    "source_url": ""
   },
   {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.20833",
-   "source_url": ""
-  },
-  {
    "company": "Labcorp Holdings Inc.",
    "ticker": "LH",
    "exchange": "NYSE",
@@ -18934,21 +18829,6 @@
    "source_url": ""
   },
   {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.064277,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.064277",
-   "source_url": ""
-  },
-  {
    "company": "Four Corners Property Trust, Inc.",
    "ticker": "FCPT",
    "exchange": "NYSE",
@@ -18961,21 +18841,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
-   "source_url": ""
-  },
-  {
-   "company": "Permian Basin Royalty Trust",
-   "ticker": "PBT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.019593,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.019593",
    "source_url": ""
   },
   {
@@ -19351,6 +19216,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.3",
+   "source_url": ""
+  },
+  {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -19819,6 +19699,21 @@
    "source_url": ""
   },
   {
+   "company": "Permian Basin Royalty Trust",
+   "ticker": "PBT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.045191",
+   "source_url": ""
+  },
+  {
    "company": "PEOPLES FINANCIAL SERVICES CORP.",
    "ticker": "PFIS",
    "exchange": "Nasdaq",
@@ -19831,6 +19726,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.625",
+   "source_url": ""
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -22594,21 +22504,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.08854,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
    "company": "Allstate Corporation",
    "ticker": "ALL",
    "exchange": "NYSE",
@@ -24394,6 +24289,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "ICF",
    "ticker": "ICFI",
    "exchange": "NASDAQ",
@@ -24514,21 +24424,6 @@
    "source_url": ""
   },
   {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.20833",
-   "source_url": ""
-  },
-  {
    "company": "American Tower Corporation",
    "ticker": "AMT",
    "exchange": "NYSE",
@@ -24589,21 +24484,6 @@
    "source_url": ""
   },
   {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.064277,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.064277",
-   "source_url": ""
-  },
-  {
    "company": "DiamondRock Hospitality Company",
    "ticker": "DRH",
    "exchange": "Nasdaq",
@@ -24646,21 +24526,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $1687.5",
-   "source_url": ""
-  },
-  {
-   "company": "Permian Basin Royalty Trust",
-   "ticker": "PBT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.019593,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.019593",
    "source_url": ""
   },
   {
@@ -25219,6 +25084,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.277908",
+   "source_url": ""
+  },
+  {
    "company": "Encompass Health Corporation",
    "ticker": "EHC",
    "exchange": "NYSE",
@@ -25549,6 +25429,21 @@
    "source_url": ""
   },
   {
+   "company": "Permian Basin Royalty Trust",
+   "ticker": "PBT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.045191",
+   "source_url": ""
+  },
+  {
    "company": "Pebblebrook Hotel Trust",
    "ticker": "PEB",
    "exchange": "NYSE",
@@ -25621,6 +25516,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -27664,21 +27574,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.08854,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
    "company": "Argan, Inc.",
    "ticker": "AGX",
    "exchange": "NYSE",
@@ -28609,6 +28504,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "Sierra Bancorp",
    "ticker": "BSRR",
    "exchange": "Nasdaq",
@@ -28729,21 +28639,6 @@
    "source_url": ""
   },
   {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.20833",
-   "source_url": ""
-  },
-  {
    "company": "METROPOLITAN BANK HOLDING CORP.",
    "ticker": "MCB",
    "exchange": "New York Stock Exchange",
@@ -28849,21 +28744,6 @@
    "source_url": ""
   },
   {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.064277,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.064277",
-   "source_url": ""
-  },
-  {
    "company": "DHC",
    "ticker": "DHC",
    "exchange": "Nasdaq",
@@ -28936,21 +28816,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-12 $0.07",
-   "source_url": ""
-  },
-  {
-   "company": "Permian Basin Royalty Trust",
-   "ticker": "PBT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.019593,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.019593",
    "source_url": ""
   },
   {
@@ -29449,6 +29314,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.277908",
+   "source_url": ""
+  },
+  {
    "company": "Invesco Mortgage Capital Inc.",
    "ticker": "IVR",
    "exchange": "NYSE",
@@ -29476,6 +29356,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.05417",
+   "source_url": ""
+  },
+  {
+   "company": "Permian Basin Royalty Trust",
+   "ticker": "PBT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.045191",
+   "source_url": ""
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -29686,6 +29596,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.475",
+   "source_url": ""
+  },
+  {
+   "company": "Peoples Bancorp Inc.",
+   "ticker": "PEBO",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.42",
    "source_url": ""
   },
   {
@@ -31804,21 +31729,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.08854,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -33019,6 +32929,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "Johnson & Johnson",
    "ticker": "JNJ",
    "exchange": "NYSE",
@@ -33349,21 +33274,6 @@
    "source_url": ""
   },
   {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.20833",
-   "source_url": ""
-  },
-  {
    "company": "Hecla Mining Company",
    "ticker": "HL",
    "exchange": "NYSE",
@@ -33559,21 +33469,6 @@
    "source_url": ""
   },
   {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.064277,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.064277",
-   "source_url": ""
-  },
-  {
    "company": "Four Corners Property Trust, Inc.",
    "ticker": "FCPT",
    "exchange": "NYSE",
@@ -33586,21 +33481,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
-   "source_url": ""
-  },
-  {
-   "company": "Permian Basin Royalty Trust",
-   "ticker": "PBT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.019593,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.019593",
    "source_url": ""
   },
   {
@@ -33724,6 +33604,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.277908",
+   "source_url": ""
+  },
+  {
    "company": "FIRST CITIZENS BANCSHARES INC",
    "ticker": "FCNCA",
    "exchange": "Nasdaq",
@@ -33814,6 +33709,21 @@
    "source_url": ""
   },
   {
+   "company": "Permian Basin Royalty Trust",
+   "ticker": "PBT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.045191",
+   "source_url": ""
+  },
+  {
    "company": "Polaris Inc.",
    "ticker": "PII",
    "exchange": "NYSE",
@@ -33826,6 +33736,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-15 $0.68",
+   "source_url": ""
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -36964,21 +36889,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.08854,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
    "company": "Corebridge Parent",
    "ticker": "CRBG",
    "exchange": "NYSE",
@@ -39034,6 +38944,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "Royal Caribbean Group",
    "ticker": "RCL",
    "exchange": "NYSE",
@@ -39199,21 +39124,6 @@
    "source_url": ""
   },
   {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.20833",
-   "source_url": ""
-  },
-  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -39244,21 +39154,6 @@
    "source_url": ""
   },
   {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.064277,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.064277",
-   "source_url": ""
-  },
-  {
    "company": "Four Corners Property Trust, Inc.",
    "ticker": "FCPT",
    "exchange": "NYSE",
@@ -39271,21 +39166,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
-   "source_url": ""
-  },
-  {
-   "company": "Permian Basin Royalty Trust",
-   "ticker": "PBT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.019593,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.019593",
    "source_url": ""
   },
   {
@@ -39544,6 +39424,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.277908",
+   "source_url": ""
+  },
+  {
    "company": "CARETRUST REIT, INC.",
    "ticker": "CTRE",
    "exchange": "NYSE",
@@ -39796,6 +39691,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-14 $0.34",
+   "source_url": ""
+  },
+  {
+   "company": "Permian Basin Royalty Trust",
+   "ticker": "PBT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.045191",
+   "source_url": ""
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -42244,21 +42169,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.08854,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
    "company": "Bentley Systems, Incorporated",
    "ticker": "BSY",
    "exchange": "Nasdaq",
@@ -43294,6 +43204,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-07",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "Agree Realty Corporation",
    "ticker": "ADC",
    "exchange": "NYSE",
@@ -43351,21 +43276,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-09 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-09",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.20833",
    "source_url": ""
   },
   {
@@ -43489,21 +43399,6 @@
    "source_url": ""
   },
   {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.064277,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.064277",
-   "source_url": ""
-  },
-  {
    "company": "Four Corners Property Trust, Inc.",
    "ticker": "FCPT",
    "exchange": "NYSE",
@@ -43516,21 +43411,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
-   "source_url": ""
-  },
-  {
-   "company": "Permian Basin Royalty Trust",
-   "ticker": "PBT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.019593,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.019593",
    "source_url": ""
   },
   {
@@ -43849,6 +43729,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.277908",
+   "source_url": ""
+  },
+  {
    "company": "Citizens & Northern Corporation",
    "ticker": "CZNC",
    "exchange": "Nasdaq",
@@ -44056,6 +43951,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-14 $1.05",
+   "source_url": ""
+  },
+  {
+   "company": "Permian Basin Royalty Trust",
+   "ticker": "PBT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.045191",
+   "source_url": ""
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -44371,6 +44296,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.475",
+   "source_url": ""
+  },
+  {
+   "company": "Peoples Bancorp Inc.",
+   "ticker": "PEBO",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.42",
    "source_url": ""
   },
   {
@@ -46504,21 +46444,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.08854,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -47749,6 +47674,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-06",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "Johnson & Johnson",
    "ticker": "JNJ",
    "exchange": "NYSE",
@@ -47956,21 +47896,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-09 $0.125",
-   "source_url": ""
-  },
-  {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.20833",
    "source_url": ""
   },
   {
@@ -48199,21 +48124,6 @@
    "source_url": ""
   },
   {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.064277,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.064277",
-   "source_url": ""
-  },
-  {
    "company": "Dow",
    "ticker": "DOW",
    "exchange": "NYSE",
@@ -48271,21 +48181,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-11 $0.72",
-   "source_url": ""
-  },
-  {
-   "company": "Permian Basin Royalty Trust",
-   "ticker": "PBT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.019593,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.019593",
    "source_url": ""
   },
   {
@@ -48424,6 +48319,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.277908",
+   "source_url": ""
+  },
+  {
    "company": "Invesco Mortgage Capital Inc.",
    "ticker": "IVR",
    "exchange": "NYSE",
@@ -48451,6 +48361,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.05417",
+   "source_url": ""
+  },
+  {
+   "company": "Permian Basin Royalty Trust",
+   "ticker": "PBT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.045191",
+   "source_url": ""
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -51559,21 +51499,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.08854,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.08854",
-   "source_url": ""
-  },
-  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -53599,6 +53524,21 @@
    "source_url": ""
   },
   {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-06",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
    "company": "J.Jill, Inc.",
    "ticker": "JILL",
    "exchange": "NYSE",
@@ -53749,21 +53689,6 @@
    "source_url": ""
   },
   {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.20833",
-   "source_url": ""
-  },
-  {
    "company": "ICF",
    "ticker": "ICFI",
    "exchange": "NASDAQ",
@@ -53884,21 +53809,6 @@
    "source_url": ""
   },
   {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.064277,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.064277",
-   "source_url": ""
-  },
-  {
    "company": "Four Corners Property Trust, Inc.",
    "ticker": "FCPT",
    "exchange": "NYSE",
@@ -53911,21 +53821,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.1222",
-   "source_url": ""
-  },
-  {
-   "company": "Permian Basin Royalty Trust",
-   "ticker": "PBT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.019593,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.019593",
    "source_url": ""
   },
   {
@@ -54064,6 +53959,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.277908",
+   "source_url": ""
+  },
+  {
    "company": "DiamondRock Hospitality Company",
    "ticker": "DRH",
    "exchange": "Nasdaq",
@@ -54121,6 +54031,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.05417",
+   "source_url": ""
+  },
+  {
+   "company": "Permian Basin Royalty Trust",
+   "ticker": "PBT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.045191",
+   "source_url": ""
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -55639,6 +55579,21 @@
    "source_url": ""
   },
   {
+   "company": "Brandywine Realty Trust",
+   "ticker": "BDN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-22 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "Cisco",
    "ticker": "CSCO",
    "exchange": "NASDAQ",
@@ -55654,6 +55609,36 @@
    "source_url": ""
   },
   {
+   "company": "Kforce Inc.",
+   "ticker": "KFRC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-04-22 $0.4",
+   "source_url": ""
+  },
+  {
+   "company": "Insperity, Inc.",
+   "ticker": "NSP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-22 $0.6",
+   "source_url": ""
+  },
+  {
    "company": "Roper Technologies, Inc.",
    "ticker": "ROP",
    "exchange": "Nasdaq",
@@ -55666,6 +55651,66 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.91",
+   "source_url": ""
+  },
+  {
+   "company": "The Andersons, Inc.",
+   "ticker": "ANDE",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-22 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "Simpson Manufacturing Co., Inc.",
+   "ticker": "SSD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-22 $0.3",
+   "source_url": ""
+  },
+  {
+   "company": "Village Super Market, Inc.",
+   "ticker": "VLGEA",
+   "exchange": "NSD",
+   "security": "common",
+   "amount_per_share": 0.1625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-22 $0.1625",
+   "source_url": ""
+  },
+  {
+   "company": "Versant Media Group, Inc.",
+   "ticker": "VSNT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-22 $0.375",
    "source_url": ""
   }
  ]

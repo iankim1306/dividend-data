@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20 21:17",
+ "updatedAt": "2026-10-21 00:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -47698,6 +47698,21 @@
    "collected_at": "2026-09-19 06:18"
   },
   {
+   "company": "BCE Inc.",
+   "exchange": "TSX",
+   "ticker": "BCE",
+   "security": "preferred",
+   "amount_per_share": 5.523,
+   "currency": "CAD",
+   "record_date": null,
+   "payable_date": "2026-11-02",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bce-reports-results-of-series-s-and-t-preferred-share-conversions-302913268.html",
+   "collected_at": "2026-10-21 00:17"
+  },
+  {
    "company": "The Campbell's Company",
    "exchange": "Nasdaq",
    "ticker": "CPB",
@@ -48220,6 +48235,36 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/agnc-investment-corp-declares-monthly-common-stock-dividend-of-0-12-per-common-share-for-october-2026--302901289.html",
    "collected_at": "2026-10-08 06:18"
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "exchange": "NYSE American",
+   "ticker": "GPUS",
+   "security": "preferred",
+   "amount_per_share": 0.2708333,
+   "currency": "USD",
+   "record_date": "2026-10-31",
+   "payable_date": "2026-11-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/hyperscale-data-declares-monthly-cash-dividend-of-0-2708333-per-share-of-13-00-series-d-cumulative-redeemable-perpetual-preferred-stock-302913622.html",
+   "collected_at": "2026-10-21 00:17"
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "exchange": "NYSE American",
+   "ticker": "GPUS",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "2026-10-31",
+   "payable_date": "2026-11-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/hyperscale-data-declares-monthly-cash-dividend-of-0-2708333-per-share-of-13-00-series-d-cumulative-redeemable-perpetual-preferred-stock-302913622.html",
+   "collected_at": "2026-10-21 00:17"
   },
   {
    "company": "METROPOLITAN BANK HOLDING CORP.",
@@ -48927,6 +48972,21 @@
    "collected_at": "2026-10-16 06:17"
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "exchange": "NYSE",
+   "ticker": "CRT",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-16",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cross-timbers-royalty-trust-declares-october-cash-distribution-302913643.html",
+   "collected_at": "2026-10-21 00:17"
+  },
+  {
    "company": "First Merchants Corporation",
    "exchange": "NASDAQ",
    "ticker": "FRMEP",
@@ -49015,6 +49075,36 @@
    "collected_at": "2026-10-16 06:17"
   },
   {
+   "company": "Permian Basin Royalty Trust",
+   "exchange": "NYSE",
+   "ticker": "PBT",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-16",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/permian-basin-royalty-trust-announces-october-cash-distribution-and-excess-cost-position-on-waddell-ranch-properties-302913181.html",
+   "collected_at": "2026-10-21 00:17"
+  },
+  {
+   "company": "Peoples Bancorp Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "PEBO",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "2026-11-02",
+   "payable_date": "2026-11-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/peoples-bancorp-inc-declares-quarterly-dividend-302913067.html",
+   "collected_at": "2026-10-21 00:17"
+  },
+  {
    "company": "The Procter & Gamble Company",
    "exchange": "NYSE",
    "ticker": "PG",
@@ -49043,6 +49133,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000214/pgdividendreleasenov2026.htm",
    "collected_at": "2026-10-14 09:17"
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "exchange": "NYSE",
+   "ticker": "PRT",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/permrock-royalty-trust-declares-monthly-cash-distribution-302912214.html",
+   "collected_at": "2026-10-21 00:17"
   },
   {
    "company": "Bank of America Corporation",
@@ -49103,6 +49208,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1101302/000110130226000154/newsreleaseannouncingq4202.htm",
    "collected_at": "2026-10-15 09:17"
+  },
+  {
+   "company": "West Pharmaceutical Services, Inc.",
+   "exchange": "NYSE",
+   "ticker": "WST",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "2026-11-11",
+   "payable_date": "2026-11-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/west-declares-quarterly-dividend-302913197.html",
+   "collected_at": "2026-10-21 00:17"
   },
   {
    "company": "Caterpillar Inc.",
@@ -50004,6 +50124,21 @@
    "collected_at": "2026-08-06 23:59"
   },
   {
+   "company": "American Electric Power",
+   "exchange": "Nasdaq",
+   "ticker": "AEP",
+   "security": "common",
+   "amount_per_share": 0.97,
+   "currency": "USD",
+   "record_date": "2026-11-10",
+   "payable_date": "2026-12-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aep-increases-quarterly-dividend-to-97-cents-a-share-302914234.html",
+   "collected_at": "2026-10-21 00:17"
+  },
+  {
    "company": "EQR",
    "exchange": "NYSE",
    "ticker": "EQR",
@@ -50495,6 +50630,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/duke-energy-announces-dividend-payments-to-shareholders-302896361.html",
    "collected_at": "2026-10-02 03:18"
+  },
+  {
+   "company": "Mercantile Bank Corporation",
+   "exchange": "NASDAQ",
+   "ticker": "MBWM",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-12-04",
+   "payable_date": "2026-12-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/mercantile-bank-corporation-declares-regular-cash-dividend-302912984.html",
+   "collected_at": "2026-10-21 00:17"
   },
   {
    "company": "Bank of America Corporation",
@@ -51201,5 +51351,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3434
+ "count": 3444
 }
