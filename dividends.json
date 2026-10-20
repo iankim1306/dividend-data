@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20 06:17",
+ "updatedAt": "2026-10-20 09:29",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -45467,6 +45467,21 @@
    "collected_at": "2026-09-14 21:18"
   },
   {
+   "company": "CoastalSouth Bancshares, Inc.",
+   "exchange": "NYSE",
+   "ticker": "COSO",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-10-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1297107/000119312526425283/coso-ex99_2.htm",
+   "collected_at": "2026-10-20 09:25"
+  },
+  {
    "company": "First Industrial Realty Trust, Inc.",
    "exchange": "NYSE",
    "ticker": "FR",
@@ -48102,6 +48117,21 @@
    "collected_at": "2026-09-29 09:19"
   },
   {
+   "company": "West Coast Community Bancorp",
+   "exchange": "NASDAQ",
+   "ticker": "WCCB",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "2026-11-02",
+   "payable_date": "2026-11-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2105965/000210596526000037/wccb-20261019.htm",
+   "collected_at": "2026-10-20 09:17"
+  },
+  {
    "company": "The Bank of New York Mellon Corporation",
    "exchange": "NYSE",
    "ticker": "BNY",
@@ -48130,6 +48160,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/deere--company-announces-quarterly-dividend-302860791.html",
    "collected_at": "2026-08-27 03:18"
+  },
+  {
+   "company": "FIVE STAR BANCORP",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "ticker": "FSBC",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-11-02",
+   "payable_date": "2026-11-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1275168/000162828026066254/fsbc-20261016.htm",
+   "collected_at": "2026-10-20 09:17"
   },
   {
    "company": "MSC Income Fund, Inc.",
@@ -48175,6 +48220,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/agnc-investment-corp-declares-monthly-common-stock-dividend-of-0-12-per-common-share-for-october-2026--302901289.html",
    "collected_at": "2026-10-08 06:18"
+  },
+  {
+   "company": "METROPOLITAN BANK HOLDING CORP.",
+   "exchange": "New York Stock Exchange",
+   "ticker": "MCB",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1476034/000110465926116897/mcb-20261019x8k.htm",
+   "collected_at": "2026-10-20 09:17"
   },
   {
    "company": "Nucor Corporation",
@@ -48282,6 +48342,21 @@
    "collected_at": "2026-10-16 09:17"
   },
   {
+   "company": "RBB Bancorp",
+   "exchange": "NASDAQ",
+   "ticker": "RBB",
+   "security": "common",
+   "amount_per_share": 0.16,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1499422/000162828026066329/rbb-20261019xex991.htm",
+   "collected_at": "2026-10-20 09:17"
+  },
+  {
    "company": "Accenture plc",
    "exchange": "NYSE",
    "ticker": "ACN",
@@ -48385,6 +48460,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/general-dynamics-board-declares-dividend-302844066.html",
    "collected_at": "2026-08-06 23:59"
+  },
+  {
+   "company": "Home Bancorp, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "HBCP",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "2026-11-02",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1436425/000162828026066322/hbcp-20261019.htm",
+   "collected_at": "2026-10-20 09:17"
   },
   {
    "company": "Kaiser Aluminum Corporation",
@@ -49210,6 +49300,21 @@
    "collected_at": "2026-10-10 09:17"
   },
   {
+   "company": "Fastenal Company",
+   "exchange": "Nasdaq",
+   "ticker": "FAST",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "2026-10-28",
+   "payable_date": "2026-11-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/815556/000081555626000049/fast-20260930.htm",
+   "collected_at": "2026-10-20 09:21"
+  },
+  {
    "company": "Howmet Aerospace Inc.",
    "exchange": "NYSE",
    "ticker": "HWM",
@@ -49867,6 +49972,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1679273/000167927326000052/lw-20260830.htm",
    "collected_at": "2026-10-07 09:29"
+  },
+  {
+   "company": "USCB Financial Holdings, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "USCB",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-12-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000176/ex_1025799.htm",
+   "collected_at": "2026-10-20 09:17"
   },
   {
    "company": "MSC Income Fund, Inc.",
@@ -51081,5 +51201,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3426
+ "count": 3434
 }
