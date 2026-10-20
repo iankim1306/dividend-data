@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21 03:17",
+ "updatedAt": "2026-10-21 06:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -48297,6 +48297,21 @@
    "collected_at": "2026-09-19 00:18"
   },
   {
+   "company": "Ohio Valley Banc Corp.",
+   "exchange": "Nasdaq",
+   "ticker": "OVBC",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-10",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ovbc-announces-cash-dividend-302914623.html",
+   "collected_at": "2026-10-21 06:17"
+  },
+  {
    "company": "THOR Industries, Inc.",
    "exchange": "NYSE",
    "ticker": "THO",
@@ -49584,6 +49599,21 @@
    "collected_at": "2026-08-13 11:18"
   },
   {
+   "company": "Dana Incorporated",
+   "exchange": "NYSE",
+   "ticker": "DAN",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-11-06",
+   "payable_date": "2026-11-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/dana-to-pay-dividend-on-common-stock-302914534.html",
+   "collected_at": "2026-10-21 06:17"
+  },
+  {
    "company": "Stellus Private Credit BDC",
    "exchange": null,
    "ticker": null,
@@ -50034,6 +50064,21 @@
    "collected_at": "2026-09-24 21:18"
   },
   {
+   "company": "Matson, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MATX",
+   "security": "common",
+   "amount_per_share": 0.38,
+   "currency": "USD",
+   "record_date": "2026-11-05",
+   "payable_date": "2026-12-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/matson-announces-quarterly-dividend-of-0-38-per-share-302913571.html",
+   "collected_at": "2026-10-21 06:17"
+  },
+  {
    "company": "Bluerock Homes Trust, Inc.",
    "exchange": "NYSE American",
    "ticker": "BHM",
@@ -50197,6 +50242,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/pnc-declares-dividend-of-2-00-on-common-stock-302897280.html",
    "collected_at": "2026-10-03 03:18"
+  },
+  {
+   "company": "Rollins, Inc.",
+   "exchange": "NYSE",
+   "ticker": "ROL",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "2026-11-10",
+   "payable_date": "2026-12-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/rollins-inc-increases-regular-quarterly-cash-dividend-302914529.html",
+   "collected_at": "2026-10-21 06:17"
   },
   {
    "company": "WhiteHorse Finance, Inc.",
@@ -50480,6 +50540,66 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/mcdonalds-marks-50-consecutive-years-of-dividend-increases-joining-the-ranks-of-dividend-kings-302882422.html",
    "collected_at": "2026-09-18 06:18"
+  },
+  {
+   "company": "M&T Bank Corporation",
+   "exchange": "NYSE",
+   "ticker": "MTB",
+   "security": "preferred",
+   "amount_per_share": 0.3515625,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/m-amp-t-bank-corporation-announces-quarterly-preferred-stock-dividends-896095590.html",
+   "collected_at": "2026-10-21 06:17"
+  },
+  {
+   "company": "M&T Bank Corporation",
+   "exchange": "NYSE",
+   "ticker": "MTB",
+   "security": "preferred",
+   "amount_per_share": 187.5,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/m-amp-t-bank-corporation-announces-quarterly-preferred-stock-dividends-896095590.html",
+   "collected_at": "2026-10-21 06:17"
+  },
+  {
+   "company": "M&T Bank Corporation",
+   "exchange": "NYSE",
+   "ticker": "MTB",
+   "security": "preferred",
+   "amount_per_share": 158.75,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/m-amp-t-bank-corporation-announces-quarterly-preferred-stock-dividends-896095590.html",
+   "collected_at": "2026-10-21 06:17"
+  },
+  {
+   "company": "M&T Bank Corporation",
+   "exchange": "NYSE",
+   "ticker": "MTB",
+   "security": "preferred",
+   "amount_per_share": 165.63,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/m-amp-t-bank-corporation-announces-quarterly-preferred-stock-dividends-896095590.html",
+   "collected_at": "2026-10-21 06:17"
   },
   {
    "company": "The PNC Financial Services Group, Inc.",
@@ -51366,5 +51486,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3445
+ "count": 3453
 }

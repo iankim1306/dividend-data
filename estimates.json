@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-21 03:17",
+ "updatedAt": "2026-10-21 06:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3714,
+ "count": 3719,
  "items": [
   {
    "company": "BELDEN INC.",
@@ -3871,21 +3871,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-03 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "Matson, Inc.",
-   "ticker": "MATX",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.38,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-03",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.38",
    "source_url": ""
   },
   {
@@ -14029,6 +14014,21 @@
    "source_url": ""
   },
   {
+   "company": "Ohio Valley Banc Corp.",
+   "ticker": "OVBC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Agree Realty Corporation",
    "ticker": "ADC",
    "exchange": "NYSE",
@@ -18015,7 +18015,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.38",
+   "basis": "last confirmed 2026-12-03 $0.38",
    "source_url": ""
   },
   {
@@ -19621,6 +19621,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "M&T Bank Corporation",
+   "ticker": "MTB",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 165.63,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $165.63",
    "source_url": ""
   },
   {
@@ -28684,6 +28699,21 @@
    "source_url": ""
   },
   {
+   "company": "Ohio Valley Banc Corp.",
+   "ticker": "OVBC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -32670,7 +32700,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.38",
+   "basis": "last confirmed 2026-12-03 $0.38",
    "source_url": ""
   },
   {
@@ -34336,6 +34366,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "M&T Bank Corporation",
+   "ticker": "MTB",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 165.63,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $165.63",
    "source_url": ""
   },
   {
@@ -43399,6 +43444,21 @@
    "source_url": ""
   },
   {
+   "company": "Ohio Valley Banc Corp.",
+   "ticker": "OVBC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Four Corners Property Trust, Inc.",
    "ticker": "FCPT",
    "exchange": "NYSE",
@@ -47430,7 +47490,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.38",
+   "basis": "last confirmed 2026-12-03 $0.38",
    "source_url": ""
   },
   {
@@ -49081,6 +49141,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "M&T Bank Corporation",
+   "ticker": "MTB",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 165.63,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $165.63",
    "source_url": ""
   },
   {
