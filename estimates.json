@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-21 06:18",
+ "updatedAt": "2026-10-21 09:30",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3719,
+ "count": 3735,
  "items": [
   {
    "company": "BELDEN INC.",
@@ -889,21 +889,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.267,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
-   "source_url": ""
-  },
-  {
    "company": "DHC",
    "ticker": "DHC",
    "exchange": "Nasdaq",
@@ -1261,21 +1246,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.0655",
-   "source_url": ""
-  },
-  {
-   "company": "AmeriServ Financial, Inc.",
-   "ticker": "ASRV",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.03,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.03",
    "source_url": ""
   },
   {
@@ -3619,6 +3589,21 @@
    "source_url": ""
   },
   {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.08854,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
    "company": "AMERICAN STATES WATER COMPANY",
    "ticker": "AWR",
    "exchange": "NYSE",
@@ -4613,14 +4598,14 @@
    "ticker": "ADC",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.267,
+   "amount_per_share": 0.271,
    "currency": "USD",
    "record_date": "",
-   "payable_date": "2026-12-12",
+   "payable_date": "2026-12-13",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
+   "basis": "last confirmed 2026-11-13 $0.271",
    "source_url": ""
   },
   {
@@ -5314,21 +5299,6 @@
    "source_url": ""
   },
   {
-   "company": "NICOLET BANKSHARES, INC.",
-   "ticker": "NIC",
-   "exchange": "New York Stock Exchange",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.36",
-   "source_url": ""
-  },
-  {
    "company": "Old National Bancorp",
    "ticker": "ONB",
    "exchange": "NASDAQ",
@@ -5760,7 +5730,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-18 $1.16",
+   "basis": "last confirmed 2026-09-17 $1.16",
    "source_url": ""
   },
   {
@@ -9244,6 +9214,21 @@
    "source_url": ""
   },
   {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.08854,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
    "company": "AMERICAN FINANCIAL GROUP, INC.",
    "ticker": "AFG",
    "exchange": "NYSE",
@@ -9829,21 +9814,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.267,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
-   "source_url": ""
-  },
-  {
    "company": "American Tower Corporation",
    "ticker": "AMT",
    "exchange": "NYSE",
@@ -9856,6 +9826,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-13 $1.79",
+   "source_url": ""
+  },
+  {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.271",
    "source_url": ""
   },
   {
@@ -9916,6 +9901,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $1687.5",
+   "source_url": ""
+  },
+  {
+   "company": "Iridium Communications Inc.",
+   "ticker": "IRDM",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-13 $0.15",
    "source_url": ""
   },
   {
@@ -11116,6 +11116,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "GENUINE PARTS COMPANY",
+   "ticker": "GPC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $1.0625",
    "source_url": ""
   },
   {
@@ -13249,6 +13264,21 @@
    "source_url": ""
   },
   {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.08854,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
    "company": "Best Buy Co., Inc.",
    "ticker": "BBY",
    "exchange": "NYSE",
@@ -14029,21 +14059,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.267,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
-   "source_url": ""
-  },
-  {
    "company": "Riley Exploration Permian, Inc.",
    "ticker": "REPX",
    "exchange": "NYSE American",
@@ -14071,6 +14086,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.27",
+   "source_url": ""
+  },
+  {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.271",
    "source_url": ""
   },
   {
@@ -14826,7 +14856,7 @@
   {
    "company": "AmeriServ Financial, Inc.",
    "ticker": "ASRV",
-   "exchange": "NASDAQ",
+   "exchange": "Nasdaq",
    "security": "common",
    "amount_per_share": 0.03,
    "currency": "USD",
@@ -14835,7 +14865,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.03",
+   "basis": "last confirmed 2026-11-16 $0.03",
    "source_url": ""
   },
   {
@@ -17344,6 +17374,21 @@
    "source_url": ""
   },
   {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.08854,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
    "company": "AdvanSix Inc.",
    "ticker": "ASIX",
    "exchange": "NYSE",
@@ -18709,21 +18754,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.267,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
-   "source_url": ""
-  },
-  {
    "company": "Dow",
    "ticker": "DOW",
    "exchange": "NYSE",
@@ -18811,6 +18841,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-11 $0.46",
+   "source_url": ""
+  },
+  {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.271",
    "source_url": ""
   },
   {
@@ -19695,7 +19740,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.36",
+   "basis": "last confirmed 2026-12-15 $0.36",
    "source_url": ""
   },
   {
@@ -20175,7 +20220,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-18 $1.16",
+   "basis": "last confirmed 2026-09-17 $1.16",
    "source_url": ""
   },
   {
@@ -23344,6 +23389,21 @@
    "source_url": ""
   },
   {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.08854,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
    "company": "Automatic Data Processing, Inc.",
    "ticker": "ADP",
    "exchange": "Nasdaq",
@@ -24428,14 +24488,14 @@
    "ticker": "ADC",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.267,
+   "amount_per_share": 0.271,
    "currency": "USD",
    "record_date": "",
-   "payable_date": "2027-04-11",
+   "payable_date": "2027-04-12",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
+   "basis": "last confirmed 2026-11-13 $0.271",
    "source_url": ""
   },
   {
@@ -24541,6 +24601,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $1687.5",
+   "source_url": ""
+  },
+  {
+   "company": "Iridium Communications Inc.",
+   "ticker": "IRDM",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-13 $0.15",
    "source_url": ""
   },
   {
@@ -25801,6 +25876,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "GENUINE PARTS COMPANY",
+   "ticker": "GPC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $1.0625",
    "source_url": ""
   },
   {
@@ -27889,6 +27979,21 @@
    "source_url": ""
   },
   {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.08854,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
    "company": "Federated Hermes Premier Municipal Income Fund",
    "ticker": "FMN",
    "exchange": "NYSE",
@@ -28639,21 +28744,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.267,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
-   "source_url": ""
-  },
-  {
    "company": "METROPOLITAN BANK HOLDING CORP.",
    "ticker": "MCB",
    "exchange": "New York Stock Exchange",
@@ -28711,6 +28801,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-10 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.271",
    "source_url": ""
   },
   {
@@ -29511,7 +29616,7 @@
   {
    "company": "AmeriServ Financial, Inc.",
    "ticker": "ASRV",
-   "exchange": "NASDAQ",
+   "exchange": "Nasdaq",
    "security": "common",
    "amount_per_share": 0.03,
    "currency": "USD",
@@ -29520,7 +29625,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.03",
+   "basis": "last confirmed 2026-11-16 $0.03",
    "source_url": ""
   },
   {
@@ -31849,6 +31954,21 @@
    "source_url": ""
   },
   {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.08854,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
    "company": "Albemarle Corporation",
    "ticker": "ALB",
    "exchange": "NYSE",
@@ -33229,21 +33349,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.267,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
-   "source_url": ""
-  },
-  {
    "company": "Muncy Columbia Financial Corporation",
    "ticker": "CCFN",
    "exchange": "OTCQX",
@@ -33391,6 +33496,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-10 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.271",
    "source_url": ""
   },
   {
@@ -34425,7 +34545,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.36",
+   "basis": "last confirmed 2026-12-15 $0.36",
    "source_url": ""
   },
   {
@@ -34860,7 +34980,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-18 $1.16",
+   "basis": "last confirmed 2026-09-17 $1.16",
    "source_url": ""
   },
   {
@@ -37309,6 +37429,21 @@
    "source_url": ""
   },
   {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.08854,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
    "company": "Allstate Corporation",
    "ticker": "ALL",
    "exchange": "NYSE",
@@ -39158,14 +39293,14 @@
    "ticker": "ADC",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.267,
+   "amount_per_share": 0.271,
    "currency": "USD",
    "record_date": "",
-   "payable_date": "2027-07-10",
+   "payable_date": "2027-07-11",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
+   "basis": "last confirmed 2026-11-13 $0.271",
    "source_url": ""
   },
   {
@@ -39331,6 +39466,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.03",
+   "source_url": ""
+  },
+  {
+   "company": "Iridium Communications Inc.",
+   "ticker": "IRDM",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-13 $0.15",
    "source_url": ""
   },
   {
@@ -40561,6 +40711,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "GENUINE PARTS COMPANY",
+   "ticker": "GPC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $1.0625",
    "source_url": ""
   },
   {
@@ -42379,6 +42544,21 @@
    "source_url": ""
   },
   {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.08854,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
    "company": "Argan, Inc.",
    "ticker": "AGX",
    "exchange": "NYSE",
@@ -43264,21 +43444,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.267,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-09",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
-   "source_url": ""
-  },
-  {
    "company": "Sierra Bancorp",
    "ticker": "BSRR",
    "exchange": "Nasdaq",
@@ -43381,6 +43546,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-10 $0.34",
+   "source_url": ""
+  },
+  {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.271",
    "source_url": ""
   },
   {
@@ -44241,7 +44421,7 @@
   {
    "company": "AmeriServ Financial, Inc.",
    "ticker": "ASRV",
-   "exchange": "NASDAQ",
+   "exchange": "Nasdaq",
    "security": "common",
    "amount_per_share": 0.03,
    "currency": "USD",
@@ -44250,7 +44430,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.03",
+   "basis": "last confirmed 2026-11-16 $0.03",
    "source_url": ""
   },
   {
@@ -46594,6 +46774,21 @@
    "source_url": ""
   },
   {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.08854,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
    "company": "Federated Hermes Premier Municipal Income Fund",
    "ticker": "FMN",
    "exchange": "NYSE",
@@ -47869,21 +48064,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.267,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
-   "source_url": ""
-  },
-  {
    "company": "Aramark",
    "ticker": "ARMK",
    "exchange": "NYSE",
@@ -48016,6 +48196,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-10 $0.8",
+   "source_url": ""
+  },
+  {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.271",
    "source_url": ""
   },
   {
@@ -49200,7 +49395,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.36",
+   "basis": "last confirmed 2026-12-15 $0.36",
    "source_url": ""
   },
   {
@@ -49740,7 +49935,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-06-18 $1.16",
+   "basis": "last confirmed 2026-09-17 $1.16",
    "source_url": ""
   },
   {
@@ -51769,6 +51964,21 @@
    "source_url": ""
   },
   {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.08854,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
    "company": "Corebridge Parent",
    "ticker": "CRBG",
    "exchange": "NYSE",
@@ -53719,21 +53929,6 @@
    "source_url": ""
   },
   {
-   "company": "Agree Realty Corporation",
-   "ticker": "ADC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.267,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.267",
-   "source_url": ""
-  },
-  {
    "company": "Dine Brands Global, Inc.",
    "ticker": "DIN",
    "exchange": "NYSE",
@@ -53866,6 +54061,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-09 $0.57",
+   "source_url": ""
+  },
+  {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.271,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-13 $0.271",
    "source_url": ""
   },
   {
@@ -54076,6 +54286,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $1687.5",
+   "source_url": ""
+  },
+  {
+   "company": "Iridium Communications Inc.",
+   "ticker": "IRDM",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-13 $0.15",
    "source_url": ""
   },
   {
@@ -55261,6 +55486,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "GENUINE PARTS COMPANY",
+   "ticker": "GPC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $1.0625",
    "source_url": ""
   },
   {
