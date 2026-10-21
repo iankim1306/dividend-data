@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-22 03:17",
+ "updatedAt": "2026-10-22 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3737,
+ "count": 3736,
  "items": [
   {
    "company": "AMERICAN EAGLE OUTFITTERS, INC.",
@@ -1936,21 +1936,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-26 $0.21",
-   "source_url": ""
-  },
-  {
-   "company": "Sirius XM Holdings Inc.",
-   "ticker": "SIRI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.27,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-26 $0.27",
    "source_url": ""
   },
   {
@@ -4414,21 +4399,6 @@
    "source_url": ""
   },
   {
-   "company": "IBM",
-   "ticker": "IBM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.69,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-10",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-10 $1.69",
-   "source_url": ""
-  },
-  {
    "company": "Marathon Petroleum Corporation",
    "ticker": "MPC",
    "exchange": "NYSE",
@@ -6451,21 +6421,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.27",
-   "source_url": ""
-  },
-  {
-   "company": "Bank of America",
-   "ticker": "BAC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.32,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.32",
    "source_url": ""
   },
   {
@@ -15664,6 +15619,21 @@
    "source_url": ""
   },
   {
+   "company": "SiriusXM",
+   "ticker": "SIRI",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.27",
+   "source_url": ""
+  },
+  {
    "company": "Arrow Financial Corporation",
    "ticker": "AROW",
    "exchange": "NasdaqGS",
@@ -15811,21 +15781,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-25 $0.054",
-   "source_url": ""
-  },
-  {
-   "company": "Sirius XM Holdings Inc.",
-   "ticker": "SIRI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.27,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-26 $0.27",
    "source_url": ""
   },
   {
@@ -18621,16 +18576,16 @@
   {
    "company": "IBM",
    "ticker": "IBM",
-   "exchange": "NYSE",
+   "exchange": "",
    "security": "common",
    "amount_per_share": 1.69,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-11",
    "frequency": "quarterly",
-   "us_listed": true,
+   "us_listed": false,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-10 $1.69",
+   "basis": "last confirmed 2026-12-10 $1.69",
    "source_url": ""
   },
   {
@@ -20839,6 +20794,21 @@
    "source_url": ""
   },
   {
+   "company": "Bank of America",
+   "ticker": "BAC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-24 $0.32",
+   "source_url": ""
+  },
+  {
    "company": "FS KKR Capital Corp.",
    "ticker": "FSK",
    "exchange": "NYSE",
@@ -20986,21 +20956,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.27",
-   "source_url": ""
-  },
-  {
-   "company": "Bank of America",
-   "ticker": "BAC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.32,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.32",
    "source_url": ""
   },
   {
@@ -26569,6 +26524,21 @@
    "source_url": ""
   },
   {
+   "company": "Bank of America",
+   "ticker": "BAC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-25 $1.75",
+   "source_url": ""
+  },
+  {
    "company": "Helios Technologies, Inc.",
    "ticker": "HLIO",
    "exchange": "NYSE",
@@ -30409,6 +30379,21 @@
    "source_url": ""
   },
   {
+   "company": "SiriusXM",
+   "ticker": "SIRI",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.27",
+   "source_url": ""
+  },
+  {
    "company": "Arrow Financial Corporation",
    "ticker": "AROW",
    "exchange": "NasdaqGS",
@@ -30556,21 +30541,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-25 $0.054",
-   "source_url": ""
-  },
-  {
-   "company": "Sirius XM Holdings Inc.",
-   "ticker": "SIRI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.27,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-26 $0.27",
    "source_url": ""
   },
   {
@@ -33351,16 +33321,16 @@
   {
    "company": "IBM",
    "ticker": "IBM",
-   "exchange": "NYSE",
+   "exchange": "",
    "security": "common",
    "amount_per_share": 1.69,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-10",
    "frequency": "quarterly",
-   "us_listed": true,
+   "us_listed": false,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-10 $1.69",
+   "basis": "last confirmed 2026-12-10 $1.69",
    "source_url": ""
   },
   {
@@ -35599,6 +35569,21 @@
    "source_url": ""
   },
   {
+   "company": "Bank of America",
+   "ticker": "BAC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-24 $0.32",
+   "source_url": ""
+  },
+  {
    "company": "FS KKR Capital Corp.",
    "ticker": "FSK",
    "exchange": "NYSE",
@@ -35746,21 +35731,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.27",
-   "source_url": ""
-  },
-  {
-   "company": "Bank of America",
-   "ticker": "BAC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.32,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.32",
    "source_url": ""
   },
   {
@@ -41359,6 +41329,21 @@
    "source_url": ""
   },
   {
+   "company": "Bank of America",
+   "ticker": "BAC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-25 $1.75",
+   "source_url": ""
+  },
+  {
    "company": "CION Investment Corporation",
    "ticker": "CION",
    "exchange": "NYSE",
@@ -45214,6 +45199,21 @@
    "source_url": ""
   },
   {
+   "company": "SiriusXM",
+   "ticker": "SIRI",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.27",
+   "source_url": ""
+  },
+  {
    "company": "Arrow Financial Corporation",
    "ticker": "AROW",
    "exchange": "NasdaqGS",
@@ -45391,21 +45391,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-29 $0.35545",
-   "source_url": ""
-  },
-  {
-   "company": "Sirius XM Holdings Inc.",
-   "ticker": "SIRI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.27,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-26 $0.27",
    "source_url": ""
   },
   {
@@ -48216,16 +48201,16 @@
   {
    "company": "IBM",
    "ticker": "IBM",
-   "exchange": "NYSE",
+   "exchange": "",
    "security": "common",
    "amount_per_share": 1.69,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-09",
    "frequency": "quarterly",
-   "us_listed": true,
+   "us_listed": false,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-10 $1.69",
+   "basis": "last confirmed 2026-12-10 $1.69",
    "source_url": ""
   },
   {
@@ -50434,6 +50419,21 @@
    "source_url": ""
   },
   {
+   "company": "Bank of America",
+   "ticker": "BAC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-24 $0.32",
+   "source_url": ""
+  },
+  {
    "company": "FS KKR Capital Corp.",
    "ticker": "FSK",
    "exchange": "NYSE",
@@ -50581,21 +50581,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.27",
-   "source_url": ""
-  },
-  {
-   "company": "Bank of America",
-   "ticker": "BAC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.32,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.32",
    "source_url": ""
   },
   {
