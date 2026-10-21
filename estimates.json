@@ -1,23 +1,8 @@
 {
- "updatedAt": "2026-10-21 21:17",
+ "updatedAt": "2026-10-22 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3734,
+ "count": 3737,
  "items": [
-  {
-   "company": "BELDEN INC.",
-   "ticker": "BDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.05,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-04-23 $0.05",
-   "source_url": ""
-  },
   {
    "company": "AMERICAN EAGLE OUTFITTERS, INC.",
    "ticker": "AEO",
@@ -121,21 +106,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-26 $0.36",
-   "source_url": ""
-  },
-  {
-   "company": "QUALCOMM INC",
-   "ticker": "QCOM",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.92,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-27 $0.92",
    "source_url": ""
   },
   {
@@ -1351,21 +1321,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.09",
-   "source_url": ""
-  },
-  {
-   "company": "First Community Corporation",
-   "ticker": "FCCO",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-18 $0.17",
    "source_url": ""
   },
   {
@@ -11914,21 +11869,6 @@
    "source_url": ""
   },
   {
-   "company": "QUALCOMM INC",
-   "ticker": "QCOM",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.92,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-27 $0.92",
-   "source_url": ""
-  },
-  {
    "company": "TriNet",
    "ticker": "TNET",
    "exchange": "NYSE",
@@ -15045,7 +14985,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-18 $0.17",
+   "basis": "last confirmed 2026-11-17 $0.17",
    "source_url": ""
   },
   {
@@ -20251,6 +20191,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-17 $0.28",
+   "source_url": ""
+  },
+  {
+   "company": "Qualcomm Incorporated",
+   "ticker": "QCOM",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.92,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.92",
    "source_url": ""
   },
   {
@@ -26644,21 +26599,6 @@
    "source_url": ""
   },
   {
-   "company": "QUALCOMM INC",
-   "ticker": "QCOM",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.92,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-27 $0.92",
-   "source_url": ""
-  },
-  {
    "company": "TriNet",
    "ticker": "TNET",
    "exchange": "NYSE",
@@ -29790,7 +29730,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-18 $0.17",
+   "basis": "last confirmed 2026-11-17 $0.17",
    "source_url": ""
   },
   {
@@ -35011,6 +34951,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-17 $0.28",
+   "source_url": ""
+  },
+  {
+   "company": "Qualcomm Incorporated",
+   "ticker": "QCOM",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.92,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.92",
    "source_url": ""
   },
   {
@@ -41449,21 +41404,6 @@
    "source_url": ""
   },
   {
-   "company": "QUALCOMM INC",
-   "ticker": "QCOM",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.92,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-27 $0.92",
-   "source_url": ""
-  },
-  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -44715,7 +44655,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-18 $0.17",
+   "basis": "last confirmed 2026-11-17 $0.17",
    "source_url": ""
   },
   {
@@ -49966,6 +49906,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-17 $0.28",
+   "source_url": ""
+  },
+  {
+   "company": "Qualcomm Incorporated",
+   "ticker": "QCOM",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.92,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.92",
    "source_url": ""
   },
   {
@@ -55969,6 +55924,21 @@
    "source_url": ""
   },
   {
+   "company": "BELDEN INC.",
+   "ticker": "BDC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-04-23 $0.05",
+   "source_url": ""
+  },
+  {
    "company": "Simpson Manufacturing Co., Inc.",
    "ticker": "SSD",
    "exchange": "NYSE",
@@ -56011,6 +55981,81 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-22 $0.375",
+   "source_url": ""
+  },
+  {
+   "company": "Advance Auto Parts, Inc.",
+   "ticker": "AAP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "Blackstone Secured Lending Fund",
+   "ticker": "BXSL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.77,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.77",
+   "source_url": ""
+  },
+  {
+   "company": "Dime Commercial Bancshares, Inc.",
+   "ticker": "DCOM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "First Bancorp",
+   "ticker": "FBNC",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-22",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.24",
+   "source_url": ""
+  },
+  {
+   "company": "Medalist Diversified, Inc.",
+   "ticker": "MDRR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.0675,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.0675",
    "source_url": ""
   }
  ]
