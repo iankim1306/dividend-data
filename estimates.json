@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-21 18:17",
+ "updatedAt": "2026-10-21 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3735,
+ "count": 3734,
  "items": [
   {
    "company": "BELDEN INC.",
@@ -4531,21 +4531,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-11 $0.2",
-   "source_url": ""
-  },
-  {
-   "company": "Labcorp Holdings Inc.",
-   "ticker": "LH",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.72,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-11",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-11 $0.72",
    "source_url": ""
   },
   {
@@ -18795,7 +18780,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-11 $0.72",
+   "basis": "last confirmed 2026-12-11 $0.72",
    "source_url": ""
   },
   {
@@ -33555,7 +33540,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-11 $0.72",
+   "basis": "last confirmed 2026-12-11 $0.72",
    "source_url": ""
   },
   {
@@ -48435,7 +48420,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-11 $0.72",
+   "basis": "last confirmed 2026-12-11 $0.72",
    "source_url": ""
   },
   {

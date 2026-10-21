@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21 18:17",
+ "updatedAt": "2026-10-21 21:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -50439,6 +50439,21 @@
    "collected_at": "2026-10-07 09:29"
   },
   {
+   "company": "Quad/Graphics, Inc.",
+   "exchange": "NYSE",
+   "ticker": "QUAD",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-11-17",
+   "payable_date": "2026-12-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/quad-declares-quarterly-dividend-of-0-10-per-share-302914598.html",
+   "collected_at": "2026-10-21 21:17"
+  },
+  {
    "company": "USCB Financial Holdings, Inc.",
    "exchange": "NASDAQ",
    "ticker": "USCB",
@@ -50602,6 +50617,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/dow-declares-quarterly-dividend-of-35-cents-per-share-302910535.html",
    "collected_at": "2026-10-16 06:17"
+  },
+  {
+   "company": "Labcorp Holdings Inc.",
+   "exchange": "NYSE",
+   "ticker": "LH",
+   "security": "common",
+   "amount_per_share": 0.72,
+   "currency": "USD",
+   "record_date": "2026-11-24",
+   "payable_date": "2026-12-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/labcorp-declares-quarterly-dividend-302914707.html",
+   "collected_at": "2026-10-21 21:17"
   },
   {
    "company": "TE Connectivity plc",
@@ -51606,6 +51636,21 @@
    "collected_at": "2026-10-17 09:19"
   },
   {
+   "company": "Prosperity Bancshares, Inc.",
+   "exchange": "NYSE",
+   "ticker": "PB",
+   "security": "common",
+   "amount_per_share": 0.64,
+   "currency": "USD",
+   "record_date": "2026-12-15",
+   "payable_date": "2027-01-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/prosperity-bancshares-inc-increases-common-stock-dividend-302914888.html",
+   "collected_at": "2026-10-21 21:17"
+  },
+  {
    "company": "Walmart Inc.",
    "exchange": "Nasdaq",
    "ticker": "WMT",
@@ -51831,5 +51876,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3476
+ "count": 3479
 }
