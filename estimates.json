@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-23 03:17",
+ "updatedAt": "2026-10-23 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3729,
+ "count": 3742,
  "items": [
   {
    "company": "Healthpeak Properties, Inc.",
@@ -1186,21 +1186,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-19 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "The J. M. Smucker Company",
-   "ticker": "SJM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-18",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-19 $1.12",
    "source_url": ""
   },
   {
@@ -5854,6 +5839,21 @@
    "source_url": ""
   },
   {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-24",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.1534",
+   "source_url": ""
+  },
+  {
    "company": "Mercury General Corporation",
    "ticker": "MCY",
    "exchange": "NYSE",
@@ -6646,21 +6646,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.28",
-   "source_url": ""
-  },
-  {
-   "company": "F.N.B. Corporation",
-   "ticker": "FNB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "semiannual",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.25",
    "source_url": ""
   },
   {
@@ -8359,21 +8344,6 @@
    "source_url": ""
   },
   {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBAN",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.155,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.155",
-   "source_url": ""
-  },
-  {
    "company": "Hecla Mining Company",
    "ticker": "HL",
    "exchange": "NYSE",
@@ -10009,36 +9979,6 @@
    "source_url": ""
   },
   {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBANL",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 17.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $17.19",
-   "source_url": ""
-  },
-  {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBANP",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 11.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $11.25",
-   "source_url": ""
-  },
-  {
    "company": "Horizon Technology Finance Corporation",
    "ticker": "HRZN",
    "exchange": "NASDAQ",
@@ -11266,6 +11206,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.10167",
+   "source_url": ""
+  },
+  {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -14569,21 +14524,6 @@
    "source_url": ""
   },
   {
-   "company": "The J. M. Smucker Company",
-   "ticker": "SJM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-19 $1.12",
-   "source_url": ""
-  },
-  {
    "company": "Thornburg Income Builder Opportunities Trust",
    "ticker": "TBLD",
    "exchange": "NASDAQ",
@@ -14671,6 +14611,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.195",
+   "source_url": ""
+  },
+  {
+   "company": "CROWN HOLDINGS, INC.",
+   "ticker": "CCK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-19 $0.35",
    "source_url": ""
   },
   {
@@ -14929,21 +14884,6 @@
    "source_url": ""
   },
   {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBANZ",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 343.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-20 $343.75",
-   "source_url": ""
-  },
-  {
    "company": "Oil-Dri Corporation of America",
    "ticker": "ODC",
    "exchange": "NYSE",
@@ -15181,6 +15121,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-24 $0.05",
+   "source_url": ""
+  },
+  {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-22",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -18664,6 +18619,21 @@
    "source_url": ""
   },
   {
+   "company": "Cboe Global Markets, Inc.",
+   "ticker": "CBOE",
+   "exchange": "Cboe",
+   "security": "common",
+   "amount_per_share": 0.86,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.86",
+   "source_url": ""
+  },
+  {
    "company": "CNB Financial Corporation",
    "ticker": "CCNE",
    "exchange": "Nasdaq",
@@ -18916,6 +18886,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.26",
+   "source_url": ""
+  },
+  {
+   "company": "F.N.B. Corporation",
+   "ticker": "FNB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.13",
    "source_url": ""
   },
   {
@@ -19939,6 +19924,21 @@
    "source_url": ""
   },
   {
+   "company": "The Mosaic Company",
+   "ticker": "MOS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.22",
+   "source_url": ""
+  },
+  {
    "company": "Open Text Corporation",
    "ticker": "OTEX",
    "exchange": "Nasdaq",
@@ -20341,6 +20341,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-23 $0.125",
+   "source_url": ""
+  },
+  {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-24",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -23134,21 +23149,6 @@
    "source_url": ""
   },
   {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBAN",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.155,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.155",
-   "source_url": ""
-  },
-  {
    "company": "Hecla Mining Company",
    "ticker": "HL",
    "exchange": "NYSE",
@@ -23596,6 +23596,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.15625",
+   "source_url": ""
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "ticker": "HBAN",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.155,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.155",
    "source_url": ""
   },
   {
@@ -24814,36 +24829,6 @@
    "source_url": ""
   },
   {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBANL",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 17.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $17.19",
-   "source_url": ""
-  },
-  {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBANP",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 11.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $11.25",
-   "source_url": ""
-  },
-  {
    "company": "First Internet Bancorp",
    "ticker": "INBK",
    "exchange": "Nasdaq",
@@ -25396,6 +25381,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.425",
+   "source_url": ""
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "ticker": "HBANL",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 17.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $17.19",
+   "source_url": ""
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "ticker": "HBANP",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 11.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $11.25",
    "source_url": ""
   },
   {
@@ -26056,6 +26071,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $1.46",
+   "source_url": ""
+  },
+  {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -29554,21 +29584,6 @@
    "source_url": ""
   },
   {
-   "company": "The J. M. Smucker Company",
-   "ticker": "SJM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-19 $1.12",
-   "source_url": ""
-  },
-  {
    "company": "West Bancorporation, Inc.",
    "ticker": "WTBA",
    "exchange": "Nasdaq",
@@ -29626,6 +29641,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-19 $1.63",
+   "source_url": ""
+  },
+  {
+   "company": "CROWN HOLDINGS, INC.",
+   "ticker": "CCK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-19 $0.35",
    "source_url": ""
   },
   {
@@ -29805,7 +29835,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-20 $343.75",
+   "basis": "last confirmed 2027-02-19 $343.75",
    "source_url": ""
   },
   {
@@ -29971,6 +30001,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.10167",
+   "source_url": ""
+  },
+  {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -33634,6 +33679,21 @@
    "source_url": ""
   },
   {
+   "company": "Cboe Global Markets, Inc.",
+   "ticker": "CBOE",
+   "exchange": "Cboe",
+   "security": "common",
+   "amount_per_share": 0.86,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.86",
+   "source_url": ""
+  },
+  {
    "company": "CNB Financial Corporation",
    "ticker": "CCNE",
    "exchange": "Nasdaq",
@@ -33871,6 +33931,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.26",
+   "source_url": ""
+  },
+  {
+   "company": "F.N.B. Corporation",
+   "ticker": "FNB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.13",
    "source_url": ""
   },
   {
@@ -34939,6 +35014,21 @@
    "source_url": ""
   },
   {
+   "company": "The Mosaic Company",
+   "ticker": "MOS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.22",
+   "source_url": ""
+  },
+  {
    "company": "Open Text Corporation",
    "ticker": "OTEX",
    "exchange": "Nasdaq",
@@ -35101,6 +35191,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-22 $0.0625",
+   "source_url": ""
+  },
+  {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-22",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -36724,21 +36829,6 @@
    "source_url": ""
   },
   {
-   "company": "F.N.B. Corporation",
-   "ticker": "FNB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-29",
-   "frequency": "semiannual",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-30 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -38059,21 +38149,6 @@
    "source_url": ""
   },
   {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBAN",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.155,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.155",
-   "source_url": ""
-  },
-  {
    "company": "Hecla Mining Company",
    "ticker": "HL",
    "exchange": "NYSE",
@@ -38521,6 +38596,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.15625",
+   "source_url": ""
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "ticker": "HBAN",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.155,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.155",
    "source_url": ""
   },
   {
@@ -39829,36 +39919,6 @@
    "source_url": ""
   },
   {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBANL",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 17.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $17.19",
-   "source_url": ""
-  },
-  {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBANP",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 11.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $11.25",
-   "source_url": ""
-  },
-  {
    "company": "First Internet Bancorp",
    "ticker": "INBK",
    "exchange": "Nasdaq",
@@ -40354,6 +40414,36 @@
    "source_url": ""
   },
   {
+   "company": "Huntington Bancshares Incorporated",
+   "ticker": "HBANL",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 17.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $17.19",
+   "source_url": ""
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "ticker": "HBANP",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 11.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $11.25",
+   "source_url": ""
+  },
+  {
    "company": "Intuit Inc.",
    "ticker": "INTU",
    "exchange": "Nasdaq",
@@ -40846,6 +40936,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.10167",
+   "source_url": ""
+  },
+  {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-22",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -44479,21 +44584,6 @@
    "source_url": ""
   },
   {
-   "company": "The J. M. Smucker Company",
-   "ticker": "SJM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-18",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-19 $1.12",
-   "source_url": ""
-  },
-  {
    "company": "West Bancorporation, Inc.",
    "ticker": "WTBA",
    "exchange": "Nasdaq",
@@ -44551,6 +44641,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-19 $1.63",
+   "source_url": ""
+  },
+  {
+   "company": "CROWN HOLDINGS, INC.",
+   "ticker": "CCK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-19 $0.35",
    "source_url": ""
   },
   {
@@ -44760,7 +44865,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-20 $343.75",
+   "basis": "last confirmed 2027-02-19 $343.75",
    "source_url": ""
   },
   {
@@ -44896,6 +45001,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.10167",
+   "source_url": ""
+  },
+  {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-21",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -48604,6 +48724,21 @@
    "source_url": ""
   },
   {
+   "company": "Cboe Global Markets, Inc.",
+   "ticker": "CBOE",
+   "exchange": "Cboe",
+   "security": "common",
+   "amount_per_share": 0.86,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.86",
+   "source_url": ""
+  },
+  {
    "company": "CNB Financial Corporation",
    "ticker": "CCNE",
    "exchange": "Nasdaq",
@@ -48841,6 +48976,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.26",
+   "source_url": ""
+  },
+  {
+   "company": "F.N.B. Corporation",
+   "ticker": "FNB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.13",
    "source_url": ""
   },
   {
@@ -49894,6 +50044,21 @@
    "source_url": ""
   },
   {
+   "company": "The Mosaic Company",
+   "ticker": "MOS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.22",
+   "source_url": ""
+  },
+  {
    "company": "Open Text Corporation",
    "ticker": "OTEX",
    "exchange": "Nasdaq",
@@ -50011,6 +50176,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.10167",
+   "source_url": ""
+  },
+  {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-20",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -52984,21 +53164,6 @@
    "source_url": ""
   },
   {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBAN",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.155,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.155",
-   "source_url": ""
-  },
-  {
    "company": "Hecla Mining Company",
    "ticker": "HL",
    "exchange": "NYSE",
@@ -53416,6 +53581,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-04 $0.77",
+   "source_url": ""
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "ticker": "HBAN",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.155,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.155",
    "source_url": ""
   },
   {
@@ -54724,36 +54904,6 @@
    "source_url": ""
   },
   {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBANL",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 17.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $17.19",
-   "source_url": ""
-  },
-  {
-   "company": "Huntington Bancshares Incorporated",
-   "ticker": "HBANP",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 11.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $11.25",
-   "source_url": ""
-  },
-  {
    "company": "First Internet Bancorp",
    "ticker": "INBK",
    "exchange": "Nasdaq",
@@ -55249,6 +55399,36 @@
    "source_url": ""
   },
   {
+   "company": "Huntington Bancshares Incorporated",
+   "ticker": "HBANL",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 17.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $17.19",
+   "source_url": ""
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "ticker": "HBANP",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 11.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $11.25",
+   "source_url": ""
+  },
+  {
    "company": "Intuit Inc.",
    "ticker": "INTU",
    "exchange": "Nasdaq",
@@ -55681,6 +55861,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-22 $0.4",
+   "source_url": ""
+  },
+  {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-20",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {

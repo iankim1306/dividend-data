@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23 03:17",
+ "updatedAt": "2026-10-23 06:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -48927,6 +48927,21 @@
    "collected_at": "2026-10-16 09:17"
   },
   {
+   "company": "Potomac Bancshares, Inc.",
+   "exchange": "OTC",
+   "ticker": "PTBS",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-11-05",
+   "payable_date": "2026-11-12",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/potomac-bancshares-declares-quarterly-cash-dividend-302917369.html",
+   "collected_at": "2026-10-23 06:17"
+  },
+  {
    "company": "RBB Bancorp",
    "exchange": "NASDAQ",
    "ticker": "RBB",
@@ -49990,6 +50005,21 @@
    "collected_at": "2026-10-15 00:17"
   },
   {
+   "company": "CROWN HOLDINGS, INC.",
+   "exchange": "NYSE",
+   "ticker": "CCK",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "2026-11-05",
+   "payable_date": "2026-11-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/crown-holdings-inc-declares-quarterly-dividend-302917280.html",
+   "collected_at": "2026-10-23 06:17"
+  },
+  {
    "company": "Southern Copper Corporation",
    "exchange": "NYSE",
    "ticker": "SCCO",
@@ -50183,6 +50213,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/siriusxm-declares-quarterly-cash-dividend-302915963.html",
    "collected_at": "2026-10-22 06:17"
+  },
+  {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "LGI",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "2026-11-10",
+   "payable_date": "2026-11-24",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/lazard-global-total-return-and-income-fund-declares-monthly-distribution-and-issues-estimated-sources-of-the-distribution-announced-in-september-302917400.html",
+   "collected_at": "2026-10-23 06:17"
   },
   {
    "company": "SARATOGA INVESTMENT CORP.",
@@ -50453,6 +50498,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-kondigt-registratiedatum-en-betaaldatum-aan-voor-contante-dividenden-op-9-50-eeuwigdurende-preferente-aandelen-van-serie-a-302851840.html",
    "collected_at": "2026-08-15 00:19"
+  },
+  {
+   "company": "Carnival Corporation",
+   "exchange": "NYSE",
+   "ticker": "CCL",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-11-06",
+   "payable_date": "2026-11-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/carnival-corporation-declares-dividend-302917310.html",
+   "collected_at": "2026-10-23 06:17"
   },
   {
    "company": "CION Investment Corporation",
@@ -50919,6 +50979,21 @@
    "collected_at": "2026-10-15 21:17"
   },
   {
+   "company": "The J.M. Smucker Co.",
+   "exchange": "NYSE",
+   "ticker": "SJM",
+   "security": "common",
+   "amount_per_share": 1.12,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-12-01",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/the-jm-smucker-co-declares-dividend-302917423.html",
+   "collected_at": "2026-10-23 06:17"
+  },
+  {
    "company": "Southwest Gas Holdings, Inc.",
    "exchange": "NYSE",
    "ticker": "SWX",
@@ -51232,6 +51307,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/southern-company-announces-quarterly-dividend-302914314.html",
    "collected_at": "2026-10-21 03:17"
+  },
+  {
+   "company": "Vylor",
+   "exchange": "NYSE",
+   "ticker": "VYLR",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/vylor-declares-quarterly-dividend-302917422.html",
+   "collected_at": "2026-10-23 06:17"
   },
   {
    "company": "Johnson & Johnson",
@@ -51564,6 +51654,21 @@
    "collected_at": "2026-10-17 06:17"
   },
   {
+   "company": "Cboe Global Markets, Inc.",
+   "exchange": "Cboe",
+   "ticker": "CBOE",
+   "security": "common",
+   "amount_per_share": 0.86,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cboe-global-markets-announces-increase-in-share-repurchase-authorization-declares-fourth-quarter-2026-dividend-302917368.html",
+   "collected_at": "2026-10-23 06:17"
+  },
+  {
    "company": "DuPont",
    "exchange": "NYSE",
    "ticker": "DD",
@@ -51622,6 +51727,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1521951/000119312526328468/fbiz-20260630.htm",
    "collected_at": "2026-08-14 09:36"
+  },
+  {
+   "company": "F.N.B. Corporation",
+   "exchange": "NYSE",
+   "ticker": "FNB",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/fnb-corporation-declares-cash-dividend-of-0-13-on-common-stock-302917380.html",
+   "collected_at": "2026-10-23 06:17"
   },
   {
    "company": "FS KKR Capital Corp.",
@@ -51770,6 +51890,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/m-amp-t-bank-corporation-announces-quarterly-preferred-stock-dividends-896095590.html",
    "collected_at": "2026-10-21 06:17"
+  },
+  {
+   "company": "NextEra Energy, Inc.",
+   "exchange": "NYSE",
+   "ticker": "NEE",
+   "security": "common",
+   "amount_per_share": 0.6232,
+   "currency": "USD",
+   "record_date": "2026-11-27",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/nextera-energy-board-declares-quarterly-dividend-302917359.html",
+   "collected_at": "2026-10-23 06:17"
   },
   {
    "company": "NICOLET BANKSHARES, INC.",
@@ -52070,6 +52205,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603926000071/elv-20260930.htm",
    "collected_at": "2026-10-22 09:27"
+  },
+  {
+   "company": "The Mosaic Company",
+   "exchange": "NYSE",
+   "ticker": "MOS",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "2026-12-04",
+   "payable_date": "2026-12-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/mosaic-announces-quarterly-dividend-of-0-22-per-share-302917381.html",
+   "collected_at": "2026-10-23 06:17"
   },
   {
    "company": "Terex Corporation",
@@ -52596,6 +52746,21 @@
    "collected_at": "2026-10-22 09:21"
   },
   {
+   "company": "Huntington Bancshares Incorporated",
+   "exchange": "Nasdaq",
+   "ticker": "HBAN",
+   "security": "common",
+   "amount_per_share": 0.155,
+   "currency": "USD",
+   "record_date": "2026-12-18",
+   "payable_date": "2027-01-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/huntington-bancshares-incorporated-declares-quarterly-cash-dividends-on-its-common-and-preferred-stocks-302917407.html",
+   "collected_at": "2026-10-23 06:17"
+  },
+  {
    "company": "Prosperity Bancshares, Inc.",
    "exchange": "NYSE",
    "ticker": "PB",
@@ -52699,6 +52864,66 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/regal-rexnord-corporation-declares-quarterly-dividend-of-35-per-share-302915976.html",
    "collected_at": "2026-10-22 06:17"
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 17.51025352,
+   "currency": "USD",
+   "record_date": "2027-01-01",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/huntington-bancshares-incorporated-declares-quarterly-cash-dividends-on-its-common-and-preferred-stocks-302917407.html",
+   "collected_at": "2026-10-23 06:17"
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 1406.25,
+   "currency": "USD",
+   "record_date": "2027-01-01",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/huntington-bancshares-incorporated-declares-quarterly-cash-dividends-on-its-common-and-preferred-stocks-302917407.html",
+   "collected_at": "2026-10-23 06:17"
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 1112.5,
+   "currency": "USD",
+   "record_date": "2027-01-01",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/huntington-bancshares-incorporated-declares-quarterly-cash-dividends-on-its-common-and-preferred-stocks-302917407.html",
+   "collected_at": "2026-10-23 06:17"
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 1562.5,
+   "currency": "USD",
+   "record_date": "2027-01-01",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/huntington-bancshares-incorporated-declares-quarterly-cash-dividends-on-its-common-and-preferred-stocks-302917407.html",
+   "collected_at": "2026-10-23 06:17"
   },
   {
    "company": "Braemar Hotels & Resorts Inc.",
@@ -52806,6 +53031,36 @@
    "collected_at": "2026-10-23 00:17"
   },
   {
+   "company": "Huntington Bancshares Incorporated",
+   "exchange": "Nasdaq",
+   "ticker": "HBANL",
+   "security": "preferred",
+   "amount_per_share": 17.19,
+   "currency": "USD",
+   "record_date": "2027-01-01",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/huntington-bancshares-incorporated-declares-quarterly-cash-dividends-on-its-common-and-preferred-stocks-302917407.html",
+   "collected_at": "2026-10-23 06:17"
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "exchange": "Nasdaq",
+   "ticker": "HBANP",
+   "security": "preferred",
+   "amount_per_share": 11.25,
+   "currency": "USD",
+   "record_date": "2027-01-01",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/huntington-bancshares-incorporated-declares-quarterly-cash-dividends-on-its-common-and-preferred-stocks-302917407.html",
+   "collected_at": "2026-10-23 06:17"
+  },
+  {
    "company": "Stellus Capital Investment Corporation",
    "exchange": "NYSE",
    "ticker": "SCM",
@@ -52881,6 +53136,21 @@
    "collected_at": "2026-10-23 03:17"
   },
   {
+   "company": "Huntington Bancshares Incorporated",
+   "exchange": "Nasdaq",
+   "ticker": "HBANZ",
+   "security": "preferred",
+   "amount_per_share": 343.75,
+   "currency": "USD",
+   "record_date": "2027-02-04",
+   "payable_date": "2027-02-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/huntington-bancshares-incorporated-declares-quarterly-cash-dividends-on-its-common-and-preferred-stocks-302917407.html",
+   "collected_at": "2026-10-23 06:17"
+  },
+  {
    "company": "Millicom International Cellular S.A.",
    "exchange": "NASDAQ",
    "ticker": "TIGO",
@@ -52896,5 +53166,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3547
+ "count": 3565
 }
