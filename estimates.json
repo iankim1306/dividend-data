@@ -1,83 +1,8 @@
 {
- "updatedAt": "2026-10-22 21:17",
+ "updatedAt": "2026-10-23 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3751,
+ "count": 3730,
  "items": [
-  {
-   "company": "AMERICAN EAGLE OUTFITTERS, INC.",
-   "ticker": "AEO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.125",
-   "source_url": ""
-  },
-  {
-   "company": "IDEX CORPORATION",
-   "ticker": "IEX",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.46,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $1.46",
-   "source_url": ""
-  },
-  {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0475,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-23",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
-   "source_url": ""
-  },
-  {
-   "company": "Annaly Capital Management, Inc.",
-   "ticker": "NLY",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.81688,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.81688",
-   "source_url": ""
-  },
-  {
-   "company": "TOMPKINS FINANCIAL CORPORATION",
-   "ticker": "TMP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.67,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-24 $0.67",
-   "source_url": ""
-  },
   {
    "company": "Healthpeak Properties, Inc.",
    "ticker": "DOC",
@@ -586,36 +511,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.7075",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-03",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-03",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
@@ -3541,36 +3436,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-03 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-03",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-03",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
@@ -8944,36 +8809,6 @@
    "source_url": ""
   },
   {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-02",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-02",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
-   "source_url": ""
-  },
-  {
    "company": "LEAR CORP",
    "ticker": "LEAR",
    "exchange": "NYSE",
@@ -10051,21 +9886,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.56",
-   "source_url": ""
-  },
-  {
-   "company": "Encompass Health Corporation",
-   "ticker": "EHC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.21,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.21",
    "source_url": ""
   },
   {
@@ -13084,36 +12904,6 @@
    "source_url": ""
   },
   {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
-   "source_url": ""
-  },
-  {
    "company": "NORWOOD FINANCIAL CORP",
    "ticker": "NWFL",
    "exchange": "The Nasdaq Stock Market LLC",
@@ -15241,6 +15031,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-20 $0.35",
+   "source_url": ""
+  },
+  {
+   "company": "Standex International Corporation",
+   "ticker": "SXI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-20 $0.36",
    "source_url": ""
   },
   {
@@ -17536,36 +17341,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-02 $0.215",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-03",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-03",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
@@ -23704,36 +23479,6 @@
    "source_url": ""
   },
   {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-02",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-02",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
-   "source_url": ""
-  },
-  {
    "company": "NAPCO SECURITY TECHNOLOGIES, INC",
    "ticker": "NSSC",
    "exchange": "Nasdaq",
@@ -24949,21 +24694,6 @@
    "source_url": ""
   },
   {
-   "company": "Encompass Health Corporation",
-   "ticker": "EHC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.21,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.21",
-   "source_url": ""
-  },
-  {
    "company": "Energy Services of America Corporation",
    "ticker": "ESOA",
    "exchange": "The Nasdaq Stock Market LLC",
@@ -25606,6 +25336,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-17 $1.06",
+   "source_url": ""
+  },
+  {
+   "company": "Encompass Health Corp.",
+   "ticker": "EHC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.21,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.21",
    "source_url": ""
   },
   {
@@ -27871,36 +27616,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-01 $0.26",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-02",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-02",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
@@ -30214,6 +29929,21 @@
    "source_url": ""
   },
   {
+   "company": "Standex International Corporation",
+   "ticker": "SXI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-20 $0.36",
+   "source_url": ""
+  },
+  {
    "company": "WILLIS LEASE FINANCE CORPORATION",
    "ticker": "WLFC",
    "exchange": "Nasdaq",
@@ -32176,36 +31906,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-02 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
@@ -38419,36 +38119,6 @@
    "source_url": ""
   },
   {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
-   "source_url": ""
-  },
-  {
    "company": "The Coca-Cola Company",
    "ticker": "KO",
    "exchange": "NYSE",
@@ -40039,21 +39709,6 @@
    "source_url": ""
   },
   {
-   "company": "Encompass Health Corporation",
-   "ticker": "EHC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.21,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.21",
-   "source_url": ""
-  },
-  {
    "company": "Energy Services of America Corporation",
    "ticker": "ESOA",
    "exchange": "The Nasdaq Stock Market LLC",
@@ -40636,6 +40291,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-17 $1.06",
+   "source_url": ""
+  },
+  {
+   "company": "Encompass Health Corp.",
+   "ticker": "EHC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.21,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.21",
    "source_url": ""
   },
   {
@@ -42796,36 +42466,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-01 $0.31",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
@@ -45214,6 +44854,21 @@
    "source_url": ""
   },
   {
+   "company": "Standex International Corporation",
+   "ticker": "SXI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-20 $0.36",
+   "source_url": ""
+  },
+  {
    "company": "WILLIS LEASE FINANCE CORPORATION",
    "ticker": "WLFC",
    "exchange": "Nasdaq",
@@ -46906,36 +46561,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-01 $18.125",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
    "source_url": ""
   },
   {
@@ -52774,36 +52399,6 @@
    "source_url": ""
   },
   {
-   "company": "JPMorgan Equity Premium Income ETF",
-   "ticker": "JEPI",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.36664,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.36664",
-   "source_url": ""
-  },
-  {
-   "company": "JPMorgan Nasdaq Equity Premium Income ETF",
-   "ticker": "JEPQ",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.70497,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.70497",
-   "source_url": ""
-  },
-  {
    "company": "Lamar Advertising Company",
    "ticker": "LAMR",
    "exchange": "Nasdaq",
@@ -55009,21 +54604,6 @@
    "source_url": ""
   },
   {
-   "company": "Encompass Health Corporation",
-   "ticker": "EHC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.21,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.21",
-   "source_url": ""
-  },
-  {
    "company": "Energy Services of America Corporation",
    "ticker": "ESOA",
    "exchange": "The Nasdaq Stock Market LLC",
@@ -55609,6 +55189,21 @@
    "source_url": ""
   },
   {
+   "company": "Encompass Health Corp.",
+   "ticker": "EHC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.21,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.21",
+   "source_url": ""
+  },
+  {
    "company": "The First Bancorp",
    "ticker": "FNLC",
    "exchange": "NASDAQ",
@@ -55924,6 +55519,21 @@
    "source_url": ""
   },
   {
+   "company": "Janus Living, Inc.",
+   "ticker": "JAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-18",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-23 $0.0475",
+   "source_url": ""
+  },
+  {
    "company": "SARATOGA INVESTMENT CORP.",
    "ticker": "SAR",
    "exchange": "NYSE",
@@ -56209,6 +55819,21 @@
    "source_url": ""
   },
   {
+   "company": "AMERICAN EAGLE OUTFITTERS, INC.",
+   "ticker": "AEO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-24 $0.125",
+   "source_url": ""
+  },
+  {
    "company": "Blackstone Secured Lending Fund",
    "ticker": "BXSL",
    "exchange": "NYSE",
@@ -56254,6 +55879,21 @@
    "source_url": ""
   },
   {
+   "company": "IDEX CORPORATION",
+   "ticker": "IEX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.46,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-24 $1.46",
+   "source_url": ""
+  },
+  {
    "company": "Medalist Diversified, Inc.",
    "ticker": "MDRR",
    "exchange": "Nasdaq",
@@ -56266,6 +55906,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.0675",
+   "source_url": ""
+  },
+  {
+   "company": "Annaly Capital Management, Inc.",
+   "ticker": "NLY",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.81688,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-24 $0.81688",
+   "source_url": ""
+  },
+  {
+   "company": "TOMPKINS FINANCIAL CORPORATION",
+   "ticker": "TMP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.67,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-24 $0.67",
+   "source_url": ""
+  },
+  {
+   "company": "ARMOUR Residential REIT, Inc.",
+   "ticker": "ARR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-27 $0.24",
    "source_url": ""
   }
  ]
