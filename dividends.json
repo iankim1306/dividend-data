@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22 18:17",
+ "updatedAt": "2026-10-22 21:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -48822,6 +48822,21 @@
    "collected_at": "2026-10-21 06:17"
   },
   {
+   "company": "Suburban Propane Partners, L.P.",
+   "exchange": "NYSE",
+   "ticker": "SPH",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "2026-11-03",
+   "payable_date": "2026-11-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/suburban-propane-partners-lp-declares-increase-in-annualized-distribution-rate-to-1-40-per-common-unit-302916031.html",
+   "collected_at": "2026-10-22 21:17"
+  },
+  {
    "company": "THOR Industries, Inc.",
    "exchange": "NYSE",
    "ticker": "THO",
@@ -51249,6 +51264,21 @@
    "collected_at": "2026-10-21 00:17"
   },
   {
+   "company": "Ardagh Metal Packaging S.A.",
+   "exchange": "NYSE",
+   "ticker": "AMBP",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-11-26",
+   "payable_date": "2026-12-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ardagh-metal-packaging-sa-declares-quarterly-dividend-302915438.html",
+   "collected_at": "2026-10-22 21:17"
+  },
+  {
    "company": "EQR",
    "exchange": "NYSE",
    "ticker": "EQR",
@@ -52806,5 +52836,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3541
+ "count": 3543
 }
