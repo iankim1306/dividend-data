@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-23 00:17",
+ "updatedAt": "2026-10-23 03:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3730,
+ "count": 3729,
  "items": [
   {
    "company": "Healthpeak Properties, Inc.",
@@ -4261,21 +4261,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.05018",
-   "source_url": ""
-  },
-  {
-   "company": "AGCO CORP",
-   "ticker": "AGCO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.3,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.3",
    "source_url": ""
   },
   {
@@ -18529,7 +18514,7 @@
    "source_url": ""
   },
   {
-   "company": "AGCO CORP",
+   "company": "AGCO",
    "ticker": "AGCO",
    "exchange": "NYSE",
    "security": "common",
@@ -18540,7 +18525,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.3",
+   "basis": "last confirmed 2026-12-15 $0.3",
    "source_url": ""
   },
   {
@@ -33514,7 +33499,7 @@
    "source_url": ""
   },
   {
-   "company": "AGCO CORP",
+   "company": "AGCO",
    "ticker": "AGCO",
    "exchange": "NYSE",
    "security": "common",
@@ -33525,7 +33510,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.3",
+   "basis": "last confirmed 2026-12-15 $0.3",
    "source_url": ""
   },
   {
@@ -48484,7 +48469,7 @@
    "source_url": ""
   },
   {
-   "company": "AGCO CORP",
+   "company": "AGCO",
    "ticker": "AGCO",
    "exchange": "NYSE",
    "security": "common",
@@ -48495,7 +48480,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.3",
+   "basis": "last confirmed 2026-12-15 $0.3",
    "source_url": ""
   },
   {
