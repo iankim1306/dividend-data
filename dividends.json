@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23 18:17",
+ "updatedAt": "2026-10-23 21:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -52464,6 +52464,21 @@
    "collected_at": "2026-10-23 06:17"
   },
   {
+   "company": "Corteva, Inc.",
+   "exchange": "NYSE",
+   "ticker": "CTVA",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/corteva-declares-quarterly-dividend-302917451.html",
+   "collected_at": "2026-10-23 21:17"
+  },
+  {
    "company": "DuPont",
    "exchange": "NYSE",
    "ticker": "DD",
@@ -52537,6 +52552,111 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1521951/000119312526328468/fbiz-20260630.htm",
    "collected_at": "2026-08-14 09:36"
+  },
+  {
+   "company": "First Citizens BancShares, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "FCNCA",
+   "security": "common",
+   "amount_per_share": 2.25,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-declares-dividends-302917440.html",
+   "collected_at": "2026-10-23 21:17"
+  },
+  {
+   "company": "First Citizens BancShares, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "FCNCA",
+   "security": "preferred",
+   "amount_per_share": 13.4375,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-declares-dividends-302917440.html",
+   "collected_at": "2026-10-23 21:17"
+  },
+  {
+   "company": "First Citizens BancShares, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "FCNCA",
+   "security": "preferred",
+   "amount_per_share": 20.546182,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-declares-dividends-302917440.html",
+   "collected_at": "2026-10-23 21:17"
+  },
+  {
+   "company": "First Citizens BancShares, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "FCNCA",
+   "security": "preferred",
+   "amount_per_share": 0.351563,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-declares-dividends-302917440.html",
+   "collected_at": "2026-10-23 21:17"
+  },
+  {
+   "company": "First Citizens BancShares, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "FCNCA",
+   "security": "preferred",
+   "amount_per_share": 1750.0,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-declares-dividends-302917440.html",
+   "collected_at": "2026-10-23 21:17"
+  },
+  {
+   "company": "First Citizens BancShares, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "FCNCA",
+   "security": "preferred",
+   "amount_per_share": 16.56,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-declares-dividends-302917440.html",
+   "collected_at": "2026-10-23 21:17"
+  },
+  {
+   "company": "First Citizens BancShares, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "FCNCA",
+   "security": "preferred",
+   "amount_per_share": 1895.83,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-declares-dividends-302917440.html",
+   "collected_at": "2026-10-23 21:17"
   },
   {
    "company": "F.N.B. Corporation",
@@ -54156,6 +54276,36 @@
    "collected_at": "2026-10-22 06:17"
   },
   {
+   "company": "EIDP, Inc.",
+   "exchange": null,
+   "ticker": "EIDP",
+   "security": "preferred",
+   "amount_per_share": 1.125,
+   "currency": "USD",
+   "record_date": "2027-01-04",
+   "payable_date": "2027-01-25",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/corteva-declares-quarterly-dividend-302917451.html",
+   "collected_at": "2026-10-23 21:17"
+  },
+  {
+   "company": "EIDP, Inc.",
+   "exchange": null,
+   "ticker": "EIDP",
+   "security": "preferred",
+   "amount_per_share": 0.875,
+   "currency": "USD",
+   "record_date": "2027-01-04",
+   "payable_date": "2027-01-25",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/corteva-declares-quarterly-dividend-302917451.html",
+   "collected_at": "2026-10-23 21:17"
+  },
+  {
    "company": "Wisconsin Electric Power Co.",
    "exchange": "NYSE",
    "ticker": "WEC",
@@ -54216,5 +54366,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3635
+ "count": 3645
 }

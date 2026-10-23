@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-23 18:17",
+ "updatedAt": "2026-10-23 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3785,
+ "count": 3784,
  "items": [
   {
    "company": "Healthpeak Properties, Inc.",
@@ -4039,21 +4039,6 @@
    "source_url": ""
   },
   {
-   "company": "FIRST CITIZENS BANCSHARES INC",
-   "ticker": "FCNCA",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 6.625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-15 $6.625",
-   "source_url": ""
-  },
-  {
    "company": "Four Corners Property Trust, Inc.",
    "ticker": "FCPT",
    "exchange": "NYSE",
@@ -4354,21 +4339,6 @@
    "source_url": ""
   },
   {
-   "company": "Corteva, Inc.",
-   "ticker": "CTVA",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.18,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.18",
-   "source_url": ""
-  },
-  {
    "company": "The Estée Lauder Companies Inc.",
    "ticker": "EL",
    "exchange": "NYSE",
@@ -4411,21 +4381,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.42",
-   "source_url": ""
-  },
-  {
-   "company": "FIRST CITIZENS BANCSHARES INC",
-   "ticker": "FCNCA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 2.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $2.1",
    "source_url": ""
   },
   {
@@ -18349,21 +18304,6 @@
    "source_url": ""
   },
   {
-   "company": "FIRST CITIZENS BANCSHARES INC",
-   "ticker": "FCNCA",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 6.625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-15 $6.625",
-   "source_url": ""
-  },
-  {
    "company": "Horizon Technology Finance Corporation",
    "ticker": "HRZN",
    "exchange": "NASDAQ",
@@ -18743,14 +18683,14 @@
    "ticker": "CTVA",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.18,
+   "amount_per_share": 0.05,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-16",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.18",
+   "basis": "last confirmed 2026-12-15 $0.05",
    "source_url": ""
   },
   {
@@ -18859,18 +18799,33 @@
    "source_url": ""
   },
   {
-   "company": "FIRST CITIZENS BANCSHARES INC",
+   "company": "First Citizens BancShares, Inc.",
    "ticker": "FCNCA",
    "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 2.1,
+   "amount_per_share": 2.25,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-16",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $2.1",
+   "basis": "last confirmed 2026-12-15 $2.25",
+   "source_url": ""
+  },
+  {
+   "company": "First Citizens BancShares, Inc.",
+   "ticker": "FCNCA",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 1895.83,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $1895.83",
    "source_url": ""
   },
   {
@@ -26284,6 +26239,21 @@
    "source_url": ""
   },
   {
+   "company": "EIDP, Inc.",
+   "ticker": "EIDP",
+   "exchange": "",
+   "security": "preferred",
+   "amount_per_share": 0.875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-26",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-25 $0.875",
+   "source_url": ""
+  },
+  {
    "company": "Helios Technologies, Inc.",
    "ticker": "HLIO",
    "exchange": "NYSE",
@@ -33634,21 +33604,6 @@
    "source_url": ""
   },
   {
-   "company": "FIRST CITIZENS BANCSHARES INC",
-   "ticker": "FCNCA",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 6.625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-15 $6.625",
-   "source_url": ""
-  },
-  {
    "company": "Interactive Brokers Group, Inc.",
    "ticker": "IBKR",
    "exchange": "Nasdaq",
@@ -34058,14 +34013,14 @@
    "ticker": "CTVA",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.18,
+   "amount_per_share": 0.05,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-15",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.18",
+   "basis": "last confirmed 2026-12-15 $0.05",
    "source_url": ""
   },
   {
@@ -34174,18 +34129,33 @@
    "source_url": ""
   },
   {
-   "company": "FIRST CITIZENS BANCSHARES INC",
+   "company": "First Citizens BancShares, Inc.",
    "ticker": "FCNCA",
    "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 2.1,
+   "amount_per_share": 2.25,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-15",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $2.1",
+   "basis": "last confirmed 2026-12-15 $2.25",
+   "source_url": ""
+  },
+  {
+   "company": "First Citizens BancShares, Inc.",
+   "ticker": "FCNCA",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 1895.83,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $1895.83",
    "source_url": ""
   },
   {
@@ -41566,6 +41536,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "EIDP, Inc.",
+   "ticker": "EIDP",
+   "exchange": "",
+   "security": "preferred",
+   "amount_per_share": 0.875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-26",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-25 $0.875",
    "source_url": ""
   },
   {
@@ -49024,21 +49009,6 @@
    "source_url": ""
   },
   {
-   "company": "FIRST CITIZENS BANCSHARES INC",
-   "ticker": "FCNCA",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 6.625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-15 $6.625",
-   "source_url": ""
-  },
-  {
    "company": "Interactive Brokers Group, Inc.",
    "ticker": "IBKR",
    "exchange": "Nasdaq",
@@ -49373,14 +49343,14 @@
    "ticker": "CTVA",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.18,
+   "amount_per_share": 0.05,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.18",
+   "basis": "last confirmed 2026-12-15 $0.05",
    "source_url": ""
   },
   {
@@ -49489,18 +49459,33 @@
    "source_url": ""
   },
   {
-   "company": "FIRST CITIZENS BANCSHARES INC",
+   "company": "First Citizens BancShares, Inc.",
    "ticker": "FCNCA",
    "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 2.1,
+   "amount_per_share": 2.25,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $2.1",
+   "basis": "last confirmed 2026-12-15 $2.25",
+   "source_url": ""
+  },
+  {
+   "company": "First Citizens BancShares, Inc.",
+   "ticker": "FCNCA",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 1895.83,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $1895.83",
    "source_url": ""
   },
   {
