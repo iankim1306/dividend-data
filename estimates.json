@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-23 21:17",
+ "updatedAt": "2026-10-24 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3784,
+ "count": 3773,
  "items": [
   {
    "company": "Healthpeak Properties, Inc.",
@@ -541,21 +541,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-05 $0.29",
-   "source_url": ""
-  },
-  {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-04",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
    "source_url": ""
   },
   {
@@ -3496,21 +3481,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-04 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-04",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
    "source_url": ""
   },
   {
@@ -8554,21 +8524,6 @@
    "source_url": ""
   },
   {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-03",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
-   "source_url": ""
-  },
-  {
    "company": "Blackstone Real Estate Income Trust, Inc.",
    "ticker": "BSTT",
    "exchange": "OTC",
@@ -10819,21 +10774,6 @@
    "source_url": ""
   },
   {
-   "company": "Simpson Manufacturing Co., Inc.",
-   "ticker": "SSD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.3,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-21",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-22 $0.3",
-   "source_url": ""
-  },
-  {
    "company": "Village Super Market, Inc.",
    "ticker": "VLGEA",
    "exchange": "NSD",
@@ -12721,21 +12661,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-05 $0.130208",
-   "source_url": ""
-  },
-  {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-02",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
    "source_url": ""
   },
   {
@@ -17416,21 +17341,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-03 $0.14",
-   "source_url": ""
-  },
-  {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-04",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
    "source_url": ""
   },
   {
@@ -23554,21 +23464,6 @@
    "source_url": ""
   },
   {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-03",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
-   "source_url": ""
-  },
-  {
    "company": "Blackstone Real Estate Income Trust, Inc.",
    "ticker": "BSTT",
    "exchange": "OTC",
@@ -25984,21 +25879,6 @@
    "source_url": ""
   },
   {
-   "company": "Simpson Manufacturing Co., Inc.",
-   "ticker": "SSD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.3,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-22 $0.3",
-   "source_url": ""
-  },
-  {
    "company": "Village Super Market, Inc.",
    "ticker": "VLGEA",
    "exchange": "NSD",
@@ -27259,6 +27139,21 @@
    "source_url": ""
   },
   {
+   "company": "Simpson Manufacturing Co., Inc.",
+   "ticker": "SSD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-28 $0.3",
+   "source_url": ""
+  },
+  {
    "company": "AECOM",
    "ticker": "ACM",
    "exchange": "NYSE",
@@ -27916,21 +27811,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $296.875",
-   "source_url": ""
-  },
-  {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-03",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
    "source_url": ""
   },
   {
@@ -32461,21 +32341,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-02 $0.15",
-   "source_url": ""
-  },
-  {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-02",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
    "source_url": ""
   },
   {
@@ -38824,21 +38689,6 @@
    "source_url": ""
   },
   {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-02",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
-   "source_url": ""
-  },
-  {
    "company": "Blackstone Real Estate Income Trust, Inc.",
    "ticker": "BSTT",
    "exchange": "OTC",
@@ -41299,21 +41149,6 @@
    "source_url": ""
   },
   {
-   "company": "Simpson Manufacturing Co., Inc.",
-   "ticker": "SSD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.3,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-22 $0.3",
-   "source_url": ""
-  },
-  {
    "company": "Village Super Market, Inc.",
    "ticker": "VLGEA",
    "exchange": "NSD",
@@ -42589,6 +42424,21 @@
    "source_url": ""
   },
   {
+   "company": "Simpson Manufacturing Co., Inc.",
+   "ticker": "SSD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-28 $0.3",
+   "source_url": ""
+  },
+  {
    "company": "Trinity Capital Inc.",
    "ticker": "TRIN",
    "exchange": "NYSE",
@@ -43006,21 +42856,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-01 $0.07",
-   "source_url": ""
-  },
-  {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
    "source_url": ""
   },
   {
@@ -47626,21 +47461,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $1.16",
-   "source_url": ""
-  },
-  {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
    "source_url": ""
   },
   {
@@ -53914,21 +53734,6 @@
    "source_url": ""
   },
   {
-   "company": "iShares 20+ Year Treasury Bond ETF",
-   "ticker": "TLT",
-   "exchange": "NYSE ARCA",
-   "security": "fund",
-   "amount_per_share": 0.330454,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-06 $0.330454",
-   "source_url": ""
-  },
-  {
    "company": "TrustCo Bank Corp NY",
    "ticker": "TRST",
    "exchange": "Nasdaq",
@@ -56569,21 +56374,6 @@
    "source_url": ""
   },
   {
-   "company": "Simpson Manufacturing Co., Inc.",
-   "ticker": "SSD",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.3,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-21",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-22 $0.3",
-   "source_url": ""
-  },
-  {
    "company": "Village Super Market, Inc.",
    "ticker": "VLGEA",
    "exchange": "NSD",
@@ -56761,6 +56551,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.24",
+   "source_url": ""
+  },
+  {
+   "company": "ARMOUR Residential REIT, Inc.",
+   "ticker": "ARR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.14583,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-24",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-28 $0.14583",
+   "source_url": ""
+  },
+  {
+   "company": "CION Investment Corporation",
+   "ticker": "CION",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-24",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-28 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35545,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-24",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-29 $0.35545",
    "source_url": ""
   }
  ]
