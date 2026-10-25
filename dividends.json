@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25 06:17",
+ "updatedAt": "2026-10-25 09:35",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -52764,6 +52764,21 @@
    "collected_at": "2026-10-16 09:28"
   },
   {
+   "company": "Selective Insurance Group, Inc.",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 287.5,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/230557/000023055726000024/pressreleaseexh991q32026.htm",
+   "collected_at": "2026-10-25 09:21"
+  },
+  {
    "company": "AGCO",
    "exchange": "NYSE",
    "ticker": "AGCO",
@@ -54861,5 +54876,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3678
+ "count": 3679
 }
