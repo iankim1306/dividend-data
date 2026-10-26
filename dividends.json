@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26 06:17",
+ "updatedAt": "2026-10-26 09:34",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -54501,6 +54501,51 @@
    "collected_at": "2026-10-23 06:17"
   },
   {
+   "company": "Huntington Bancshares Incorporated",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 1.5625,
+   "currency": "USD",
+   "record_date": "2027-01-01",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000086/hban-2026x10x22xex991.htm",
+   "collected_at": "2026-10-26 09:18"
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 1.40625,
+   "currency": "USD",
+   "record_date": "2027-01-01",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000086/hban-2026x10x22xex991.htm",
+   "collected_at": "2026-10-26 09:18"
+  },
+  {
+   "company": "Huntington Bancshares Incorporated",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 1.1125,
+   "currency": "USD",
+   "record_date": "2027-01-01",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000086/hban-2026x10x22xex991.htm",
+   "collected_at": "2026-10-26 09:18"
+  },
+  {
    "company": "Braemar Hotels & Resorts Inc.",
    "exchange": "NYSE",
    "ticker": "BHR",
@@ -54876,5 +54921,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3679
+ "count": 3682
 }
