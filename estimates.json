@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-27 03:17",
+ "updatedAt": "2026-10-27 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3825,
+ "count": 3823,
  "items": [
   {
    "company": "ELECTRONIC ARTS INC.",
@@ -901,21 +901,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.0655",
-   "source_url": ""
-  },
-  {
-   "company": "Columbus McKinnon Corporation",
-   "ticker": "CMCO",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.07",
    "source_url": ""
   },
   {
@@ -7759,21 +7744,6 @@
    "source_url": ""
   },
   {
-   "company": "Albemarle Corporation",
-   "ticker": "ALB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.41,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.41",
-   "source_url": ""
-  },
-  {
    "company": "Banc of California, Inc.",
    "ticker": "BANC",
    "exchange": "NYSE",
@@ -13785,7 +13755,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.07",
+   "basis": "last confirmed 2026-11-16 $0.07",
    "source_url": ""
   },
   {
@@ -22714,21 +22684,6 @@
    "source_url": ""
   },
   {
-   "company": "Albemarle Corporation",
-   "ticker": "ALB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.41,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.41",
-   "source_url": ""
-  },
-  {
    "company": "Banc of California, Inc.",
    "ticker": "BANC",
    "exchange": "NYSE",
@@ -23296,6 +23251,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-04 $0.77",
+   "source_url": ""
+  },
+  {
+   "company": "Albemarle Corporation",
+   "ticker": "ALB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.41,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.41",
    "source_url": ""
   },
   {
@@ -29025,7 +28995,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.07",
+   "basis": "last confirmed 2026-11-16 $0.07",
    "source_url": ""
   },
   {
@@ -38014,21 +37984,6 @@
    "source_url": ""
   },
   {
-   "company": "Albemarle Corporation",
-   "ticker": "ALB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.41,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.41",
-   "source_url": ""
-  },
-  {
    "company": "Banc of California, Inc.",
    "ticker": "BANC",
    "exchange": "NYSE",
@@ -38596,6 +38551,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.15625",
+   "source_url": ""
+  },
+  {
+   "company": "Albemarle Corporation",
+   "ticker": "ALB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.41,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.41",
    "source_url": ""
   },
   {
@@ -44310,7 +44280,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.07",
+   "basis": "last confirmed 2026-11-16 $0.07",
    "source_url": ""
   },
   {
@@ -53299,21 +53269,6 @@
    "source_url": ""
   },
   {
-   "company": "Albemarle Corporation",
-   "ticker": "ALB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.41,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.41",
-   "source_url": ""
-  },
-  {
    "company": "Banc of California, Inc.",
    "ticker": "BANC",
    "exchange": "NYSE",
@@ -53866,6 +53821,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-04 $0.77",
+   "source_url": ""
+  },
+  {
+   "company": "Albemarle Corporation",
+   "ticker": "ALB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.41,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.41",
    "source_url": ""
   },
   {

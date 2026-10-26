@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27 03:17",
+ "updatedAt": "2026-10-27 06:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -50412,6 +50412,21 @@
    "collected_at": "2026-10-16 06:17"
   },
   {
+   "company": "Columbus McKinnon Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "CMCO",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "2026-11-06",
+   "payable_date": "2026-11-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/columbus-mckinnon-declares-quarterly-dividend-of-0-07-per-share-302919846.html",
+   "collected_at": "2026-10-27 06:17"
+  },
+  {
    "company": "Cross Timbers Royalty Trust",
    "exchange": "NYSE",
    "ticker": "CRT",
@@ -50830,6 +50845,21 @@
    "collected_at": "2026-10-21 00:17"
   },
   {
+   "company": "Adecoagro S.A.",
+   "exchange": "NYSE",
+   "ticker": "AGRO",
+   "security": "common",
+   "amount_per_share": 0.12128986,
+   "currency": "USD",
+   "record_date": "2026-11-05",
+   "payable_date": "2026-11-19",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/adecoagro-announces-declaration-of-cash-dividends-302919768.html",
+   "collected_at": "2026-10-27 06:17"
+  },
+  {
    "company": "ARMSTRONG WORLD INDUSTRIES, INC.",
    "exchange": "New York Stock Exchange",
    "ticker": "AWI",
@@ -50948,6 +50978,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1318220/000110465926117943/wcn-20260930x10q.htm",
    "collected_at": "2026-10-23 09:36"
+  },
+  {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AFB",
+   "security": "fund",
+   "amount_per_share": 0.067,
+   "currency": "USD",
+   "record_date": "2026-11-05",
+   "payable_date": "2026-11-20",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/alliancebernstein-closed-end-funds-announce-distribution-rates-302919763.html",
+   "collected_at": "2026-10-27 06:17"
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AWF",
+   "security": "fund",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "2026-11-05",
+   "payable_date": "2026-11-20",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/alliancebernstein-closed-end-funds-announce-distribution-rates-302919763.html",
+   "collected_at": "2026-10-27 06:17"
   },
   {
    "company": "Bitmine Immersion Technologies, Inc.",
@@ -54321,6 +54381,21 @@
    "collected_at": "2026-10-22 09:21"
   },
   {
+   "company": "Albemarle Corporation",
+   "exchange": "NYSE",
+   "ticker": "ALB",
+   "security": "common",
+   "amount_per_share": 0.41,
+   "currency": "USD",
+   "record_date": "2026-12-18",
+   "payable_date": "2027-01-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/albemarle-announces-quarterly-common-stock-dividend-302919761.html",
+   "collected_at": "2026-10-27 06:17"
+  },
+  {
    "company": "Popular, Inc.",
    "exchange": "Nasdaq",
    "ticker": "BPOP",
@@ -54936,5 +55011,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3683
+ "count": 3688
 }
