@@ -1,23 +1,8 @@
 {
- "updatedAt": "2026-10-27 21:17",
+ "updatedAt": "2026-10-28 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3852,
+ "count": 3846,
  "items": [
-  {
-   "company": "ELECTRONIC ARTS INC.",
-   "ticker": "EA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-28",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-29 $0.19",
-   "source_url": ""
-  },
   {
    "company": "Bentley Systems, Incorporated",
    "ticker": "BSY",
@@ -496,21 +481,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $0.16",
-   "source_url": ""
-  },
-  {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
    "source_url": ""
   },
   {
@@ -3256,21 +3226,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-08 $0.05",
-   "source_url": ""
-  },
-  {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
    "source_url": ""
   },
   {
@@ -8344,21 +8299,6 @@
    "source_url": ""
   },
   {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-07",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
-   "source_url": ""
-  },
-  {
    "company": "Royal Caribbean Group",
    "ticker": "RCL",
    "exchange": "NYSE",
@@ -12556,21 +12496,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $0.16",
-   "source_url": ""
-  },
-  {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-06",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
    "source_url": ""
   },
   {
@@ -17356,21 +17281,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.15625",
-   "source_url": ""
-  },
-  {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
    "source_url": ""
   },
   {
@@ -23479,21 +23389,6 @@
    "source_url": ""
   },
   {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-07",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
-   "source_url": ""
-  },
-  {
    "company": "Seagate Technology Holdings plc",
    "ticker": "STX",
    "exchange": "Nasdaq",
@@ -27901,21 +27796,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $0.87",
-   "source_url": ""
-  },
-  {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-07",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
    "source_url": ""
   },
   {
@@ -32761,21 +32641,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $0.125",
-   "source_url": ""
-  },
-  {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-06",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
    "source_url": ""
   },
   {
@@ -38884,21 +38749,6 @@
    "source_url": ""
   },
   {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-06",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
-   "source_url": ""
-  },
-  {
    "company": "UPBOUND GROUP, INC.",
    "ticker": "UPBD",
    "exchange": "Nasdaq",
@@ -43306,21 +43156,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-05 $0.52",
-   "source_url": ""
-  },
-  {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-05",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
    "source_url": ""
   },
   {
@@ -48256,21 +48091,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $0.125",
-   "source_url": ""
-  },
-  {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-04",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
    "source_url": ""
   },
   {
@@ -54259,21 +54079,6 @@
    "source_url": ""
   },
   {
-   "company": "Company",
-   "ticker": "MDV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-04",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.1",
-   "source_url": ""
-  },
-  {
    "company": "WhiteHorse Finance, Inc.",
    "ticker": "WHF",
    "exchange": "Nasdaq",
@@ -57679,6 +57484,21 @@
    "source_url": ""
   },
   {
+   "company": "ELECTRONIC ARTS INC.",
+   "ticker": "EA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-29 $0.19",
+   "source_url": ""
+  },
+  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -57781,6 +57601,96 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.145",
+   "source_url": ""
+  },
+  {
+   "company": "Agree Realty Corporation",
+   "ticker": "ADC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.08854,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.045",
+   "source_url": ""
+  },
+  {
+   "company": "Gap Inc.",
+   "ticker": "GAP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-28",
+   "frequency": "annual",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-28 $0.175",
+   "source_url": ""
+  },
+  {
+   "company": "Marvell Technology, Inc.",
+   "ticker": "MRVL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-29 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "Micron Technology, Inc.",
+   "ticker": "MU",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-29 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "Simpson Manufacturing Co., Inc.",
+   "ticker": "SSD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-28 $0.3",
    "source_url": ""
   }
  ]
