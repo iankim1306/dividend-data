@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28 00:17",
+ "updatedAt": "2026-10-28 03:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -50232,6 +50232,21 @@
    "collected_at": "2026-10-22 09:17"
   },
   {
+   "company": "MPLX LP",
+   "exchange": "NYSE",
+   "ticker": "MPLX",
+   "security": "common",
+   "amount_per_share": 1.2111,
+   "currency": "USD",
+   "record_date": "2026-11-06",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/mplx-lp-increases-quarterly-distribution-302921030.html",
+   "collected_at": "2026-10-28 03:17"
+  },
+  {
    "company": "NNN REIT, Inc.",
    "exchange": "NYSE",
    "ticker": "NNN",
@@ -52132,6 +52147,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/356171/000035617126000115/tcbk-20261020.htm",
    "collected_at": "2026-10-23 09:18"
+  },
+  {
+   "company": "Woodlands Financial Services Company",
+   "exchange": "OTC Pink",
+   "ticker": "WDFN",
+   "security": "common",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-11-27",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/woodlands-financial-services-company-announces-fourth-quarter-cash-dividend-302920995.html",
+   "collected_at": "2026-10-28 03:17"
   },
   {
    "company": "Stellus Private Credit BDC",
@@ -55671,5 +55701,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3732
+ "count": 3734
 }
