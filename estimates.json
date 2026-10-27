@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-28 03:17",
+ "updatedAt": "2026-10-28 06:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3846,
+ "count": 3866,
  "items": [
   {
    "company": "Bentley Systems, Incorporated",
@@ -3811,36 +3811,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Associated Banc-Corp",
-   "ticker": "ASB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.24,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "Associated Banc-Corp",
-   "ticker": "ASB",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.3515625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.3515625",
    "source_url": ""
   },
   {
@@ -14299,6 +14269,21 @@
    "source_url": ""
   },
   {
+   "company": "Capitol Federal Financial, Inc.",
+   "ticker": "CFFN",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.085,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-20 $0.085",
+   "source_url": ""
+  },
+  {
    "company": "Community West Bancshares",
    "ticker": "CWBC",
    "exchange": "Nasdaq",
@@ -18068,14 +18053,14 @@
    "ticker": "ASB",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.24,
+   "amount_per_share": 0.25,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-16",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.24",
+   "basis": "last confirmed 2026-12-15 $0.25",
    "source_url": ""
   },
   {
@@ -18090,7 +18075,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.3515625",
+   "basis": "last confirmed 2026-12-15 $0.3515625",
    "source_url": ""
   },
   {
@@ -18106,6 +18091,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.24",
+   "source_url": ""
+  },
+  {
+   "company": "Ball Corporation",
+   "ticker": "BALL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.2",
    "source_url": ""
   },
   {
@@ -18211,6 +18211,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.86",
+   "source_url": ""
+  },
+  {
+   "company": "Chemours",
+   "ticker": "CC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.0875",
    "source_url": ""
   },
   {
@@ -22894,6 +22909,51 @@
    "source_url": ""
   },
   {
+   "company": "NexPoint Real Estate Finance, Inc.",
+   "ticker": "NREF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "NexPoint Diversified Real Estate Trust",
+   "ticker": "NXDT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.03,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.03",
+   "source_url": ""
+  },
+  {
+   "company": "NexPoint Residential Trust, Inc.",
+   "ticker": "NXRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.53,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.53",
+   "source_url": ""
+  },
+  {
    "company": "PepsiCo, Inc.",
    "ticker": "PEP",
    "exchange": "Nasdaq",
@@ -24976,6 +25036,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "Charter Communications, Inc.",
+   "ticker": "CHTRP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 0.43750001,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.43750001",
    "source_url": ""
   },
   {
@@ -29659,6 +29734,21 @@
    "source_url": ""
   },
   {
+   "company": "Capitol Federal Financial, Inc.",
+   "ticker": "CFFN",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.085,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-20 $0.085",
+   "source_url": ""
+  },
+  {
    "company": "Community West Bancshares",
    "ticker": "CWBC",
    "exchange": "Nasdaq",
@@ -33563,14 +33653,14 @@
    "ticker": "ASB",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.24,
+   "amount_per_share": 0.25,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-15",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.24",
+   "basis": "last confirmed 2026-12-15 $0.25",
    "source_url": ""
   },
   {
@@ -33585,7 +33675,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.3515625",
+   "basis": "last confirmed 2026-12-15 $0.3515625",
    "source_url": ""
   },
   {
@@ -33601,6 +33691,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.24",
+   "source_url": ""
+  },
+  {
+   "company": "Ball Corporation",
+   "ticker": "BALL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.2",
    "source_url": ""
   },
   {
@@ -33691,6 +33796,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.86",
+   "source_url": ""
+  },
+  {
+   "company": "Chemours",
+   "ticker": "CC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.0875",
    "source_url": ""
   },
   {
@@ -34396,6 +34516,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "Truist Financial Corporation",
+   "ticker": "TFC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 390.625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $390.625",
    "source_url": ""
   },
   {
@@ -38299,6 +38434,51 @@
    "source_url": ""
   },
   {
+   "company": "NexPoint Real Estate Finance, Inc.",
+   "ticker": "NREF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "NexPoint Diversified Real Estate Trust",
+   "ticker": "NXDT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.03,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.03",
+   "source_url": ""
+  },
+  {
+   "company": "NexPoint Residential Trust, Inc.",
+   "ticker": "NXRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.53,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.53",
+   "source_url": ""
+  },
+  {
    "company": "PepsiCo, Inc.",
    "ticker": "PEP",
    "exchange": "Nasdaq",
@@ -40426,6 +40606,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "Charter Communications, Inc.",
+   "ticker": "CHTRP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 0.43750001,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.43750001",
    "source_url": ""
   },
   {
@@ -45094,6 +45289,21 @@
    "source_url": ""
   },
   {
+   "company": "Capitol Federal Financial, Inc.",
+   "ticker": "CFFN",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.085,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-20 $0.085",
+   "source_url": ""
+  },
+  {
    "company": "Community West Bancshares",
    "ticker": "CWBC",
    "exchange": "Nasdaq",
@@ -49013,14 +49223,14 @@
    "ticker": "ASB",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.24,
+   "amount_per_share": 0.25,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.24",
+   "basis": "last confirmed 2026-12-15 $0.25",
    "source_url": ""
   },
   {
@@ -49035,7 +49245,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.3515625",
+   "basis": "last confirmed 2026-12-15 $0.3515625",
    "source_url": ""
   },
   {
@@ -49051,6 +49261,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.24",
+   "source_url": ""
+  },
+  {
+   "company": "Ball Corporation",
+   "ticker": "BALL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.2",
    "source_url": ""
   },
   {
@@ -49141,6 +49366,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.86",
+   "source_url": ""
+  },
+  {
+   "company": "Chemours",
+   "ticker": "CC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.0875",
    "source_url": ""
   },
   {
@@ -53719,6 +53959,51 @@
    "source_url": ""
   },
   {
+   "company": "NexPoint Real Estate Finance, Inc.",
+   "ticker": "NREF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "NexPoint Diversified Real Estate Trust",
+   "ticker": "NXDT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.03,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.03",
+   "source_url": ""
+  },
+  {
+   "company": "NexPoint Residential Trust, Inc.",
+   "ticker": "NXRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.53,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.53",
+   "source_url": ""
+  },
+  {
    "company": "PepsiCo, Inc.",
    "ticker": "PEP",
    "exchange": "Nasdaq",
@@ -55816,6 +56101,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "Charter Communications, Inc.",
+   "ticker": "CHTRP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 0.43750001,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.43750001",
    "source_url": ""
   },
   {
