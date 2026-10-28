@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28 21:17",
+ "updatedAt": "2026-10-29 00:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -53349,6 +53349,21 @@
    "collected_at": "2026-10-28 06:17"
   },
   {
+   "company": "W.W. Grainger, Inc.",
+   "exchange": "NYSE",
+   "ticker": "GWW",
+   "security": "common",
+   "amount_per_share": 2.49,
+   "currency": "USD",
+   "record_date": "2026-11-09",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/grainger-declares-quarterly-dividend-302922258.html",
+   "collected_at": "2026-10-29 00:17"
+  },
+  {
    "company": "Huntington Bancshares Incorporated",
    "exchange": "Nasdaq",
    "ticker": "HBANM",
@@ -55477,6 +55492,21 @@
    "collected_at": "2026-10-23 09:18"
   },
   {
+   "company": "Flagstar Bank, N.A.",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 3.3333,
+   "currency": "USD",
+   "record_date": "2026-12-07",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/flagstar-bank-na-declares-quarterly-cash-dividends-on-its-common-stock-and-preferred-stocks-302921216.html",
+   "collected_at": "2026-10-29 00:17"
+  },
+  {
    "company": "Bank of America Corporation",
    "exchange": "NYSE",
    "ticker": "BAC",
@@ -55490,6 +55520,36 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-november-and-december-2026-302911604.html",
    "collected_at": "2026-10-17 06:17"
+  },
+  {
+   "company": "Flagstar Bank, N.A.",
+   "exchange": "NYSE",
+   "ticker": "FLG",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "2026-12-07",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/flagstar-bank-na-declares-quarterly-cash-dividends-on-its-common-stock-and-preferred-stocks-302921216.html",
+   "collected_at": "2026-10-29 00:17"
+  },
+  {
+   "company": "Flagstar Bank, N.A.",
+   "exchange": "NYSE",
+   "ticker": "FLG PRA",
+   "security": "preferred",
+   "amount_per_share": 15.94,
+   "currency": "USD",
+   "record_date": "2026-12-07",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/flagstar-bank-na-declares-quarterly-cash-dividends-on-its-common-stock-and-preferred-stocks-302921216.html",
+   "collected_at": "2026-10-29 00:17"
   },
   {
    "company": "General Motors",
@@ -56541,6 +56601,21 @@
    "collected_at": "2026-10-28 09:18"
   },
   {
+   "company": "Equity LifeStyle Properties, Inc.",
+   "exchange": "NYSE",
+   "ticker": "ELS",
+   "security": "common",
+   "amount_per_share": 0.5425,
+   "currency": "USD",
+   "record_date": "2026-12-24",
+   "payable_date": "2027-01-08",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/els-declares-fourth-quarter-2026-dividend-302922194.html",
+   "collected_at": "2026-10-29 00:17"
+  },
+  {
    "company": "NRC Health",
    "exchange": "NASDAQ",
    "ticker": "NRC",
@@ -57216,5 +57291,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3835
+ "count": 3840
 }

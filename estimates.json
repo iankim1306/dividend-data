@@ -1,38 +1,8 @@
 {
- "updatedAt": "2026-10-28 21:17",
+ "updatedAt": "2026-10-29 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3907,
+ "count": 3917,
  "items": [
-  {
-   "company": "Bentley Systems, Incorporated",
-   "ticker": "BSY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-30 $0.07",
-   "source_url": ""
-  },
-  {
-   "company": "ROCKY BRANDS, INC.",
-   "ticker": "RCKY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.155,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-04-30 $0.155",
-   "source_url": ""
-  },
   {
    "company": "CSWC",
    "ticker": "CSWC",
@@ -6829,21 +6799,6 @@
    "source_url": ""
   },
   {
-   "company": "Flagstar Bank",
-   "ticker": "FLG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "Franklin Street Properties Corp.",
    "ticker": "FSP",
    "exchange": "NYSE",
@@ -8071,21 +8026,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-09 $0.19",
-   "source_url": ""
-  },
-  {
-   "company": "Equity LifeStyle Properties, Inc.",
-   "ticker": "ELS",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.5425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-08",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.5425",
    "source_url": ""
   },
   {
@@ -16384,6 +16324,21 @@
    "source_url": ""
   },
   {
+   "company": "W.W. Grainger, Inc.",
+   "ticker": "GWW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.49,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $2.49",
+   "source_url": ""
+  },
+  {
    "company": "H2O America",
    "ticker": "HTO",
    "exchange": "NASDAQ",
@@ -19204,6 +19159,21 @@
    "source_url": ""
   },
   {
+   "company": "Flagstar Bank, N.A.",
+   "ticker": "FLG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.01",
+   "source_url": ""
+  },
+  {
    "company": "The Home Depot",
    "ticker": "HD",
    "exchange": "NYSE",
@@ -21964,21 +21934,6 @@
    "source_url": ""
   },
   {
-   "company": "Flagstar Bank",
-   "ticker": "FLG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -23520,7 +23475,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.5425",
+   "basis": "last confirmed 2027-01-08 $0.5425",
    "source_url": ""
   },
   {
@@ -32089,6 +32044,21 @@
    "source_url": ""
   },
   {
+   "company": "W.W. Grainger, Inc.",
+   "ticker": "GWW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.49,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $2.49",
+   "source_url": ""
+  },
+  {
    "company": "H2O America",
    "ticker": "HTO",
    "exchange": "NASDAQ",
@@ -34951,6 +34921,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-17 $1.16",
+   "source_url": ""
+  },
+  {
+   "company": "Flagstar Bank, N.A.",
+   "ticker": "FLG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.01",
    "source_url": ""
   },
   {
@@ -37834,21 +37819,6 @@
    "source_url": ""
   },
   {
-   "company": "Flagstar Bank",
-   "ticker": "FLG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "Federated Hermes Premier Municipal Income Fund",
    "ticker": "FMN",
    "exchange": "NYSE",
@@ -39315,7 +39285,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.5425",
+   "basis": "last confirmed 2027-01-08 $0.5425",
    "source_url": ""
   },
   {
@@ -47899,6 +47869,21 @@
    "source_url": ""
   },
   {
+   "company": "W.W. Grainger, Inc.",
+   "ticker": "GWW",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 2.49,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $2.49",
+   "source_url": ""
+  },
+  {
    "company": "H2O America",
    "ticker": "HTO",
    "exchange": "NASDAQ",
@@ -50854,6 +50839,21 @@
    "source_url": ""
   },
   {
+   "company": "Flagstar Bank, N.A.",
+   "ticker": "FLG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.01",
+   "source_url": ""
+  },
+  {
    "company": "The Home Depot",
    "ticker": "HD",
    "exchange": "NYSE",
@@ -53614,21 +53614,6 @@
    "source_url": ""
   },
   {
-   "company": "Flagstar Bank",
-   "ticker": "FLG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "Franklin Street Properties Corp.",
    "ticker": "FSP",
    "exchange": "NYSE",
@@ -55050,7 +55035,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.5425",
+   "basis": "last confirmed 2027-01-08 $0.5425",
    "source_url": ""
   },
   {
@@ -58534,6 +58519,21 @@
    "source_url": ""
   },
   {
+   "company": "Bentley Systems, Incorporated",
+   "ticker": "BSY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-07-30 $0.07",
+   "source_url": ""
+  },
+  {
    "company": "Federated Hermes Premier Municipal Income Fund",
    "ticker": "FMN",
    "exchange": "NYSE",
@@ -58594,6 +58594,21 @@
    "source_url": ""
   },
   {
+   "company": "ROCKY BRANDS, INC.",
+   "ticker": "RCKY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.155,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-04-30 $0.155",
+   "source_url": ""
+  },
+  {
    "company": "Simpson Manufacturing Co., Inc.",
    "ticker": "SSD",
    "exchange": "NYSE",
@@ -58606,6 +58621,141 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-28 $0.3",
+   "source_url": ""
+  },
+  {
+   "company": "AECOM",
+   "ticker": "ACM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.31",
+   "source_url": ""
+  },
+  {
+   "company": "ACRES Commercial Realty Corp.",
+   "ticker": "ACR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.4921875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.4921875",
+   "source_url": ""
+  },
+  {
+   "company": "Argan, Inc.",
+   "ticker": "AGX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.7",
+   "source_url": ""
+  },
+  {
+   "company": "Saul Centers, Inc.",
+   "ticker": "BFS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.59",
+   "source_url": ""
+  },
+  {
+   "company": "Camden National Corporation",
+   "ticker": "CAC",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.42",
+   "source_url": ""
+  },
+  {
+   "company": "Dell Technologies",
+   "ticker": "DELL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.63,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.63",
+   "source_url": ""
+  },
+  {
+   "company": "EOG RESOURCES, INC.",
+   "ticker": "EOG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.02,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $1.02",
+   "source_url": ""
+  },
+  {
+   "company": "Northern Oil and Gas, Inc.",
+   "ticker": "NOG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.45",
+   "source_url": ""
+  },
+  {
+   "company": "Regency Centers Corporation",
+   "ticker": "REG",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 0.3672,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.3672",
    "source_url": ""
   }
  ]
