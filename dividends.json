@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29 03:17",
+ "updatedAt": "2026-10-29 06:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -52255,6 +52255,21 @@
    "collected_at": "2026-10-17 06:17"
   },
   {
+   "company": "Capital Properties, Inc.",
+   "exchange": "OTCQX",
+   "ticker": "CPTP",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-11-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/capital-properties-inc-declares-regular-quarterly-dividend-302922730.html",
+   "collected_at": "2026-10-29 06:17"
+  },
+  {
    "company": "Comfort Systems USA, Inc.",
    "exchange": "NYSE",
    "ticker": "FIX",
@@ -52448,6 +52463,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/815556/000081555626000049/fast-20260930.htm",
    "collected_at": "2026-10-20 09:21"
+  },
+  {
+   "company": "Hennessy Advisors, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "HNNA",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-11-10",
+   "payable_date": "2026-11-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/hennessy-advisors-inc-announces-dividend-302922399.html",
+   "collected_at": "2026-10-29 06:17"
   },
   {
    "company": "HomeTrust Bancshares, Inc.",
@@ -53902,6 +53932,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1478454/000117184326006855/exh_991.htm",
    "collected_at": "2026-10-28 09:17"
+  },
+  {
+   "company": "Honeywell Aerospace",
+   "exchange": "Nasdaq",
+   "ticker": "HONA",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-12-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/honeywell-aerospace-declares-first-quarterly-cash-dividend-302921801.html",
+   "collected_at": "2026-10-29 06:17"
   },
   {
    "company": "Lamb Weston Holdings, Inc.",
@@ -55462,6 +55507,21 @@
    "collected_at": "2026-10-02 03:18"
   },
   {
+   "company": "Equinix, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "EQIX",
+   "security": "common",
+   "amount_per_share": 5.16,
+   "currency": "USD",
+   "record_date": "2026-11-18",
+   "payable_date": "2026-12-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/equinix-declares-quarterly-dividend-on-its-common-stock-302922557.html",
+   "collected_at": "2026-10-29 06:17"
+  },
+  {
    "company": "Mercantile Bank Corporation",
    "exchange": "NASDAQ",
    "ticker": "MBWM",
@@ -55520,6 +55580,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-november-and-december-2026-302911604.html",
    "collected_at": "2026-10-17 06:17"
+  },
+  {
+   "company": "The Cigna Group",
+   "exchange": "NYSE",
+   "ticker": "CI",
+   "security": "common",
+   "amount_per_share": 1.56,
+   "currency": "USD",
+   "record_date": "2026-12-03",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/the-cigna-group-declares-quarterly-dividend-302922675.html",
+   "collected_at": "2026-10-29 06:17"
   },
   {
    "company": "Flagstar Bank, N.A.",
@@ -57306,5 +57381,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3841
+ "count": 3846
 }

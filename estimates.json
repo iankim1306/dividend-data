@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-29 03:17",
+ "updatedAt": "2026-10-29 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3917,
+ "count": 3915,
  "items": [
   {
    "company": "CSWC",
@@ -2869,21 +2869,6 @@
    "source_url": ""
   },
   {
-   "company": "Hennessy Advisors, Inc.",
-   "ticker": "HNNA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-03",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.15",
-   "source_url": ""
-  },
-  {
    "company": "Jefferson Capital, Inc.",
    "ticker": "JCAP",
    "exchange": "Nasdaq",
@@ -4186,21 +4171,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.277908",
-   "source_url": ""
-  },
-  {
-   "company": "Equinix, Inc.",
-   "ticker": "EQIX",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 5.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-16 $5.16",
    "source_url": ""
   },
   {
@@ -14539,6 +14509,21 @@
    "source_url": ""
   },
   {
+   "company": "Hennessy Advisors, Inc.",
+   "ticker": "HNNA",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.15",
+   "source_url": ""
+  },
+  {
    "company": "Howmet Aerospace Inc.",
    "ticker": "HWM",
    "exchange": "NYSE",
@@ -16774,21 +16759,6 @@
    "source_url": ""
   },
   {
-   "company": "Hennessy Advisors, Inc.",
-   "ticker": "HNNA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-04",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.15",
-   "source_url": ""
-  },
-  {
    "company": "Jefferson Capital, Inc.",
    "ticker": "JCAP",
    "exchange": "Nasdaq",
@@ -19005,7 +18975,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-16 $5.16",
+   "basis": "last confirmed 2026-12-16 $5.16",
    "source_url": ""
   },
   {
@@ -30289,6 +30259,21 @@
    "source_url": ""
   },
   {
+   "company": "Hennessy Advisors, Inc.",
+   "ticker": "HNNA",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.15",
+   "source_url": ""
+  },
+  {
    "company": "Howmet Aerospace Inc.",
    "ticker": "HWM",
    "exchange": "NYSE",
@@ -32491,21 +32476,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-03 $0.575",
-   "source_url": ""
-  },
-  {
-   "company": "Hennessy Advisors, Inc.",
-   "ticker": "HNNA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-03",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.15",
    "source_url": ""
   },
   {
@@ -34785,7 +34755,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-16 $5.16",
+   "basis": "last confirmed 2026-12-16 $5.16",
    "source_url": ""
   },
   {
@@ -46099,6 +46069,21 @@
    "source_url": ""
   },
   {
+   "company": "Hennessy Advisors, Inc.",
+   "ticker": "HNNA",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.15",
+   "source_url": ""
+  },
+  {
    "company": "Howmet Aerospace Inc.",
    "ticker": "HWM",
    "exchange": "NYSE",
@@ -48334,21 +48319,6 @@
    "source_url": ""
   },
   {
-   "company": "Hennessy Advisors, Inc.",
-   "ticker": "HNNA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.15",
-   "source_url": ""
-  },
-  {
    "company": "Jefferson Capital, Inc.",
    "ticker": "JCAP",
    "exchange": "Nasdaq",
@@ -50580,7 +50550,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-16 $5.16",
+   "basis": "last confirmed 2026-12-16 $5.16",
    "source_url": ""
   },
   {
