@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-28 06:18",
+ "updatedAt": "2026-10-28 09:36",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3866,
+ "count": 3908,
  "items": [
   {
    "company": "Bentley Systems, Incorporated",
@@ -241,36 +241,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $1.63",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.09",
    "source_url": ""
   },
   {
@@ -1024,21 +994,6 @@
    "source_url": ""
   },
   {
-   "company": "Welltower Inc.",
-   "ticker": "WELL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.85,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-20 $0.85",
-   "source_url": ""
-  },
-  {
    "company": "Wintrust Financial Corporation",
    "ticker": "WTFC",
    "exchange": "Nasdaq",
@@ -1441,21 +1396,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-26 $0.21",
-   "source_url": ""
-  },
-  {
-   "company": "Western New England Bancorp, Inc.",
-   "ticker": "WNEB",
-   "exchange": "NasdaqGS",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-26 $0.07",
    "source_url": ""
   },
   {
@@ -1924,6 +1864,21 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.087",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -2265,7 +2220,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.08",
+   "basis": "last confirmed 2026-10-30 $0.08",
    "source_url": ""
   },
   {
@@ -2280,7 +2235,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.09",
+   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -2326,6 +2281,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -2989,21 +2959,6 @@
    "source_url": ""
   },
   {
-   "company": "Expand Energy Corporation",
-   "ticker": "EXE",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.575,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-03",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.575",
-   "source_url": ""
-  },
-  {
    "company": "Hennessy Advisors, Inc.",
    "ticker": "HNNA",
    "exchange": "Nasdaq",
@@ -3379,21 +3334,6 @@
    "source_url": ""
   },
   {
-   "company": "Landstar System, Inc.",
-   "ticker": "LSTR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.44,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-09 $0.44",
-   "source_url": ""
-  },
-  {
    "company": "Microchip Technology Inc.",
    "ticker": "MCHP",
    "exchange": "NASDAQ",
@@ -3481,21 +3421,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-10 $0.63",
-   "source_url": ""
-  },
-  {
-   "company": "CenterPoint Energy, Inc.",
-   "ticker": "CNP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.24,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-10",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-10 $0.24",
    "source_url": ""
   },
   {
@@ -3844,21 +3769,6 @@
    "source_url": ""
   },
   {
-   "company": "BREAD FINANCIAL HOLDINGS, INC.",
-   "ticker": "BFH",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 30.32,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $30.32",
-   "source_url": ""
-  },
-  {
    "company": "BorgWarner Inc.",
    "ticker": "BWA",
    "exchange": "NYSE",
@@ -4006,21 +3916,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.42",
-   "source_url": ""
-  },
-  {
-   "company": "First Financial Bancorp",
-   "ticker": "FFBC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.26,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.26",
    "source_url": ""
   },
   {
@@ -4351,21 +4246,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.33",
-   "source_url": ""
-  },
-  {
-   "company": "Trustmark Corporation",
-   "ticker": "TRMK",
-   "exchange": "NASDAQGS",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.25",
    "source_url": ""
   },
   {
@@ -5029,21 +4909,6 @@
    "source_url": ""
   },
   {
-   "company": "Amkor Technology, Inc.",
-   "ticker": "AMKR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.08352,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-22 $0.08352",
-   "source_url": ""
-  },
-  {
    "company": "Vaalco Energy, Inc.",
    "ticker": "EGY",
    "exchange": "NYSE",
@@ -5299,21 +5164,6 @@
    "source_url": ""
   },
   {
-   "company": "Rush Enterprises, Inc.",
-   "ticker": "RUSHA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-24 $0.14",
-   "source_url": ""
-  },
-  {
    "company": "Steven Madden, Ltd.",
    "ticker": "SHOO",
    "exchange": "Nasdaq",
@@ -5566,6 +5416,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.1535",
+   "source_url": ""
+  },
+  {
+   "company": "PayPal Holdings, Inc.",
+   "ticker": "PYPL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-25 $0.14",
    "source_url": ""
   },
   {
@@ -5986,6 +5851,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.28",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.087",
    "source_url": ""
   },
   {
@@ -6465,7 +6345,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.08",
+   "basis": "last confirmed 2026-10-30 $0.08",
    "source_url": ""
   },
   {
@@ -6495,7 +6375,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.09",
+   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -6571,6 +6451,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.31",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -6799,21 +6694,6 @@
    "source_url": ""
   },
   {
-   "company": "AMGEN INC.",
-   "ticker": "AMGN",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 2.52,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $2.52",
-   "source_url": ""
-  },
-  {
    "company": "AMH",
    "ticker": "AMH",
    "exchange": "NYSE",
@@ -6979,6 +6859,21 @@
    "source_url": ""
   },
   {
+   "company": "Extra Space Storage Inc.",
+   "ticker": "EXR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.62,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $1.62",
+   "source_url": ""
+  },
+  {
    "company": "FIRST GUARANTY BANCSHARES, INC.",
    "ticker": "FGBI",
    "exchange": "The Nasdaq Stock Market LLC",
@@ -7051,21 +6946,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "HCA Healthcare, Inc.",
-   "ticker": "HCA",
-   "exchange": "New York Stock Exchange",
-   "security": "common",
-   "amount_per_share": 0.78,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.78",
    "source_url": ""
   },
   {
@@ -7924,21 +7804,6 @@
    "source_url": ""
   },
   {
-   "company": "UMB Financial Corporation",
-   "ticker": "UMBF",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5",
-   "source_url": ""
-  },
-  {
    "company": "Westwood Holdings Group, Inc.",
    "ticker": "WHG",
    "exchange": "NYSE",
@@ -8224,21 +8089,6 @@
    "source_url": ""
   },
   {
-   "company": "Seagate Technology Holdings plc",
-   "ticker": "STX",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.74,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-06",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-07 $0.74",
-   "source_url": ""
-  },
-  {
    "company": "Build-A-Bear Workshop, Inc.",
    "ticker": "BBW",
    "exchange": "New York Stock Exchange",
@@ -8269,18 +8119,18 @@
    "source_url": ""
   },
   {
-   "company": "Royal Caribbean Group",
-   "ticker": "RCL",
-   "exchange": "NYSE",
+   "company": "NXP Semiconductors",
+   "ticker": "NXPI",
+   "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 1.5,
+   "amount_per_share": 1.014,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-01-07",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-08 $1.5",
+   "basis": "last confirmed 2026-10-08 $1.014",
    "source_url": ""
   },
   {
@@ -8310,7 +8160,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-10 $0.5425",
+   "basis": "last confirmed 2026-10-09 $0.5425",
    "source_url": ""
   },
   {
@@ -8341,21 +8191,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-09 $0.11",
-   "source_url": ""
-  },
-  {
-   "company": "NRC Health",
-   "ticker": "NRC",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-08",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.16",
    "source_url": ""
   },
   {
@@ -8464,21 +8299,6 @@
    "source_url": ""
   },
   {
-   "company": "American Tower Corporation",
-   "ticker": "AMT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.79,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-11",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-13 $1.79",
-   "source_url": ""
-  },
-  {
    "company": "Agree Realty Corporation",
    "ticker": "ADC",
    "exchange": "NYSE",
@@ -8506,21 +8326,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $0.17",
-   "source_url": ""
-  },
-  {
-   "company": "Community Financial System, Inc.",
-   "ticker": "CBU",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.49,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-12",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.49",
    "source_url": ""
   },
   {
@@ -8701,21 +8506,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.39",
-   "source_url": ""
-  },
-  {
-   "company": "DYNEX CAPITAL, INC.",
-   "ticker": "DX",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.59416,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.59416",
    "source_url": ""
   },
   {
@@ -8974,21 +8764,6 @@
    "source_url": ""
   },
   {
-   "company": "SUN COMMUNITIES, INC.",
-   "ticker": "SUI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $1.12",
-   "source_url": ""
-  },
-  {
    "company": "SUNRISE REALTY TRUST, INC.",
    "ticker": "SUNS",
    "exchange": "Nasdaq",
@@ -9151,6 +8926,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "DYNEX CAPITAL, INC.",
+   "ticker": "DX",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.60793,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.60793",
    "source_url": ""
   },
   {
@@ -9574,6 +9364,21 @@
    "source_url": ""
   },
   {
+   "company": "SUN COMMUNITIES, INC.",
+   "ticker": "SUI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $1.12",
+   "source_url": ""
+  },
+  {
    "company": "Third Coast Bancshares, Inc.",
    "ticker": "TCBX",
    "exchange": "NYSE",
@@ -9601,21 +9406,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.56",
-   "source_url": ""
-  },
-  {
-   "company": "UMB Financial Corporation",
-   "ticker": "UMBFO",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 193.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $193.75",
    "source_url": ""
   },
   {
@@ -10054,6 +9844,36 @@
    "source_url": ""
   },
   {
+   "company": "AMKOR TECHNOLOGY, INC.",
+   "ticker": "AMKR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.08352,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $0.08352",
+   "source_url": ""
+  },
+  {
+   "company": "AMERICAN TOWER CORPORATION",
+   "ticker": "AMT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.79,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $1.79",
+   "source_url": ""
+  },
+  {
    "company": "BAB, Inc.",
    "ticker": "BABB",
    "exchange": "OTC",
@@ -10231,6 +10051,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-20 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "CENTERPOINT ENERGY, INC.",
+   "ticker": "CNP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.48",
    "source_url": ""
   },
   {
@@ -10501,6 +10336,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $0.81688",
+   "source_url": ""
+  },
+  {
+   "company": "Royal Caribbean Cruises Ltd.",
+   "ticker": "RCL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $1.5",
    "source_url": ""
   },
   {
@@ -10969,6 +10819,21 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.087",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -11340,7 +11205,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.08",
+   "basis": "last confirmed 2026-10-30 $0.08",
    "source_url": ""
   },
   {
@@ -11355,7 +11220,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.09",
+   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -11401,6 +11266,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -14220,7 +14100,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-20 $0.85",
+   "basis": "last confirmed 2026-11-19 $0.85",
    "source_url": ""
   },
   {
@@ -14704,6 +14584,21 @@
    "source_url": ""
   },
   {
+   "company": "THE CHEESECAKE FACTORY INCORPORATED",
+   "ticker": "CAKE",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.3",
+   "source_url": ""
+  },
+  {
    "company": "Cognizant Technology Solutions",
    "ticker": "CTSH",
    "exchange": "Nasdaq",
@@ -14940,7 +14835,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-26 $0.07",
+   "basis": "last confirmed 2026-11-25 $0.07",
    "source_url": ""
   },
   {
@@ -15544,6 +15439,21 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.087",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -15870,7 +15780,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.08",
+   "basis": "last confirmed 2026-10-30 $0.08",
    "source_url": ""
   },
   {
@@ -15885,7 +15795,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.09",
+   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -15931,6 +15841,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -16950,7 +16875,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.575",
+   "basis": "last confirmed 2026-12-03 $0.575",
    "source_url": ""
   },
   {
@@ -17149,6 +17074,21 @@
    "source_url": ""
   },
   {
+   "company": "Eagle Bancorp Montana, Inc.",
+   "ticker": "EBMT",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.1475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.1475",
+   "source_url": ""
+  },
+  {
    "company": "Evertec, Inc.",
    "ticker": "EVTC",
    "exchange": "NYSE",
@@ -17281,6 +17221,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-08 $1.34",
+   "source_url": ""
+  },
+  {
+   "company": "Landstar System, Inc.",
+   "ticker": "LSTR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.44,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-08 $0.44",
    "source_url": ""
   },
   {
@@ -17494,21 +17449,6 @@
    "source_url": ""
   },
   {
-   "company": "Landstar System, Inc.",
-   "ticker": "LSTR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.44,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-10",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-09 $0.44",
-   "source_url": ""
-  },
-  {
    "company": "Microchip Technology Inc.",
    "ticker": "MCHP",
    "exchange": "NASDAQ",
@@ -17581,21 +17521,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-10 $0.63",
-   "source_url": ""
-  },
-  {
-   "company": "CenterPoint Energy, Inc.",
-   "ticker": "CNP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.24,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-11",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-10 $0.24",
    "source_url": ""
   },
   {
@@ -17701,6 +17626,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-10 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Rush Enterprises, Inc.",
+   "ticker": "RUSHA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Rush Enterprises, Inc.",
+   "ticker": "RUSHB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Amgen",
+   "ticker": "AMGN",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 2.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-11 $2.52",
    "source_url": ""
   },
   {
@@ -18019,6 +17989,21 @@
    "source_url": ""
   },
   {
+   "company": "Associated Banc-Corp",
+   "ticker": "ABC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.3515625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.3515625",
+   "source_url": ""
+  },
+  {
    "company": "AGCO",
    "ticker": "AGCO",
    "exchange": "NYSE",
@@ -18109,18 +18094,18 @@
    "source_url": ""
   },
   {
-   "company": "BREAD FINANCIAL HOLDINGS, INC.",
+   "company": "Bread Financial Holdings, Inc.",
    "ticker": "BFH",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 30.32,
+   "amount_per_share": 22.19,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-16",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $30.32",
+   "basis": "last confirmed 2026-12-15 $22.19",
    "source_url": ""
   },
   {
@@ -18495,7 +18480,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.26",
+   "basis": "last confirmed 2026-12-15 $0.26",
    "source_url": ""
   },
   {
@@ -19035,7 +19020,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.25",
+   "basis": "last confirmed 2026-12-15 $0.25",
    "source_url": ""
   },
   {
@@ -19426,6 +19411,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-17 $0.175",
+   "source_url": ""
+  },
+  {
+   "company": "Arthur J. Gallagher & Co.",
+   "ticker": "AJG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.7",
    "source_url": ""
   },
   {
@@ -19864,21 +19864,6 @@
    "source_url": ""
   },
   {
-   "company": "Amkor Technology, Inc.",
-   "ticker": "AMKR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.08352,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-22 $0.08352",
-   "source_url": ""
-  },
-  {
    "company": "Vaalco Energy, Inc.",
    "ticker": "EGY",
    "exchange": "NYSE",
@@ -20164,21 +20149,6 @@
    "source_url": ""
   },
   {
-   "company": "Rush Enterprises, Inc.",
-   "ticker": "RUSHA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-24 $0.14",
-   "source_url": ""
-  },
-  {
    "company": "Steven Madden, Ltd.",
    "ticker": "SHOO",
    "exchange": "Nasdaq",
@@ -20431,6 +20401,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.1535",
+   "source_url": ""
+  },
+  {
+   "company": "PayPal Holdings, Inc.",
+   "ticker": "PYPL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-25 $0.14",
    "source_url": ""
   },
   {
@@ -20731,6 +20716,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.087",
    "source_url": ""
   },
   {
@@ -21150,7 +21150,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.08",
+   "basis": "last confirmed 2026-10-30 $0.08",
    "source_url": ""
   },
   {
@@ -21165,7 +21165,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.09",
+   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -21226,6 +21226,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -21394,6 +21409,21 @@
    "source_url": ""
   },
   {
+   "company": "Ares Capital Corporation",
+   "ticker": "ARCC",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.48",
+   "source_url": ""
+  },
+  {
    "company": "Corebridge Parent",
    "ticker": "CRBG",
    "exchange": "NYSE",
@@ -21481,6 +21511,21 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-09-29 $0.3531",
+   "source_url": ""
+  },
+  {
+   "company": "HCA Healthcare, Inc.",
+   "ticker": "HCA",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.78,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.78",
    "source_url": ""
   },
   {
@@ -21754,21 +21799,6 @@
    "source_url": ""
   },
   {
-   "company": "AMGEN INC.",
-   "ticker": "AMGN",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 2.52,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $2.52",
-   "source_url": ""
-  },
-  {
    "company": "AMH",
    "ticker": "AMH",
    "exchange": "NYSE",
@@ -21964,6 +21994,21 @@
    "source_url": ""
   },
   {
+   "company": "Extra Space Storage Inc.",
+   "ticker": "EXR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.62,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $1.62",
+   "source_url": ""
+  },
+  {
    "company": "FIRST GUARANTY BANCSHARES, INC.",
    "ticker": "FGBI",
    "exchange": "The Nasdaq Stock Market LLC",
@@ -22066,21 +22111,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "HCA Healthcare, Inc.",
-   "ticker": "HCA",
-   "exchange": "New York Stock Exchange",
-   "security": "common",
-   "amount_per_share": 0.78,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.78",
    "source_url": ""
   },
   {
@@ -23003,14 +23033,14 @@
    "ticker": "REXR",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.351563,
+   "amount_per_share": 0.545462,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-01",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-31 $0.351563",
+   "basis": "last confirmed 2026-12-31 $0.545462",
    "source_url": ""
   },
   {
@@ -23086,21 +23116,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.105",
-   "source_url": ""
-  },
-  {
-   "company": "UMB Financial Corporation",
-   "ticker": "UMBF",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -23329,6 +23344,21 @@
    "source_url": ""
   },
   {
+   "company": "UMB Financial Corporation",
+   "ticker": "UMBF",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.5",
+   "source_url": ""
+  },
+  {
    "company": "WhiteHorse Finance, Inc.",
    "ticker": "WHF",
    "exchange": "Nasdaq",
@@ -23449,21 +23479,6 @@
    "source_url": ""
   },
   {
-   "company": "Seagate Technology Holdings plc",
-   "ticker": "STX",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.74,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-07",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-07 $0.74",
-   "source_url": ""
-  },
-  {
    "company": "Build-A-Bear Workshop, Inc.",
    "ticker": "BBW",
    "exchange": "New York Stock Exchange",
@@ -23509,18 +23524,33 @@
    "source_url": ""
   },
   {
-   "company": "Royal Caribbean Group",
-   "ticker": "RCL",
-   "exchange": "NYSE",
+   "company": "NXP Semiconductors",
+   "ticker": "NXPI",
+   "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 1.5,
+   "amount_per_share": 1.014,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-08",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-08 $1.5",
+   "basis": "last confirmed 2026-10-08 $1.014",
+   "source_url": ""
+  },
+  {
+   "company": "Seagate Technology Holdings plc",
+   "ticker": "STX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.76,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-07 $0.76",
    "source_url": ""
   },
   {
@@ -23565,7 +23595,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-10 $0.5425",
+   "basis": "last confirmed 2026-10-09 $0.5425",
    "source_url": ""
   },
   {
@@ -23610,7 +23640,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.16",
+   "basis": "last confirmed 2027-01-08 $0.16",
    "source_url": ""
   },
   {
@@ -23704,18 +23734,18 @@
    "source_url": ""
   },
   {
-   "company": "American Tower Corporation",
-   "ticker": "AMT",
+   "company": "Community Financial System, Inc.",
+   "ticker": "CBU",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 1.79,
+   "amount_per_share": 0.49,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-12",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-13 $1.79",
+   "basis": "last confirmed 2027-01-11 $0.49",
    "source_url": ""
   },
   {
@@ -23746,21 +23776,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $0.17",
-   "source_url": ""
-  },
-  {
-   "company": "Community Financial System, Inc.",
-   "ticker": "CBU",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.49,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.49",
    "source_url": ""
   },
   {
@@ -23971,21 +23986,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.39",
-   "source_url": ""
-  },
-  {
-   "company": "DYNEX CAPITAL, INC.",
-   "ticker": "DX",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.59416,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.59416",
    "source_url": ""
   },
   {
@@ -24259,21 +24259,6 @@
    "source_url": ""
   },
   {
-   "company": "SUN COMMUNITIES, INC.",
-   "ticker": "SUI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $1.12",
-   "source_url": ""
-  },
-  {
    "company": "SUNRISE REALTY TRUST, INC.",
    "ticker": "SUNS",
    "exchange": "Nasdaq",
@@ -24421,6 +24406,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.277908",
+   "source_url": ""
+  },
+  {
+   "company": "DYNEX CAPITAL, INC.",
+   "ticker": "DX",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.60793,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.60793",
    "source_url": ""
   },
   {
@@ -24889,6 +24889,21 @@
    "source_url": ""
   },
   {
+   "company": "SUN COMMUNITIES, INC.",
+   "ticker": "SUI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $1.12",
+   "source_url": ""
+  },
+  {
    "company": "Third Coast Bancshares, Inc.",
    "ticker": "TCBX",
    "exchange": "NYSE",
@@ -24931,21 +24946,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $40.0",
-   "source_url": ""
-  },
-  {
-   "company": "UMB Financial Corporation",
-   "ticker": "UMBFO",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 193.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $193.75",
    "source_url": ""
   },
   {
@@ -25294,6 +25294,21 @@
    "source_url": ""
   },
   {
+   "company": "Lincoln Electric Holdings, Inc.",
+   "ticker": "LECO",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.87,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.87",
+   "source_url": ""
+  },
+  {
    "company": "Medtronic plc",
    "ticker": "MDT",
    "exchange": "NYSE",
@@ -25321,6 +25336,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "UMB Financial Corporation",
+   "ticker": "UMBFO",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 193.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $193.75",
    "source_url": ""
   },
   {
@@ -25519,6 +25549,36 @@
    "source_url": ""
   },
   {
+   "company": "AMKOR TECHNOLOGY, INC.",
+   "ticker": "AMKR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.08352,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $0.08352",
+   "source_url": ""
+  },
+  {
+   "company": "AMERICAN TOWER CORPORATION",
+   "ticker": "AMT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.79,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $1.79",
+   "source_url": ""
+  },
+  {
    "company": "BAB, Inc.",
    "ticker": "BABB",
    "exchange": "OTC",
@@ -25591,6 +25651,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-20 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "CENTERPOINT ENERGY, INC.",
+   "ticker": "CNP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.48",
    "source_url": ""
   },
   {
@@ -25921,6 +25996,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $0.81688",
+   "source_url": ""
+  },
+  {
+   "company": "Royal Caribbean Cruises Ltd.",
+   "ticker": "RCL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $1.5",
    "source_url": ""
   },
   {
@@ -26359,6 +26449,21 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.087",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -26700,7 +26805,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.08",
+   "basis": "last confirmed 2026-10-30 $0.08",
    "source_url": ""
   },
   {
@@ -26715,7 +26820,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.09",
+   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -26761,6 +26866,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -29685,7 +29805,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-20 $0.85",
+   "basis": "last confirmed 2026-11-19 $0.85",
    "source_url": ""
   },
   {
@@ -30184,6 +30304,21 @@
    "source_url": ""
   },
   {
+   "company": "THE CHEESECAKE FACTORY INCORPORATED",
+   "ticker": "CAKE",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.3",
+   "source_url": ""
+  },
+  {
    "company": "Cognizant Technology Solutions",
    "ticker": "CTSH",
    "exchange": "Nasdaq",
@@ -30435,7 +30570,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-26 $0.07",
+   "basis": "last confirmed 2026-11-25 $0.07",
    "source_url": ""
   },
   {
@@ -30796,6 +30931,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.26",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.087",
    "source_url": ""
   },
   {
@@ -31230,7 +31380,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.08",
+   "basis": "last confirmed 2026-10-30 $0.08",
    "source_url": ""
   },
   {
@@ -31260,7 +31410,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.09",
+   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -31381,6 +31531,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.59",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -32430,7 +32595,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.575",
+   "basis": "last confirmed 2026-12-03 $0.575",
    "source_url": ""
   },
   {
@@ -32629,6 +32794,21 @@
    "source_url": ""
   },
   {
+   "company": "Eagle Bancorp Montana, Inc.",
+   "ticker": "EBMT",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.1475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.1475",
+   "source_url": ""
+  },
+  {
    "company": "Evertec, Inc.",
    "ticker": "EVTC",
    "exchange": "NYSE",
@@ -32791,6 +32971,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-08 $1.34",
+   "source_url": ""
+  },
+  {
+   "company": "Landstar System, Inc.",
+   "ticker": "LSTR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.44,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-08 $0.44",
    "source_url": ""
   },
   {
@@ -32959,21 +33154,6 @@
    "source_url": ""
   },
   {
-   "company": "Landstar System, Inc.",
-   "ticker": "LSTR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.44,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-09 $0.44",
-   "source_url": ""
-  },
-  {
    "company": "Microchip Technology Inc.",
    "ticker": "MCHP",
    "exchange": "NASDAQ",
@@ -33046,21 +33226,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-10 $0.63",
-   "source_url": ""
-  },
-  {
-   "company": "CenterPoint Energy, Inc.",
-   "ticker": "CNP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.24,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-10",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-10 $0.24",
    "source_url": ""
   },
   {
@@ -33184,6 +33349,36 @@
    "source_url": ""
   },
   {
+   "company": "Rush Enterprises, Inc.",
+   "ticker": "RUSHA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Rush Enterprises, Inc.",
+   "ticker": "RUSHB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.14",
+   "source_url": ""
+  },
+  {
    "company": "Agree Realty Corporation",
    "ticker": "ADC",
    "exchange": "NYSE",
@@ -33196,6 +33391,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $0.271",
+   "source_url": ""
+  },
+  {
+   "company": "Amgen",
+   "ticker": "AMGN",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 2.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-11 $2.52",
    "source_url": ""
   },
   {
@@ -33619,6 +33829,21 @@
    "source_url": ""
   },
   {
+   "company": "Associated Banc-Corp",
+   "ticker": "ABC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.3515625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.3515625",
+   "source_url": ""
+  },
+  {
    "company": "AGCO",
    "ticker": "AGCO",
    "exchange": "NYSE",
@@ -33709,18 +33934,18 @@
    "source_url": ""
   },
   {
-   "company": "BREAD FINANCIAL HOLDINGS, INC.",
+   "company": "Bread Financial Holdings, Inc.",
    "ticker": "BFH",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 30.32,
+   "amount_per_share": 22.19,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-15",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $30.32",
+   "basis": "last confirmed 2026-12-15 $22.19",
    "source_url": ""
   },
   {
@@ -34065,7 +34290,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.26",
+   "basis": "last confirmed 2026-12-15 $0.26",
    "source_url": ""
   },
   {
@@ -34545,7 +34770,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.25",
+   "basis": "last confirmed 2026-12-15 $0.25",
    "source_url": ""
   },
   {
@@ -34951,6 +35176,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-17 $0.175",
+   "source_url": ""
+  },
+  {
+   "company": "Arthur J. Gallagher & Co.",
+   "ticker": "AJG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.7",
    "source_url": ""
   },
   {
@@ -35374,21 +35614,6 @@
    "source_url": ""
   },
   {
-   "company": "Amkor Technology, Inc.",
-   "ticker": "AMKR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.08352,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-22 $0.08352",
-   "source_url": ""
-  },
-  {
    "company": "Healthpeak Properties, Inc.",
    "ticker": "DOC",
    "exchange": "NYSE",
@@ -35674,21 +35899,6 @@
    "source_url": ""
   },
   {
-   "company": "Rush Enterprises, Inc.",
-   "ticker": "RUSHA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-24 $0.14",
-   "source_url": ""
-  },
-  {
    "company": "Steven Madden, Ltd.",
    "ticker": "SHOO",
    "exchange": "Nasdaq",
@@ -35959,6 +36169,21 @@
    "source_url": ""
   },
   {
+   "company": "PayPal Holdings, Inc.",
+   "ticker": "PYPL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-25 $0.14",
+   "source_url": ""
+  },
+  {
    "company": "Vanguard Real Estate ETF",
    "ticker": "VNQ",
    "exchange": "NYSE ARCA",
@@ -36226,6 +36451,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.087",
    "source_url": ""
   },
   {
@@ -36570,7 +36810,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.08",
+   "basis": "last confirmed 2026-10-30 $0.08",
    "source_url": ""
   },
   {
@@ -36585,7 +36825,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.09",
+   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -36631,6 +36871,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -36949,6 +37204,21 @@
    "source_url": ""
   },
   {
+   "company": "Ares Capital Corporation",
+   "ticker": "ARCC",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.48",
+   "source_url": ""
+  },
+  {
    "company": "Corebridge Parent",
    "ticker": "CRBG",
    "exchange": "NYSE",
@@ -37066,6 +37336,21 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-09-29 $0.3531",
+   "source_url": ""
+  },
+  {
+   "company": "HCA Healthcare, Inc.",
+   "ticker": "HCA",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.78,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.78",
    "source_url": ""
   },
   {
@@ -37384,21 +37669,6 @@
    "source_url": ""
   },
   {
-   "company": "AMGEN INC.",
-   "ticker": "AMGN",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 2.52,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $2.52",
-   "source_url": ""
-  },
-  {
    "company": "AMH",
    "ticker": "AMH",
    "exchange": "NYSE",
@@ -37594,6 +37864,21 @@
    "source_url": ""
   },
   {
+   "company": "Extra Space Storage Inc.",
+   "ticker": "EXR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.62,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $1.62",
+   "source_url": ""
+  },
+  {
    "company": "FIRST GUARANTY BANCSHARES, INC.",
    "ticker": "FGBI",
    "exchange": "The Nasdaq Stock Market LLC",
@@ -37681,21 +37966,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "HCA Healthcare, Inc.",
-   "ticker": "HCA",
-   "exchange": "New York Stock Exchange",
-   "security": "common",
-   "amount_per_share": 0.78,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.78",
    "source_url": ""
   },
   {
@@ -38528,14 +38798,14 @@
    "ticker": "REXR",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.351563,
+   "amount_per_share": 0.545462,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-01",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-31 $0.351563",
+   "basis": "last confirmed 2026-12-31 $0.545462",
    "source_url": ""
   },
   {
@@ -38626,21 +38896,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.105",
-   "source_url": ""
-  },
-  {
-   "company": "UMB Financial Corporation",
-   "ticker": "UMBF",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -38869,6 +39124,21 @@
    "source_url": ""
   },
   {
+   "company": "UMB Financial Corporation",
+   "ticker": "UMBF",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.5",
+   "source_url": ""
+  },
+  {
    "company": "WhiteHorse Finance, Inc.",
    "ticker": "WHF",
    "exchange": "Nasdaq",
@@ -39004,21 +39274,6 @@
    "source_url": ""
   },
   {
-   "company": "Seagate Technology Holdings plc",
-   "ticker": "STX",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.74,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-07",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-07 $0.74",
-   "source_url": ""
-  },
-  {
    "company": "AGNC Investment Corp.",
    "ticker": "AGNC",
    "exchange": "Nasdaq",
@@ -39079,18 +39334,33 @@
    "source_url": ""
   },
   {
-   "company": "Royal Caribbean Group",
-   "ticker": "RCL",
-   "exchange": "NYSE",
+   "company": "NXP Semiconductors",
+   "ticker": "NXPI",
+   "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 1.5,
+   "amount_per_share": 1.014,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-08",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-08 $1.5",
+   "basis": "last confirmed 2026-10-08 $1.014",
+   "source_url": ""
+  },
+  {
+   "company": "Seagate Technology Holdings plc",
+   "ticker": "STX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.76,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-07 $0.76",
    "source_url": ""
   },
   {
@@ -39120,7 +39390,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-10 $0.5425",
+   "basis": "last confirmed 2026-10-09 $0.5425",
    "source_url": ""
   },
   {
@@ -39150,7 +39420,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.16",
+   "basis": "last confirmed 2027-01-08 $0.16",
    "source_url": ""
   },
   {
@@ -39259,18 +39529,18 @@
    "source_url": ""
   },
   {
-   "company": "American Tower Corporation",
-   "ticker": "AMT",
+   "company": "Community Financial System, Inc.",
+   "ticker": "CBU",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 1.79,
+   "amount_per_share": 0.49,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-12",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-13 $1.79",
+   "basis": "last confirmed 2027-01-11 $0.49",
    "source_url": ""
   },
   {
@@ -39346,21 +39616,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $0.17",
-   "source_url": ""
-  },
-  {
-   "company": "Community Financial System, Inc.",
-   "ticker": "CBU",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.49,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.49",
    "source_url": ""
   },
   {
@@ -39586,21 +39841,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.39",
-   "source_url": ""
-  },
-  {
-   "company": "DYNEX CAPITAL, INC.",
-   "ticker": "DX",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.59416,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.59416",
    "source_url": ""
   },
   {
@@ -39919,21 +40159,6 @@
    "source_url": ""
   },
   {
-   "company": "SUN COMMUNITIES, INC.",
-   "ticker": "SUI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $1.12",
-   "source_url": ""
-  },
-  {
    "company": "SUNRISE REALTY TRUST, INC.",
    "ticker": "SUNS",
    "exchange": "Nasdaq",
@@ -40051,6 +40276,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "DYNEX CAPITAL, INC.",
+   "ticker": "DX",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.60793,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.60793",
    "source_url": ""
   },
   {
@@ -40459,6 +40699,21 @@
    "source_url": ""
   },
   {
+   "company": "SUN COMMUNITIES, INC.",
+   "ticker": "SUI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $1.12",
+   "source_url": ""
+  },
+  {
    "company": "Third Coast Bancshares, Inc.",
    "ticker": "TCBX",
    "exchange": "NYSE",
@@ -40486,21 +40741,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.56",
-   "source_url": ""
-  },
-  {
-   "company": "UMB Financial Corporation",
-   "ticker": "UMBFO",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 193.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $193.75",
    "source_url": ""
   },
   {
@@ -40864,6 +41104,21 @@
    "source_url": ""
   },
   {
+   "company": "Lincoln Electric Holdings, Inc.",
+   "ticker": "LECO",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.87,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.87",
+   "source_url": ""
+  },
+  {
    "company": "Medtronic plc",
    "ticker": "MDT",
    "exchange": "NYSE",
@@ -40891,6 +41146,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "UMB Financial Corporation",
+   "ticker": "UMBFO",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 193.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $193.75",
    "source_url": ""
   },
   {
@@ -41074,6 +41344,36 @@
    "source_url": ""
   },
   {
+   "company": "AMKOR TECHNOLOGY, INC.",
+   "ticker": "AMKR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.08352,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $0.08352",
+   "source_url": ""
+  },
+  {
+   "company": "AMERICAN TOWER CORPORATION",
+   "ticker": "AMT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.79,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $1.79",
+   "source_url": ""
+  },
+  {
    "company": "BAB, Inc.",
    "ticker": "BABB",
    "exchange": "OTC",
@@ -41176,6 +41476,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-22 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "CENTERPOINT ENERGY, INC.",
+   "ticker": "CNP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.48",
    "source_url": ""
   },
   {
@@ -41446,6 +41761,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-24 $0.81688",
+   "source_url": ""
+  },
+  {
+   "company": "Royal Caribbean Cruises Ltd.",
+   "ticker": "RCL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $1.5",
    "source_url": ""
   },
   {
@@ -41824,6 +42154,21 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.087",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Investment Corporation",
    "ticker": "GAIN",
    "exchange": "Nasdaq",
@@ -42165,7 +42510,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.08",
+   "basis": "last confirmed 2026-10-30 $0.08",
    "source_url": ""
   },
   {
@@ -42180,7 +42525,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.09",
+   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -42226,6 +42571,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -45240,7 +45600,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-20 $0.85",
+   "basis": "last confirmed 2026-11-19 $0.85",
    "source_url": ""
   },
   {
@@ -45724,6 +46084,21 @@
    "source_url": ""
   },
   {
+   "company": "THE CHEESECAKE FACTORY INCORPORATED",
+   "ticker": "CAKE",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.3",
+   "source_url": ""
+  },
+  {
    "company": "Cognizant Technology Solutions",
    "ticker": "CTSH",
    "exchange": "Nasdaq",
@@ -46005,7 +46380,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-26 $0.07",
+   "basis": "last confirmed 2026-11-25 $0.07",
    "source_url": ""
   },
   {
@@ -46201,6 +46576,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.087",
    "source_url": ""
   },
   {
@@ -46575,7 +46965,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.08",
+   "basis": "last confirmed 2026-10-30 $0.08",
    "source_url": ""
   },
   {
@@ -46590,7 +46980,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.09",
+   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -46651,6 +47041,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-27 $0.072",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -48015,7 +48420,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.575",
+   "basis": "last confirmed 2026-12-03 $0.575",
    "source_url": ""
   },
   {
@@ -48199,6 +48604,21 @@
    "source_url": ""
   },
   {
+   "company": "Eagle Bancorp Montana, Inc.",
+   "ticker": "EBMT",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.1475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.1475",
+   "source_url": ""
+  },
+  {
    "company": "Evertec, Inc.",
    "ticker": "EVTC",
    "exchange": "NYSE",
@@ -48361,6 +48781,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-08 $1.34",
+   "source_url": ""
+  },
+  {
+   "company": "Landstar System, Inc.",
+   "ticker": "LSTR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.44,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-08 $0.44",
    "source_url": ""
   },
   {
@@ -48529,21 +48964,6 @@
    "source_url": ""
   },
   {
-   "company": "Landstar System, Inc.",
-   "ticker": "LSTR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.44,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-08",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-09 $0.44",
-   "source_url": ""
-  },
-  {
    "company": "Microchip Technology Inc.",
    "ticker": "MCHP",
    "exchange": "NASDAQ",
@@ -48631,21 +49051,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-10 $0.63",
-   "source_url": ""
-  },
-  {
-   "company": "CenterPoint Energy, Inc.",
-   "ticker": "CNP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.24,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-10 $0.24",
    "source_url": ""
   },
   {
@@ -48781,6 +49186,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-10 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Rush Enterprises, Inc.",
+   "ticker": "RUSHA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Rush Enterprises, Inc.",
+   "ticker": "RUSHB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Amgen",
+   "ticker": "AMGN",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 2.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-11 $2.52",
    "source_url": ""
   },
   {
@@ -49189,6 +49639,21 @@
    "source_url": ""
   },
   {
+   "company": "Associated Banc-Corp",
+   "ticker": "ABC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.3515625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.3515625",
+   "source_url": ""
+  },
+  {
    "company": "AGCO",
    "ticker": "AGCO",
    "exchange": "NYSE",
@@ -49279,18 +49744,18 @@
    "source_url": ""
   },
   {
-   "company": "BREAD FINANCIAL HOLDINGS, INC.",
+   "company": "Bread Financial Holdings, Inc.",
    "ticker": "BFH",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 30.32,
+   "amount_per_share": 22.19,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $30.32",
+   "basis": "last confirmed 2026-12-15 $22.19",
    "source_url": ""
   },
   {
@@ -49635,7 +50100,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.26",
+   "basis": "last confirmed 2026-12-15 $0.26",
    "source_url": ""
   },
   {
@@ -50100,7 +50565,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.25",
+   "basis": "last confirmed 2026-12-15 $0.25",
    "source_url": ""
   },
   {
@@ -50599,6 +51064,21 @@
    "source_url": ""
   },
   {
+   "company": "Arthur J. Gallagher & Co.",
+   "ticker": "AJG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.7",
+   "source_url": ""
+  },
+  {
    "company": "BAR HARBOR BANKSHARES",
    "ticker": "BHB",
    "exchange": "NYSE American",
@@ -50944,21 +51424,6 @@
    "source_url": ""
   },
   {
-   "company": "Amkor Technology, Inc.",
-   "ticker": "AMKR",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.08352,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-21",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-22 $0.08352",
-   "source_url": ""
-  },
-  {
    "company": "Vaalco Energy, Inc.",
    "ticker": "EGY",
    "exchange": "NYSE",
@@ -51226,21 +51691,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-24 $0.66",
-   "source_url": ""
-  },
-  {
-   "company": "Rush Enterprises, Inc.",
-   "ticker": "RUSHA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-24 $0.14",
    "source_url": ""
   },
   {
@@ -51529,6 +51979,21 @@
    "source_url": ""
   },
   {
+   "company": "PayPal Holdings, Inc.",
+   "ticker": "PYPL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-25 $0.14",
+   "source_url": ""
+  },
+  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -51766,6 +52231,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.087",
    "source_url": ""
   },
   {
@@ -52095,7 +52575,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.08",
+   "basis": "last confirmed 2026-10-30 $0.08",
    "source_url": ""
   },
   {
@@ -52110,7 +52590,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.09",
+   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -52156,6 +52636,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -52594,6 +53089,21 @@
    "source_url": ""
   },
   {
+   "company": "Ares Capital Corporation",
+   "ticker": "ARCC",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.48",
+   "source_url": ""
+  },
+  {
    "company": "Corebridge Parent",
    "ticker": "CRBG",
    "exchange": "NYSE",
@@ -52696,6 +53206,21 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-09-29 $0.3531",
+   "source_url": ""
+  },
+  {
+   "company": "HCA Healthcare, Inc.",
+   "ticker": "HCA",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.78,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.78",
    "source_url": ""
   },
   {
@@ -52924,21 +53449,6 @@
    "source_url": ""
   },
   {
-   "company": "AMGEN INC.",
-   "ticker": "AMGN",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 2.52,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $2.52",
-   "source_url": ""
-  },
-  {
    "company": "AMH",
    "ticker": "AMH",
    "exchange": "NYSE",
@@ -53134,6 +53644,21 @@
    "source_url": ""
   },
   {
+   "company": "Extra Space Storage Inc.",
+   "ticker": "EXR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.62,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $1.62",
+   "source_url": ""
+  },
+  {
    "company": "FIRST GUARANTY BANCSHARES, INC.",
    "ticker": "FGBI",
    "exchange": "The Nasdaq Stock Market LLC",
@@ -53206,21 +53731,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "HCA Healthcare, Inc.",
-   "ticker": "HCA",
-   "exchange": "New York Stock Exchange",
-   "security": "common",
-   "amount_per_share": 0.78,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.78",
    "source_url": ""
   },
   {
@@ -54053,14 +54563,14 @@
    "ticker": "REXR",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.351563,
+   "amount_per_share": 0.545462,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-30",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-31 $0.351563",
+   "basis": "last confirmed 2026-12-31 $0.545462",
    "source_url": ""
   },
   {
@@ -54136,21 +54646,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.105",
-   "source_url": ""
-  },
-  {
-   "company": "UMB Financial Corporation",
-   "ticker": "UMBF",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -54364,6 +54859,21 @@
    "source_url": ""
   },
   {
+   "company": "UMB Financial Corporation",
+   "ticker": "UMBF",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.5",
+   "source_url": ""
+  },
+  {
    "company": "WhiteHorse Finance, Inc.",
    "ticker": "WHF",
    "exchange": "Nasdaq",
@@ -54529,21 +55039,6 @@
    "source_url": ""
   },
   {
-   "company": "Seagate Technology Holdings plc",
-   "ticker": "STX",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.74,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-06",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-07 $0.74",
-   "source_url": ""
-  },
-  {
    "company": "Build-A-Bear Workshop, Inc.",
    "ticker": "BBW",
    "exchange": "New York Stock Exchange",
@@ -54574,18 +55069,33 @@
    "source_url": ""
   },
   {
-   "company": "Royal Caribbean Group",
-   "ticker": "RCL",
-   "exchange": "NYSE",
+   "company": "NXP Semiconductors",
+   "ticker": "NXPI",
+   "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 1.5,
+   "amount_per_share": 1.014,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-10-07",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-08 $1.5",
+   "basis": "last confirmed 2026-10-08 $1.014",
+   "source_url": ""
+  },
+  {
+   "company": "Seagate Technology Holdings plc",
+   "ticker": "STX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.76,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-07 $0.76",
    "source_url": ""
   },
   {
@@ -54615,7 +55125,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-10 $0.5425",
+   "basis": "last confirmed 2026-10-09 $0.5425",
    "source_url": ""
   },
   {
@@ -54645,7 +55155,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.16",
+   "basis": "last confirmed 2027-01-08 $0.16",
    "source_url": ""
   },
   {
@@ -54784,21 +55294,6 @@
    "source_url": ""
   },
   {
-   "company": "American Tower Corporation",
-   "ticker": "AMT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.79,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-11",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-13 $1.79",
-   "source_url": ""
-  },
-  {
    "company": "Apple Hospitality REIT, Inc.",
    "ticker": "APLE",
    "exchange": "NYSE",
@@ -54826,6 +55321,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.0655",
+   "source_url": ""
+  },
+  {
+   "company": "Community Financial System, Inc.",
+   "ticker": "CBU",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.49,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-11 $0.49",
    "source_url": ""
   },
   {
@@ -54886,21 +55396,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.17708",
-   "source_url": ""
-  },
-  {
-   "company": "Community Financial System, Inc.",
-   "ticker": "CBU",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.49,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-12",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-13 $0.49",
    "source_url": ""
   },
   {
@@ -55144,21 +55639,6 @@
    "source_url": ""
   },
   {
-   "company": "DYNEX CAPITAL, INC.",
-   "ticker": "DX",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.59416,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.59416",
-   "source_url": ""
-  },
-  {
    "company": "EPR Properties",
    "ticker": "EPR",
    "exchange": "NYSE",
@@ -55399,21 +55879,6 @@
    "source_url": ""
   },
   {
-   "company": "SUN COMMUNITIES, INC.",
-   "ticker": "SUI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $1.12",
-   "source_url": ""
-  },
-  {
    "company": "SUNRISE REALTY TRUST, INC.",
    "ticker": "SUNS",
    "exchange": "Nasdaq",
@@ -55546,6 +56011,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "DYNEX CAPITAL, INC.",
+   "ticker": "DX",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.60793,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.60793",
    "source_url": ""
   },
   {
@@ -55939,6 +56419,21 @@
    "source_url": ""
   },
   {
+   "company": "SUN COMMUNITIES, INC.",
+   "ticker": "SUI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $1.12",
+   "source_url": ""
+  },
+  {
    "company": "Third Coast Bancshares, Inc.",
    "ticker": "TCBX",
    "exchange": "NYSE",
@@ -55996,21 +56491,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $40.0",
-   "source_url": ""
-  },
-  {
-   "company": "UMB Financial Corporation",
-   "ticker": "UMBFO",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 193.75,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $193.75",
    "source_url": ""
   },
   {
@@ -56359,6 +56839,21 @@
    "source_url": ""
   },
   {
+   "company": "Lincoln Electric Holdings, Inc.",
+   "ticker": "LECO",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.87,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.87",
+   "source_url": ""
+  },
+  {
    "company": "Medtronic plc",
    "ticker": "MDT",
    "exchange": "NYSE",
@@ -56401,6 +56896,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-20 $0.10417",
+   "source_url": ""
+  },
+  {
+   "company": "UMB Financial Corporation",
+   "ticker": "UMBFO",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 193.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $193.75",
    "source_url": ""
   },
   {
@@ -56599,6 +57109,36 @@
    "source_url": ""
   },
   {
+   "company": "AMKOR TECHNOLOGY, INC.",
+   "ticker": "AMKR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.08352,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $0.08352",
+   "source_url": ""
+  },
+  {
+   "company": "AMERICAN TOWER CORPORATION",
+   "ticker": "AMT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.79,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-20 $1.79",
+   "source_url": ""
+  },
+  {
    "company": "BAB, Inc.",
    "ticker": "BABB",
    "exchange": "OTC",
@@ -56671,6 +57211,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-20 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "CENTERPOINT ENERGY, INC.",
+   "ticker": "CNP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.48",
    "source_url": ""
   },
   {
@@ -56974,6 +57529,21 @@
    "source_url": ""
   },
   {
+   "company": "Royal Caribbean Cruises Ltd.",
+   "ticker": "RCL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $1.5",
+   "source_url": ""
+  },
+  {
    "company": "TOMPKINS FINANCIAL CORPORATION",
    "ticker": "TMP",
    "exchange": "NYSE",
@@ -57244,6 +57814,21 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.087",
+   "source_url": ""
+  },
+  {
    "company": "Helios Technologies, Inc.",
    "ticker": "HLIO",
    "exchange": "NYSE",
@@ -57499,6 +58084,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "abrdn Healthcare Opportunities Fund",
    "ticker": "THQ",
    "exchange": "NYSE",
@@ -57541,6 +58156,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-26 $0.29",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
