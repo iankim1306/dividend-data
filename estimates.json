@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-28 18:17",
+ "updatedAt": "2026-10-28 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3908,
+ "count": 3907,
  "items": [
   {
    "company": "Bentley Systems, Incorporated",
@@ -31,21 +31,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-30 $0.155",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.3425",
    "source_url": ""
   },
   {
@@ -139,21 +124,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
-   "source_url": ""
-  },
-  {
    "company": "LTC PROPERTIES INC",
    "ticker": "LTC",
    "exchange": "NYSE",
@@ -214,21 +184,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $1.09",
-   "source_url": ""
-  },
-  {
    "company": "Company",
    "ticker": "RC",
    "exchange": "NYSE",
@@ -241,21 +196,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $1.63",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-10-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
    "source_url": ""
   },
   {
@@ -1770,7 +1710,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.3425",
+   "basis": "last confirmed 2026-10-30 $0.3425",
    "source_url": ""
   },
   {
@@ -1995,7 +1935,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -2205,7 +2145,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $1.09",
+   "basis": "last confirmed 2026-10-30 $1.09",
    "source_url": ""
   },
   {
@@ -2250,7 +2190,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -4204,21 +4144,6 @@
    "source_url": ""
   },
   {
-   "company": "Stepan Company",
-   "ticker": "SCL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.395,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.395",
-   "source_url": ""
-  },
-  {
    "company": "Stifel Financial Corporation",
    "ticker": "SF",
    "exchange": "NYSE",
@@ -5715,7 +5640,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.3425",
+   "basis": "last confirmed 2026-10-30 $0.3425",
    "source_url": ""
   },
   {
@@ -6060,7 +5985,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -6330,7 +6255,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $1.09",
+   "basis": "last confirmed 2026-10-30 $1.09",
    "source_url": ""
   },
   {
@@ -6390,7 +6315,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -10710,7 +10635,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.3425",
+   "basis": "last confirmed 2026-10-30 $0.3425",
    "source_url": ""
   },
   {
@@ -10950,7 +10875,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -11175,7 +11100,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $1.09",
+   "basis": "last confirmed 2026-10-30 $1.09",
    "source_url": ""
   },
   {
@@ -11235,7 +11160,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -15345,7 +15270,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.3425",
+   "basis": "last confirmed 2026-10-30 $0.3425",
    "source_url": ""
   },
   {
@@ -15570,7 +15495,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -15765,7 +15690,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $1.09",
+   "basis": "last confirmed 2026-10-30 $1.09",
    "source_url": ""
   },
   {
@@ -15810,7 +15735,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -18938,14 +18863,14 @@
    "ticker": "SCL",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.395,
+   "amount_per_share": 0.405,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-16",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.395",
+   "basis": "last confirmed 2026-12-15 $0.405",
    "source_url": ""
   },
   {
@@ -20625,7 +20550,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.3425",
+   "basis": "last confirmed 2026-10-30 $0.3425",
    "source_url": ""
   },
   {
@@ -20880,7 +20805,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -21135,7 +21060,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $1.09",
+   "basis": "last confirmed 2026-10-30 $1.09",
    "source_url": ""
   },
   {
@@ -21180,7 +21105,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -26325,7 +26250,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.3425",
+   "basis": "last confirmed 2026-10-30 $0.3425",
    "source_url": ""
   },
   {
@@ -26580,7 +26505,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -26790,7 +26715,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $1.09",
+   "basis": "last confirmed 2026-10-30 $1.09",
    "source_url": ""
   },
   {
@@ -26835,7 +26760,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -30795,7 +30720,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.3425",
+   "basis": "last confirmed 2026-10-30 $0.3425",
    "source_url": ""
   },
   {
@@ -31080,7 +31005,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -31365,7 +31290,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $1.09",
+   "basis": "last confirmed 2026-10-30 $1.09",
    "source_url": ""
   },
   {
@@ -31455,7 +31380,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -34688,14 +34613,14 @@
    "ticker": "SCL",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.395,
+   "amount_per_share": 0.405,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-15",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.395",
+   "basis": "last confirmed 2026-12-15 $0.405",
    "source_url": ""
   },
   {
@@ -36360,7 +36285,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.3425",
+   "basis": "last confirmed 2026-10-30 $0.3425",
    "source_url": ""
   },
   {
@@ -36585,7 +36510,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -36795,7 +36720,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $1.09",
+   "basis": "last confirmed 2026-10-30 $1.09",
    "source_url": ""
   },
   {
@@ -36840,7 +36765,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -42060,7 +41985,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.3425",
+   "basis": "last confirmed 2026-10-30 $0.3425",
    "source_url": ""
   },
   {
@@ -42285,7 +42210,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -42495,7 +42420,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $1.09",
+   "basis": "last confirmed 2026-10-30 $1.09",
    "source_url": ""
   },
   {
@@ -42540,7 +42465,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -46485,7 +46410,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.3425",
+   "basis": "last confirmed 2026-10-30 $0.3425",
    "source_url": ""
   },
   {
@@ -46710,7 +46635,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -46950,7 +46875,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $1.09",
+   "basis": "last confirmed 2026-10-30 $1.09",
    "source_url": ""
   },
   {
@@ -46995,7 +46920,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -50498,14 +50423,14 @@
    "ticker": "SCL",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.395,
+   "amount_per_share": 0.405,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.395",
+   "basis": "last confirmed 2026-12-15 $0.405",
    "source_url": ""
   },
   {
@@ -52140,7 +52065,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.3425",
+   "basis": "last confirmed 2026-10-30 $0.3425",
    "source_url": ""
   },
   {
@@ -52365,7 +52290,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -52560,7 +52485,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $1.09",
+   "basis": "last confirmed 2026-10-30 $1.09",
    "source_url": ""
   },
   {
@@ -52605,7 +52530,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.255",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -57739,6 +57664,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.3425",
+   "source_url": ""
+  },
+  {
    "company": "Bluerock Private Real Estate Fund",
    "ticker": "BPRE",
    "exchange": "NYSE",
@@ -57901,6 +57841,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.158",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -58084,6 +58039,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Cohen & Steers Total Return Realty Fund, Inc.",
    "ticker": "RFI",
    "exchange": "NYSE",
@@ -58111,6 +58081,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {

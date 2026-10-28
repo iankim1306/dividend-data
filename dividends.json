@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28 18:17",
+ "updatedAt": "2026-10-28 21:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -48299,6 +48299,21 @@
    "collected_at": "2026-08-15 00:19"
   },
   {
+   "company": "Infrastructure Capital",
+   "exchange": "NYSE Arca",
+   "ticker": "BNDS",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "2026-10-29",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-dividends-for-its-bond-income-etf-bnds-equity-income-etf-icap-small-cap-income-etf-scap-and-nasdaq-option-income-etf-qvol-302921727.html",
+   "collected_at": "2026-10-28 21:17"
+  },
+  {
    "company": "Bluerock Private Real Estate Fund",
    "exchange": "NYSE",
    "ticker": "BPRE",
@@ -48673,6 +48688,21 @@
    "collected_at": "2026-10-02 06:18"
   },
   {
+   "company": "Infrastructure Capital",
+   "exchange": "NYSE Arca",
+   "ticker": "ICAP",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "2026-10-29",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-dividends-for-its-bond-income-etf-bnds-equity-income-etf-icap-small-cap-income-etf-scap-and-nasdaq-option-income-etf-qvol-302921727.html",
+   "collected_at": "2026-10-28 21:17"
+  },
+  {
    "company": "Invesco Value Municipal Income Trust",
    "exchange": null,
    "ticker": "IIM",
@@ -48958,6 +48988,21 @@
    "collected_at": "2026-10-02 06:18"
   },
   {
+   "company": "Infrastructure Capital",
+   "exchange": "NYSE Arca",
+   "ticker": "QVOL",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "2026-10-29",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-dividends-for-its-bond-income-etf-bnds-equity-income-etf-icap-small-cap-income-etf-scap-and-nasdaq-option-income-etf-qvol-302921727.html",
+   "collected_at": "2026-10-28 21:17"
+  },
+  {
    "company": "Regency Centers Corporation",
    "exchange": "NASDAQ",
    "ticker": "REG",
@@ -49046,6 +49091,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-quality-income-realty-fund-inc-rqi-notification-of-sources-of-distribution-under-section-19a-302921336.html",
    "collected_at": "2026-10-28 09:17"
+  },
+  {
+   "company": "Infrastructure Capital",
+   "exchange": "NYSE Arca",
+   "ticker": "SCAP",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "2026-10-29",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/infrastructure-capital-announces-dividends-for-its-bond-income-etf-bnds-equity-income-etf-icap-small-cap-income-etf-scap-and-nasdaq-option-income-etf-qvol-302921727.html",
+   "collected_at": "2026-10-28 21:17"
   },
   {
    "company": "TD SYNNEX",
@@ -55147,6 +55207,21 @@
    "collected_at": "2026-09-17 06:19"
   },
   {
+   "company": "Stepan Company",
+   "exchange": "NYSE",
+   "ticker": "SCL",
+   "security": "common",
+   "amount_per_share": 0.405,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/stepan-increases-quarterly-cash-dividend-marking-the-59th-consecutive-year-of-increases-302921459.html",
+   "collected_at": "2026-10-28 21:17"
+  },
+  {
    "company": "Stellus Capital Investment Corporation",
    "exchange": "NYSE",
    "ticker": "SCM",
@@ -57141,5 +57216,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 3830
+ "count": 3835
 }
