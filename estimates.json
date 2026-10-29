@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-30 00:17",
+ "updatedAt": "2026-10-30 03:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3989,
+ "count": 3988,
  "items": [
   {
    "company": "GERMAN AMERICAN BANCORP, INC.",
@@ -106,21 +106,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-05 $0.130208",
-   "source_url": ""
-  },
-  {
-   "company": "Perrigo Company plc",
-   "ticker": "PRGO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.29,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-04",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.29",
    "source_url": ""
   },
   {
@@ -11584,21 +11569,6 @@
    "source_url": ""
   },
   {
-   "company": "Perrigo Company plc",
-   "ticker": "PRGO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.29,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-03",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.29",
-   "source_url": ""
-  },
-  {
    "company": "AZZ Inc.",
    "ticker": "AZZ",
    "exchange": "NYSE",
@@ -18616,6 +18586,21 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "Perrigo Company plc",
+   "ticker": "PRGO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.29",
    "source_url": ""
   },
   {
@@ -27754,21 +27739,6 @@
    "source_url": ""
   },
   {
-   "company": "Perrigo Company plc",
-   "ticker": "PRGO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.29,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-05",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.29",
-   "source_url": ""
-  },
-  {
    "company": "AZZ Inc.",
    "ticker": "AZZ",
    "exchange": "NYSE",
@@ -34846,6 +34816,21 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "Perrigo Company plc",
+   "ticker": "PRGO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.29",
    "source_url": ""
   },
   {
@@ -43984,21 +43969,6 @@
    "source_url": ""
   },
   {
-   "company": "Perrigo Company plc",
-   "ticker": "PRGO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.29,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-04",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-05 $0.29",
-   "source_url": ""
-  },
-  {
    "company": "United-Guardian, Inc.",
    "ticker": "UG",
    "exchange": "Nasdaq",
@@ -51106,6 +51076,21 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "Perrigo Company plc",
+   "ticker": "PRGO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.29",
    "source_url": ""
   },
   {
