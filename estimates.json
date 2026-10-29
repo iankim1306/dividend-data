@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-30 03:17",
+ "updatedAt": "2026-10-30 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3988,
+ "count": 4000,
  "items": [
   {
    "company": "GERMAN AMERICAN BANCORP, INC.",
@@ -616,21 +616,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-20 $0.48",
-   "source_url": ""
-  },
-  {
-   "company": "MGIC Investment Corporation",
-   "ticker": "MTG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-20 $0.17",
    "source_url": ""
   },
   {
@@ -13459,6 +13444,21 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers, Inc.",
+   "ticker": "CNS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.67,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-19 $0.67",
+   "source_url": ""
+  },
+  {
    "company": "Calamos Long/Short Equity & Dynamic Income Trust",
    "ticker": "CPZ",
    "exchange": "NASDAQ",
@@ -13486,21 +13486,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.135",
-   "source_url": ""
-  },
-  {
-   "company": "MGIC Investment Corporation",
-   "ticker": "MTG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-18",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-20 $0.17",
    "source_url": ""
   },
   {
@@ -14011,6 +13996,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-24 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "MGIC Investment Corporation",
+   "ticker": "MTG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.17",
    "source_url": ""
   },
   {
@@ -14761,6 +14761,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.59",
+   "source_url": ""
+  },
+  {
+   "company": "Bristow Group Inc.",
+   "ticker": "VTOL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-27 $0.125",
    "source_url": ""
   },
   {
@@ -15961,6 +15976,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.84",
+   "source_url": ""
+  },
+  {
+   "company": "Esquire Financial Holdings, Inc.",
+   "ticker": "ESQ",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.2",
    "source_url": ""
   },
   {
@@ -18646,6 +18676,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Robert Half",
+   "ticker": "RHI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.59",
    "source_url": ""
   },
   {
@@ -29674,18 +29719,18 @@
    "source_url": ""
   },
   {
-   "company": "MGIC Investment Corporation",
-   "ticker": "MTG",
+   "company": "Cohen & Steers, Inc.",
+   "ticker": "CNS",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.17,
+   "amount_per_share": 0.67,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-05-20",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-20 $0.17",
+   "basis": "last confirmed 2026-11-19 $0.67",
    "source_url": ""
   },
   {
@@ -30211,6 +30256,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-24 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "MGIC Investment Corporation",
+   "ticker": "MTG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.17",
    "source_url": ""
   },
   {
@@ -31684,6 +31744,21 @@
    "source_url": ""
   },
   {
+   "company": "Bristow Group Inc.",
+   "ticker": "VTOL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-27 $0.125",
+   "source_url": ""
+  },
+  {
    "company": "Invesco Senior Income Trust",
    "ticker": "VVR",
    "exchange": "",
@@ -32161,6 +32236,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.84",
+   "source_url": ""
+  },
+  {
+   "company": "Esquire Financial Holdings, Inc.",
+   "ticker": "ESQ",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.2",
    "source_url": ""
   },
   {
@@ -34861,6 +34951,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Robert Half",
+   "ticker": "RHI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.59",
    "source_url": ""
   },
   {
@@ -41464,6 +41569,21 @@
    "source_url": ""
   },
   {
+   "company": "Vistra",
+   "ticker": "VST",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 44.375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $44.375",
+   "source_url": ""
+  },
+  {
    "company": "Thornburg Income Builder Opportunities Trust",
    "ticker": "TBLD",
    "exchange": "NASDAQ",
@@ -45889,6 +46009,21 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers, Inc.",
+   "ticker": "CNS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.67,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-19 $0.67",
+   "source_url": ""
+  },
+  {
    "company": "Janus Living, Inc.",
    "ticker": "JAN",
    "exchange": "NYSE",
@@ -45901,21 +46036,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-23 $0.0475",
-   "source_url": ""
-  },
-  {
-   "company": "MGIC Investment Corporation",
-   "ticker": "MTG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-20 $0.17",
    "source_url": ""
   },
   {
@@ -46426,6 +46546,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-24 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "MGIC Investment Corporation",
+   "ticker": "MTG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.17",
    "source_url": ""
   },
   {
@@ -47974,6 +48109,21 @@
    "source_url": ""
   },
   {
+   "company": "Bristow Group Inc.",
+   "ticker": "VTOL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-27 $0.125",
+   "source_url": ""
+  },
+  {
    "company": "Wynn Resorts, Limited",
    "ticker": "WYNN",
    "exchange": "NASDAQ",
@@ -48406,6 +48556,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-01 $0.84",
+   "source_url": ""
+  },
+  {
+   "company": "Esquire Financial Holdings, Inc.",
+   "ticker": "ESQ",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.2",
    "source_url": ""
   },
   {
@@ -51121,6 +51286,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Robert Half",
+   "ticker": "RHI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.59",
    "source_url": ""
   },
   {
