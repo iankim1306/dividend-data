@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-29 18:17",
+ "updatedAt": "2026-10-29 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 3986,
+ "count": 3985,
  "items": [
   {
    "company": "CSWC",
@@ -1276,21 +1276,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-27 $0.57",
-   "source_url": ""
-  },
-  {
-   "company": "Blue Owl Capital Inc.",
-   "ticker": "OWL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.23,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-27 $0.23",
    "source_url": ""
   },
   {
@@ -14269,6 +14254,21 @@
    "source_url": ""
   },
   {
+   "company": "Blue Owl Capital Inc.",
+   "ticker": "OWL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Seaboard Corporation",
    "ticker": "SEB",
    "exchange": "NYSE American",
@@ -14656,21 +14656,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-27 $0.57",
-   "source_url": ""
-  },
-  {
-   "company": "Blue Owl Capital Inc.",
-   "ticker": "OWL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.23,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-27 $0.23",
    "source_url": ""
   },
   {
@@ -30454,6 +30439,21 @@
    "source_url": ""
   },
   {
+   "company": "Blue Owl Capital Inc.",
+   "ticker": "OWL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Seaboard Corporation",
    "ticker": "SEB",
    "exchange": "NYSE American",
@@ -30871,21 +30871,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-27 $0.57",
-   "source_url": ""
-  },
-  {
-   "company": "Blue Owl Capital Inc.",
-   "ticker": "OWL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.23,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-27",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-27 $0.23",
    "source_url": ""
   },
   {
@@ -46654,6 +46639,21 @@
    "source_url": ""
   },
   {
+   "company": "Blue Owl Capital Inc.",
+   "ticker": "OWL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Seaboard Corporation",
    "ticker": "SEB",
    "exchange": "NYSE American",
@@ -47566,21 +47566,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-27 $0.57",
-   "source_url": ""
-  },
-  {
-   "company": "Blue Owl Capital Inc.",
-   "ticker": "OWL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.23,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-27 $0.23",
    "source_url": ""
   },
   {
