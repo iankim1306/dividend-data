@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31 03:17",
+ "updatedAt": "2026-10-31 06:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -50743,6 +50743,21 @@
    "collected_at": "2026-10-02 06:18"
   },
   {
+   "company": "John Hancock Tax-Advantaged Dividend Income Fund",
+   "exchange": "NYSE",
+   "ticker": "HTD",
+   "security": "common",
+   "amount_per_share": 0.158,
+   "currency": "USD",
+   "record_date": "2026-10-13",
+   "payable_date": "2026-10-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/john-hancock-tax-advantaged-dividend-income-fund-notice-to-shareholders--sources-of-distribution-under-section-19a-302923948.html",
+   "collected_at": "2026-10-31 06:17"
+  },
+  {
    "company": "Infrastructure Capital",
    "exchange": "NYSE Arca",
    "ticker": "ICAP",
@@ -56094,6 +56109,51 @@
    "collected_at": "2026-10-30 09:44"
   },
   {
+   "company": "Neuberger Next Generation Connectivity Fund Inc.",
+   "exchange": "NYSE",
+   "ticker": "NBXG",
+   "security": "common",
+   "amount_per_share": 0.132,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-announces-increase-in-distribution-rate-and-declaration-of-next-monthly-distribution-302924384.html",
+   "collected_at": "2026-10-31 06:17"
+  },
+  {
+   "company": "Neuberger High Yield Strategies Fund Inc.",
+   "exchange": "NYSE American",
+   "ticker": "NHS",
+   "security": "common",
+   "amount_per_share": 0.0905,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-high-yield-strategies-fund-announces-monthly-distribution-302924374.html",
+   "collected_at": "2026-10-31 06:17"
+  },
+  {
+   "company": "Neuberger Energy Infrastructure and Income Fund Inc.",
+   "exchange": "NYSE American",
+   "ticker": "NML",
+   "security": "common",
+   "amount_per_share": 0.07008,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-energy-infrastructure-and-income-fund-announces-monthly-distribution-302924378.html",
+   "collected_at": "2026-10-31 06:17"
+  },
+  {
    "company": "Newmark Group, Inc.",
    "exchange": "Nasdaq",
    "ticker": "NMRK",
@@ -56107,6 +56167,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1690680/000162828026068053/nmrkex991secversion.htm",
    "collected_at": "2026-10-30 09:48"
+  },
+  {
+   "company": "Neuberger Real Estate Securities Income Fund Inc.",
+   "exchange": "NYSE American",
+   "ticker": "NRO",
+   "security": "common",
+   "amount_per_share": 0.0312,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/neuberger-real-estate-securities-income-fund-announces-monthly-distribution-302924386.html",
+   "collected_at": "2026-10-31 06:17"
   },
   {
    "company": "North European Oil Royalty Trust",
@@ -56482,6 +56557,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/esquire-financial-holdings-inc-declares-regular-quarterly-dividend-for-common-stockholders-302924107.html",
    "collected_at": "2026-10-30 06:17"
+  },
+  {
+   "company": "Entergy",
+   "exchange": "NYSE",
+   "ticker": "ETR",
+   "security": "common",
+   "amount_per_share": 0.68,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/entergy-increases-quarterly-dividend-payment-to-shareholders-302925348.html",
+   "collected_at": "2026-10-31 06:17"
   },
   {
    "company": "FirstEnergy Corp.",
@@ -60456,6 +60546,21 @@
    "collected_at": "2026-10-30 09:46"
   },
   {
+   "company": "Leidos Holdings, Inc.",
+   "exchange": "NYSE",
+   "ticker": "LDOS",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "2026-12-15",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/leidos-holdings-inc-increases-quarterly-cash-dividend-by-4-7-302924879.html",
+   "collected_at": "2026-10-31 06:17"
+  },
+  {
    "company": "Lockheed Martin Corporation",
    "exchange": "NYSE",
    "ticker": "LMT",
@@ -61881,5 +61986,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 4146
+ "count": 4153
 }
