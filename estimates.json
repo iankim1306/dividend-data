@@ -1,53 +1,8 @@
 {
- "updatedAt": "2026-11-01 21:17",
+ "updatedAt": "2026-11-02 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
  "count": 4179,
  "items": [
-  {
-   "company": "Commerce Bancshares, Inc.",
-   "ticker": "CBSH",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.55,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.55",
-   "source_url": ""
-  },
-  {
-   "company": "Freeport-McMoRan Inc.",
-   "ticker": "FCX",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.15",
-   "source_url": ""
-  },
-  {
-   "company": "Verizon Communications Inc",
-   "ticker": "VZ",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.7075,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.7075",
-   "source_url": ""
-  },
   {
    "company": "Gladstone Capital Corporation",
    "ticker": "GLAD",
@@ -62599,6 +62554,21 @@
    "source_url": ""
   },
   {
+   "company": "Commerce Bancshares, Inc.",
+   "ticker": "CBSH",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.55,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-03 $0.55",
+   "source_url": ""
+  },
+  {
    "company": "The Campbell's Company",
    "ticker": "CPB",
    "exchange": "Nasdaq",
@@ -62626,6 +62596,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $1.62",
+   "source_url": ""
+  },
+  {
+   "company": "Freeport-McMoRan Inc.",
+   "ticker": "FCX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-03 $0.15",
    "source_url": ""
   },
   {
@@ -62686,6 +62671,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.2",
+   "source_url": ""
+  },
+  {
+   "company": "Verizon Communications Inc",
+   "ticker": "VZ",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7075,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-03 $0.7075",
    "source_url": ""
   }
  ]
