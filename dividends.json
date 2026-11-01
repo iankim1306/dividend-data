@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01 06:17",
+ "updatedAt": "2026-11-01 09:40",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -55495,6 +55495,21 @@
    "collected_at": "2026-10-30 09:18"
   },
   {
+   "company": "Flowco MergeCo LLC",
+   "exchange": null,
+   "ticker": null,
+   "security": "other",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-11-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2035149/000119312526439872/floc-20261030.htm",
+   "collected_at": "2026-11-01 09:20"
+  },
+  {
    "company": "Bladex, Inc.",
    "exchange": "NYSE",
    "ticker": "BLX",
@@ -62931,5 +62946,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 4216
+ "count": 4217
 }
