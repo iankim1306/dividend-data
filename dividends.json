@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02 06:17",
+ "updatedAt": "2026-11-02 09:37",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -35715,6 +35715,21 @@
    "collected_at": "2026-08-14 09:23"
   },
   {
+   "company": "OneSpaWorld Holdings Limited",
+   "exchange": "Nasdaq",
+   "ticker": "OSW",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "2026-08-19",
+   "payable_date": "2026-09-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1758488/000119312526437886/osw-20260930.htm",
+   "collected_at": "2026-11-02 09:26"
+  },
+  {
    "company": "Jefferson Capital, Inc.",
    "exchange": null,
    "ticker": null,
@@ -50429,6 +50444,21 @@
    "collected_at": "2026-10-31 09:41"
   },
   {
+   "company": "American Electric Power Company, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "AEP",
+   "security": "common",
+   "amount_per_share": 0.97,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-10-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000072/aep-20260930.htm",
+   "collected_at": "2026-11-02 09:26"
+  },
+  {
    "company": "Alamo Group Inc.",
    "exchange": "NYSE",
    "ticker": "ALG",
@@ -57864,6 +57894,21 @@
    "collected_at": "2026-10-29 09:17"
   },
   {
+   "company": "OneSpaWorld Holdings Limited",
+   "exchange": "Nasdaq",
+   "ticker": "OSW",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "2026-11-18",
+   "payable_date": "2026-12-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1758488/000119312526437886/osw-20260930.htm",
+   "collected_at": "2026-11-02 09:26"
+  },
+  {
    "company": "AptarGroup, Inc.",
    "exchange": "NYSE",
    "ticker": "ATR",
@@ -61941,6 +61986,36 @@
    "collected_at": "2026-10-30 09:47"
   },
   {
+   "company": "Restaurant Brands International",
+   "exchange": null,
+   "ticker": "RBI",
+   "security": "common",
+   "amount_per_share": 0.65,
+   "currency": "USD",
+   "record_date": "2026-12-22",
+   "payable_date": "2027-01-05",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1618755/000161875526000042/qsr-20260930.htm",
+   "collected_at": "2026-11-02 09:26"
+  },
+  {
+   "company": "Restaurant Brands International",
+   "exchange": null,
+   "ticker": "RBI",
+   "security": "other",
+   "amount_per_share": 0.65,
+   "currency": "USD",
+   "record_date": "2026-12-22",
+   "payable_date": "2027-01-05",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1618755/000161875526000042/qsr-20260930.htm",
+   "collected_at": "2026-11-02 09:26"
+  },
+  {
    "company": "Bank First Corporation",
    "exchange": "Nasdaq",
    "ticker": "BFC",
@@ -62269,6 +62344,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000086/hban-2026x10x22xex991.htm",
    "collected_at": "2026-10-26 09:18"
+  },
+  {
+   "company": "Federal Realty Investment Trust",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 0.3125,
+   "currency": "USD",
+   "record_date": "2027-01-04",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490326000054/frt-9302026xex991.htm",
+   "collected_at": "2026-11-02 09:25"
   },
   {
    "company": "Braemar Hotels & Resorts Inc.",
@@ -62946,5 +63036,5 @@
    "collected_at": "2026-08-06 23:57"
   }
  ],
- "count": 4217
+ "count": 4223
 }
