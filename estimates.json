@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-03 18:17",
+ "updatedAt": "2026-11-03 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4192,
+ "count": 4188,
  "items": [
   {
    "company": "Gladstone Capital Corporation",
@@ -5719,21 +5719,6 @@
    "source_url": ""
   },
   {
-   "company": "MAIN STREET CAPITAL CORPORATION",
-   "ticker": "MAIN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.265,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.265",
-   "source_url": ""
-  },
-  {
    "company": "Medical Properties Trust, Inc.",
    "ticker": "MPT",
    "exchange": "NYSE",
@@ -9976,21 +9961,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.085",
-   "source_url": ""
-  },
-  {
-   "company": "MAIN STREET CAPITAL CORPORATION",
-   "ticker": "MAIN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.265,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.265",
    "source_url": ""
   },
   {
@@ -14836,21 +14806,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-31 $0.7",
-   "source_url": ""
-  },
-  {
-   "company": "MAIN STREET CAPITAL CORPORATION",
-   "ticker": "MAIN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.265,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.265",
    "source_url": ""
   },
   {
@@ -21604,21 +21559,6 @@
    "source_url": ""
   },
   {
-   "company": "MAIN STREET CAPITAL CORPORATION",
-   "ticker": "MAIN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.265,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.265",
-   "source_url": ""
-  },
-  {
    "company": "Merck & Co., Inc.",
    "ticker": "MRK",
    "exchange": "NYSE",
@@ -23836,6 +23776,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Main Street Capital Corporation",
+   "ticker": "MAIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-03-15 $0.27",
    "source_url": ""
   },
   {
@@ -27229,21 +27184,6 @@
    "source_url": ""
   },
   {
-   "company": "MAIN STREET CAPITAL CORPORATION",
-   "ticker": "MAIN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.265,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.265",
-   "source_url": ""
-  },
-  {
    "company": "MFA Financial, Inc.",
    "ticker": "MFA",
    "exchange": "NYSE",
@@ -28696,6 +28636,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $0.0425",
+   "source_url": ""
+  },
+  {
+   "company": "Main Street Capital Corporation",
+   "ticker": "MAIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-03-15 $0.27",
    "source_url": ""
   },
   {
@@ -32239,21 +32194,6 @@
    "source_url": ""
   },
   {
-   "company": "MAIN STREET CAPITAL CORPORATION",
-   "ticker": "MAIN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.265,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.265",
-   "source_url": ""
-  },
-  {
    "company": "NexPoint Diversified Real Estate Trust",
    "ticker": "NXDT",
    "exchange": "NYSE",
@@ -34531,6 +34471,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.03",
+   "source_url": ""
+  },
+  {
+   "company": "Main Street Capital Corporation",
+   "ticker": "MAIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-03-15 $0.27",
    "source_url": ""
   },
   {
@@ -38554,21 +38509,6 @@
    "source_url": ""
   },
   {
-   "company": "MAIN STREET CAPITAL CORPORATION",
-   "ticker": "MAIN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.265,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.265",
-   "source_url": ""
-  },
-  {
    "company": "MFA Financial, Inc.",
    "ticker": "MFA",
    "exchange": "NYSE",
@@ -41161,6 +41101,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "Main Street Capital Corporation",
+   "ticker": "MAIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-03-15 $0.27",
    "source_url": ""
   },
   {
@@ -44614,21 +44569,6 @@
    "source_url": ""
   },
   {
-   "company": "MAIN STREET CAPITAL CORPORATION",
-   "ticker": "MAIN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.265,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.265",
-   "source_url": ""
-  },
-  {
    "company": "Marvell Technology, Inc.",
    "ticker": "MRVL",
    "exchange": "NASDAQ",
@@ -45991,6 +45931,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "Main Street Capital Corporation",
+   "ticker": "MAIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-03-15 $0.27",
    "source_url": ""
   },
   {
@@ -49804,21 +49759,6 @@
    "source_url": ""
   },
   {
-   "company": "MAIN STREET CAPITAL CORPORATION",
-   "ticker": "MAIN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.265,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.265",
-   "source_url": ""
-  },
-  {
    "company": "NexPoint Diversified Real Estate Trust",
    "ticker": "NXDT",
    "exchange": "NYSE",
@@ -52096,6 +52036,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.03",
+   "source_url": ""
+  },
+  {
+   "company": "Main Street Capital Corporation",
+   "ticker": "MAIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-03-15 $0.27",
    "source_url": ""
   },
   {
@@ -55909,21 +55864,6 @@
    "source_url": ""
   },
   {
-   "company": "MAIN STREET CAPITAL CORPORATION",
-   "ticker": "MAIN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.265,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.265",
-   "source_url": ""
-  },
-  {
    "company": "NIKE, INC.",
    "ticker": "NKE",
    "exchange": "NYSE",
@@ -58576,6 +58516,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.03",
+   "source_url": ""
+  },
+  {
+   "company": "Main Street Capital Corporation",
+   "ticker": "MAIN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-03-15 $0.27",
    "source_url": ""
   },
   {
@@ -62026,21 +61981,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.085",
-   "source_url": ""
-  },
-  {
-   "company": "MAIN STREET CAPITAL CORPORATION",
-   "ticker": "MAIN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.265,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.265",
    "source_url": ""
   },
   {
