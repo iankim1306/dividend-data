@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-03 06:17",
+ "updatedAt": "2026-11-03 09:38",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4162,
+ "count": 4192,
  "items": [
   {
    "company": "Gladstone Capital Corporation",
@@ -49,36 +49,6 @@
    "source_url": ""
   },
   {
-   "company": "Apple",
-   "ticker": "AAPL",
-   "exchange": "",
-   "security": "common",
-   "amount_per_share": 0.27,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-12",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-13 $0.27",
-   "source_url": ""
-  },
-  {
-   "company": "DHC",
-   "ticker": "DHC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-12",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-13 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "KADANT INC.",
    "ticker": "KAI",
    "exchange": "NYSE",
@@ -121,21 +91,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-13 $0.04",
-   "source_url": ""
-  },
-  {
-   "company": "First Interstate BancSystem, Inc.",
-   "ticker": "FIBK",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.47,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.47",
    "source_url": ""
   },
   {
@@ -529,21 +484,6 @@
    "source_url": ""
   },
   {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0475,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-22",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
-   "source_url": ""
-  },
-  {
    "company": "AMG",
    "ticker": "AMG",
    "exchange": "NYSE",
@@ -634,21 +574,6 @@
    "source_url": ""
   },
   {
-   "company": "Healthpeak Properties, Inc.",
-   "ticker": "DOC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.10167,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-24",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.10167",
-   "source_url": ""
-  },
-  {
    "company": "CLARUS CORPORATION",
    "ticker": "CLAR",
    "exchange": "Nasdaq",
@@ -691,21 +616,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.05",
-   "source_url": ""
-  },
-  {
-   "company": "HEALTHSTREAM INC",
-   "ticker": "HSTM",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.035,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-27",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-28 $0.035",
    "source_url": ""
   },
   {
@@ -931,21 +841,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
-   "company": "CSWC",
-   "ticker": "CSWC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.58,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.58",
    "source_url": ""
   },
   {
@@ -1294,21 +1189,6 @@
    "source_url": ""
   },
   {
-   "company": "Sabra Health Care REIT, Inc.",
-   "ticker": "SBRA",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.3,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-31 $0.3",
-   "source_url": ""
-  },
-  {
    "company": "STRATEGIC EDUCATION, INC.",
    "ticker": "STRA",
    "exchange": "Nasdaq",
@@ -1321,21 +1201,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-01 $0.6",
-   "source_url": ""
-  },
-  {
-   "company": "Unitil Corporation",
-   "ticker": "UTL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.475,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-31 $0.475",
    "source_url": ""
   },
   {
@@ -1651,21 +1516,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-03 $0.085",
-   "source_url": ""
-  },
-  {
-   "company": "CNA Financial",
-   "ticker": "CNA",
-   "exchange": "",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-03",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.48",
    "source_url": ""
   },
   {
@@ -2311,21 +2161,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.52",
-   "source_url": ""
-  },
-  {
-   "company": "The Estée Lauder Companies Inc.",
-   "ticker": "EL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.35",
    "source_url": ""
   },
   {
@@ -3259,21 +3094,6 @@
    "source_url": ""
   },
   {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0475,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-22",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
-   "source_url": ""
-  },
-  {
    "company": "Movado Group, Inc.",
    "ticker": "MOV",
    "exchange": "NYSE",
@@ -3406,21 +3226,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-23 $0.3175",
-   "source_url": ""
-  },
-  {
-   "company": "Healthpeak Properties, Inc.",
-   "ticker": "DOC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.10167,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-24",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.10167",
    "source_url": ""
   },
   {
@@ -3646,21 +3451,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "Information Services Group, Inc.",
-   "ticker": "III",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.045",
    "source_url": ""
   },
   {
@@ -4021,21 +3811,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "CSWC",
-   "ticker": "CSWC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.58,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.58",
    "source_url": ""
   },
   {
@@ -4864,6 +4639,21 @@
    "source_url": ""
   },
   {
+   "company": "Highland Opportunities and Income Fund",
+   "ticker": "HFRO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0385,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.0385",
+   "source_url": ""
+  },
+  {
    "company": "Hooker Furnishings Corporation",
    "ticker": "HOFT",
    "exchange": "Nasdaq-GS",
@@ -5149,21 +4939,6 @@
    "source_url": ""
   },
   {
-   "company": "New Mountain Finance Corporation",
-   "ticker": "NMFC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "Neuberger Energy Infrastructure and Income Fund Inc.",
    "ticker": "NML",
    "exchange": "NYSE American",
@@ -5206,21 +4981,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "NexPoint Diversified Real Estate Trust",
-   "ticker": "NXDT",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.34375,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.34375",
    "source_url": ""
   },
   {
@@ -6060,7 +5820,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-02 $0.1",
+   "basis": "last confirmed 2026-10-01 $0.1",
    "source_url": ""
   },
   {
@@ -6271,21 +6031,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-02 $0.21",
-   "source_url": ""
-  },
-  {
-   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
-   "ticker": "NSSC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-02 $0.17",
    "source_url": ""
   },
   {
@@ -8314,21 +8059,6 @@
    "source_url": ""
   },
   {
-   "company": "Match Group",
-   "ticker": "MTCH",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-20 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "Thornburg Income Builder Opportunities Trust",
    "ticker": "TBLD",
    "exchange": "NASDAQ",
@@ -8476,21 +8206,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-22 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0475,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-21",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
    "source_url": ""
   },
   {
@@ -8716,21 +8431,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "Healthpeak Properties, Inc.",
-   "ticker": "DOC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.10167,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-23",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.10167",
    "source_url": ""
   },
   {
@@ -9109,21 +8809,6 @@
    "source_url": ""
   },
   {
-   "company": "CSWC",
-   "ticker": "CSWC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.58,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.58",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -9211,6 +8896,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "Janus Living, Inc.",
+   "ticker": "JAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.0475",
    "source_url": ""
   },
   {
@@ -9589,6 +9289,21 @@
    "source_url": ""
   },
   {
+   "company": "Healthpeak Properties, Inc.",
+   "ticker": "DOC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.10167,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.10167",
+   "source_url": ""
+  },
+  {
    "company": "DoubleLine Income Solutions Fund",
    "ticker": "DSL",
    "exchange": "NYSE",
@@ -9616,6 +9331,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $1.02",
+   "source_url": ""
+  },
+  {
+   "company": "Highland Opportunities and Income Fund",
+   "ticker": "HFRO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0385,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.0385",
    "source_url": ""
   },
   {
@@ -10129,6 +9859,21 @@
    "source_url": ""
   },
   {
+   "company": "ALEXANDER’S, INC.",
+   "ticker": "ALX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 4.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-31 $4.5",
+   "source_url": ""
+  },
+  {
    "company": "Allspring Income Opportunities Fund",
    "ticker": "EAD",
    "exchange": "NYSE American",
@@ -10261,6 +10006,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-31 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "NexPoint Diversified Real Estate Trust",
+   "ticker": "NXDT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.34375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.34375",
    "source_url": ""
   },
   {
@@ -11044,21 +10804,6 @@
    "source_url": ""
   },
   {
-   "company": "Apple",
-   "ticker": "AAPL",
-   "exchange": "",
-   "security": "common",
-   "amount_per_share": 0.27,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-11",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-13 $0.27",
-   "source_url": ""
-  },
-  {
    "company": "Agree Realty Corporation",
    "ticker": "ADC",
    "exchange": "NYSE",
@@ -11104,7 +10849,7 @@
    "source_url": ""
   },
   {
-   "company": "DHC",
+   "company": "DIVERSIFIED HEALTHCARE TRUST",
    "ticker": "DHC",
    "exchange": "Nasdaq",
    "security": "common",
@@ -11115,7 +10860,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-13 $0.01",
+   "basis": "last confirmed 2026-11-12 $0.01",
    "source_url": ""
   },
   {
@@ -11374,7 +11119,7 @@
    "source_url": ""
   },
   {
-   "company": "First Interstate BancSystem, Inc.",
+   "company": "FIRST INTERSTATE BANCSYSTEM, INC.",
    "ticker": "FIBK",
    "exchange": "Nasdaq",
    "security": "common",
@@ -11385,7 +11130,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.47",
+   "basis": "last confirmed 2026-11-13 $0.47",
    "source_url": ""
   },
   {
@@ -11926,6 +11671,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-15 $85.0",
+   "source_url": ""
+  },
+  {
+   "company": "Apple",
+   "ticker": "AAPL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.27",
    "source_url": ""
   },
   {
@@ -12574,6 +12334,21 @@
    "source_url": ""
   },
   {
+   "company": "Diamondback Energy, Inc.",
+   "ticker": "FANG",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.18,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-19 $1.18",
+   "source_url": ""
+  },
+  {
    "company": "MUELLER WATER PRODUCTS, INC.",
    "ticker": "MWA",
    "exchange": "New York Stock Exchange",
@@ -12979,21 +12754,6 @@
    "source_url": ""
   },
   {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0475,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
-   "source_url": ""
-  },
-  {
    "company": "SARATOGA INVESTMENT CORP.",
    "ticker": "SAR",
    "exchange": "NYSE",
@@ -13039,21 +12799,6 @@
    "source_url": ""
   },
   {
-   "company": "Healthpeak Properties, Inc.",
-   "ticker": "DOC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.10167,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-22",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.10167",
-   "source_url": ""
-  },
-  {
    "company": "Comfort Systems USA, Inc.",
    "ticker": "FIX",
    "exchange": "NYSE",
@@ -13066,6 +12811,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-23 $1.0",
+   "source_url": ""
+  },
+  {
+   "company": "FTAI Aviation Ltd.",
+   "ticker": "FTAI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.5",
    "source_url": ""
   },
   {
@@ -13246,6 +13006,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-24 $0.3",
+   "source_url": ""
+  },
+  {
+   "company": "FB Financial Corporation",
+   "ticker": "FBK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.21,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.21",
    "source_url": ""
   },
   {
@@ -13759,7 +13534,7 @@
    "source_url": ""
   },
   {
-   "company": "HEALTHSTREAM INC",
+   "company": "HealthStream, Inc.",
    "ticker": "HSTM",
    "exchange": "Nasdaq",
    "security": "common",
@@ -13770,7 +13545,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-28 $0.035",
+   "basis": "last confirmed 2026-11-27 $0.035",
    "source_url": ""
   },
   {
@@ -14164,21 +13939,6 @@
    "source_url": ""
   },
   {
-   "company": "CSWC",
-   "ticker": "CSWC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.58,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.58",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -14266,6 +14026,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "Janus Living, Inc.",
+   "ticker": "JAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.0475",
    "source_url": ""
   },
   {
@@ -14479,6 +14254,21 @@
    "source_url": ""
   },
   {
+   "company": "Healthpeak Properties, Inc.",
+   "ticker": "DOC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.10167,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.10167",
+   "source_url": ""
+  },
+  {
    "company": "DoubleLine Income Solutions Fund",
    "ticker": "DSL",
    "exchange": "NYSE",
@@ -14491,6 +14281,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Highland Opportunities and Income Fund",
+   "ticker": "HFRO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0385,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.0385",
    "source_url": ""
   },
   {
@@ -15109,6 +14914,21 @@
    "source_url": ""
   },
   {
+   "company": "NexPoint Diversified Real Estate Trust",
+   "ticker": "NXDT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.34375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.34375",
+   "source_url": ""
+  },
+  {
    "company": "Origin Bancorp, Inc.",
    "ticker": "OBK",
    "exchange": "NYSE",
@@ -15165,7 +14985,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-31 $0.3",
+   "basis": "last confirmed 2026-11-30 $0.3",
    "source_url": ""
   },
   {
@@ -15240,7 +15060,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-31 $0.475",
+   "basis": "last confirmed 2026-11-30 $0.475",
    "source_url": ""
   },
   {
@@ -15979,9 +15799,9 @@
    "source_url": ""
   },
   {
-   "company": "CNA Financial",
+   "company": "CNA Financial Corporation",
    "ticker": "CNA",
-   "exchange": "",
+   "exchange": "NYSE",
    "security": "common",
    "amount_per_share": 0.48,
    "currency": "USD",
@@ -15990,7 +15810,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.48",
+   "basis": "last confirmed 2026-12-03 $0.48",
    "source_url": ""
   },
   {
@@ -16894,6 +16714,21 @@
    "source_url": ""
   },
   {
+   "company": "SBA Communications Corporation",
+   "ticker": "SBAC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $1.25",
+   "source_url": ""
+  },
+  {
    "company": "SONOCO PRODUCTS COMPANY",
    "ticker": "SON",
    "exchange": "NYSE",
@@ -17131,6 +16966,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $0.2715",
+   "source_url": ""
+  },
+  {
+   "company": "Adeia Inc.",
+   "ticker": "ADEA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.05",
    "source_url": ""
   },
   {
@@ -17700,7 +17550,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.35",
+   "basis": "last confirmed 2026-12-15 $0.35",
    "source_url": ""
   },
   {
@@ -17821,6 +17671,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "FTAI Aviation Ltd.",
+   "ticker": "FTAI",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.59",
    "source_url": ""
   },
   {
@@ -18559,6 +18424,21 @@
    "source_url": ""
   },
   {
+   "company": "Boise Cascade Company",
+   "ticker": "BCC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Equinix, Inc.",
    "ticker": "EQIX",
    "exchange": "Nasdaq",
@@ -18934,6 +18814,21 @@
    "source_url": ""
   },
   {
+   "company": "California Resources Corporation",
+   "ticker": "CRC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.42",
+   "source_url": ""
+  },
+  {
    "company": "CuriosityStream Inc.",
    "ticker": "CURI",
    "exchange": "Nasdaq",
@@ -18976,6 +18871,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.31",
+   "source_url": ""
+  },
+  {
+   "company": "Information Services Group Inc.",
+   "ticker": "III",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.045",
    "source_url": ""
   },
   {
@@ -19294,18 +19204,18 @@
    "source_url": ""
   },
   {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
+   "company": "Kentucky First Federal Bancorp",
+   "ticker": "KFFB",
+   "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.0475,
+   "amount_per_share": 0.05,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-22",
-   "frequency": "monthly",
+   "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
+   "basis": "last confirmed 2026-12-21 $0.05",
    "source_url": ""
   },
   {
@@ -19441,21 +19351,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-23 $0.9795",
-   "source_url": ""
-  },
-  {
-   "company": "Healthpeak Properties, Inc.",
-   "ticker": "DOC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.10167,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-24",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.10167",
    "source_url": ""
   },
   {
@@ -19804,21 +19699,6 @@
    "source_url": ""
   },
   {
-   "company": "Information Services Group, Inc.",
-   "ticker": "III",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.045",
-   "source_url": ""
-  },
-  {
    "company": "Mativ Holdings, Inc.",
    "ticker": "MATV",
    "exchange": "NYSE",
@@ -20089,21 +19969,6 @@
    "source_url": ""
   },
   {
-   "company": "CSWC",
-   "ticker": "CSWC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.58,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.58",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -20236,6 +20101,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "Janus Living, Inc.",
+   "ticker": "JAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.0475",
    "source_url": ""
   },
   {
@@ -20554,6 +20434,21 @@
    "source_url": ""
   },
   {
+   "company": "Healthpeak Properties, Inc.",
+   "ticker": "DOC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.10167,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.10167",
+   "source_url": ""
+  },
+  {
    "company": "DoubleLine Income Solutions Fund",
    "ticker": "DSL",
    "exchange": "NYSE",
@@ -20626,6 +20521,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-29 $0.78",
+   "source_url": ""
+  },
+  {
+   "company": "Highland Opportunities and Income Fund",
+   "ticker": "HFRO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0385,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.0385",
    "source_url": ""
   },
   {
@@ -21574,6 +21484,21 @@
    "source_url": ""
   },
   {
+   "company": "Goldman Sachs Group, Inc.",
+   "ticker": "GS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 5.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $5.0",
+   "source_url": ""
+  },
+  {
    "company": "Gray Media, Inc.",
    "ticker": "GTN",
    "exchange": "NYSE",
@@ -21769,21 +21694,6 @@
    "source_url": ""
   },
   {
-   "company": "New Mountain Finance Corporation",
-   "ticker": "NMFC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "Quanex Building Products Corporation",
    "ticker": "NX",
    "exchange": "NYSE",
@@ -21807,10 +21717,10 @@
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-31",
-   "frequency": "quarterly",
+   "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.34375",
+   "basis": "last confirmed 2026-12-31 $0.34375",
    "source_url": ""
   },
   {
@@ -22309,6 +22219,21 @@
    "source_url": ""
   },
   {
+   "company": "CSWC",
+   "ticker": "CSWC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.06",
+   "source_url": ""
+  },
+  {
    "company": "Dana Incorporated",
    "ticker": "DAN",
    "exchange": "NYSE",
@@ -22519,6 +22444,21 @@
    "source_url": ""
   },
   {
+   "company": "New Mountain Finance Corporation",
+   "ticker": "NMFC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "NOBILITY HOMES, INC.",
    "ticker": "NOBH",
    "exchange": "OTC",
@@ -22635,7 +22575,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-02 $0.1",
+   "basis": "last confirmed 2026-10-01 $0.1",
    "source_url": ""
   },
   {
@@ -22726,6 +22666,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.375",
+   "source_url": ""
+  },
+  {
+   "company": "Vitesse Energy, Inc.",
+   "ticker": "VTS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.4375",
    "source_url": ""
   },
   {
@@ -22846,21 +22801,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-01 $3.25",
-   "source_url": ""
-  },
-  {
-   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
-   "ticker": "NSSC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-02 $0.17",
    "source_url": ""
   },
   {
@@ -22996,6 +22936,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.155",
+   "source_url": ""
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC.",
+   "ticker": "NSSC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.17",
    "source_url": ""
   },
   {
@@ -25444,21 +25399,6 @@
    "source_url": ""
   },
   {
-   "company": "Match Group",
-   "ticker": "MTCH",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-20",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-20 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "CENTERPOINT ENERGY, INC.",
    "ticker": "CNP",
    "exchange": "NYSE",
@@ -25504,21 +25444,6 @@
    "source_url": ""
   },
   {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0475,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-21",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
-   "source_url": ""
-  },
-  {
    "company": "KBR, Inc.",
    "ticker": "KBR",
    "exchange": "NYSE",
@@ -25561,21 +25486,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $1.11",
-   "source_url": ""
-  },
-  {
-   "company": "Roper Technologies, Inc.",
-   "ticker": "ROP",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.91,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-21",
-   "frequency": "semiannual",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-21 $0.91",
    "source_url": ""
   },
   {
@@ -25636,6 +25546,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-22 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Match Group",
+   "ticker": "MTCH",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-21 $0.2",
    "source_url": ""
   },
   {
@@ -25726,21 +25651,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "Healthpeak Properties, Inc.",
-   "ticker": "DOC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.10167,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-23",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.10167",
    "source_url": ""
   },
   {
@@ -26224,21 +26134,6 @@
    "source_url": ""
   },
   {
-   "company": "CSWC",
-   "ticker": "CSWC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.58,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.58",
-   "source_url": ""
-  },
-  {
    "company": "ELECTRONIC ARTS INC.",
    "ticker": "EA",
    "exchange": "Nasdaq",
@@ -26341,6 +26236,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "Janus Living, Inc.",
+   "ticker": "JAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.0475",
    "source_url": ""
   },
   {
@@ -26461,6 +26371,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Roper Technologies, Inc.",
+   "ticker": "ROP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.91,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-28 $0.91",
    "source_url": ""
   },
   {
@@ -26599,6 +26524,21 @@
    "source_url": ""
   },
   {
+   "company": "Healthpeak Properties, Inc.",
+   "ticker": "DOC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.10167,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.10167",
+   "source_url": ""
+  },
+  {
    "company": "DoubleLine Income Solutions Fund",
    "ticker": "DSL",
    "exchange": "NYSE",
@@ -26611,6 +26551,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Highland Opportunities and Income Fund",
+   "ticker": "HFRO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0385,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.0385",
    "source_url": ""
   },
   {
@@ -27334,6 +27289,21 @@
    "source_url": ""
   },
   {
+   "company": "NexPoint Diversified Real Estate Trust",
+   "ticker": "NXDT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.34375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.34375",
+   "source_url": ""
+  },
+  {
    "company": "The New York Times Company",
    "ticker": "NYT",
    "exchange": "NYSE",
@@ -27466,6 +27436,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
+   "company": "ALEXANDER’S, INC.",
+   "ticker": "ALX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 4.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-31 $4.5",
    "source_url": ""
   },
   {
@@ -28294,21 +28279,6 @@
    "source_url": ""
   },
   {
-   "company": "Apple",
-   "ticker": "AAPL",
-   "exchange": "",
-   "security": "common",
-   "amount_per_share": 0.27,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-13 $0.27",
-   "source_url": ""
-  },
-  {
    "company": "Bank of Marin Bancorp",
    "ticker": "BMRC",
    "exchange": "Nasdaq",
@@ -28339,7 +28309,7 @@
    "source_url": ""
   },
   {
-   "company": "DHC",
+   "company": "DIVERSIFIED HEALTHCARE TRUST",
    "ticker": "DHC",
    "exchange": "Nasdaq",
    "security": "common",
@@ -28350,7 +28320,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-13 $0.01",
+   "basis": "last confirmed 2026-11-12 $0.01",
    "source_url": ""
   },
   {
@@ -28654,7 +28624,7 @@
    "source_url": ""
   },
   {
-   "company": "First Interstate BancSystem, Inc.",
+   "company": "FIRST INTERSTATE BANCSYSTEM, INC.",
    "ticker": "FIBK",
    "exchange": "Nasdaq",
    "security": "common",
@@ -28665,7 +28635,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.47",
+   "basis": "last confirmed 2026-11-13 $0.47",
    "source_url": ""
   },
   {
@@ -29176,6 +29146,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-18 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "Apple",
+   "ticker": "AAPL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.27",
    "source_url": ""
   },
   {
@@ -29824,6 +29809,21 @@
    "source_url": ""
   },
   {
+   "company": "Diamondback Energy, Inc.",
+   "ticker": "FANG",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.18,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-19 $1.18",
+   "source_url": ""
+  },
+  {
    "company": "MUELLER WATER PRODUCTS, INC.",
    "ticker": "MWA",
    "exchange": "New York Stock Exchange",
@@ -30064,21 +30064,6 @@
    "source_url": ""
   },
   {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0475,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-21",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
-   "source_url": ""
-  },
-  {
    "company": "J.B. HUNT TRANSPORT SERVICES, INC.",
    "ticker": "JBHT",
    "exchange": "Nasdaq",
@@ -30259,21 +30244,6 @@
    "source_url": ""
   },
   {
-   "company": "Healthpeak Properties, Inc.",
-   "ticker": "DOC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.10167,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-23",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.10167",
-   "source_url": ""
-  },
-  {
    "company": "Lazard Global Total Return and Income Fund, Inc.",
    "ticker": "LGI",
    "exchange": "NYSE",
@@ -30331,6 +30301,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-23 $1.0",
+   "source_url": ""
+  },
+  {
+   "company": "FTAI Aviation Ltd.",
+   "ticker": "FTAI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.5",
    "source_url": ""
   },
   {
@@ -30496,6 +30481,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-24 $0.3",
+   "source_url": ""
+  },
+  {
+   "company": "FB Financial Corporation",
+   "ticker": "FBK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.21,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.21",
    "source_url": ""
   },
   {
@@ -31114,21 +31114,6 @@
    "source_url": ""
   },
   {
-   "company": "CSWC",
-   "ticker": "CSWC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.58,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.58",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -31204,7 +31189,7 @@
    "source_url": ""
   },
   {
-   "company": "HEALTHSTREAM INC",
+   "company": "HealthStream, Inc.",
    "ticker": "HSTM",
    "exchange": "Nasdaq",
    "security": "common",
@@ -31215,7 +31200,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-28 $0.035",
+   "basis": "last confirmed 2026-11-27 $0.035",
    "source_url": ""
   },
   {
@@ -31246,6 +31231,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "Janus Living, Inc.",
+   "ticker": "JAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.0475",
    "source_url": ""
   },
   {
@@ -31729,6 +31729,21 @@
    "source_url": ""
   },
   {
+   "company": "Healthpeak Properties, Inc.",
+   "ticker": "DOC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.10167,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.10167",
+   "source_url": ""
+  },
+  {
    "company": "DoubleLine Income Solutions Fund",
    "ticker": "DSL",
    "exchange": "NYSE",
@@ -31741,6 +31756,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Highland Opportunities and Income Fund",
+   "ticker": "HFRO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0385,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.0385",
    "source_url": ""
   },
   {
@@ -32224,6 +32254,21 @@
    "source_url": ""
   },
   {
+   "company": "NexPoint Diversified Real Estate Trust",
+   "ticker": "NXDT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.34375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.34375",
+   "source_url": ""
+  },
+  {
    "company": "Trinity Capital Inc.",
    "ticker": "TRIN",
    "exchange": "NYSE",
@@ -32475,7 +32520,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-31 $0.3",
+   "basis": "last confirmed 2026-11-30 $0.3",
    "source_url": ""
   },
   {
@@ -32520,7 +32565,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-31 $0.475",
+   "basis": "last confirmed 2026-11-30 $0.475",
    "source_url": ""
   },
   {
@@ -32716,6 +32761,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "Goldman Sachs Group, Inc.",
+   "ticker": "GS",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1212.24,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $1212.24",
    "source_url": ""
   },
   {
@@ -33244,9 +33304,9 @@
    "source_url": ""
   },
   {
-   "company": "CNA Financial",
+   "company": "CNA Financial Corporation",
    "ticker": "CNA",
-   "exchange": "",
+   "exchange": "NYSE",
    "security": "common",
    "amount_per_share": 0.48,
    "currency": "USD",
@@ -33255,7 +33315,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.48",
+   "basis": "last confirmed 2026-12-03 $0.48",
    "source_url": ""
   },
   {
@@ -34144,6 +34204,21 @@
    "source_url": ""
   },
   {
+   "company": "SBA Communications Corporation",
+   "ticker": "SBAC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $1.25",
+   "source_url": ""
+  },
+  {
    "company": "SONOCO PRODUCTS COMPANY",
    "ticker": "SON",
    "exchange": "NYSE",
@@ -34471,6 +34546,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $1562.5",
+   "source_url": ""
+  },
+  {
+   "company": "Adeia Inc.",
+   "ticker": "ADEA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.05",
    "source_url": ""
   },
   {
@@ -35055,7 +35145,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.35",
+   "basis": "last confirmed 2026-12-15 $0.35",
    "source_url": ""
   },
   {
@@ -35161,6 +35251,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "FTAI Aviation Ltd.",
+   "ticker": "FTAI",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.59",
    "source_url": ""
   },
   {
@@ -35854,6 +35959,21 @@
    "source_url": ""
   },
   {
+   "company": "Boise Cascade Company",
+   "ticker": "BCC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Equinix, Inc.",
    "ticker": "EQIX",
    "exchange": "Nasdaq",
@@ -36304,6 +36424,21 @@
    "source_url": ""
   },
   {
+   "company": "California Resources Corporation",
+   "ticker": "CRC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.42",
+   "source_url": ""
+  },
+  {
    "company": "Calamos Strategic Total Return Fund",
    "ticker": "CSQ",
    "exchange": "NASDAQ",
@@ -36361,6 +36496,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.31",
+   "source_url": ""
+  },
+  {
+   "company": "Information Services Group Inc.",
+   "ticker": "III",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.045",
    "source_url": ""
   },
   {
@@ -36559,21 +36709,6 @@
    "source_url": ""
   },
   {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0475,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
-   "source_url": ""
-  },
-  {
    "company": "SARATOGA INVESTMENT CORP.",
    "ticker": "SAR",
    "exchange": "NYSE",
@@ -36601,6 +36736,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-21 $2511.25",
+   "source_url": ""
+  },
+  {
+   "company": "Kentucky First Federal Bancorp",
+   "ticker": "KFFB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-21 $0.05",
    "source_url": ""
   },
   {
@@ -36646,21 +36796,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-21 $1.2",
-   "source_url": ""
-  },
-  {
-   "company": "Healthpeak Properties, Inc.",
-   "ticker": "DOC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.10167,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-22",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.10167",
    "source_url": ""
   },
   {
@@ -37099,21 +37234,6 @@
    "source_url": ""
   },
   {
-   "company": "Information Services Group, Inc.",
-   "ticker": "III",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.045",
-   "source_url": ""
-  },
-  {
    "company": "Mativ Holdings, Inc.",
    "ticker": "MATV",
    "exchange": "NYSE",
@@ -37354,21 +37474,6 @@
    "source_url": ""
   },
   {
-   "company": "CSWC",
-   "ticker": "CSWC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.58,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.58",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -37456,6 +37561,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "Janus Living, Inc.",
+   "ticker": "JAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.0475",
    "source_url": ""
   },
   {
@@ -37684,6 +37804,21 @@
    "source_url": ""
   },
   {
+   "company": "Healthpeak Properties, Inc.",
+   "ticker": "DOC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.10167,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.10167",
+   "source_url": ""
+  },
+  {
    "company": "DoubleLine Income Solutions Fund",
    "ticker": "DSL",
    "exchange": "NYSE",
@@ -37711,6 +37846,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-29 $0.35",
+   "source_url": ""
+  },
+  {
+   "company": "Highland Opportunities and Income Fund",
+   "ticker": "HFRO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0385,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.0385",
    "source_url": ""
   },
   {
@@ -38464,6 +38614,21 @@
    "source_url": ""
   },
   {
+   "company": "NexPoint Diversified Real Estate Trust",
+   "ticker": "NXDT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.34375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.34375",
+   "source_url": ""
+  },
+  {
    "company": "Brookfield Oaktree Holdings, LLC",
    "ticker": "OAK-PA",
    "exchange": "NYSE",
@@ -38974,6 +39139,21 @@
    "source_url": ""
   },
   {
+   "company": "Goldman Sachs Group, Inc.",
+   "ticker": "GS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 5.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $5.0",
+   "source_url": ""
+  },
+  {
    "company": "Gray Media, Inc.",
    "ticker": "GTN",
    "exchange": "NYSE",
@@ -39154,21 +39334,6 @@
    "source_url": ""
   },
   {
-   "company": "New Mountain Finance Corporation",
-   "ticker": "NMFC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "Quanex Building Products Corporation",
    "ticker": "NX",
    "exchange": "NYSE",
@@ -39181,21 +39346,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "NexPoint Diversified Real Estate Trust",
-   "ticker": "NXDT",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.34375,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.34375",
    "source_url": ""
   },
   {
@@ -39649,6 +39799,21 @@
    "source_url": ""
   },
   {
+   "company": "CSWC",
+   "ticker": "CSWC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.06",
+   "source_url": ""
+  },
+  {
    "company": "Dana Incorporated",
    "ticker": "DAN",
    "exchange": "NYSE",
@@ -39844,6 +40009,21 @@
    "source_url": ""
   },
   {
+   "company": "New Mountain Finance Corporation",
+   "ticker": "NMFC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "NexPoint Real Estate Finance, Inc.",
    "ticker": "NREF",
    "exchange": "NYSE",
@@ -39945,7 +40125,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-02 $0.1",
+   "basis": "last confirmed 2026-10-01 $0.1",
    "source_url": ""
   },
   {
@@ -40051,6 +40231,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.375",
+   "source_url": ""
+  },
+  {
+   "company": "Vitesse Energy, Inc.",
+   "ticker": "VTS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.4375",
    "source_url": ""
   },
   {
@@ -40189,21 +40384,6 @@
    "source_url": ""
   },
   {
-   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
-   "ticker": "NSSC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-02 $0.17",
-   "source_url": ""
-  },
-  {
    "company": "Regency Centers Corporation",
    "ticker": "REG",
    "exchange": "NASDAQ",
@@ -40321,6 +40501,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.155",
+   "source_url": ""
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC.",
+   "ticker": "NSSC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.17",
    "source_url": ""
   },
   {
@@ -42799,36 +42994,6 @@
    "source_url": ""
   },
   {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0475,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
-   "source_url": ""
-  },
-  {
-   "company": "Match Group",
-   "ticker": "MTCH",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-20",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-20 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "SARATOGA INVESTMENT CORP.",
    "ticker": "SAR",
    "exchange": "NYSE",
@@ -42979,21 +43144,6 @@
    "source_url": ""
   },
   {
-   "company": "Healthpeak Properties, Inc.",
-   "ticker": "DOC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.10167,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-22",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.10167",
-   "source_url": ""
-  },
-  {
    "company": "Lazard Global Total Return and Income Fund, Inc.",
    "ticker": "LGI",
    "exchange": "NYSE",
@@ -43006,6 +43156,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-24 $0.1534",
+   "source_url": ""
+  },
+  {
+   "company": "Match Group",
+   "ticker": "MTCH",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-21 $0.2",
    "source_url": ""
   },
   {
@@ -43489,21 +43654,6 @@
    "source_url": ""
   },
   {
-   "company": "CSWC",
-   "ticker": "CSWC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.58,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.58",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -43591,6 +43741,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "Janus Living, Inc.",
+   "ticker": "JAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.0475",
    "source_url": ""
   },
   {
@@ -43864,6 +44029,21 @@
    "source_url": ""
   },
   {
+   "company": "Healthpeak Properties, Inc.",
+   "ticker": "DOC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.10167,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.10167",
+   "source_url": ""
+  },
+  {
    "company": "DoubleLine Income Solutions Fund",
    "ticker": "DSL",
    "exchange": "NYSE",
@@ -43891,6 +44071,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-29 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "Highland Opportunities and Income Fund",
+   "ticker": "HFRO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0385,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.0385",
    "source_url": ""
   },
   {
@@ -44464,6 +44659,21 @@
    "source_url": ""
   },
   {
+   "company": "NexPoint Diversified Real Estate Trust",
+   "ticker": "NXDT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.34375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.34375",
+   "source_url": ""
+  },
+  {
    "company": "ROCKY BRANDS, INC.",
    "ticker": "RCKY",
    "exchange": "Nasdaq",
@@ -44806,6 +45016,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "ALEXANDER’S, INC.",
+   "ticker": "ALX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 4.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-31 $4.5",
    "source_url": ""
   },
   {
@@ -45619,21 +45844,6 @@
    "source_url": ""
   },
   {
-   "company": "Apple",
-   "ticker": "AAPL",
-   "exchange": "",
-   "security": "common",
-   "amount_per_share": 0.27,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-12",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-13 $0.27",
-   "source_url": ""
-  },
-  {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
    "ticker": "AFB",
    "exchange": "NYSE",
@@ -45709,7 +45919,7 @@
    "source_url": ""
   },
   {
-   "company": "DHC",
+   "company": "DIVERSIFIED HEALTHCARE TRUST",
    "ticker": "DHC",
    "exchange": "Nasdaq",
    "security": "common",
@@ -45720,7 +45930,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-13 $0.01",
+   "basis": "last confirmed 2026-11-12 $0.01",
    "source_url": ""
   },
   {
@@ -46054,7 +46264,7 @@
    "source_url": ""
   },
   {
-   "company": "First Interstate BancSystem, Inc.",
+   "company": "FIRST INTERSTATE BANCSYSTEM, INC.",
    "ticker": "FIBK",
    "exchange": "Nasdaq",
    "security": "common",
@@ -46065,7 +46275,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-14 $0.47",
+   "basis": "last confirmed 2026-11-13 $0.47",
    "source_url": ""
   },
   {
@@ -46486,6 +46696,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-15 $85.0",
+   "source_url": ""
+  },
+  {
+   "company": "Apple",
+   "ticker": "AAPL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.27,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.27",
    "source_url": ""
   },
   {
@@ -47134,18 +47359,18 @@
    "source_url": ""
   },
   {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
+   "company": "Diamondback Energy, Inc.",
+   "ticker": "FANG",
+   "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.0475,
+   "amount_per_share": 1.18,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-08-19",
-   "frequency": "monthly",
+   "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
+   "basis": "last confirmed 2026-11-19 $1.18",
    "source_url": ""
   },
   {
@@ -47569,21 +47794,6 @@
    "source_url": ""
   },
   {
-   "company": "Healthpeak Properties, Inc.",
-   "ticker": "DOC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.10167,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-21",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.10167",
-   "source_url": ""
-  },
-  {
    "company": "Lazard Global Total Return and Income Fund, Inc.",
    "ticker": "LGI",
    "exchange": "NYSE",
@@ -47641,6 +47851,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-23 $1.0",
+   "source_url": ""
+  },
+  {
+   "company": "FTAI Aviation Ltd.",
+   "ticker": "FTAI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.5",
    "source_url": ""
   },
   {
@@ -47821,6 +48046,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-24 $0.3",
+   "source_url": ""
+  },
+  {
+   "company": "FB Financial Corporation",
+   "ticker": "FBK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.21,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.21",
    "source_url": ""
   },
   {
@@ -48319,21 +48559,6 @@
    "source_url": ""
   },
   {
-   "company": "CSWC",
-   "ticker": "CSWC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.58,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.58",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -48421,6 +48646,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "Janus Living, Inc.",
+   "ticker": "JAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.0475",
    "source_url": ""
   },
   {
@@ -48739,6 +48979,21 @@
    "source_url": ""
   },
   {
+   "company": "Healthpeak Properties, Inc.",
+   "ticker": "DOC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.10167,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.10167",
+   "source_url": ""
+  },
+  {
    "company": "DoubleLine Income Solutions Fund",
    "ticker": "DSL",
    "exchange": "NYSE",
@@ -48766,6 +49021,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.26",
+   "source_url": ""
+  },
+  {
+   "company": "Highland Opportunities and Income Fund",
+   "ticker": "HFRO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0385,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.0385",
    "source_url": ""
   },
   {
@@ -48814,7 +49084,7 @@
    "source_url": ""
   },
   {
-   "company": "HEALTHSTREAM INC",
+   "company": "HealthStream, Inc.",
    "ticker": "HSTM",
    "exchange": "Nasdaq",
    "security": "common",
@@ -48825,7 +49095,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-28 $0.035",
+   "basis": "last confirmed 2026-11-27 $0.035",
    "source_url": ""
   },
   {
@@ -49549,6 +49819,21 @@
    "source_url": ""
   },
   {
+   "company": "NexPoint Diversified Real Estate Trust",
+   "ticker": "NXDT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.34375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.34375",
+   "source_url": ""
+  },
+  {
    "company": "Trinity Capital Inc.",
    "ticker": "TRIN",
    "exchange": "NYSE",
@@ -49800,7 +50085,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-31 $0.3",
+   "basis": "last confirmed 2026-11-30 $0.3",
    "source_url": ""
   },
   {
@@ -49845,7 +50130,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-31 $0.475",
+   "basis": "last confirmed 2026-11-30 $0.475",
    "source_url": ""
   },
   {
@@ -50599,9 +50884,9 @@
    "source_url": ""
   },
   {
-   "company": "CNA Financial",
+   "company": "CNA Financial Corporation",
    "ticker": "CNA",
-   "exchange": "",
+   "exchange": "NYSE",
    "security": "common",
    "amount_per_share": 0.48,
    "currency": "USD",
@@ -50610,7 +50895,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.48",
+   "basis": "last confirmed 2026-12-03 $0.48",
    "source_url": ""
   },
   {
@@ -51514,6 +51799,21 @@
    "source_url": ""
   },
   {
+   "company": "SBA Communications Corporation",
+   "ticker": "SBAC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $1.25",
+   "source_url": ""
+  },
+  {
    "company": "SONOCO PRODUCTS COMPANY",
    "ticker": "SON",
    "exchange": "NYSE",
@@ -51931,6 +52231,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.0833",
+   "source_url": ""
+  },
+  {
+   "company": "Adeia Inc.",
+   "ticker": "ADEA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.05",
    "source_url": ""
   },
   {
@@ -52395,7 +52710,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.35",
+   "basis": "last confirmed 2026-12-15 $0.35",
    "source_url": ""
   },
   {
@@ -52501,6 +52816,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "FTAI Aviation Ltd.",
+   "ticker": "FTAI",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.59,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.59",
    "source_url": ""
   },
   {
@@ -53164,6 +53494,21 @@
    "source_url": ""
   },
   {
+   "company": "Boise Cascade Company",
+   "ticker": "BCC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Equinix, Inc.",
    "ticker": "EQIX",
    "exchange": "Nasdaq",
@@ -53644,6 +53989,21 @@
    "source_url": ""
   },
   {
+   "company": "California Resources Corporation",
+   "ticker": "CRC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.42",
+   "source_url": ""
+  },
+  {
    "company": "CuriosityStream Inc.",
    "ticker": "CURI",
    "exchange": "Nasdaq",
@@ -53686,6 +54046,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.31",
+   "source_url": ""
+  },
+  {
+   "company": "Information Services Group Inc.",
+   "ticker": "III",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.045",
    "source_url": ""
   },
   {
@@ -53854,21 +54229,6 @@
    "source_url": ""
   },
   {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0475,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-18",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
-   "source_url": ""
-  },
-  {
    "company": "Manulife Financial Corporation",
    "ticker": "MFC",
    "exchange": "TSX/NYSE/PSE",
@@ -53914,18 +54274,18 @@
    "source_url": ""
   },
   {
-   "company": "Healthpeak Properties, Inc.",
-   "ticker": "DOC",
-   "exchange": "NYSE",
+   "company": "Kentucky First Federal Bancorp",
+   "ticker": "KFFB",
+   "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.10167,
+   "amount_per_share": 0.05,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-20",
-   "frequency": "monthly",
+   "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.10167",
+   "basis": "last confirmed 2026-12-21 $0.05",
    "source_url": ""
   },
   {
@@ -54439,21 +54799,6 @@
    "source_url": ""
   },
   {
-   "company": "Information Services Group, Inc.",
-   "ticker": "III",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.045",
-   "source_url": ""
-  },
-  {
    "company": "Mativ Holdings, Inc.",
    "ticker": "MATV",
    "exchange": "NYSE",
@@ -54664,21 +55009,6 @@
    "source_url": ""
   },
   {
-   "company": "CSWC",
-   "ticker": "CSWC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.58,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.58",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -54766,6 +55096,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "Janus Living, Inc.",
+   "ticker": "JAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.0475",
    "source_url": ""
   },
   {
@@ -54979,6 +55324,21 @@
    "source_url": ""
   },
   {
+   "company": "Healthpeak Properties, Inc.",
+   "ticker": "DOC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.10167,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.10167",
+   "source_url": ""
+  },
+  {
    "company": "DoubleLine Income Solutions Fund",
    "ticker": "DSL",
    "exchange": "NYSE",
@@ -54991,6 +55351,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Highland Opportunities and Income Fund",
+   "ticker": "HFRO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0385,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.0385",
    "source_url": ""
   },
   {
@@ -55576,6 +55951,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-28 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "NexPoint Diversified Real Estate Trust",
+   "ticker": "NXDT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.34375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.34375",
    "source_url": ""
   },
   {
@@ -56254,6 +56644,21 @@
    "source_url": ""
   },
   {
+   "company": "Goldman Sachs Group, Inc.",
+   "ticker": "GS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 5.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $5.0",
+   "source_url": ""
+  },
+  {
    "company": "Gray Media, Inc.",
    "ticker": "GTN",
    "exchange": "NYSE",
@@ -56419,21 +56824,6 @@
    "source_url": ""
   },
   {
-   "company": "New Mountain Finance Corporation",
-   "ticker": "NMFC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "Quanex Building Products Corporation",
    "ticker": "NX",
    "exchange": "NYSE",
@@ -56446,21 +56836,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "NexPoint Diversified Real Estate Trust",
-   "ticker": "NXDT",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.34375,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.34375",
    "source_url": ""
   },
   {
@@ -56914,6 +57289,21 @@
    "source_url": ""
   },
   {
+   "company": "CSWC",
+   "ticker": "CSWC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.06",
+   "source_url": ""
+  },
+  {
    "company": "Dana Incorporated",
    "ticker": "DAN",
    "exchange": "NYSE",
@@ -57124,6 +57514,21 @@
    "source_url": ""
   },
   {
+   "company": "New Mountain Finance Corporation",
+   "ticker": "NMFC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "NexPoint Real Estate Finance, Inc.",
    "ticker": "NREF",
    "exchange": "NYSE",
@@ -57225,7 +57630,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-02 $0.1",
+   "basis": "last confirmed 2026-10-01 $0.1",
    "source_url": ""
   },
   {
@@ -57316,6 +57721,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.375",
+   "source_url": ""
+  },
+  {
+   "company": "Vitesse Energy, Inc.",
+   "ticker": "VTS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.4375",
    "source_url": ""
   },
   {
@@ -57439,21 +57859,6 @@
    "source_url": ""
   },
   {
-   "company": "NAPCO SECURITY TECHNOLOGIES, INC",
-   "ticker": "NSSC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-02 $0.17",
-   "source_url": ""
-  },
-  {
    "company": "Regency Centers Corporation",
    "ticker": "REG",
    "exchange": "NASDAQ",
@@ -57571,6 +57976,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.155",
+   "source_url": ""
+  },
+  {
+   "company": "NAPCO SECURITY TECHNOLOGIES, INC.",
+   "ticker": "NSSC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.17",
    "source_url": ""
   },
   {
@@ -59929,21 +60349,6 @@
    "source_url": ""
   },
   {
-   "company": "Janus Living, Inc.",
-   "ticker": "JAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0475,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-18",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.0475",
-   "source_url": ""
-  },
-  {
    "company": "SARATOGA INVESTMENT CORP.",
    "ticker": "SAR",
    "exchange": "NYSE",
@@ -60064,21 +60469,6 @@
    "source_url": ""
   },
   {
-   "company": "Match Group",
-   "ticker": "MTCH",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-20 $0.2",
-   "source_url": ""
-  },
-  {
    "company": "CENTERPOINT ENERGY, INC.",
    "ticker": "CNP",
    "exchange": "NYSE",
@@ -60106,21 +60496,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.42",
-   "source_url": ""
-  },
-  {
-   "company": "Healthpeak Properties, Inc.",
-   "ticker": "DOC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.10167,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.10167",
    "source_url": ""
   },
   {
@@ -60199,21 +60574,6 @@
    "source_url": ""
   },
   {
-   "company": "Roper Technologies, Inc.",
-   "ticker": "ROP",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.91,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-20",
-   "frequency": "semiannual",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-21 $0.91",
-   "source_url": ""
-  },
-  {
    "company": "The Andersons, Inc.",
    "ticker": "ANDE",
    "exchange": "Nasdaq",
@@ -60256,6 +60616,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-22 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Match Group",
+   "ticker": "MTCH",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-21 $0.2",
    "source_url": ""
   },
   {
@@ -60664,21 +61039,6 @@
    "source_url": ""
   },
   {
-   "company": "CSWC",
-   "ticker": "CSWC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.58,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.58",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -60811,6 +61171,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "Janus Living, Inc.",
+   "ticker": "JAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0475,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-29 $0.0475",
    "source_url": ""
   },
   {
@@ -61069,6 +61444,21 @@
    "source_url": ""
   },
   {
+   "company": "Healthpeak Properties, Inc.",
+   "ticker": "DOC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.10167,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.10167",
+   "source_url": ""
+  },
+  {
    "company": "DoubleLine Income Solutions Fund",
    "ticker": "DSL",
    "exchange": "NYSE",
@@ -61081,6 +61471,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Highland Opportunities and Income Fund",
+   "ticker": "HFRO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0385,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.0385",
    "source_url": ""
   },
   {
@@ -61654,6 +62059,36 @@
    "source_url": ""
   },
   {
+   "company": "NexPoint Diversified Real Estate Trust",
+   "ticker": "NXDT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.34375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.34375",
+   "source_url": ""
+  },
+  {
+   "company": "Roper Technologies, Inc.",
+   "ticker": "ROP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.91,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-27",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-28 $0.91",
+   "source_url": ""
+  },
+  {
    "company": "TOMPKINS FINANCIAL CORPORATION",
    "ticker": "TMP",
    "exchange": "NYSE",
@@ -62086,6 +62521,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "ALEXANDER’S, INC.",
+   "ticker": "ALX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 4.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-31 $4.5",
    "source_url": ""
   },
   {
