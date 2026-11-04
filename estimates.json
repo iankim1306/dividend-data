@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-04 21:18",
+ "updatedAt": "2026-11-05 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4253,
+ "count": 4258,
  "items": [
   {
    "company": "Universal Insurance Holdings, Inc.",
@@ -1291,21 +1291,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-02 $0.15",
-   "source_url": ""
-  },
-  {
-   "company": "Peabody Energy Corporation",
-   "ticker": "BTU",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.075,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-03",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.075",
    "source_url": ""
   },
   {
@@ -15514,21 +15499,6 @@
    "source_url": ""
   },
   {
-   "company": "Peabody Energy Corporation",
-   "ticker": "BTU",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.075,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-04",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.075",
-   "source_url": ""
-  },
-  {
    "company": "Conagra Brands, Inc.",
    "ticker": "CAG",
    "exchange": "NYSE",
@@ -16171,6 +16141,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-09 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "Peabody",
+   "ticker": "BTU",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.075,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.075",
    "source_url": ""
   },
   {
@@ -33424,21 +33409,6 @@
    "source_url": ""
   },
   {
-   "company": "Peabody Energy Corporation",
-   "ticker": "BTU",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.075,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-03",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.075",
-   "source_url": ""
-  },
-  {
    "company": "Conagra Brands, Inc.",
    "ticker": "CAG",
    "exchange": "NYSE",
@@ -34081,6 +34051,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-09 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "Peabody",
+   "ticker": "BTU",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.075,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.075",
    "source_url": ""
   },
   {
@@ -51394,21 +51379,6 @@
    "source_url": ""
   },
   {
-   "company": "Peabody Energy Corporation",
-   "ticker": "BTU",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.075,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-03 $0.075",
-   "source_url": ""
-  },
-  {
    "company": "Conagra Brands, Inc.",
    "ticker": "CAG",
    "exchange": "NYSE",
@@ -52036,6 +52006,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-09 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "Peabody",
+   "ticker": "BTU",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.075,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.075",
    "source_url": ""
   },
   {
@@ -63796,6 +63781,96 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-05 $0.36",
+   "source_url": ""
+  },
+  {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Ennis, Inc.",
+   "ticker": "EBF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.2625",
+   "source_url": ""
+  },
+  {
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "exchange": "NYSE American",
+   "security": "preferred",
+   "amount_per_share": 0.20833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
+   "company": "National Health Investors, Inc.",
+   "ticker": "NHI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.94,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.94",
+   "source_url": ""
+  },
+  {
+   "company": "nVent Electric plc",
+   "ticker": "NVT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.21,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "PATHFINDER BANCORP, INC.",
+   "ticker": "PBHC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1",
    "source_url": ""
   }
  ]
