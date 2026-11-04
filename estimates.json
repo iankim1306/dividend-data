@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-04 09:38",
+ "updatedAt": "2026-11-04 12:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4248,
+ "count": 4247,
  "items": [
   {
    "company": "Universal Insurance Holdings, Inc.",
@@ -1441,21 +1441,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-04 $1.15",
-   "source_url": ""
-  },
-  {
-   "company": "Bio-Techne Corporation",
-   "ticker": "TECH",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-04",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-04 $0.08",
    "source_url": ""
   },
   {
@@ -12679,6 +12664,21 @@
    "source_url": ""
   },
   {
+   "company": "Bio-Techne Corporation",
+   "ticker": "TECH",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "TPG Inc.",
    "ticker": "TPG",
    "exchange": "Nasdaq",
@@ -15931,21 +15931,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $1.25",
-   "source_url": ""
-  },
-  {
-   "company": "Bio-Techne Corporation",
-   "ticker": "TECH",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-05",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-04 $0.08",
    "source_url": ""
   },
   {
@@ -30484,6 +30469,21 @@
    "source_url": ""
   },
   {
+   "company": "Bio-Techne Corporation",
+   "ticker": "TECH",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "TPG Inc.",
    "ticker": "TPG",
    "exchange": "Nasdaq",
@@ -33811,21 +33811,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $1.25",
-   "source_url": ""
-  },
-  {
-   "company": "Bio-Techne Corporation",
-   "ticker": "TECH",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-04",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-04 $0.08",
    "source_url": ""
   },
   {
@@ -48439,6 +48424,21 @@
    "source_url": ""
   },
   {
+   "company": "Bio-Techne Corporation",
+   "ticker": "TECH",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "TPG Inc.",
    "ticker": "TPG",
    "exchange": "Nasdaq",
@@ -51736,21 +51736,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $1.25",
-   "source_url": ""
-  },
-  {
-   "company": "Bio-Techne Corporation",
-   "ticker": "TECH",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-03",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-04 $0.08",
    "source_url": ""
   },
   {
