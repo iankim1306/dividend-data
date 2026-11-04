@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-04 18:17",
+ "updatedAt": "2026-11-04 21:18",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4247,
+ "count": 4253,
  "items": [
   {
    "company": "Universal Insurance Holdings, Inc.",
@@ -14974,6 +14974,21 @@
    "source_url": ""
   },
   {
+   "company": "Enbridge Inc.",
+   "ticker": "ENB",
+   "exchange": "TSX",
+   "security": "preferred",
+   "amount_per_share": 0.38825,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.38825",
+   "source_url": ""
+  },
+  {
    "company": "Esquire Financial Holdings, Inc.",
    "ticker": "ESQ",
    "exchange": "NASDAQ",
@@ -18376,6 +18391,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-16 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Viatris Inc.",
+   "ticker": "VTRS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.12",
    "source_url": ""
   },
   {
@@ -32839,6 +32869,21 @@
    "source_url": ""
   },
   {
+   "company": "Enbridge Inc.",
+   "ticker": "ENB",
+   "exchange": "TSX",
+   "security": "preferred",
+   "amount_per_share": 0.38825,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.38825",
+   "source_url": ""
+  },
+  {
    "company": "Esquire Financial Holdings, Inc.",
    "ticker": "ESQ",
    "exchange": "NASDAQ",
@@ -36316,6 +36361,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-16 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Viatris Inc.",
+   "ticker": "VTRS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.12",
    "source_url": ""
   },
   {
@@ -50764,6 +50824,21 @@
    "source_url": ""
   },
   {
+   "company": "Enbridge Inc.",
+   "ticker": "ENB",
+   "exchange": "TSX",
+   "security": "preferred",
+   "amount_per_share": 0.38825,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2027-08-31",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.38825",
+   "source_url": ""
+  },
+  {
    "company": "Esquire Financial Holdings, Inc.",
    "ticker": "ESQ",
    "exchange": "NASDAQ",
@@ -54211,6 +54286,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-16 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Viatris Inc.",
+   "ticker": "VTRS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.12",
    "source_url": ""
   },
   {
