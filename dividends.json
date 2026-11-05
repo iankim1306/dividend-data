@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05 18:17",
+ "updatedAt": "2026-11-05 21:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -66501,6 +66501,21 @@
    "collected_at": "2026-10-30 09:42"
   },
   {
+   "company": "BD (Becton, Dickinson and Company)",
+   "exchange": "NYSE",
+   "ticker": "BDX",
+   "security": "common",
+   "amount_per_share": 1.06,
+   "currency": "USD",
+   "record_date": "2026-12-10",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bd-board-increases-dividend-for-55th-consecutive-year-authorizes-10-million-additional-share-repurchases-302929915.html",
+   "collected_at": "2026-11-05 21:17"
+  },
+  {
    "company": "Booking Holdings Inc.",
    "exchange": "Nasdaq",
    "ticker": "BKNG",
@@ -67671,6 +67686,21 @@
    "collected_at": "2026-10-27 09:17"
   },
   {
+   "company": "MSC Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MSIF",
+   "security": "common",
+   "amount_per_share": 0.11,
+   "currency": "USD",
+   "record_date": "2026-12-31",
+   "payable_date": "2027-01-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/msc-income-fund-announces-first-quarter-2027-regular-monthly-dividends-and-supplemental-dividend-payable-in-march-2027-302929868.html",
+   "collected_at": "2026-11-05 21:17"
+  },
+  {
    "company": "Schneider National, Inc.",
    "exchange": "NYSE",
    "ticker": "SNDR",
@@ -67999,6 +68029,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/charter-declares-quarterly-cash-dividend-on-series-a-cumulative-redeemable-preferred-stock-302921225.html",
    "collected_at": "2026-10-28 06:17"
+  },
+  {
+   "company": "DTE Energy",
+   "exchange": "NYSE",
+   "ticker": "DTE",
+   "security": "common",
+   "amount_per_share": 1.245,
+   "currency": "USD",
+   "record_date": "2026-12-21",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/dte-energy-board-of-directors-declares-quarterly-dividend-302930622.html",
+   "collected_at": "2026-11-05 21:17"
   },
   {
    "company": "DT Midstream, Inc.",
@@ -68646,6 +68691,21 @@
    "collected_at": "2026-10-23 03:17"
   },
   {
+   "company": "MSC Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MSIF",
+   "security": "common",
+   "amount_per_share": 0.11,
+   "currency": "USD",
+   "record_date": "2027-02-02",
+   "payable_date": "2027-02-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/msc-income-fund-announces-first-quarter-2027-regular-monthly-dividends-and-supplemental-dividend-payable-in-march-2027-302929868.html",
+   "collected_at": "2026-11-05 21:17"
+  },
+  {
    "company": "Main Street Capital Corporation",
    "exchange": "NYSE",
    "ticker": "MAIN",
@@ -68706,6 +68766,21 @@
    "collected_at": "2026-10-23 06:17"
   },
   {
+   "company": "MSC Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MSIF",
+   "security": "common",
+   "amount_per_share": 0.11,
+   "currency": "USD",
+   "record_date": "2027-03-02",
+   "payable_date": "2027-03-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/msc-income-fund-announces-first-quarter-2027-regular-monthly-dividends-and-supplemental-dividend-payable-in-march-2027-302929868.html",
+   "collected_at": "2026-11-05 21:17"
+  },
+  {
    "company": "Boardwalk REIT",
    "exchange": "TSX",
    "ticker": "BEI.UN",
@@ -68734,6 +68809,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/main-street-announces-first-quarter-2027-regular-monthly-dividends-including-a-monthly-dividend-increase-and-supplemental-dividend-payable-in-december-2026-302927197.html",
    "collected_at": "2026-11-03 21:17"
+  },
+  {
+   "company": "MSC Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MSIF",
+   "security": "common",
+   "amount_per_share": 0.03,
+   "currency": "USD",
+   "record_date": "2027-03-16",
+   "payable_date": "2027-03-23",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/msc-income-fund-announces-first-quarter-2027-regular-monthly-dividends-and-supplemental-dividend-payable-in-march-2027-302929868.html",
+   "collected_at": "2026-11-05 21:17"
   },
   {
    "company": "Diversified Energy",
@@ -68781,5 +68871,5 @@
    "collected_at": "2026-11-05 09:43"
   }
  ],
- "count": 4606
+ "count": 4612
 }

@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-05 18:17",
+ "updatedAt": "2026-11-05 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4324,
+ "count": 4321,
  "items": [
   {
    "company": "Universal Insurance Holdings, Inc.",
@@ -5434,21 +5434,6 @@
    "source_url": ""
   },
   {
-   "company": "MSC Income Fund, Inc.",
-   "ticker": "MSIF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.11,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-09 $0.11",
-   "source_url": ""
-  },
-  {
    "company": "The Marzetti Company",
    "ticker": "MZTI",
    "exchange": "Nasdaq",
@@ -9766,21 +9751,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $0.16",
-   "source_url": ""
-  },
-  {
-   "company": "MSC Income Fund, Inc.",
-   "ticker": "MSIF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.11,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-07",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-09 $0.11",
    "source_url": ""
   },
   {
@@ -15676,21 +15646,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-08 $0.28",
-   "source_url": ""
-  },
-  {
-   "company": "MSC Income Fund, Inc.",
-   "ticker": "MSIF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.11,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-09",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-09 $0.11",
    "source_url": ""
   },
   {
@@ -22980,7 +22935,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-09 $0.11",
+   "basis": "last confirmed 2027-03-09 $0.11",
    "source_url": ""
   },
   {
@@ -27975,7 +27930,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-09 $0.11",
+   "basis": "last confirmed 2027-03-09 $0.11",
    "source_url": ""
   },
   {
@@ -33930,7 +33885,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-09 $0.11",
+   "basis": "last confirmed 2027-03-09 $0.11",
    "source_url": ""
   },
   {
@@ -41415,7 +41370,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-09 $0.11",
+   "basis": "last confirmed 2027-03-09 $0.11",
    "source_url": ""
   },
   {
@@ -46440,7 +46395,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-09 $0.11",
+   "basis": "last confirmed 2027-03-09 $0.11",
    "source_url": ""
   },
   {
@@ -52395,7 +52350,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-09 $0.11",
+   "basis": "last confirmed 2027-03-09 $0.11",
    "source_url": ""
   },
   {
@@ -59625,7 +59580,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-09 $0.11",
+   "basis": "last confirmed 2027-03-09 $0.11",
    "source_url": ""
   },
   {
@@ -64740,7 +64695,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-09 $0.11",
+   "basis": "last confirmed 2027-03-09 $0.11",
    "source_url": ""
   },
   {
