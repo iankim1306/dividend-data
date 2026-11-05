@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-05 09:45",
+ "updatedAt": "2026-11-05 12:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4325,
+ "count": 4324,
  "items": [
   {
    "company": "Universal Insurance Holdings, Inc.",
@@ -586,21 +586,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1371",
    "source_url": ""
   },
   {
@@ -3034,21 +3019,6 @@
    "source_url": ""
   },
   {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -3556,6 +3526,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.65",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1371",
    "source_url": ""
   },
   {
@@ -7954,21 +7939,6 @@
    "source_url": ""
   },
   {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
    "company": "Bentley Systems, Incorporated",
    "ticker": "BSY",
    "exchange": "Nasdaq",
@@ -8371,6 +8341,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.59",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1371",
    "source_url": ""
   },
   {
@@ -13204,21 +13189,6 @@
    "source_url": ""
   },
   {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -13486,6 +13456,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.165",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1371",
    "source_url": ""
   },
   {
@@ -19594,21 +19579,6 @@
    "source_url": ""
   },
   {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -20026,6 +19996,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-29 $0.48",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1371",
    "source_url": ""
   },
   {
@@ -26029,21 +26014,6 @@
    "source_url": ""
   },
   {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
    "company": "Boyd Group Services Inc.",
    "ticker": "BYD",
    "exchange": "TSX",
@@ -26401,6 +26371,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-29 $0.34",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1371",
    "source_url": ""
   },
   {
@@ -31234,21 +31219,6 @@
    "source_url": ""
   },
   {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
    "company": "CB Financial Services, Inc.",
    "ticker": "CBFV",
    "exchange": "NASDAQGM",
@@ -31801,6 +31771,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1371",
    "source_url": ""
   },
   {
@@ -38014,21 +37999,6 @@
    "source_url": ""
   },
   {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -38311,6 +38281,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.165",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1371",
    "source_url": ""
   },
   {
@@ -44494,21 +44479,6 @@
    "source_url": ""
   },
   {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -44836,6 +44806,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-28 $0.34",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1371",
    "source_url": ""
   },
   {
@@ -49624,21 +49609,6 @@
    "source_url": ""
   },
   {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -49981,6 +49951,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.4",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1371",
    "source_url": ""
   },
   {
@@ -56419,21 +56404,6 @@
    "source_url": ""
   },
   {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -56701,6 +56671,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.165",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1371",
    "source_url": ""
   },
   {
@@ -62734,21 +62719,6 @@
    "source_url": ""
   },
   {
-   "company": "Bluerock Private Real Estate Fund",
-   "ticker": "BPRE",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.1371,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1371",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -63121,6 +63091,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-27 $0.125",
+   "source_url": ""
+  },
+  {
+   "company": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1371",
    "source_url": ""
   },
   {

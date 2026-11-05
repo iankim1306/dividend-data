@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05 09:45",
+ "updatedAt": "2026-11-05 12:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -59484,6 +59484,21 @@
    "collected_at": "2026-11-04 09:35"
   },
   {
+   "company": "Bluerock Private Real Estate Fund",
+   "exchange": "NYSE",
+   "ticker": "BPRE",
+   "security": "fund",
+   "amount_per_share": 0.1371,
+   "currency": "USD",
+   "record_date": "2026-11-18",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bluerock-private-real-estate-fund-announces-monthly-distribution-for-november-2026-302929971.html",
+   "collected_at": "2026-11-05 12:17"
+  },
+  {
    "company": "CF Industries Holdings, Inc.",
    "exchange": "NYSE",
    "ticker": "CF",
@@ -68766,5 +68781,5 @@
    "collected_at": "2026-11-05 09:43"
   }
  ],
- "count": 4605
+ "count": 4606
 }
