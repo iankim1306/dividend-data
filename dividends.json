@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05 06:17",
+ "updatedAt": "2026-11-05 09:45",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -1425,6 +1425,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/876427/000087642726000007/mnro-20260328x10k.htm",
    "collected_at": "2026-08-13 12:27"
+  },
+  {
+   "company": "Motorola Solutions, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MSI",
+   "security": "common",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-03-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000044/msi-20261003.htm",
+   "collected_at": "2026-11-05 09:24"
+  },
+  {
+   "company": "Amgen Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "AMGN",
+   "security": "common",
+   "amount_per_share": 2.38,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000155/amgn-20260930.htm",
+   "collected_at": "2026-11-05 09:27"
   },
   {
    "company": "Ares Capital Corporation",
@@ -3151,6 +3181,21 @@
    "collected_at": "2026-08-13 12:07"
   },
   {
+   "company": "Burford Capital Limited",
+   "exchange": "NYSE",
+   "ticker": "BUR",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "2025-05-23",
+   "payable_date": "2025-06-13",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1714174/000171417426000112/bur-20260930.htm",
+   "collected_at": "2026-11-05 09:42"
+  },
+  {
    "company": "Cintas Corporation",
    "exchange": "Nasdaq",
    "ticker": "CTAS",
@@ -3571,6 +3616,21 @@
    "collected_at": "2026-08-13 12:21"
   },
   {
+   "company": "Motorola Solutions, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MSI",
+   "security": "common",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-06-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000044/msi-20261003.htm",
+   "collected_at": "2026-11-05 09:24"
+  },
+  {
    "company": "Perrigo Company plc",
    "exchange": "NYSE",
    "ticker": "PRGO",
@@ -3599,6 +3659,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1823529/000182352926000188/act-20260630.htm",
    "collected_at": "2026-08-15 09:26"
+  },
+  {
+   "company": "Amgen Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "AMGN",
+   "security": "common",
+   "amount_per_share": 2.38,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000155/amgn-20260930.htm",
+   "collected_at": "2026-11-05 09:27"
   },
   {
    "company": "Ares Capital Corporation",
@@ -5430,6 +5505,21 @@
    "collected_at": "2026-11-04 09:37"
   },
   {
+   "company": "ESSENTIAL UTILITIES, INC.",
+   "exchange": "NYSE",
+   "ticker": "WTRG",
+   "security": "common",
+   "amount_per_share": 0.3426,
+   "currency": "USD",
+   "record_date": "2025-09-02",
+   "payable_date": "2025-09-02",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/78128/000007812826000080/wtrg-20260930x10q.htm",
+   "collected_at": "2026-11-05 09:25"
+  },
+  {
    "company": "JPMorgan Equity Premium Income ETF",
    "exchange": "NYSE ARCA",
    "ticker": "JEPI",
@@ -5910,6 +6000,21 @@
    "collected_at": "2026-08-18T13:09:09+09:00"
   },
   {
+   "company": "Motorola Solutions, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MSI",
+   "security": "common",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-09-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000044/msi-20261003.htm",
+   "collected_at": "2026-11-05 09:24"
+  },
+  {
    "company": "NIKE, INC.",
    "exchange": "NYSE",
    "ticker": "NKE",
@@ -5970,6 +6075,21 @@
    "collected_at": "2026-08-18T15:26:30+09:00"
   },
   {
+   "company": "Amgen Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "AMGN",
+   "security": "common",
+   "amount_per_share": 2.38,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000155/amgn-20260930.htm",
+   "collected_at": "2026-11-05 09:27"
+  },
+  {
    "company": "Ares Capital Corporation",
    "exchange": "Nasdaq",
    "ticker": "ARCC",
@@ -5998,6 +6118,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/946673/000094667326000127/banr-20260331.htm",
    "collected_at": "2026-08-13 14:23"
+  },
+  {
+   "company": "BGSF, Inc.",
+   "exchange": "NYSE",
+   "ticker": "BGSF",
+   "security": "common",
+   "amount_per_share": 2.0,
+   "currency": "USD",
+   "record_date": "2025-09-23",
+   "payable_date": "2025-09-30",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1474903/000147490326000088/bgsf-20260927.htm",
+   "collected_at": "2026-11-05 09:38"
   },
   {
    "company": "Amplify CWP Enhanced Dividend Income ETF",
@@ -6704,6 +6839,21 @@
    "collected_at": "2026-08-14 09:28"
   },
   {
+   "company": "Primoris Services Corporation",
+   "exchange": "NYSE",
+   "ticker": "PRIM",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "2025-09-30",
+   "payable_date": "2025-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1361538/000110465926122218/prim-20260930x10q.htm",
+   "collected_at": "2026-11-05 09:37"
+  },
+  {
    "company": "CARPENTER TECHNOLOGY CORPORATION",
    "exchange": "NYSE",
    "ticker": "CRS",
@@ -6882,6 +7032,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1273685/000127368526000069/adam-20260630.htm",
    "collected_at": "2026-08-14 09:21"
+  },
+  {
+   "company": "NACCO Industries, Inc.",
+   "exchange": "NYSE",
+   "ticker": "NC",
+   "security": "common",
+   "amount_per_share": 0.2275,
+   "currency": "USD",
+   "record_date": "2025-09-30",
+   "payable_date": "2025-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/789933/000078993326000189/nacco-20260930.htm",
+   "collected_at": "2026-11-05 09:29"
   },
   {
    "company": "ARGAN INC",
@@ -7499,6 +7664,21 @@
    "collected_at": "2026-08-18T15:26:30+09:00"
   },
   {
+   "company": "Phibro Animal Health Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "PAHC",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2025-11-25",
+   "payable_date": "2025-12-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1069899/000110465926122692/pahc-20260930x10q.htm",
+   "collected_at": "2026-11-05 09:34"
+  },
+  {
    "company": "e Plus inc.",
    "exchange": "Nasdaq",
    "ticker": "PLUS",
@@ -7784,6 +7964,21 @@
    "collected_at": "2026-08-20 09:22"
   },
   {
+   "company": "Amgen Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "AMGN",
+   "security": "common",
+   "amount_per_share": 2.38,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000155/amgn-20260930.htm",
+   "collected_at": "2026-11-05 09:27"
+  },
+  {
    "company": "BANNER CORPORATION",
    "exchange": "Nasdaq",
    "ticker": "BANR",
@@ -7917,6 +8112,21 @@
    "wire": "AGG:stockanalysis",
    "source_url": "https://stockanalysis.com/etf/qqq/dividend/",
    "collected_at": "2026-08-18T15:26:36+09:00"
+  },
+  {
+   "company": "Ralliant Corporation",
+   "exchange": "NYSE",
+   "ticker": "RAL",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2025-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2041385/000204138526000072/ral-20261002.htm",
+   "collected_at": "2026-11-05 09:45"
   },
   {
    "company": "Southside Bancshares, Inc.",
@@ -8834,6 +9044,21 @@
    "collected_at": "2026-08-15 09:29"
   },
   {
+   "company": "Net Lease Office Properties",
+   "exchange": "NYSE",
+   "ticker": "NLOP",
+   "security": "common",
+   "amount_per_share": 5.1,
+   "currency": "USD",
+   "record_date": "2026-01-02",
+   "payable_date": "2026-01-20",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1952976/000195297626000064/nlop-20260930.htm",
+   "collected_at": "2026-11-05 09:44"
+  },
+  {
    "company": "BAB, INC.",
    "exchange": "OTC",
    "ticker": "BABB",
@@ -9042,6 +9267,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302894912.html",
    "collected_at": "2026-10-01 06:18"
+  },
+  {
+   "company": "NACCO Industries, Inc.",
+   "exchange": "NYSE",
+   "ticker": "NC",
+   "security": "common",
+   "amount_per_share": 0.2525,
+   "currency": "USD",
+   "record_date": "2025-12-31",
+   "payable_date": "2026-01-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/789933/000078993326000189/nacco-20260930.htm",
+   "collected_at": "2026-11-05 09:29"
   },
   {
    "company": "SPDR S&P 500 ETF Trust",
@@ -9854,6 +10094,21 @@
    "collected_at": "2026-08-13 14:22"
   },
   {
+   "company": "Wintrust Financial Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "WTFC",
+   "security": "common",
+   "amount_per_share": 0.55,
+   "currency": "USD",
+   "record_date": "2026-02-05",
+   "payable_date": "2026-02-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1015328/000101532826000031/wtfc-20260930.htm",
+   "collected_at": "2026-11-05 09:32"
+  },
+  {
    "company": "J.B. HUNT TRANSPORT SERVICES, INC.",
    "exchange": "Nasdaq",
    "ticker": "JBHT",
@@ -10601,6 +10856,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1694426/000162828026053106/dk-20260630.htm",
    "collected_at": "2026-08-15 09:20"
+  },
+  {
+   "company": "CDW Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "CDW",
+   "security": "common",
+   "amount_per_share": 0.63,
+   "currency": "USD",
+   "record_date": "2026-02-25",
+   "payable_date": "2026-03-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1402057/000140205726000114/cdw-20260930.htm",
+   "collected_at": "2026-11-05 09:37"
   },
   {
    "company": "Johnson & Johnson",
@@ -12641,6 +12911,21 @@
    "collected_at": "2026-08-13 12:38"
   },
   {
+   "company": "Allstate Corporation",
+   "exchange": "NYSE",
+   "ticker": "ALL",
+   "security": "common",
+   "amount_per_share": 1.0,
+   "currency": "USD",
+   "record_date": "2026-01-01",
+   "payable_date": "2026-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000157/all-20260930.htm",
+   "collected_at": "2026-11-05 09:31"
+  },
+  {
    "company": "AMKOR TECHNOLOGY, INC.",
    "exchange": "Nasdaq",
    "ticker": "AMKR",
@@ -13150,6 +13435,21 @@
    "collected_at": "2026-08-25 09:28"
   },
   {
+   "company": "Ralliant Corporation",
+   "exchange": "NYSE",
+   "ticker": "RAL",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-04-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2041385/000204138526000072/ral-20261002.htm",
+   "collected_at": "2026-11-05 09:45"
+  },
+  {
    "company": "CARTER’S, INC.",
    "exchange": "NYSE",
    "ticker": "CRI",
@@ -13178,6 +13478,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000293/ldos-20261002.htm",
    "collected_at": "2026-11-04 09:31"
+  },
+  {
+   "company": "Motorola Solutions, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MSI",
+   "security": "common",
+   "amount_per_share": 1.21,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-04-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000044/msi-20261003.htm",
+   "collected_at": "2026-11-05 09:24"
   },
   {
    "company": "Chubb Limited",
@@ -13883,6 +14198,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1703644/000170364426000034/gpmt-20260630.htm",
    "collected_at": "2026-08-15 09:21"
+  },
+  {
+   "company": "Granite Point Mortgage Trust Inc.",
+   "exchange": "NYSE",
+   "ticker": "GPMT",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-04-01",
+   "payable_date": "2026-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1703644/000170364426000044/gpmt-20260930.htm",
+   "collected_at": "2026-11-05 09:42"
   },
   {
    "company": "Innovative Industrial Properties, Inc.",
@@ -20262,6 +20592,21 @@
    "collected_at": "2026-08-13 11:37"
   },
   {
+   "company": "Burford Capital Limited",
+   "exchange": "NYSE",
+   "ticker": "BUR",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "2026-05-22",
+   "payable_date": "2026-06-12",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1714174/000171417426000112/bur-20260930.htm",
+   "collected_at": "2026-11-05 09:42"
+  },
+  {
    "company": "CRA INTERNATIONAL, INC.",
    "exchange": "Nasdaq",
    "ticker": "CRAI",
@@ -23242,6 +23587,21 @@
    "collected_at": "2026-08-15 09:33"
   },
   {
+   "company": "CRANE NXT, CO.",
+   "exchange": "NYSE",
+   "ticker": "CXT",
+   "security": "common",
+   "amount_per_share": 0.18,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/25445/000002544526000049/cxt-20260930.htm",
+   "collected_at": "2026-11-05 09:23"
+  },
+  {
    "company": "Dana Incorporated",
    "exchange": "NYSE",
    "ticker": "DAN",
@@ -24004,6 +24364,21 @@
    "collected_at": "2026-08-16 09:24"
   },
   {
+   "company": "SM Energy Company",
+   "exchange": "NYSE",
+   "ticker": "SM",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/893538/000089353826000147/sm-20260930.htm",
+   "collected_at": "2026-11-05 09:30"
+  },
+  {
    "company": "Simon Property Group",
    "exchange": "NYSE",
    "ticker": "SPG",
@@ -24763,6 +25138,21 @@
    "collected_at": "2026-10-30 09:40"
   },
   {
+   "company": "The New York Times Company",
+   "exchange": "NYSE",
+   "ticker": "NYT",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "2026-06-30",
+   "payable_date": "2026-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/71691/000007169126000041/nyt-20260930.htm",
+   "collected_at": "2026-11-05 09:24"
+  },
+  {
    "company": "PROGRESSIVE CORP/OH",
    "exchange": "NYSE",
    "ticker": "PGR",
@@ -25133,6 +25523,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/69633/000110465926054691/nssc-20260430xex99d1.htm",
    "collected_at": "2026-08-13 11:41"
+  },
+  {
+   "company": "Ralliant Corporation",
+   "exchange": "NYSE",
+   "ticker": "RAL",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-07-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2041385/000204138526000072/ral-20261002.htm",
+   "collected_at": "2026-11-05 09:45"
   },
   {
    "company": "Brunswick Corporation",
@@ -26506,6 +26911,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1703644/000170364426000034/gpmt-20260630.htm",
    "collected_at": "2026-08-15 09:21"
+  },
+  {
+   "company": "Granite Point Mortgage Trust Inc.",
+   "exchange": "NYSE",
+   "ticker": "GPMT",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-07-01",
+   "payable_date": "2026-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1703644/000170364426000044/gpmt-20260930.htm",
+   "collected_at": "2026-11-05 09:42"
   },
   {
    "company": "Huntington Bancshares Incorporated",
@@ -28573,6 +28993,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1868159/000186815926000039/line-20260630.htm",
    "collected_at": "2026-08-15 09:27"
+  },
+  {
+   "company": "NACCO Industries, Inc.",
+   "exchange": "NYSE",
+   "ticker": "NC",
+   "security": "common",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "2026-06-30",
+   "payable_date": "2026-07-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/789933/000078993326000189/nacco-20260930.htm",
+   "collected_at": "2026-11-05 09:29"
   },
   {
    "company": "Nicolet Bankshares, Inc.",
@@ -34459,6 +34894,21 @@
    "collected_at": "2026-08-07 00:00"
   },
   {
+   "company": "The Timken Company",
+   "exchange": "NYSE",
+   "ticker": "TKR",
+   "security": "common",
+   "amount_per_share": 1.07,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-08-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/98362/000009836226000059/tkr-20260930.htm",
+   "collected_at": "2026-11-05 09:26"
+  },
+  {
    "company": "TPG Inc.",
    "exchange": "Nasdaq",
    "ticker": "TPG",
@@ -35349,6 +35799,21 @@
    "collected_at": "2026-08-13 10:59"
   },
   {
+   "company": "Albemarle Corporation",
+   "exchange": "NYSE",
+   "ticker": "ALB",
+   "security": "preferred",
+   "amount_per_share": 18.125,
+   "currency": "USD",
+   "record_date": "2026-08-15",
+   "payable_date": "2026-09-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000129/alb-20260930.htm",
+   "collected_at": "2026-11-05 09:31"
+  },
+  {
    "company": "AdvanSix Inc.",
    "exchange": "NYSE",
    "ticker": "ASIX",
@@ -35422,6 +35887,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1169770/000162828026054876/banc-20260630.htm",
    "collected_at": "2026-08-13 14:59"
+  },
+  {
+   "company": "Brink's Company",
+   "exchange": "NYSE",
+   "ticker": "BCO",
+   "security": "common",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "2026-07-27",
+   "payable_date": "2026-09-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/78890/000007889026000069/bco-20260930.htm",
+   "collected_at": "2026-11-05 09:25"
   },
   {
    "company": "Bunge Global SA",
@@ -35928,6 +36408,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/913144/000091314426000098/rnr-20260930.htm",
    "collected_at": "2026-10-29 09:33"
+  },
+  {
+   "company": "SERVISFIRST BANCSHARES, INC.",
+   "exchange": "NYSE",
+   "ticker": "SFBS",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "2026-08-05",
+   "payable_date": "2026-09-01",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1430723/000117184326007112/sfbs20260930_10q.htm",
+   "collected_at": "2026-11-05 09:38"
   },
   {
    "company": "Sensient Technologies Corporation",
@@ -37807,6 +38302,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/742278/000110465926088439/res-20260730xex99d1.htm",
    "collected_at": "2026-08-13 11:55"
+  },
+  {
+   "company": "Solstice Advanced Materials Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "SOLS",
+   "security": "common",
+   "amount_per_share": 0.075,
+   "currency": "USD",
+   "record_date": "2026-08-27",
+   "payable_date": "2026-09-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2064953/000206495326000100/sols-20260930.htm",
+   "collected_at": "2026-11-05 09:45"
   },
   {
    "company": "SONOCO PRODUCTS COMPANY",
@@ -42066,6 +42576,36 @@
    "collected_at": "2026-08-21 09:28"
   },
   {
+   "company": "Perrigo Company plc",
+   "exchange": "NYSE",
+   "ticker": "PRGO",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-09-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1585364/000158536426000162/prgo-20260926.htm",
+   "collected_at": "2026-11-05 09:40"
+  },
+  {
+   "company": "QUALCOMM INC",
+   "exchange": "Nasdaq",
+   "ticker": "QCOM",
+   "security": "common",
+   "amount_per_share": 3.62,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-09-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/qcom-20260927.htm",
+   "collected_at": "2026-11-05 09:29"
+  },
+  {
    "company": "Gold.com, Inc.",
    "exchange": "NYSE",
    "ticker": "GOLD",
@@ -44033,6 +44573,21 @@
    "collected_at": "2026-08-07 07:31"
   },
   {
+   "company": "MFA Financial, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MFA",
+   "security": "preferred",
+   "amount_per_share": 0.46875,
+   "currency": "USD",
+   "record_date": "2026-09-04",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1055160/000105516026000023/mfa-20260930.htm",
+   "collected_at": "2026-11-05 09:33"
+  },
+  {
    "company": "Aberdeen Municipal Income Fund",
    "exchange": "NYSE",
    "ticker": "MFM",
@@ -44630,6 +45185,21 @@
    "collected_at": "2026-08-20 09:18"
   },
   {
+   "company": "Royalty Pharma plc",
+   "exchange": "Nasdaq",
+   "ticker": "RPRX",
+   "security": "common",
+   "amount_per_share": 0.235,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1802768/000180276826000028/rprx-20260930.htm",
+   "collected_at": "2026-11-05 09:43"
+  },
+  {
    "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
    "exchange": "NYSE",
    "ticker": "RQI",
@@ -44718,6 +45288,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/sun-life-reports-results-of-conversion-privilege-of-class-a-non-cumulative-rate-reset-preferred-shares-series-10r-and-class-a-non-cumulative-floating-rate-preferred-shares-series-11qr-302885208.html",
    "collected_at": "2026-09-22 06:18"
+  },
+  {
+   "company": "SM Energy Company",
+   "exchange": "NYSE",
+   "ticker": "SM",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/893538/000089353826000147/sm-20260930.htm",
+   "collected_at": "2026-11-05 09:30"
   },
   {
    "company": "Simon Property Group",
@@ -45032,6 +45617,21 @@
    "collected_at": "2026-10-01 06:19"
   },
   {
+   "company": "The Timken Company",
+   "exchange": "NYSE",
+   "ticker": "TKR",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/98362/000009836226000059/tkr-20260930.htm",
+   "collected_at": "2026-11-05 09:26"
+  },
+  {
    "company": "TPG RE Finance Trust, Inc.",
    "exchange": "NYSE",
    "ticker": "TRTX PRC",
@@ -45089,6 +45689,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1901440/000190144026000031/uls-20260930.htm",
    "collected_at": "2026-11-04 09:37"
+  },
+  {
+   "company": "Unum Group",
+   "exchange": "NYSE",
+   "ticker": "UNM",
+   "security": "common",
+   "amount_per_share": 0.505,
+   "currency": "USD",
+   "record_date": "2026-07-31",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/5513/000000551326000086/unm-20260930.htm",
+   "collected_at": "2026-11-05 09:22"
+  },
+  {
+   "company": "Marriott Vacations Worldwide Corporation",
+   "exchange": "NYSE",
+   "ticker": "VAC",
+   "security": "common",
+   "amount_per_share": 0.8,
+   "currency": "USD",
+   "record_date": "2026-09-16",
+   "payable_date": "2026-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1524358/000152435826000042/vac-20260930.htm",
+   "collected_at": "2026-11-05 09:39"
   },
   {
    "company": "Invesco Bond Fund",
@@ -45403,6 +46033,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000102/alb-20260630.htm",
    "collected_at": "2026-08-13 12:44"
+  },
+  {
+   "company": "Allstate Corporation",
+   "exchange": "NYSE",
+   "ticker": "ALL",
+   "security": "common",
+   "amount_per_share": 1.08,
+   "currency": "USD",
+   "record_date": "2026-07-08",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000157/all-20260930.htm",
+   "collected_at": "2026-11-05 09:31"
   },
   {
    "company": "Ares Management Corporation",
@@ -46004,6 +46649,21 @@
    "collected_at": "2026-10-30 09:43"
   },
   {
+   "company": "Merck & Co., Inc.",
+   "exchange": "NYSE",
+   "ticker": "MRK",
+   "security": "common",
+   "amount_per_share": 0.85,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000248/mrk-20260930.htm",
+   "collected_at": "2026-11-05 09:27"
+  },
+  {
    "company": "NewMarket Corporation",
    "exchange": "NYSE",
    "ticker": "NEU",
@@ -46047,6 +46707,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1587987/000162828026061720/a3q2026dividendannouncem.htm",
    "collected_at": "2026-09-15 09:18"
+  },
+  {
+   "company": "NRC Health",
+   "exchange": "Nasdaq",
+   "ticker": "NRC",
+   "security": "common",
+   "amount_per_share": 0.16,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/70487/000143774926034887/nrc20260930_10q.htm",
+   "collected_at": "2026-11-05 09:24"
   },
   {
    "company": "Insperity, Inc.",
@@ -46556,6 +47231,21 @@
    "collected_at": "2026-09-10 09:19"
   },
   {
+   "company": "Motorola Solutions, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MSI",
+   "security": "common",
+   "amount_per_share": 1.21,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-10-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000044/msi-20261003.htm",
+   "collected_at": "2026-11-05 09:24"
+  },
+  {
    "company": "General Dynamics",
    "exchange": "NYSE",
    "ticker": "GD",
@@ -46718,6 +47408,21 @@
    "collected_at": "2026-08-14 09:40"
   },
   {
+   "company": "ONE LIBERTY PROPERTIES INC",
+   "exchange": "NYSE",
+   "ticker": "OLP",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "2026-09-28",
+   "payable_date": "2026-10-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/712770/000110465926122642/olp-20260930x10q.htm",
+   "collected_at": "2026-11-05 09:27"
+  },
+  {
    "company": "Blue Owl Technology Finance Corp.",
    "exchange": "NYSE",
    "ticker": "OWL",
@@ -46836,6 +47541,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/correction-valmet-confirms-the-key-dates-for-its-second-dividend-instalment-eur-0-67-per-share-to-be-paid-out-on-october-8--2026--302897250.html",
    "collected_at": "2026-10-03 00:18"
+  },
+  {
+   "company": "AH Realty Trust, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AHRT",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-08",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1569187/000156918726000170/ahh-20260930.htm",
+   "collected_at": "2026-11-05 09:40"
   },
   {
    "company": "Build-A-Bear Workshop, Inc.",
@@ -47809,6 +48529,21 @@
    "collected_at": "2026-09-10 06:18"
   },
   {
+   "company": "AH Realty Trust, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AHRT",
+   "security": "preferred",
+   "amount_per_share": 0.421875,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-15",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1569187/000156918726000170/ahh-20260930.htm",
+   "collected_at": "2026-11-05 09:40"
+  },
+  {
    "company": "The Allstate Corporation",
    "exchange": "NYSE",
    "ticker": "ALL",
@@ -48586,6 +49321,36 @@
    "collected_at": "2026-09-18 09:29"
   },
   {
+   "company": "Granite Point Mortgage Trust Inc.",
+   "exchange": "NYSE",
+   "ticker": "GPMT",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1703644/000170364426000044/gpmt-20260930.htm",
+   "collected_at": "2026-11-05 09:42"
+  },
+  {
+   "company": "Granite Point Mortgage Trust Inc.",
+   "exchange": "NYSE",
+   "ticker": "GPMT",
+   "security": "preferred",
+   "amount_per_share": 0.4375,
+   "currency": "USD",
+   "record_date": "2026-10-01",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1703644/000170364426000044/gpmt-20260930.htm",
+   "collected_at": "2026-11-05 09:42"
+  },
+  {
    "company": "Huntington Bancshares Incorporated",
    "exchange": "",
    "ticker": "HBAN",
@@ -49145,6 +49910,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000075/ex992rjf20260826prdiv.htm",
    "collected_at": "2026-09-02 09:18"
+  },
+  {
+   "company": "RLJ Lodging Trust",
+   "exchange": "NYSE",
+   "ticker": "RLJ",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1511337/000151133726000028/rljq32026exhibit991.htm",
+   "collected_at": "2026-11-05 09:19"
   },
   {
    "company": "Redwood Trust, Inc.",
@@ -49740,6 +50520,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000172/sna-20261003.htm",
    "collected_at": "2026-10-23 09:28"
+  },
+  {
+   "company": "Sysco Corporation",
+   "exchange": "NYSE",
+   "ticker": "SYY",
+   "security": "common",
+   "amount_per_share": 0.55,
+   "currency": "USD",
+   "record_date": "2026-09-26",
+   "payable_date": "2026-10-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/96021/000009602126000050/syy-20260926.htm",
+   "collected_at": "2026-11-05 09:26"
   },
   {
    "company": "Textron Inc.",
@@ -50341,6 +51136,21 @@
    "collected_at": "2026-10-23 09:30"
   },
   {
+   "company": "COPT Defense Properties",
+   "exchange": "NYSE",
+   "ticker": "CDP",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/860546/000086054626000048/cdp-20260930.htm",
+   "collected_at": "2026-11-05 09:30"
+  },
+  {
    "company": "Carlisle Companies Incorporated",
    "exchange": "NYSE",
    "ticker": "CSL",
@@ -50563,6 +51373,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1158449/000119312526357755/aap-ex99_1.htm",
    "collected_at": "2026-08-21 09:25"
+  },
+  {
+   "company": "American Financial Group, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AFG",
+   "security": "common",
+   "amount_per_share": 0.97,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-10-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1042046/000119312526446243/d190021dex991.htm",
+   "collected_at": "2026-11-05 09:33"
   },
   {
    "company": "Bitmine Immersion Technologies, Inc.",
@@ -51177,6 +52002,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/812011/000081201126000048/a20260731pressrelease.htm",
    "collected_at": "2026-09-29 09:19"
+  },
+  {
+   "company": "TWIN DISC, INCORPORATED",
+   "exchange": "Nasdaq",
+   "ticker": "TWIN",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "2026-09-25",
+   "payable_date": "2026-10-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/100378/000143774926034771/twin20260925_10q.htm",
+   "collected_at": "2026-11-05 09:26"
   },
   {
    "company": "JLL Income Property Trust",
@@ -52063,6 +52903,36 @@
    "collected_at": "2026-08-07 07:31"
   },
   {
+   "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
+   "exchange": "NYSE",
+   "ticker": "HBB",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-03-31",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1709164/000170916426000186/hbb-20260930.htm",
+   "collected_at": "2026-11-05 09:42"
+  },
+  {
+   "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
+   "exchange": "NYSE",
+   "ticker": "HBB",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "2026-06-30",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1709164/000170916426000186/hbb-20260930.htm",
+   "collected_at": "2026-11-05 09:42"
+  },
+  {
    "company": "Highland Opportunities and Income Fund",
    "exchange": "NYSE",
    "ticker": "HFRO",
@@ -52273,6 +53143,21 @@
    "collected_at": "2026-09-23 06:19"
   },
   {
+   "company": "MFA Financial, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MFA",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": "2026-10-05",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1055160/000105516026000023/mfa-20260930.htm",
+   "collected_at": "2026-11-05 09:33"
+  },
+  {
    "company": "Aberdeen Municipal Income Fund",
    "exchange": "NYSE",
    "ticker": "MFM",
@@ -52346,6 +53231,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000046/dividendpr_091826.htm",
    "collected_at": "2026-09-19 09:20"
+  },
+  {
+   "company": "MOSAIC CO",
+   "exchange": "NYSE",
+   "ticker": "MOS",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1285785/000128578526000147/mos-20260930.htm",
+   "collected_at": "2026-11-05 09:36"
   },
   {
    "company": "Neuberger Next Generation Connectivity Fund Inc.",
@@ -52423,6 +53323,21 @@
    "collected_at": "2026-09-01 21:18"
   },
   {
+   "company": "The New York Times Company",
+   "exchange": "NYSE",
+   "ticker": "NYT",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/71691/000007169126000041/nyt-20260930.htm",
+   "collected_at": "2026-11-05 09:24"
+  },
+  {
    "company": "OGE Energy Corp.",
    "exchange": "NYSE",
    "ticker": "OGE",
@@ -52498,6 +53413,21 @@
    "collected_at": "2026-10-28 21:17"
   },
   {
+   "company": "Ralliant Corporation",
+   "exchange": "NYSE",
+   "ticker": "RAL",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2041385/000204138526000072/ral-20261002.htm",
+   "collected_at": "2026-11-05 09:45"
+  },
+  {
    "company": "Regency Centers Corporation",
    "exchange": "NASDAQ",
    "ticker": "REG",
@@ -52556,6 +53486,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/cohen--steers-total-return-realty-fund-inc-rfi-notification-of-sources-of-distribution-under-section-19a-302921340.html",
    "collected_at": "2026-10-28 09:17"
+  },
+  {
+   "company": "RLJ Lodging Trust",
+   "exchange": "NYSE",
+   "ticker": "RLJ",
+   "security": "preferred",
+   "amount_per_share": 0.4875,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-10-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1511337/000151133726000028/rljq32026exhibit991.htm",
+   "collected_at": "2026-11-05 09:19"
   },
   {
    "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
@@ -53218,6 +54163,21 @@
    "collected_at": "2026-10-27 09:19"
   },
   {
+   "company": "Cass Information Systems, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "CASS",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-11-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/708781/000070878126000038/cass-20260930.htm",
+   "collected_at": "2026-11-05 09:27"
+  },
+  {
    "company": "The Campbell's Company",
    "exchange": "Nasdaq",
    "ticker": "CPB",
@@ -53443,6 +54403,21 @@
    "collected_at": "2026-10-22 09:21"
   },
   {
+   "company": "Universal Corporation",
+   "exchange": "NYSE",
+   "ticker": "UVV",
+   "security": "common",
+   "amount_per_share": 0.83,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-11-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/102037/000162828026070176/uvv-20260930.htm",
+   "collected_at": "2026-11-05 09:26"
+  },
+  {
    "company": "Bank of America Corporation",
    "exchange": "NYSE",
    "ticker": "BAC",
@@ -53456,6 +54431,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-october-and-november-2026-302882135.html",
    "collected_at": "2026-09-19 06:18"
+  },
+  {
+   "company": "CNB FINANCIAL CORP",
+   "exchange": "Nasdaq",
+   "ticker": "CCNE",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-11-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/736772/000073677226000097/ccne-20260930.htm",
+   "collected_at": "2026-11-05 09:28"
   },
   {
    "company": "Levi Strauss & Co.",
@@ -54297,6 +55287,21 @@
    "collected_at": "2026-10-29 09:38"
   },
   {
+   "company": "SERVICE PROPERTIES TRUST",
+   "exchange": "Nasdaq",
+   "ticker": "SVC",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "2026-10-19",
+   "payable_date": "2026-11-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/945394/000094539426000061/svc-20260930.htm",
+   "collected_at": "2026-11-05 09:32"
+  },
+  {
    "company": "Altaba",
    "exchange": "Nasdaq",
    "ticker": "AABA",
@@ -54415,6 +55420,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-kondigt-registratiedatum-en-betaaldatum-aan-voor-contante-dividenden-op-9-50-eeuwigdurende-preferente-aandelen-van-serie-a-302851840.html",
    "collected_at": "2026-08-15 00:19"
+  },
+  {
+   "company": "Cadre Holdings, Inc.",
+   "exchange": "NYSE",
+   "ticker": "CDRE",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1860543/000110465926122686/cdre-ex99d1.htm",
+   "collected_at": "2026-11-05 09:19"
   },
   {
    "company": "CITIZENS FINANCIAL GROUP INC/RI",
@@ -54565,6 +55585,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1436425/000162828026066322/hbcp-20261019.htm",
    "collected_at": "2026-10-20 09:17"
+  },
+  {
+   "company": "WARRIOR MET COAL, INC.",
+   "exchange": "NYSE",
+   "ticker": "HCC",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "2026-11-06",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1691303/000119312526447481/hcc-20260930.htm",
+   "collected_at": "2026-11-05 09:41"
   },
   {
    "company": "Kaiser Aluminum Corporation",
@@ -54760,6 +55795,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/stellus-capital-investment-corporation-announces-0-25-fourth-quarter-2026-regular-dividend-payable-monthly-in-increments-of-0-0833-in-november-and-december-2026--and-january-2027--302909141.html",
    "collected_at": "2026-10-15 06:17"
+  },
+  {
+   "company": "Tanger",
+   "exchange": "NYSE",
+   "ticker": "SKT",
+   "security": "common",
+   "amount_per_share": 0.3125,
+   "currency": "USD",
+   "record_date": "2026-10-30",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/899715/000162828026070124/skt8kex991september302026.htm",
+   "collected_at": "2026-11-05 09:31"
   },
   {
    "company": "SouthState Bank Corporation",
@@ -56080,6 +57130,21 @@
    "collected_at": "2026-10-28 09:25"
   },
   {
+   "company": "Wintrust Financial Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "WTFC",
+   "security": "common",
+   "amount_per_share": 0.55,
+   "currency": "USD",
+   "record_date": "2026-11-05",
+   "payable_date": "2026-11-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1015328/000101532826000031/wtfc-20260930.htm",
+   "collected_at": "2026-11-05 09:32"
+  },
+  {
    "company": "Zions Bancorporation, N.A.",
    "exchange": "NASDAQ",
    "ticker": "ZION",
@@ -56378,6 +57443,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000062/hban-2026x07x23xex991.htm",
    "collected_at": "2026-08-07 00:19"
+  },
+  {
+   "company": "WARRIOR MET COAL, INC.",
+   "exchange": "NYSE",
+   "ticker": "HCC",
+   "security": "common",
+   "amount_per_share": 2.0,
+   "currency": "USD",
+   "record_date": "2026-11-09",
+   "payable_date": "2026-11-20",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1691303/000119312526447481/hcc-20260930.htm",
+   "collected_at": "2026-11-05 09:41"
   },
   {
    "company": "Hope Bancorp, Inc.",
@@ -56740,6 +57820,21 @@
    "collected_at": "2026-11-03 09:35"
   },
   {
+   "company": "Genco Shipping & Trading Limited",
+   "exchange": "NYSE",
+   "ticker": "GNK",
+   "security": "common",
+   "amount_per_share": 1.05,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-11-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326200/000114036126041978/ef20084815_ex99-1.htm",
+   "collected_at": "2026-11-05 09:36"
+  },
+  {
    "company": "INGRAM MICRO HOLDING CORPORATION",
    "exchange": "NYSE",
    "ticker": "INGM",
@@ -57100,6 +58195,21 @@
    "collected_at": "2026-10-07 09:27"
   },
   {
+   "company": "Flowco Holdings",
+   "exchange": "NYSE",
+   "ticker": "TX",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-11-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2035149/000119312526447415/floc-20260930.htm",
+   "collected_at": "2026-11-05 09:45"
+  },
+  {
    "company": "Vulcan Materials Company",
    "exchange": "NYSE",
    "ticker": "VMC",
@@ -57188,6 +58298,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/select-water-solutions-announces-quarterly-cash-dividend-of-0-07-per-share-302922535.html",
    "collected_at": "2026-10-30 06:17"
+  },
+  {
+   "company": "American Financial Group, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AFG",
+   "security": "common",
+   "amount_per_share": 3.5,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-11-25",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1042046/000119312526446243/d190021dex991.htm",
+   "collected_at": "2026-11-05 09:33"
   },
   {
    "company": "Colony Bankcorp, Inc.",
@@ -57849,6 +58974,21 @@
    "collected_at": "2026-11-03 09:18"
   },
   {
+   "company": "Karat Packaging Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "KRT",
+   "security": "common",
+   "amount_per_share": 0.47,
+   "currency": "USD",
+   "record_date": "2026-11-19",
+   "payable_date": "2026-11-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1758021/000175802126000028/krt-20261104xdividendrelea.htm",
+   "collected_at": "2026-11-05 09:18"
+  },
+  {
    "company": "Landmark Bancorp, Inc.",
    "exchange": "Nasdaq",
    "ticker": "LARK",
@@ -58239,6 +59379,21 @@
    "collected_at": "2026-10-30 09:46"
   },
   {
+   "company": "ARKO Petroleum Corp.",
+   "exchange": "Nasdaq",
+   "ticker": "APC",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-11-18",
+   "payable_date": "2026-11-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2080921/000119312526447170/apc-ex99_1.htm",
+   "collected_at": "2026-11-05 09:22"
+  },
+  {
    "company": "Avidia Bancorp, Inc.",
    "exchange": "NYSE",
    "ticker": "AVBC",
@@ -58327,6 +59482,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1624322/000162432226000042/bfst-20260930.htm",
    "collected_at": "2026-11-04 09:35"
+  },
+  {
+   "company": "CF Industries Holdings, Inc.",
+   "exchange": "NYSE",
+   "ticker": "CF",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-11-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1324404/000132440426000023/cf-11042026_ex991xearnings.htm",
+   "collected_at": "2026-11-05 09:36"
   },
   {
    "company": "Core Laboratories Inc.",
@@ -58824,6 +59994,21 @@
    "collected_at": "2026-11-03 06:17"
   },
   {
+   "company": "Reynolds Consumer Products Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "REYN",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-11-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1786431/000162828026069822/reyn-20260930.htm",
+   "collected_at": "2026-11-05 09:43"
+  },
+  {
    "company": "Cohen & Steers Real Estate Opportunities and Income Fund",
    "exchange": "NYSE",
    "ticker": "RLTY",
@@ -58867,6 +60052,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1492298/000149229826000032/sbraex9912026q3.htm",
    "collected_at": "2026-11-03 09:18"
+  },
+  {
+   "company": "SandRidge Energy, Inc.",
+   "exchange": "NYSE",
+   "ticker": "SD",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "2026-11-19",
+   "payable_date": "2026-11-30",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1349436/000162828026070276/sd9302026-ex991earningsrel.htm",
+   "collected_at": "2026-11-05 09:37"
   },
   {
    "company": "Slide Insurance Holdings, Inc.",
@@ -59124,6 +60324,51 @@
    "collected_at": "2026-11-03 03:17"
   },
   {
+   "company": "Aflac Incorporated",
+   "exchange": "NYSE",
+   "ticker": "AFL",
+   "security": "common",
+   "amount_per_share": 0.61,
+   "currency": "USD",
+   "record_date": "2026-11-18",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026070181/aflex991-q32026new.htm",
+   "collected_at": "2026-11-05 09:22"
+  },
+  {
+   "company": "Amgen Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "AMGN",
+   "security": "common",
+   "amount_per_share": 2.52,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000155/amgn-20260930.htm",
+   "collected_at": "2026-11-05 09:27"
+  },
+  {
+   "company": "AdvanSix",
+   "exchange": "NYSE",
+   "ticker": "ASIX",
+   "security": "common",
+   "amount_per_share": 0.16,
+   "currency": "USD",
+   "record_date": "2026-11-17",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1673985/000167398526000056/exhibit99q32026prearningsn.htm",
+   "collected_at": "2026-11-05 09:19"
+  },
+  {
    "company": "Atlantic Union Bankshares Corporation",
    "exchange": "NYSE",
    "ticker": "AUB",
@@ -59152,6 +60397,36 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/american-water-announces-quarterly-dividend-302921180.html",
    "collected_at": "2026-10-28 06:18"
+  },
+  {
+   "company": "AMERICAN STATES WATER COMPANY",
+   "exchange": "NYSE",
+   "ticker": "AWR",
+   "security": "common",
+   "amount_per_share": 0.5455,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1056903/000162828026070205/awr-20260930.htm",
+   "collected_at": "2026-11-05 09:34"
+  },
+  {
+   "company": "Black Hills Corp.",
+   "exchange": "NYSE",
+   "ticker": "BKH",
+   "security": "common",
+   "amount_per_share": 0.703,
+   "currency": "USD",
+   "record_date": "2026-11-17",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1130464/000119312526447656/bkh-ex99.htm",
+   "collected_at": "2026-11-05 09:35"
   },
   {
    "company": "Bruker Corporation",
@@ -59934,6 +61209,21 @@
    "collected_at": "2026-08-14 09:29"
   },
   {
+   "company": "Magnolia Oil & Gas Corporation",
+   "exchange": "NYSE",
+   "ticker": "MGY",
+   "security": "common",
+   "amount_per_share": 0.18,
+   "currency": "USD",
+   "record_date": "2026-11-10",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1698990/000169899026000027/q32026pressrelease.htm",
+   "collected_at": "2026-11-05 09:19"
+  },
+  {
    "company": "MSA Safety Incorporated",
    "exchange": "NYSE",
    "ticker": "MSA",
@@ -60309,6 +61599,21 @@
    "collected_at": "2026-09-26 09:22"
   },
   {
+   "company": "Essential Utilities Inc.",
+   "exchange": "NYSE",
+   "ticker": "WTRG",
+   "security": "common",
+   "amount_per_share": 0.3606,
+   "currency": "USD",
+   "record_date": "2026-11-10",
+   "payable_date": "2026-12-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000537/e26437_ex99-1.htm",
+   "collected_at": "2026-11-05 09:25"
+  },
+  {
    "company": "HF Sinclair Corporation",
    "exchange": "NYSE",
    "ticker": "DINO",
@@ -60322,6 +61627,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1915657/000191565726000074/dino-20260930.htm",
    "collected_at": "2026-10-29 09:42"
+  },
+  {
+   "company": "Finward Bancorp",
+   "exchange": "Nasdaq",
+   "ticker": "FNWD",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-11-18",
+   "payable_date": "2026-12-02",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/919864/000162828026070268/fnwd-20261104xex991dividen.htm",
+   "collected_at": "2026-11-05 09:31"
   },
   {
    "company": "First Resource Bancorp, Inc.",
@@ -60429,6 +61749,21 @@
    "collected_at": "2026-11-02 09:26"
   },
   {
+   "company": "Palomar Holdings, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "PLMR",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "2026-11-17",
+   "payable_date": "2026-12-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1761312/000119312526447298/plmr-ex99_1.htm",
+   "collected_at": "2026-11-05 09:19"
+  },
+  {
    "company": "TORM plc",
    "exchange": "NASDAQ",
    "ticker": "TRMD",
@@ -60489,6 +61824,21 @@
    "collected_at": "2026-09-24 21:18"
   },
   {
+   "company": "Cognex Corporation",
+   "exchange": "NASDAQ",
+   "ticker": "CGNX",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "2026-11-19",
+   "payable_date": "2026-12-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/851205/000085120526000079/cgnx-20261104.htm",
+   "collected_at": "2026-11-05 09:18"
+  },
+  {
    "company": "CNA Financial Corporation",
    "exchange": "NYSE",
    "ticker": "CNA",
@@ -60517,6 +61867,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1050797/000105079726000148/colm-20261029.htm",
    "collected_at": "2026-10-30 09:18"
+  },
+  {
+   "company": "Excelerate Energy, Inc.",
+   "exchange": "NYSE",
+   "ticker": "EE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "2026-11-18",
+   "payable_date": "2026-12-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1888447/000119312526447504/ee-ex99_1.htm",
+   "collected_at": "2026-11-05 09:19"
   },
   {
    "company": "Employers Holdings, Inc.",
@@ -60577,6 +61942,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1065696/000106569626000050/exhibit991.htm",
    "collected_at": "2026-10-30 09:20"
+  },
+  {
+   "company": "LeMaitre Vascular, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "LMAT",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-11-19",
+   "payable_date": "2026-12-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1158895/000119312526447467/d171050dex991.htm",
+   "collected_at": "2026-11-05 09:35"
   },
   {
    "company": "Matson, Inc.",
@@ -60682,6 +62062,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1443646/000162828026066973/bah-20260930.htm",
    "collected_at": "2026-10-24 09:36"
+  },
+  {
+   "company": "Barrett Business Services, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "BBSI",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/902791/000119312526447227/bbsi-ex99_1.htm",
+   "collected_at": "2026-11-05 09:31"
   },
   {
    "company": "Bluerock Homes Trust, Inc.",
@@ -60864,6 +62259,21 @@
    "collected_at": "2026-10-21 21:17"
   },
   {
+   "company": "Sturm, Ruger & Company, Inc.",
+   "exchange": "NYSE",
+   "ticker": "RGR",
+   "security": "common",
+   "amount_per_share": 0.18,
+   "currency": "USD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/95029/000207709626000305/ea031089901ex99-1.htm",
+   "collected_at": "2026-11-05 09:22"
+  },
+  {
    "company": "Reliance, Inc.",
    "exchange": "NYSE",
    "ticker": "RS",
@@ -60924,6 +62334,21 @@
    "collected_at": "2026-10-29 09:18"
   },
   {
+   "company": "MKS Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "MKSI",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1049502/000119312526447410/mksi-ex99_2.htm",
+   "collected_at": "2026-11-05 09:18"
+  },
+  {
    "company": "Pfizer Inc.",
    "exchange": "NYSE",
    "ticker": "PFE",
@@ -60982,6 +62407,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1439288/000162828026067577/zws-20260930.htm",
    "collected_at": "2026-10-28 09:33"
+  },
+  {
+   "company": "CompX International Inc.",
+   "exchange": "NYSE",
+   "ticker": "CIX",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "2026-11-19",
+   "payable_date": "2026-12-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1049606/000104960626000028/cix-ex99d2.htm",
+   "collected_at": "2026-11-05 09:33"
+  },
+  {
+   "company": "Hecla Mining Company",
+   "exchange": "NYSE",
+   "ticker": "HL",
+   "security": "common",
+   "amount_per_share": 0.00375,
+   "currency": "USD",
+   "record_date": "2026-11-23",
+   "payable_date": "2026-12-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/719413/000119312526445747/hl-ex99_1.htm",
+   "collected_at": "2026-11-05 09:19"
   },
   {
    "company": "Johnson & Johnson",
@@ -61057,6 +62512,36 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/peabody-board-declares-dividend-on-common-stock-302928567.html",
    "collected_at": "2026-11-05 00:17"
+  },
+  {
+   "company": "Century Communities, Inc.",
+   "exchange": "NYSE",
+   "ticker": "CCS",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/century-communities-announces-quarterly-cash-dividend-302929882.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "FORTUNE BRANDS INNOVATIONS, INC.",
+   "exchange": "NYSE",
+   "ticker": "FBIN",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-09",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1519751/000119312526447277/fbin-20260926.htm",
+   "collected_at": "2026-11-05 09:39"
   },
   {
    "company": "Gen Digital Inc.",
@@ -61149,6 +62634,21 @@
    "collected_at": "2026-11-03 09:18"
   },
   {
+   "company": "CDW Corporation",
+   "exchange": "Nasdaq",
+   "ticker": "CDW",
+   "security": "common",
+   "amount_per_share": 0.68,
+   "currency": "USD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1402057/000140205726000113/cdw-2026930dividendrelease.htm",
+   "collected_at": "2026-11-05 09:18"
+  },
+  {
    "company": "Chevron Corporation",
    "exchange": "NYSE",
    "ticker": "CVX",
@@ -61164,6 +62664,21 @@
    "collected_at": "2026-10-31 09:33"
   },
   {
+   "company": "Emerson",
+   "exchange": "NYSE",
+   "ticker": "EMR",
+   "security": "common",
+   "amount_per_share": 0.595,
+   "currency": "USD",
+   "record_date": "2026-11-13",
+   "payable_date": "2026-12-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/32604/000003260426000049/a2026q4release_ex991.htm",
+   "collected_at": "2026-11-05 09:23"
+  },
+  {
    "company": "EQR",
    "exchange": "NYSE",
    "ticker": "EQR",
@@ -61177,6 +62692,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/906107/000119312526326170/eqr-20260630.htm",
    "collected_at": "2026-08-13 12:39"
+  },
+  {
+   "company": "EXPEDIA GROUP, INC.",
+   "exchange": "Nasdaq Stock Market LLC",
+   "ticker": "EXPE",
+   "security": "common",
+   "amount_per_share": 0.48,
+   "currency": "USD",
+   "record_date": "2026-11-18",
+   "payable_date": "2026-12-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442426000059/expe-20261104.htm",
+   "collected_at": "2026-11-05 09:18"
   },
   {
    "company": "IBM",
@@ -61207,6 +62737,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1257640/000125764026000032/kro-ex99d1.htm",
    "collected_at": "2026-10-29 09:37"
+  },
+  {
+   "company": "LandBridge Corporation",
+   "exchange": "NYSE",
+   "ticker": "LB",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1995807/000119312526447285/lb-ex99_1.htm",
+   "collected_at": "2026-11-05 09:18"
   },
   {
    "company": "Eli Lilly and Company",
@@ -61494,6 +63039,21 @@
    "collected_at": "2026-10-29 09:37"
   },
   {
+   "company": "WaterBridge Infrastructure LLC",
+   "exchange": "NYSE",
+   "ticker": "WBI",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2064947/000119312526447287/wbi-ex99_1.htm",
+   "collected_at": "2026-11-05 09:18"
+  },
+  {
    "company": "WhiteHorse Finance, Inc.",
    "exchange": "Nasdaq",
    "ticker": "WHF",
@@ -61567,6 +63127,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/dow-declares-quarterly-dividend-of-35-cents-per-share-302910535.html",
    "collected_at": "2026-10-16 06:17"
+  },
+  {
+   "company": "Evercore Inc.",
+   "exchange": "NYSE",
+   "ticker": "EVR",
+   "security": "common",
+   "amount_per_share": 0.89,
+   "currency": "USD",
+   "record_date": "2026-11-27",
+   "payable_date": "2026-12-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1360901/000162828026070100/evr-20260930.htm",
+   "collected_at": "2026-11-05 09:37"
   },
   {
    "company": "CORNING INC",
@@ -61689,6 +63264,21 @@
    "collected_at": "2026-11-04 09:18"
   },
   {
+   "company": "Silvercorp Metals Inc.",
+   "exchange": "TSX/NYSE American",
+   "ticker": "SVM",
+   "security": "common",
+   "amount_per_share": 0.0125,
+   "currency": "USD",
+   "record_date": "2026-11-27",
+   "payable_date": "2026-12-11",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/silvercorp-declares-semi-annual-dividend-of-us0-0125-per-share-302929636.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
    "company": "TE Connectivity plc",
    "exchange": "NYSE",
    "ticker": "TEL",
@@ -61792,6 +63382,51 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000154/ibkr-ex99_1.htm",
    "collected_at": "2026-10-16 09:28"
+  },
+  {
+   "company": "Koppers Holdings Inc.",
+   "exchange": "NYSE",
+   "ticker": "KOP",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "2026-11-27",
+   "payable_date": "2026-12-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/koppers-holdings-inc-declares-quarterly-cash-dividend-302929822.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "MILLER INDUSTRIES, INC.",
+   "exchange": "NYSE",
+   "ticker": "MLR",
+   "security": "common",
+   "amount_per_share": 0.21,
+   "currency": "USD",
+   "record_date": "2026-12-07",
+   "payable_date": "2026-12-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/924822/000110465926122708/mlr-20260930x10q.htm",
+   "collected_at": "2026-11-05 09:32"
+  },
+  {
+   "company": "Primerica, Inc.",
+   "exchange": "NYSE",
+   "ticker": "PRI",
+   "security": "common",
+   "amount_per_share": 1.2,
+   "currency": "USD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-14",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1475922/000119312526447427/pri-ex99_1.htm",
+   "collected_at": "2026-11-05 09:38"
   },
   {
    "company": "Selective Insurance Group, Inc.",
@@ -62932,6 +64567,21 @@
    "collected_at": "2026-10-30 09:38"
   },
   {
+   "company": "Qnity Electronics, Inc.",
+   "exchange": "NYSE",
+   "ticker": "Q",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000043/q-20260930.htm",
+   "collected_at": "2026-11-05 09:45"
+  },
+  {
    "company": "Robert Half",
    "exchange": "NYSE",
    "ticker": "RHI",
@@ -62945,6 +64595,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/robert-half-announces-quarterly-dividend-302924242.html",
    "collected_at": "2026-10-30 06:17"
+  },
+  {
+   "company": "Safety Insurance Group, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "SAFT",
+   "security": "common",
+   "amount_per_share": 0.92,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1172052/000117205226000029/saft-ex99d1.htm",
+   "collected_at": "2026-11-05 09:35"
   },
   {
    "company": "Scholastic Corporation",
@@ -63097,6 +64762,21 @@
    "collected_at": "2026-10-28 06:17"
   },
   {
+   "company": "Texas Pacific Land Corporation",
+   "exchange": "NYSE",
+   "ticker": "TPL",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107426000075/exhibit991q32026earningsre.htm",
+   "collected_at": "2026-11-05 09:19"
+  },
+  {
    "company": "Trustmark Corporation",
    "exchange": "NASDAQGS",
    "ticker": "TRMK",
@@ -63217,6 +64897,21 @@
    "collected_at": "2026-10-30 06:17"
   },
   {
+   "company": "Amcor",
+   "exchange": "NYSE",
+   "ticker": "AMCR",
+   "security": "common",
+   "amount_per_share": 0.66,
+   "currency": "USD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000029/exhibit991q12026transition.htm",
+   "collected_at": "2026-11-05 09:19"
+  },
+  {
    "company": "Avery Dennison Corporation",
    "exchange": "NYSE",
    "ticker": "AVY",
@@ -63245,6 +64940,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1328581/000132858126000034/bcc-20260930.htm",
    "collected_at": "2026-11-03 09:33"
+  },
+  {
+   "company": "Coeur Mining, Inc.",
+   "exchange": "NYSE",
+   "ticker": "CDE",
+   "security": "common",
+   "amount_per_share": 0.02,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-16",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/215466/000021546626000054/a3q26earningsreleaseex-991.htm",
+   "collected_at": "2026-11-05 09:26"
   },
   {
    "company": "Duke Energy",
@@ -63350,6 +65060,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1069899/000110465926122011/tm2628782d1_ex99-1.htm",
    "collected_at": "2026-11-04 09:17"
+  },
+  {
+   "company": "Powell Industries, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "POWL",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "2026-11-18",
+   "payable_date": "2026-12-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/80420/000008042026000136/ex991-powlq4xfy2026dividen.htm",
+   "collected_at": "2026-11-05 09:18"
   },
   {
    "company": "PVH Corp.",
@@ -63592,6 +65317,21 @@
    "collected_at": "2026-10-29 09:28"
   },
   {
+   "company": "Versigent PLC",
+   "exchange": "NYSE",
+   "ticker": "VGNT",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "2026-12-04",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2078008/000207800826000023/versigentq32026ex991.htm",
+   "collected_at": "2026-11-05 09:19"
+  },
+  {
    "company": "Western Digital Corporation",
    "exchange": "Nasdaq",
    "ticker": "WDC",
@@ -63712,6 +65452,21 @@
    "collected_at": "2026-10-30 09:18"
   },
   {
+   "company": "Acushnet Holdings Corp.",
+   "exchange": "NYSE",
+   "ticker": "GOLF",
+   "security": "common",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "2026-12-04",
+   "payable_date": "2026-12-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000179/ex991-q32026.htm",
+   "collected_at": "2026-11-05 09:19"
+  },
+  {
    "company": "Information Services Group Inc.",
    "exchange": "Nasdaq",
    "ticker": "III",
@@ -63755,6 +65510,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1760965/000176096526000068/exhibit991-dividendannounc.htm",
    "collected_at": "2026-10-23 09:25"
+  },
+  {
+   "company": "Mativ Holdings, Inc.",
+   "exchange": "NYSE",
+   "ticker": "MATV",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2026-11-27",
+   "payable_date": "2026-12-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1000623/000100062326000072/ex991earningsrelease2026q3.htm",
+   "collected_at": "2026-11-05 09:32"
   },
   {
    "company": "Ramaco Resources, Inc.",
@@ -63817,6 +65587,21 @@
    "collected_at": "2026-10-27 09:30"
   },
   {
+   "company": "Ridgepost Capital, Inc.",
+   "exchange": "NYSE",
+   "ticker": "RPC",
+   "security": "common",
+   "amount_per_share": 0.04,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1841968/000119312526446147/rpc-ex99_2.htm",
+   "collected_at": "2026-11-05 09:19"
+  },
+  {
    "company": "Terex Corporation",
    "exchange": "NYSE",
    "ticker": "TEX",
@@ -63830,6 +65615,156 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/terex-announces-quarterly-dividend-302909228.html",
    "collected_at": "2026-10-15 21:17"
+  },
+  {
+   "company": "Manulife Financial Corporation",
+   "exchange": "TSX/NYSE/PSE",
+   "ticker": "MFC",
+   "security": "preferred",
+   "amount_per_share": 0.29063,
+   "currency": "CAD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/manulife-declares-preferred-share-dividend-302929813.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Manulife Financial Corporation",
+   "exchange": "TSX/NYSE/PSE",
+   "ticker": "MFC",
+   "security": "preferred",
+   "amount_per_share": 0.28125,
+   "currency": "CAD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/manulife-declares-preferred-share-dividend-302929813.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Manulife Financial Corporation",
+   "exchange": "TSX/NYSE/PSE",
+   "ticker": "MFC",
+   "security": "preferred",
+   "amount_per_share": 0.29,
+   "currency": "CAD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/manulife-declares-preferred-share-dividend-302929813.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Manulife Financial Corporation",
+   "exchange": "TSX/NYSE/PSE",
+   "ticker": "MFC",
+   "security": "preferred",
+   "amount_per_share": 0.373625,
+   "currency": "CAD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/manulife-declares-preferred-share-dividend-302929813.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Manulife Financial Corporation",
+   "exchange": "TSX/NYSE/PSE",
+   "ticker": "MFC",
+   "security": "preferred",
+   "amount_per_share": 0.384938,
+   "currency": "CAD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/manulife-declares-preferred-share-dividend-302929813.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Manulife Financial Corporation",
+   "exchange": "TSX/NYSE/PSE",
+   "ticker": "MFC",
+   "security": "preferred",
+   "amount_per_share": 0.396875,
+   "currency": "CAD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/manulife-declares-preferred-share-dividend-302929813.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Manulife Financial Corporation",
+   "exchange": "TSX/NYSE/PSE",
+   "ticker": "MFC",
+   "security": "preferred",
+   "amount_per_share": 0.360938,
+   "currency": "CAD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/manulife-declares-preferred-share-dividend-302929813.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Manulife Financial Corporation",
+   "exchange": "TSX/NYSE/PSE",
+   "ticker": "MFC",
+   "security": "preferred",
+   "amount_per_share": 0.346375,
+   "currency": "CAD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/manulife-declares-preferred-share-dividend-302929813.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Manulife Financial Corporation",
+   "exchange": "TSX/NYSE/PSE",
+   "ticker": "MFC",
+   "security": "preferred",
+   "amount_per_share": 0.323063,
+   "currency": "CAD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/manulife-declares-preferred-share-dividend-302929813.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Manulife Financial Corporation",
+   "exchange": "TSX/NYSE/PSE",
+   "ticker": "MFC",
+   "security": "preferred",
+   "amount_per_share": 0.371375,
+   "currency": "CAD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/manulife-declares-preferred-share-dividend-302929813.html",
+   "collected_at": "2026-11-05 09:17"
   },
   {
    "company": "The Bank of New York Mellon",
@@ -63967,6 +65902,21 @@
    "collected_at": "2026-11-03 09:32"
   },
   {
+   "company": "Manulife Financial Corporation",
+   "exchange": "TSX/NYSE/PSE",
+   "ticker": "MFC",
+   "security": "common",
+   "amount_per_share": 0.485,
+   "currency": "CAD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-12-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/manulife-declares-common-share-dividend-302929811.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
    "company": "VALERO ENERGY CORP",
    "exchange": "NYSE",
    "ticker": "VLO",
@@ -64042,6 +65992,21 @@
    "collected_at": "2026-10-16 06:17"
   },
   {
+   "company": "The Kraft Heinz Company",
+   "exchange": "NYSE",
+   "ticker": "KHC",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-12-04",
+   "payable_date": "2026-12-23",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745926000081/khc-20260926.htm",
+   "collected_at": "2026-11-05 09:41"
+  },
+  {
    "company": "MSC Income Fund, Inc.",
    "exchange": "NYSE",
    "ticker": "MSIF",
@@ -64055,6 +66020,36 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/msc-income-fund-announces-fourth-quarter-2026-regular-monthly-dividends-and-supplemental-dividend-payable-in-december-2026-302844312.html",
    "collected_at": "2026-08-06 23:59"
+  },
+  {
+   "company": "Ralliant Corporation",
+   "exchange": "NYSE",
+   "ticker": "RAL",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "2026-12-08",
+   "payable_date": "2026-12-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2041385/000204138526000070/ralq32026-ex991.htm",
+   "collected_at": "2026-11-05 09:19"
+  },
+  {
+   "company": "Victory Capital Holdings, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "VCTR",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-12-10",
+   "payable_date": "2026-12-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1570827/000119312526447513/vctr-ex99_1.htm",
+   "collected_at": "2026-11-05 09:40"
   },
   {
    "company": "Bank of America",
@@ -64085,6 +66080,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/fs-kkr-capital-corp-declares-fourth-quarter-2026-distribution-of-0-44-per-share-declares-special-distribution-of-0-20-per-share-announces-earnings-release-and-conference-call-schedule-for-third-quarter-2026--302902874.html",
    "collected_at": "2026-10-09 06:17"
+  },
+  {
+   "company": "Clear Secure, Inc.",
+   "exchange": "NYSE",
+   "ticker": "YOU",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-12-10",
+   "payable_date": "2026-12-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1856314/000185631426000053/clearq32026pressreleaseear.htm",
+   "collected_at": "2026-11-05 09:19"
   },
   {
    "company": "ARMOUR Residential REIT, Inc.",
@@ -64144,6 +66154,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926091692/tm2622057d1_ex99-1.htm",
    "collected_at": "2026-08-13 11:18"
+  },
+  {
+   "company": "FIDELITY NATIONAL INFORMATION SERVICES, INC.",
+   "exchange": "NYSE",
+   "ticker": "FIS",
+   "security": "common",
+   "amount_per_share": 0.44,
+   "currency": "USD",
+   "record_date": "2026-12-14",
+   "payable_date": "2026-12-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1136893/000113689326000063/fis-20260930.htm",
+   "collected_at": "2026-11-05 09:35"
   },
   {
    "company": "JAKKS PACIFIC, INC.",
@@ -64236,6 +66261,21 @@
    "collected_at": "2026-11-03 09:38"
   },
   {
+   "company": "T. ROWE PRICE GROUP, INC.",
+   "exchange": "NASDAQ-GS",
+   "ticker": "TROW",
+   "security": "common",
+   "amount_per_share": 1.3,
+   "currency": "USD",
+   "record_date": "2026-12-16",
+   "payable_date": "2026-12-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/t-rowe-price-group-inc-declares-quarterly-dividend-302929875.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
    "company": "WORTHINGTON ENTERPRISES, INC.",
    "exchange": "The New York Stock Exchange",
    "ticker": "WOR",
@@ -64249,6 +66289,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526397953/wor-20260922.htm",
    "collected_at": "2026-09-23 09:19"
+  },
+  {
+   "company": "Midland States Bancorp, Inc.",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 0.4844,
+   "currency": "USD",
+   "record_date": "2026-12-15",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1466026/000110465926121563/tm2628671d1_ex99-1.htm",
+   "collected_at": "2026-11-05 09:18"
   },
   {
    "company": "American International Group, Inc.",
@@ -64581,6 +66636,21 @@
    "collected_at": "2026-10-30 09:46"
   },
   {
+   "company": "Interparfums, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "IPAR",
+   "security": "common",
+   "amount_per_share": 0.8,
+   "currency": "USD",
+   "record_date": "2026-12-15",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/822663/000175392626002063/ex991_1.htm",
+   "collected_at": "2026-11-05 09:29"
+  },
+  {
    "company": "Leidos Holdings, Inc.",
    "exchange": "NYSE",
    "ticker": "LDOS",
@@ -64746,6 +66816,21 @@
    "collected_at": "2026-11-04 09:37"
   },
   {
+   "company": "Permian Resources Corporation",
+   "exchange": "NYSE",
+   "ticker": "PR",
+   "security": "common",
+   "amount_per_share": 0.16,
+   "currency": "USD",
+   "record_date": "2026-12-17",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1658566/000165856626000122/ex991prq32026earningsrelea.htm",
+   "collected_at": "2026-11-05 09:41"
+  },
+  {
    "company": "Cohen & Steers Select Preferred and Income Fund, Inc.",
    "exchange": "NYSE",
    "ticker": "PSF",
@@ -64849,6 +66934,111 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/service-corporation-international-declares-quarterly-cash-dividend-302929566.html",
    "collected_at": "2026-11-05 03:17"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "common",
+   "amount_per_share": 1.0,
+   "currency": "CAD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-31",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sunlife-increases-common-share-dividend-and-declares-dividends-on-preferred-shares-payable-in-q4-2026-896790087.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "preferred",
+   "amount_per_share": 0.278125,
+   "currency": "CAD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-31",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sunlife-increases-common-share-dividend-and-declares-dividends-on-preferred-shares-payable-in-q4-2026-896790087.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "preferred",
+   "amount_per_share": 0.28125,
+   "currency": "CAD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-31",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sunlife-increases-common-share-dividend-and-declares-dividends-on-preferred-shares-payable-in-q4-2026-896790087.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "preferred",
+   "amount_per_share": 0.264375,
+   "currency": "CAD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-31",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sunlife-increases-common-share-dividend-and-declares-dividends-on-preferred-shares-payable-in-q4-2026-896790087.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "preferred",
+   "amount_per_share": 0.233088,
+   "currency": "CAD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-31",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sunlife-increases-common-share-dividend-and-declares-dividends-on-preferred-shares-payable-in-q4-2026-896790087.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "Sun Life Financial Inc.",
+   "exchange": "TSX",
+   "ticker": "SLF",
+   "security": "preferred",
+   "amount_per_share": 0.344938,
+   "currency": "CAD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-31",
+   "frequency": null,
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sunlife-increases-common-share-dividend-and-declares-dividends-on-preferred-shares-payable-in-q4-2026-896790087.html",
+   "collected_at": "2026-11-05 09:17"
+  },
+  {
+   "company": "SM Energy Company",
+   "exchange": "NYSE",
+   "ticker": "SM",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/893538/000089353826000147/sm-20260930.htm",
+   "collected_at": "2026-11-05 09:30"
   },
   {
    "company": "Trinity Capital Inc.",
@@ -65344,6 +67534,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/70487/000143774926033639/ex_1031593.htm",
    "collected_at": "2026-10-28 09:18"
+  },
+  {
+   "company": "Terreno Realty Corporation",
+   "exchange": "NYSE",
+   "ticker": "TRNO",
+   "security": "common",
+   "amount_per_share": 0.57,
+   "currency": "USD",
+   "record_date": "2026-12-15",
+   "payable_date": "2027-01-08",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1476150/000147615026000048/trno-20260930.htm",
+   "collected_at": "2026-11-05 09:38"
   },
   {
    "company": "Weyco Group, Inc.",
@@ -65871,6 +68076,21 @@
    "collected_at": "2026-10-31 09:23"
   },
   {
+   "company": "FrontView REIT, Inc.",
+   "exchange": "NYSE",
+   "ticker": "FVR",
+   "security": "common",
+   "amount_per_share": 0.215,
+   "currency": "USD",
+   "record_date": "2026-12-31",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1988494/000119312526447316/fvr-ex99_1.htm",
+   "collected_at": "2026-11-05 09:44"
+  },
+  {
    "company": "Huntington Bancshares Incorporated",
    "exchange": "Nasdaq",
    "ticker": "HBAN",
@@ -66066,6 +68286,21 @@
    "collected_at": "2026-11-03 21:17"
   },
   {
+   "company": "Park Hotels & Resorts Inc.",
+   "exchange": "NYSE",
+   "ticker": "PK",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "2026-12-31",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1617406/000161740626000047/earningsreleaseex991-live.htm",
+   "collected_at": "2026-11-05 09:41"
+  },
+  {
    "company": "Portland General Electric Company",
    "exchange": "NYSE",
    "ticker": "POR",
@@ -66246,6 +68481,21 @@
    "collected_at": "2026-11-03 09:29"
   },
   {
+   "company": "Blackstone Secured Lending Fund",
+   "exchange": "NYSE",
+   "ticker": "BXSL",
+   "security": "common",
+   "amount_per_share": 0.77,
+   "currency": "USD",
+   "record_date": "2026-12-31",
+   "payable_date": "2027-01-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1736035/000121390026115721/ea0310494-01_ex991.htm",
+   "collected_at": "2026-11-05 09:42"
+  },
+  {
    "company": "Bank of America",
    "exchange": "NYSE",
    "ticker": "BAC",
@@ -66334,6 +68584,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-declares-quarterly-dividend-302917543.html",
    "collected_at": "2026-10-24 00:17"
+  },
+  {
+   "company": "VSE Corporation",
+   "exchange": "NASDAQ",
+   "ticker": "VSEC",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "2027-01-15",
+   "payable_date": "2027-01-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/102752/000010275226000071/vsecorporationdeclaresquar.htm",
+   "collected_at": "2026-11-05 09:18"
   },
   {
    "company": "Wisconsin Electric Power Co.",
@@ -66456,6 +68721,21 @@
    "collected_at": "2026-11-03 21:17"
   },
   {
+   "company": "Diversified Energy",
+   "exchange": "NYSE",
+   "ticker": "DEC",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "2027-02-26",
+   "payable_date": "2027-03-31",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1922446/000192244626000108/dec-20260930.htm",
+   "collected_at": "2026-11-05 09:44"
+  },
+  {
    "company": "Millicom International Cellular S.A.",
    "exchange": "NASDAQ",
    "ticker": "TIGO",
@@ -66469,7 +68749,22 @@
    "wire": "GNW",
    "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340031/0/en/Millicom-Tigo-raises-2026-Financial-Guidance-and-declares-1-50-per-share-interim-dividend.html",
    "collected_at": "2026-08-06 23:57"
+  },
+  {
+   "company": "Blackstone Secured Lending Fund",
+   "exchange": "NYSE",
+   "ticker": "BXSL",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": "2027-03-31",
+   "payable_date": "2027-04-23",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1736035/000173603526000020/bxsl-20260930.htm",
+   "collected_at": "2026-11-05 09:43"
   }
  ],
- "count": 4452
+ "count": 4605
 }
