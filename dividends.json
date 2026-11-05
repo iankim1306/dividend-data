@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05 21:17",
+ "updatedAt": "2026-11-06 00:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -66351,6 +66351,21 @@
    "collected_at": "2026-10-27 09:18"
   },
   {
+   "company": "CME Group Inc.",
+   "exchange": null,
+   "ticker": "CME",
+   "security": "common",
+   "amount_per_share": 1.3,
+   "currency": "USD",
+   "record_date": "2026-12-11",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/cme-group-declares-quarterly-dividend-302930943.html",
+   "collected_at": "2026-11-06 00:17"
+  },
+  {
    "company": "Healthpeak Properties, Inc.",
    "exchange": "NYSE",
    "ticker": "DOC",
@@ -68871,5 +68886,5 @@
    "collected_at": "2026-11-05 09:43"
   }
  ],
- "count": 4612
+ "count": 4613
 }
