@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-07 00:17",
+ "updatedAt": "2026-11-07 03:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4393,
+ "count": 4402,
  "items": [
   {
    "company": "Delek US Holdings, Inc.",
@@ -11884,6 +11884,21 @@
    "source_url": ""
   },
   {
+   "company": "Tetragon Financial Group Limited",
+   "ticker": "TFG",
+   "exchange": "Euronext Amsterdam",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-24",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "United Rentals, Inc.",
    "ticker": "URI",
    "exchange": "NYSE",
@@ -21694,6 +21709,36 @@
    "source_url": ""
   },
   {
+   "company": "New England Realty Associates Limited Partnership",
+   "ticker": "NEN",
+   "exchange": "NYSE MKT",
+   "security": "common",
+   "amount_per_share": 12.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $12.0",
+   "source_url": ""
+  },
+  {
+   "company": "New England Realty Associates Limited Partnership",
+   "ticker": "NEN",
+   "exchange": "NYSE MKT",
+   "security": "other",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.4",
+   "source_url": ""
+  },
+  {
    "company": "NewtekOne, Inc.",
    "ticker": "NEWT",
    "exchange": "NASDAQ",
@@ -30796,6 +30841,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-25 $0.054",
+   "source_url": ""
+  },
+  {
+   "company": "Tetragon Financial Group Limited",
+   "ticker": "TFG",
+   "exchange": "Euronext Amsterdam",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-26",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.12",
    "source_url": ""
   },
   {
@@ -40804,6 +40864,36 @@
    "source_url": ""
   },
   {
+   "company": "New England Realty Associates Limited Partnership",
+   "ticker": "NEN",
+   "exchange": "NYSE MKT",
+   "security": "common",
+   "amount_per_share": 12.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $12.0",
+   "source_url": ""
+  },
+  {
+   "company": "New England Realty Associates Limited Partnership",
+   "ticker": "NEN",
+   "exchange": "NYSE MKT",
+   "security": "other",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.4",
+   "source_url": ""
+  },
+  {
    "company": "NewtekOne, Inc.",
    "ticker": "NEWT",
    "exchange": "NASDAQ",
@@ -49891,6 +49981,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-25 $0.054",
+   "source_url": ""
+  },
+  {
+   "company": "Tetragon Financial Group Limited",
+   "ticker": "TFG",
+   "exchange": "Euronext Amsterdam",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-25",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.12",
    "source_url": ""
   },
   {
@@ -59791,6 +59896,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.85",
+   "source_url": ""
+  },
+  {
+   "company": "New England Realty Associates Limited Partnership",
+   "ticker": "NEN",
+   "exchange": "NYSE MKT",
+   "security": "common",
+   "amount_per_share": 12.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $12.0",
+   "source_url": ""
+  },
+  {
+   "company": "New England Realty Associates Limited Partnership",
+   "ticker": "NEN",
+   "exchange": "NYSE MKT",
+   "security": "other",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.4",
    "source_url": ""
   },
   {
