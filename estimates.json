@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-06 21:17",
+ "updatedAt": "2026-11-07 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4390,
+ "count": 4393,
  "items": [
   {
    "company": "Delek US Holdings, Inc.",
@@ -376,21 +376,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-29 $1.09",
-   "source_url": ""
-  },
-  {
-   "company": "Sabine Royalty Trust",
-   "ticker": "SBR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35545,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.35545",
    "source_url": ""
   },
   {
@@ -2509,21 +2494,6 @@
    "source_url": ""
   },
   {
-   "company": "Sabine Royalty Trust",
-   "ticker": "SBR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35545,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.35545",
-   "source_url": ""
-  },
-  {
    "company": "Schwab U.S. Dividend Equity ETF",
    "ticker": "SCHD",
    "exchange": "NYSE ARCA",
@@ -3736,6 +3706,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.18",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36039,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.36039",
    "source_url": ""
   },
   {
@@ -5524,21 +5509,6 @@
    "source_url": ""
   },
   {
-   "company": "F&G Annuities & Life, Inc.",
-   "ticker": "FG",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.8594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.8594",
-   "source_url": ""
-  },
-  {
    "company": "Fulton Financial Corporation",
    "ticker": "FULT",
    "exchange": "Nasdaq",
@@ -7144,21 +7114,6 @@
    "source_url": ""
   },
   {
-   "company": "Sabine Royalty Trust",
-   "ticker": "SBR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35545,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.35545",
-   "source_url": ""
-  },
-  {
    "company": "TOMPKINS FINANCIAL CORPORATION",
    "ticker": "TMP",
    "exchange": "NYSE",
@@ -7186,21 +7141,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.12",
-   "source_url": ""
-  },
-  {
-   "company": "AMETEK, Inc.",
-   "ticker": "AME",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.34,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.34",
    "source_url": ""
   },
   {
@@ -8116,6 +8056,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-31 $1.63",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36039,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.36039",
    "source_url": ""
   },
   {
@@ -12319,21 +12274,6 @@
    "source_url": ""
   },
   {
-   "company": "Sabine Royalty Trust",
-   "ticker": "SBR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35545,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.35545",
-   "source_url": ""
-  },
-  {
    "company": "STARBUCKS CORPORATION",
    "ticker": "SBUX",
    "exchange": "Nasdaq",
@@ -13066,6 +13006,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.0883",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36039,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.36039",
    "source_url": ""
   },
   {
@@ -17959,6 +17914,21 @@
    "source_url": ""
   },
   {
+   "company": "AMETEK, Inc.",
+   "ticker": "AME",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.34",
+   "source_url": ""
+  },
+  {
    "company": "BAR HARBOR BANKSHARES",
    "ticker": "BHB",
    "exchange": "NYSE American",
@@ -19054,21 +19024,6 @@
    "source_url": ""
   },
   {
-   "company": "Sabine Royalty Trust",
-   "ticker": "SBR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35545,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.35545",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Dynamic Dividend Fund",
    "ticker": "AGD",
    "exchange": "NYSE",
@@ -19996,6 +19951,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.0883",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36039,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.36039",
    "source_url": ""
   },
   {
@@ -21469,6 +21439,21 @@
    "source_url": ""
   },
   {
+   "company": "F&G Annuities & Life, Inc.",
+   "ticker": "FG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.26",
+   "source_url": ""
+  },
+  {
    "company": "Financial Institutions, Inc.",
    "ticker": "FISI",
    "exchange": "Nasdaq",
@@ -21511,6 +21496,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.045",
+   "source_url": ""
+  },
+  {
+   "company": "Fidelity National Financial, Inc.",
+   "ticker": "FNF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.54,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.54",
    "source_url": ""
   },
   {
@@ -23704,21 +23704,6 @@
    "source_url": ""
   },
   {
-   "company": "F&G Annuities & Life, Inc.",
-   "ticker": "FG",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.8594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.8594",
-   "source_url": ""
-  },
-  {
    "company": "Fulton Financial Corporation",
    "ticker": "FULT",
    "exchange": "Nasdaq",
@@ -24331,6 +24316,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "F&G Annuities & Life, Inc.",
+   "ticker": "FG",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.859375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.859375",
    "source_url": ""
   },
   {
@@ -25654,21 +25654,6 @@
    "source_url": ""
   },
   {
-   "company": "Sabine Royalty Trust",
-   "ticker": "SBR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35545,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.35545",
-   "source_url": ""
-  },
-  {
    "company": "TWIN DISC, INCORPORATED",
    "ticker": "TWIN",
    "exchange": "Nasdaq",
@@ -26149,21 +26134,6 @@
    "source_url": ""
   },
   {
-   "company": "AMETEK, Inc.",
-   "ticker": "AME",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.34,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.34",
-   "source_url": ""
-  },
-  {
    "company": "Bluerock Private Real Estate Fund",
    "ticker": "BPRE",
    "exchange": "NYSE",
@@ -26536,6 +26506,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-30 $0.155",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36039,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.36039",
    "source_url": ""
   },
   {
@@ -30919,21 +30904,6 @@
    "source_url": ""
   },
   {
-   "company": "Sabine Royalty Trust",
-   "ticker": "SBR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35545,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.35545",
-   "source_url": ""
-  },
-  {
    "company": "Tetra Tech, Inc.",
    "ticker": "TTEK",
    "exchange": "Nasdaq",
@@ -31936,6 +31906,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.0883",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36039,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.36039",
    "source_url": ""
   },
   {
@@ -36964,6 +36949,21 @@
    "source_url": ""
   },
   {
+   "company": "AMETEK, Inc.",
+   "ticker": "AME",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.34",
+   "source_url": ""
+  },
+  {
    "company": "BAR HARBOR BANKSHARES",
    "ticker": "BHB",
    "exchange": "NYSE American",
@@ -38059,21 +38059,6 @@
    "source_url": ""
   },
   {
-   "company": "Sabine Royalty Trust",
-   "ticker": "SBR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35545,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.35545",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Dynamic Dividend Fund",
    "ticker": "AGD",
    "exchange": "NYSE",
@@ -38851,6 +38836,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.0883",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36039,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.36039",
    "source_url": ""
   },
   {
@@ -40564,6 +40564,21 @@
    "source_url": ""
   },
   {
+   "company": "F&G Annuities & Life, Inc.",
+   "ticker": "FG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.26",
+   "source_url": ""
+  },
+  {
    "company": "Financial Institutions, Inc.",
    "ticker": "FISI",
    "exchange": "Nasdaq",
@@ -40591,6 +40606,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $5.6",
+   "source_url": ""
+  },
+  {
+   "company": "Fidelity National Financial, Inc.",
+   "ticker": "FNF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.54,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.54",
    "source_url": ""
   },
   {
@@ -42874,21 +42904,6 @@
    "source_url": ""
   },
   {
-   "company": "F&G Annuities & Life, Inc.",
-   "ticker": "FG",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.8594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.8594",
-   "source_url": ""
-  },
-  {
    "company": "Fulton Financial Corporation",
    "ticker": "FULT",
    "exchange": "Nasdaq",
@@ -43426,6 +43441,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "F&G Annuities & Life, Inc.",
+   "ticker": "FG",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.859375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.859375",
    "source_url": ""
   },
   {
@@ -44689,21 +44719,6 @@
    "source_url": ""
   },
   {
-   "company": "Sabine Royalty Trust",
-   "ticker": "SBR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35545,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.35545",
-   "source_url": ""
-  },
-  {
    "company": "TriNet",
    "ticker": "TNET",
    "exchange": "NYSE",
@@ -45514,6 +45529,21 @@
    "source_url": ""
   },
   {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36039,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.36039",
+   "source_url": ""
+  },
+  {
    "company": "NXG Cushing® Midstream Energy Fund",
    "ticker": "SRV",
    "exchange": "NYSE",
@@ -45691,21 +45721,6 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.029",
-   "source_url": ""
-  },
-  {
-   "company": "AMETEK, Inc.",
-   "ticker": "AME",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.34,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.34",
    "source_url": ""
   },
   {
@@ -49879,21 +49894,6 @@
    "source_url": ""
   },
   {
-   "company": "Sabine Royalty Trust",
-   "ticker": "SBR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35545,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.35545",
-   "source_url": ""
-  },
-  {
    "company": "United Rentals, Inc.",
    "ticker": "URI",
    "exchange": "NYSE",
@@ -50896,6 +50896,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.165",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36039,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.36039",
    "source_url": ""
   },
   {
@@ -56074,6 +56089,21 @@
    "source_url": ""
   },
   {
+   "company": "AMETEK, Inc.",
+   "ticker": "AME",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.34",
+   "source_url": ""
+  },
+  {
    "company": "BAR HARBOR BANKSHARES",
    "ticker": "BHB",
    "exchange": "NYSE American",
@@ -57004,21 +57034,6 @@
    "source_url": ""
   },
   {
-   "company": "Sabine Royalty Trust",
-   "ticker": "SBR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35545,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-24",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.35545",
-   "source_url": ""
-  },
-  {
    "company": "Vanguard Real Estate ETF",
    "ticker": "VNQ",
    "exchange": "NYSE ARCA",
@@ -57736,6 +57751,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-28 $0.46",
+   "source_url": ""
+  },
+  {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36039,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.36039",
    "source_url": ""
   },
   {
@@ -59509,6 +59539,21 @@
    "source_url": ""
   },
   {
+   "company": "F&G Annuities & Life, Inc.",
+   "ticker": "FG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.26",
+   "source_url": ""
+  },
+  {
    "company": "Financial Institutions, Inc.",
    "ticker": "FISI",
    "exchange": "Nasdaq",
@@ -59536,6 +59581,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $5.6",
+   "source_url": ""
+  },
+  {
+   "company": "Fidelity National Financial, Inc.",
+   "ticker": "FNF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.54,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.54",
    "source_url": ""
   },
   {
@@ -61819,21 +61879,6 @@
    "source_url": ""
   },
   {
-   "company": "F&G Annuities & Life, Inc.",
-   "ticker": "FG",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.8594,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.8594",
-   "source_url": ""
-  },
-  {
    "company": "Fulton Financial Corporation",
    "ticker": "FULT",
    "exchange": "Nasdaq",
@@ -62371,6 +62416,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "F&G Annuities & Life, Inc.",
+   "ticker": "FG",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.859375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.859375",
    "source_url": ""
   },
   {
@@ -63559,21 +63619,6 @@
    "source_url": ""
   },
   {
-   "company": "Sabine Royalty Trust",
-   "ticker": "SBR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.35545,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-24",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.35545",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Dynamic Dividend Fund",
    "ticker": "AGD",
    "exchange": "NYSE",
@@ -64369,6 +64414,21 @@
    "source_url": ""
   },
   {
+   "company": "Sabine Royalty Trust",
+   "ticker": "SBR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36039,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.36039",
+   "source_url": ""
+  },
+  {
    "company": "NXG Cushing® Midstream Energy Fund",
    "ticker": "SRV",
    "exchange": "NYSE",
@@ -64816,21 +64876,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.08854",
-   "source_url": ""
-  },
-  {
-   "company": "AMETEK, Inc.",
-   "ticker": "AME",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.34,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-28",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $0.34",
    "source_url": ""
   },
   {

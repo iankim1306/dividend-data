@@ -1,22 +1,7 @@
 {
- "updatedAt": "2026-11-06 21:17",
+ "updatedAt": "2026-11-07 00:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
-  {
-   "company": "Investcorp Credit Management BDC, Inc.",
-   "exchange": "Nasdaq",
-   "ticker": "ICMB",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "2024-10-16",
-   "payable_date": "2024-11-06",
-   "frequency": null,
-   "us_listed": true,
-   "wire": "EDGAR",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1578348/000119312526352658/icmb-20260630.htm",
-   "collected_at": "2026-08-16 09:29"
-  },
   {
    "company": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
    "exchange": "Nasdaq",
@@ -61074,6 +61059,21 @@
    "collected_at": "2026-10-30 09:47"
   },
   {
+   "company": "Sabine Royalty Trust",
+   "exchange": "NYSE",
+   "ticker": "SBR",
+   "security": "common",
+   "amount_per_share": 0.36039,
+   "currency": "USD",
+   "record_date": "2026-11-16",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/sabine-royalty-trust-announces-monthly-cash-distribution-for-november-2026-302930618.html",
+   "collected_at": "2026-11-07 00:17"
+  },
+  {
    "company": "Sabra Health Care REIT, Inc.",
    "exchange": "Nasdaq",
    "ticker": "SBRA",
@@ -66967,6 +66967,21 @@
    "collected_at": "2026-10-28 09:17"
   },
   {
+   "company": "AMETEK, Inc.",
+   "exchange": "NYSE",
+   "ticker": "AME",
+   "security": "common",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "2026-12-04",
+   "payable_date": "2026-12-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ametek-declares-quarterly-dividend-302931168.html",
+   "collected_at": "2026-11-07 00:17"
+  },
+  {
    "company": "BAR HARBOR BANKSHARES",
    "exchange": "NYSE American",
    "ticker": "BHB",
@@ -68494,6 +68509,36 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/extra-space-storage-inc-announces-4th-quarter-2026-dividend-302931384.html",
    "collected_at": "2026-11-06 09:17"
+  },
+  {
+   "company": "F&G Annuities & Life, Inc.",
+   "exchange": "NYSE",
+   "ticker": "FG",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "2026-12-17",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/fg-annuities--life-announces-4-increase-in-quarterly-common-stock-dividend-and-declares-dividend-on-preferred-stock-302931541.html",
+   "collected_at": "2026-11-07 00:17"
+  },
+  {
+   "company": "Fidelity National Financial, Inc.",
+   "exchange": "NYSE",
+   "ticker": "FNF",
+   "security": "common",
+   "amount_per_share": 0.54,
+   "currency": "USD",
+   "record_date": "2026-12-17",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/fidelity-national-financial-announces-4-increase-in-quarterly-cash-dividend-302931540.html",
+   "collected_at": "2026-11-07 00:17"
   },
   {
    "company": "FS Credit Opportunities Corp.",
@@ -70251,6 +70296,21 @@
    "collected_at": "2026-10-30 09:47"
   },
   {
+   "company": "F&G Annuities & Life, Inc.",
+   "exchange": "NYSE",
+   "ticker": "FG",
+   "security": "preferred",
+   "amount_per_share": 0.859375,
+   "currency": "USD",
+   "record_date": "2027-01-01",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/fg-annuities--life-announces-4-increase-in-quarterly-common-stock-dividend-and-declares-dividend-on-preferred-stock-302931541.html",
+   "collected_at": "2026-11-07 00:17"
+  },
+  {
    "company": "Farmland Partners Inc.",
    "exchange": "NYSE",
    "ticker": "FPI",
@@ -71346,5 +71406,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 4777
+ "count": 4781
 }
