@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-07 03:17",
+ "updatedAt": "2026-11-07 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4402,
+ "count": 4411,
  "items": [
   {
    "company": "Delek US Holdings, Inc.",
@@ -15349,6 +15349,36 @@
    "source_url": ""
   },
   {
+   "company": "Haverty Furniture Companies, Inc.",
+   "ticker": "HVT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "Haverty Furniture Companies, Inc.",
+   "ticker": "HVT.A",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.31",
+   "source_url": ""
+  },
+  {
    "company": "Spok Holdings, Inc.",
    "ticker": "SPOK",
    "exchange": "Nasdaq",
@@ -16531,6 +16561,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.6",
+   "source_url": ""
+  },
+  {
+   "company": "Dover Corporation",
+   "ticker": "DOV",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.525",
    "source_url": ""
   },
   {
@@ -34324,6 +34369,36 @@
    "source_url": ""
   },
   {
+   "company": "Haverty Furniture Companies, Inc.",
+   "ticker": "HVT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "Haverty Furniture Companies, Inc.",
+   "ticker": "HVT.A",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.31",
+   "source_url": ""
+  },
+  {
    "company": "Spok Holdings, Inc.",
    "ticker": "SPOK",
    "exchange": "Nasdaq",
@@ -35671,6 +35746,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.6",
+   "source_url": ""
+  },
+  {
+   "company": "Dover Corporation",
+   "ticker": "DOV",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.525",
    "source_url": ""
   },
   {
@@ -53449,6 +53539,36 @@
    "source_url": ""
   },
   {
+   "company": "Haverty Furniture Companies, Inc.",
+   "ticker": "HVT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.33,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "Haverty Furniture Companies, Inc.",
+   "ticker": "HVT.A",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.31",
+   "source_url": ""
+  },
+  {
    "company": "Spok Holdings, Inc.",
    "ticker": "SPOK",
    "exchange": "Nasdaq",
@@ -54781,6 +54901,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.6",
+   "source_url": ""
+  },
+  {
+   "company": "Dover Corporation",
+   "ticker": "DOV",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.525",
    "source_url": ""
   },
   {
