@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-06 18:17",
+ "updatedAt": "2026-11-06 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4391,
+ "count": 4390,
  "items": [
   {
    "company": "Delek US Holdings, Inc.",
@@ -8791,21 +8791,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.32",
-   "source_url": ""
-  },
-  {
-   "company": "AT&T",
-   "ticker": "T",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2775,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.2775",
    "source_url": ""
   },
   {
@@ -22369,6 +22354,21 @@
    "source_url": ""
   },
   {
+   "company": "TELUS Corporation",
+   "ticker": "T",
+   "exchange": "TSX",
+   "security": "common",
+   "amount_per_share": 0.1875,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.1875",
+   "source_url": ""
+  },
+  {
    "company": "UMB Financial Corporation",
    "ticker": "UMBF",
    "exchange": "Nasdaq",
@@ -27496,21 +27496,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.32",
-   "source_url": ""
-  },
-  {
-   "company": "AT&T",
-   "ticker": "T",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2775,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-03",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.2775",
    "source_url": ""
   },
   {
@@ -41449,6 +41434,21 @@
    "source_url": ""
   },
   {
+   "company": "TELUS Corporation",
+   "ticker": "T",
+   "exchange": "TSX",
+   "security": "common",
+   "amount_per_share": 0.1875,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.1875",
+   "source_url": ""
+  },
+  {
    "company": "UMB Financial Corporation",
    "ticker": "UMBF",
    "exchange": "Nasdaq",
@@ -46576,21 +46576,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.32",
-   "source_url": ""
-  },
-  {
-   "company": "AT&T",
-   "ticker": "T",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2775,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.2775",
    "source_url": ""
   },
   {
@@ -60379,6 +60364,21 @@
    "source_url": ""
   },
   {
+   "company": "TELUS Corporation",
+   "ticker": "T",
+   "exchange": "TSX",
+   "security": "common",
+   "amount_per_share": 0.1875,
+   "currency": "CAD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.1875",
+   "source_url": ""
+  },
+  {
    "company": "UMB Financial Corporation",
    "ticker": "UMBF",
    "exchange": "Nasdaq",
@@ -65551,21 +65551,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.32",
-   "source_url": ""
-  },
-  {
-   "company": "AT&T",
-   "ticker": "T",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2775,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-11-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.2775",
    "source_url": ""
   },
   {

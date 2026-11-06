@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06 18:17",
+ "updatedAt": "2026-11-06 21:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -69336,6 +69336,21 @@
    "collected_at": "2026-10-21 21:17"
   },
   {
+   "company": "TELUS Corporation",
+   "exchange": "TSX",
+   "ticker": "T",
+   "security": "common",
+   "amount_per_share": 0.1875,
+   "currency": "CAD",
+   "record_date": "2026-12-11",
+   "payable_date": "2027-01-04",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/telus-corporation-notice-of-cash-dividend-847859672.html",
+   "collected_at": "2026-11-06 21:17"
+  },
+  {
    "company": "UMB Financial Corporation",
    "exchange": "Nasdaq",
    "ticker": "UMBF",
@@ -71331,5 +71346,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 4776
+ "count": 4777
 }
