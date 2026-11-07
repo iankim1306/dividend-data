@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-07 06:17",
+ "updatedAt": "2026-11-07 10:09",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4411,
+ "count": 4501,
  "items": [
   {
    "company": "Delek US Holdings, Inc.",
@@ -106,21 +106,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.0655",
-   "source_url": ""
-  },
-  {
-   "company": "East West Bancorp, Inc.",
-   "ticker": "EWBC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.8,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.8",
    "source_url": ""
   },
   {
@@ -271,21 +256,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.135",
-   "source_url": ""
-  },
-  {
-   "company": "Community West Bancshares",
-   "ticker": "CWBC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-20",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-21 $0.12",
    "source_url": ""
   },
   {
@@ -466,21 +436,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
-   "company": "Ellington Financial Inc.",
-   "ticker": "EFC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.13,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.13",
    "source_url": ""
   },
   {
@@ -1024,6 +979,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0066,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-06",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.0066",
+   "source_url": ""
+  },
+  {
    "company": "Monro, Inc.",
    "ticker": "MNRO",
    "exchange": "Nasdaq",
@@ -1036,21 +1006,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-08 $0.28",
-   "source_url": ""
-  },
-  {
-   "company": "Primo Brands Corporation",
-   "ticker": "PRMB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-08",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-08 $0.12",
    "source_url": ""
   },
   {
@@ -1156,21 +1111,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-10 $0.20833",
-   "source_url": ""
-  },
-  {
-   "company": "FIRST BANCORP",
-   "ticker": "FBP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-11",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-11 $0.2",
    "source_url": ""
   },
   {
@@ -1429,6 +1369,21 @@
    "source_url": ""
   },
   {
+   "company": "Hancock Whitney Corporation",
+   "ticker": "HWC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.5",
+   "source_url": ""
+  },
+  {
    "company": "Hyster-Yale, Inc.",
    "ticker": "HY",
    "exchange": "NYSE",
@@ -1546,21 +1501,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.145",
-   "source_url": ""
-  },
-  {
-   "company": "PEOPLES FINANCIAL SERVICES CORP.",
-   "ticker": "PFIS",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.625",
    "source_url": ""
   },
   {
@@ -1801,21 +1741,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-17 $0.15",
-   "source_url": ""
-  },
-  {
-   "company": "Red River Bancshares, Inc.",
-   "ticker": "RRBI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-17 $0.25",
    "source_url": ""
   },
   {
@@ -2119,21 +2044,6 @@
    "source_url": ""
   },
   {
-   "company": "Jack Henry & Associates, Inc.",
-   "ticker": "JKHY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.61,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.61",
-   "source_url": ""
-  },
-  {
    "company": "KOHL'S CORPORATION",
    "ticker": "KSS",
    "exchange": "New York Stock Exchange",
@@ -2404,6 +2314,21 @@
    "source_url": ""
   },
   {
+   "company": "Krispy Kreme, Inc.",
+   "ticker": "KKI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.035,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-03-29 $0.035",
+   "source_url": ""
+  },
+  {
    "company": "Papa John’s International, Inc.",
    "ticker": "PZZA",
    "exchange": "Nasdaq",
@@ -2611,21 +2536,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
-   "company": "Ellington Financial Inc.",
-   "ticker": "EFC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.13,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.13",
    "source_url": ""
   },
   {
@@ -3154,21 +3064,6 @@
    "source_url": ""
   },
   {
-   "company": "COUSINS PROPERTIES INCORPORATED",
-   "ticker": "CPT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.32,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.32",
-   "source_url": ""
-  },
-  {
    "company": "DoubleLine Opportunistic Credit Fund",
    "ticker": "DBL",
    "exchange": "NYSE",
@@ -3211,6 +3106,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Enact Holdings, Inc.",
+   "ticker": "EHI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.24",
+   "source_url": ""
+  },
+  {
+   "company": "Eversource Energy",
+   "ticker": "ES",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.7875",
    "source_url": ""
   },
   {
@@ -3694,6 +3619,21 @@
    "source_url": ""
   },
   {
+   "company": "RED RIVER BANCSHARES, INC.",
+   "ticker": "RRBI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Redwood Trust, Inc.",
    "ticker": "RWT",
    "exchange": "NYSE",
@@ -4129,21 +4069,6 @@
    "source_url": ""
   },
   {
-   "company": "Banc of California, Inc.",
-   "ticker": "BANC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Pathward Financial, Inc.",
    "ticker": "CASH",
    "exchange": "Nasdaq",
@@ -4306,21 +4231,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.1915",
-   "source_url": ""
-  },
-  {
-   "company": "Medical Properties Trust, Inc.",
-   "ticker": "MPT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.09",
    "source_url": ""
   },
   {
@@ -4579,6 +4489,21 @@
    "source_url": ""
   },
   {
+   "company": "AVNET, INC.",
+   "ticker": "AVT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.37,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-03 $0.37",
+   "source_url": ""
+  },
+  {
    "company": "LEAR CORP",
    "ticker": "LEAR",
    "exchange": "NYSE",
@@ -4654,6 +4579,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0066,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.0066",
+   "source_url": ""
+  },
+  {
    "company": "Graphic Packaging Holding Company",
    "ticker": "GPK",
    "exchange": "NYSE",
@@ -4699,18 +4639,33 @@
    "source_url": ""
   },
   {
-   "company": "ATN International, Inc.",
-   "ticker": "ATNI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.29,
+   "company": "Invesco CurrencyShares Australian Dollar Trust",
+   "ticker": "FXA",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.08764,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-01-06",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-08 $0.29",
+   "basis": "last confirmed 2026-10-07 $0.08764",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco CurrencyShares ® British Pound Sterling Trust",
+   "ticker": "FXB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.2154,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.2154",
    "source_url": ""
   },
   {
@@ -4789,6 +4744,21 @@
    "source_url": ""
   },
   {
+   "company": "MEDICAL PROPERTIES TRUST, INC.",
+   "ticker": "MPT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "NXP Semiconductors",
    "ticker": "NXPI",
    "exchange": "Nasdaq",
@@ -4816,6 +4786,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-08 $0.46",
+   "source_url": ""
+  },
+  {
+   "company": "ATN International, Inc.",
+   "ticker": "ATNI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-09 $0.29",
    "source_url": ""
   },
   {
@@ -5029,21 +5014,6 @@
    "source_url": ""
   },
   {
-   "company": "Advanced Flower Capital Inc.",
-   "ticker": "AFCG",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.05,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.05",
-   "source_url": ""
-  },
-  {
    "company": "BrightSpire Capital, Inc.",
    "ticker": "BRSP",
    "exchange": "NYSE",
@@ -5179,21 +5149,6 @@
    "source_url": ""
   },
   {
-   "company": "NewLake Capital Partners, Inc.",
-   "ticker": "NLCP",
-   "exchange": "OTC",
-   "security": "common",
-   "amount_per_share": 0.43,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.43",
-   "source_url": ""
-  },
-  {
    "company": "Omega Flex, Inc.",
    "ticker": "OFLX",
    "exchange": "Nasdaq",
@@ -5281,6 +5236,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.05018",
+   "source_url": ""
+  },
+  {
+   "company": "Advanced Flower Capital Inc.",
+   "ticker": "AFCG",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05",
    "source_url": ""
   },
   {
@@ -5449,6 +5419,21 @@
    "source_url": ""
   },
   {
+   "company": "CVB Financial Corp.",
+   "ticker": "CVB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.2",
+   "source_url": ""
+  },
+  {
    "company": "DYNEX CAPITAL, INC.",
    "ticker": "DX",
    "exchange": "NYSE",
@@ -5506,21 +5491,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.04",
-   "source_url": ""
-  },
-  {
-   "company": "Fulton Financial Corporation",
-   "ticker": "FULT",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.19",
    "source_url": ""
   },
   {
@@ -5689,6 +5659,21 @@
    "source_url": ""
   },
   {
+   "company": "NewLake Capital Partners, Inc.",
+   "ticker": "NLCP",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.43,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.43",
+   "source_url": ""
+  },
+  {
    "company": "NORTHROP GRUMMAN CORP",
    "ticker": "NOC",
    "exchange": "NYSE",
@@ -5806,21 +5791,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.177",
-   "source_url": ""
-  },
-  {
-   "company": "Sunstone Hotel Investors, Inc.",
-   "ticker": "SHO",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.35625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.35625",
    "source_url": ""
   },
   {
@@ -5971,6 +5941,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "CAMDEN PROPERTY TRUST",
+   "ticker": "CPT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $1.06",
    "source_url": ""
   },
   {
@@ -6199,6 +6184,21 @@
    "source_url": ""
   },
   {
+   "company": "Sylvamo",
+   "ticker": "SLVM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.45",
+   "source_url": ""
+  },
+  {
    "company": "Sysco Corporation",
    "ticker": "SYY",
    "exchange": "NYSE",
@@ -6256,21 +6256,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-18 $0.16",
-   "source_url": ""
-  },
-  {
-   "company": "CoastalSouth Bancshares, Inc.",
-   "ticker": "COSO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.06,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-18",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-19 $0.06",
    "source_url": ""
   },
   {
@@ -6526,6 +6511,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.42",
+   "source_url": ""
+  },
+  {
+   "company": "Gentex Corporation",
+   "ticker": "GNTX",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.12",
    "source_url": ""
   },
   {
@@ -6814,6 +6814,21 @@
    "source_url": ""
   },
   {
+   "company": "JACK HENRY & ASSOCIATES, INC.",
+   "ticker": "JKHY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.61,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.61",
+   "source_url": ""
+  },
+  {
    "company": "Medalist Diversified, Inc.",
    "ticker": "MDRR",
    "exchange": "Nasdaq",
@@ -6931,6 +6946,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-26 $0.48",
+   "source_url": ""
+  },
+  {
+   "company": "RGA",
+   "ticker": "RGA",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.98,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.98",
    "source_url": ""
   },
   {
@@ -7231,21 +7261,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-30 $0.07",
-   "source_url": ""
-  },
-  {
-   "company": "Ellington Financial Inc.",
-   "ticker": "EFC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.13,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.13",
    "source_url": ""
   },
   {
@@ -7744,6 +7759,36 @@
    "source_url": ""
   },
   {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.5390625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.5390625",
+   "source_url": ""
+  },
+  {
+   "company": "Fulton Financial Corporation",
+   "ticker": "FULT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.19",
+   "source_url": ""
+  },
+  {
    "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
    "ticker": "HBB",
    "exchange": "NYSE",
@@ -7951,21 +7996,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.07008",
-   "source_url": ""
-  },
-  {
-   "company": "Northern Oil and Gas, Inc.",
-   "ticker": "NOG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.45,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.45",
    "source_url": ""
   },
   {
@@ -8269,6 +8299,21 @@
    "source_url": ""
   },
   {
+   "company": "Watsco, Inc.",
+   "ticker": "WSO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 3.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $3.3",
+   "source_url": ""
+  },
+  {
    "company": "Chiron Real Estate Inc.",
    "ticker": "XRN",
    "exchange": "NYSE",
@@ -8311,6 +8356,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.05268",
+   "source_url": ""
+  },
+  {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.13",
    "source_url": ""
   },
   {
@@ -8371,21 +8431,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.1495",
-   "source_url": ""
-  },
-  {
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "ticker": "GABC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.31,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-01 $0.31",
    "source_url": ""
   },
   {
@@ -8629,6 +8674,21 @@
    "source_url": ""
   },
   {
+   "company": "California BanCorp",
+   "ticker": "BCAL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Bank of Hawaii Corporation",
    "ticker": "BOH",
    "exchange": "NYSE",
@@ -8730,7 +8790,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.15",
+   "basis": "last confirmed 2026-11-02 $0.15",
    "source_url": ""
   },
   {
@@ -8854,6 +8914,21 @@
    "source_url": ""
   },
   {
+   "company": "GERMAN AMERICAN BANCORP, INC.",
+   "ticker": "GABC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-04 $0.31",
+   "source_url": ""
+  },
+  {
    "company": "Lowe's Companies, Inc.",
    "ticker": "LOW",
    "exchange": "NYSE",
@@ -8911,6 +8986,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-05 $0.215",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0066,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.0066",
    "source_url": ""
   },
   {
@@ -10189,21 +10279,6 @@
    "source_url": ""
   },
   {
-   "company": "East West Bancorp, Inc.",
-   "ticker": "EWBC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.8,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.8",
-   "source_url": ""
-  },
-  {
    "company": "First Merchants Corporation",
    "ticker": "FRMEP",
    "exchange": "NASDAQ",
@@ -10426,6 +10501,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-17 $0.01",
+   "source_url": ""
+  },
+  {
+   "company": "East West Bancorp, Inc.",
+   "ticker": "EWBC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.8,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-17 $0.8",
    "source_url": ""
   },
   {
@@ -10965,7 +11055,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-21 $0.12",
+   "basis": "last confirmed 2026-11-20 $0.12",
    "source_url": ""
   },
   {
@@ -11539,6 +11629,21 @@
    "source_url": ""
   },
   {
+   "company": "CoastalSouth Bancshares, Inc.",
+   "ticker": "COSO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.06",
+   "source_url": ""
+  },
+  {
    "company": "FB Financial Corporation",
    "ticker": "FBK",
    "exchange": "NYSE",
@@ -11614,21 +11719,6 @@
    "source_url": ""
   },
   {
-   "company": "Flowco Holdings",
-   "ticker": "TX",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "VERISIGN INC",
    "ticker": "VRSN",
    "exchange": "Nasdaq",
@@ -11644,6 +11734,21 @@
    "source_url": ""
   },
   {
+   "company": "PRINCETON BANCORP, INC.",
+   "ticker": "BPRN",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.4",
+   "source_url": ""
+  },
+  {
    "company": "Colony Bankcorp, Inc.",
    "ticker": "CBAN",
    "exchange": "NYSE",
@@ -11656,6 +11761,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-25 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Capital Bancorp, Inc.",
+   "ticker": "CBNK",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.14",
    "source_url": ""
   },
   {
@@ -12454,21 +12574,6 @@
    "source_url": ""
   },
   {
-   "company": "Ellington Financial Inc.",
-   "ticker": "EFC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.13,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.13",
-   "source_url": ""
-  },
-  {
    "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
    "ticker": "FOF",
    "exchange": "NYSE",
@@ -13234,6 +13339,21 @@
    "source_url": ""
   },
   {
+   "company": "APOLLO GLOBAL MANAGEMENT, INC.",
+   "ticker": "APO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.5625",
+   "source_url": ""
+  },
+  {
    "company": "Avidia Bancorp, Inc.",
    "ticker": "AVBC",
    "exchange": "NYSE",
@@ -13306,6 +13426,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.05268",
+   "source_url": ""
+  },
+  {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.13",
    "source_url": ""
   },
   {
@@ -14329,6 +14464,21 @@
    "source_url": ""
   },
   {
+   "company": "Home BancShares, Inc.",
+   "ticker": "HOMB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-02 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Helmerich & Payne, Inc.",
    "ticker": "HP",
    "exchange": "NYSE",
@@ -14794,6 +14944,21 @@
    "source_url": ""
   },
   {
+   "company": "CONCENTRA GROUP HOLDINGS PARENT, INC.",
+   "ticker": "CON",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.0625",
+   "source_url": ""
+  },
+  {
    "company": "Del Monte Corporation",
    "ticker": "DMC",
    "exchange": "NYSE",
@@ -14914,6 +15079,21 @@
    "source_url": ""
   },
   {
+   "company": "Primo Brands Corporation",
+   "ticker": "PRMB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Quad/Graphics, Inc.",
    "ticker": "QUAD",
    "exchange": "NYSE",
@@ -15001,6 +15181,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.15625",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0066,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-06",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.0066",
    "source_url": ""
   },
   {
@@ -15136,21 +15331,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-08 $0.28",
-   "source_url": ""
-  },
-  {
-   "company": "Primo Brands Corporation",
-   "ticker": "PRMB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-08 $0.12",
    "source_url": ""
   },
   {
@@ -15466,6 +15646,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-10 $0.595",
+   "source_url": ""
+  },
+  {
+   "company": "Essent Group Ltd.",
+   "ticker": "ESNT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.35",
    "source_url": ""
   },
   {
@@ -15818,14 +16013,14 @@
    "ticker": "FBP",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.2,
+   "amount_per_share": 0.25,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-12",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-11 $0.2",
+   "basis": "last confirmed 2026-12-11 $0.25",
    "source_url": ""
   },
   {
@@ -16699,18 +16894,18 @@
    "source_url": ""
   },
   {
-   "company": "First Citizens BancShares, Inc.",
+   "company": "FIRST CITIZENS BANCSHARES INC",
    "ticker": "FCNCA",
    "exchange": "Nasdaq",
    "security": "preferred",
-   "amount_per_share": 1895.83,
+   "amount_per_share": 7.5,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-16",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-15 $1895.83",
+   "basis": "last confirmed 2026-12-15 $7.5",
    "source_url": ""
   },
   {
@@ -16816,6 +17011,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "Hancock Whitney Corporation",
+   "ticker": "HWC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.5",
    "source_url": ""
   },
   {
@@ -17160,7 +17370,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.625",
+   "basis": "last confirmed 2026-12-15 $0.625",
    "source_url": ""
   },
   {
@@ -17899,21 +18109,6 @@
    "source_url": ""
   },
   {
-   "company": "Red River Bancshares, Inc.",
-   "ticker": "RRBI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-18",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-17 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "Unity Bancorp, Inc.",
    "ticker": "UNTY",
    "exchange": "Nasdaq",
@@ -18319,6 +18514,21 @@
    "source_url": ""
   },
   {
+   "company": "Ridgepost Capital, Inc.",
+   "ticker": "TX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.04,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.04",
+   "source_url": ""
+  },
+  {
    "company": "Calamos Dynamic Convertible and Income Fund",
    "ticker": "CCD",
    "exchange": "NASDAQ",
@@ -18484,6 +18694,21 @@
    "source_url": ""
   },
   {
+   "company": "Knight-Swift Transportation Holdings Inc.",
+   "ticker": "KNX",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-21 $0.2",
+   "source_url": ""
+  },
+  {
    "company": "Manulife Financial Corporation",
    "ticker": "MFC",
    "exchange": "TSX/NYSE/PSE",
@@ -18646,21 +18871,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-23 $0.1875",
-   "source_url": ""
-  },
-  {
-   "company": "Jack Henry & Associates, Inc.",
-   "ticker": "JKHY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.61,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.61",
    "source_url": ""
   },
   {
@@ -19069,6 +19279,21 @@
    "source_url": ""
   },
   {
+   "company": "Krispy Kreme, Inc.",
+   "ticker": "KKI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.035,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-03-29 $0.035",
+   "source_url": ""
+  },
+  {
    "company": "Papa John’s International, Inc.",
    "ticker": "PZZA",
    "exchange": "Nasdaq",
@@ -19189,21 +19414,6 @@
    "source_url": ""
   },
   {
-   "company": "Ellington Financial Inc.",
-   "ticker": "EFC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.13,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.13",
-   "source_url": ""
-  },
-  {
    "company": "FIDELITY NATIONAL INFORMATION SERVICES, INC.",
    "ticker": "FIS",
    "exchange": "NYSE",
@@ -19306,6 +19516,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.46875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-28 $0.46875",
    "source_url": ""
   },
   {
@@ -20464,21 +20689,6 @@
    "source_url": ""
   },
   {
-   "company": "COUSINS PROPERTIES INCORPORATED",
-   "ticker": "CPT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.32,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.32",
-   "source_url": ""
-  },
-  {
    "company": "Domino's Pizza, Inc.",
    "ticker": "DPZ",
    "exchange": "Nasdaq",
@@ -20494,21 +20704,6 @@
    "source_url": ""
   },
   {
-   "company": "Devon Energy Corporation",
-   "ticker": "DVN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.32,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-30 $0.32",
-   "source_url": ""
-  },
-  {
    "company": "Allspring Income Opportunities Fund",
    "ticker": "EAD",
    "exchange": "NYSE American",
@@ -20521,6 +20716,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.05268",
+   "source_url": ""
+  },
+  {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.13",
+   "source_url": ""
+  },
+  {
+   "company": "Enact Holdings, Inc.",
+   "ticker": "EHI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.24,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.24",
    "source_url": ""
   },
   {
@@ -20551,6 +20776,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.08697",
+   "source_url": ""
+  },
+  {
+   "company": "Eversource Energy",
+   "ticker": "ES",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.7875",
    "source_url": ""
   },
   {
@@ -20929,6 +21169,21 @@
    "source_url": ""
   },
   {
+   "company": "RED RIVER BANCSHARES, INC.",
+   "ticker": "RRBI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Redwood Trust, Inc.",
    "ticker": "RWT",
    "exchange": "NYSE",
@@ -21274,21 +21529,6 @@
    "source_url": ""
   },
   {
-   "company": "Banc of California, Inc.",
-   "ticker": "BANC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Booking Holdings Inc.",
    "ticker": "BKNG",
    "exchange": "Nasdaq",
@@ -21451,6 +21691,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.9",
+   "source_url": ""
+  },
+  {
+   "company": "DEVON ENERGY CORP",
+   "ticker": "DVN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.32",
    "source_url": ""
   },
   {
@@ -21721,21 +21976,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.3175",
-   "source_url": ""
-  },
-  {
-   "company": "Medical Properties Trust, Inc.",
-   "ticker": "MPT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.09",
    "source_url": ""
   },
   {
@@ -22294,6 +22534,21 @@
    "source_url": ""
   },
   {
+   "company": "AVNET, INC.",
+   "ticker": "AVT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.37,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-03 $0.37",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Capital Corporation",
    "ticker": "GLAD",
    "exchange": "Nasdaq",
@@ -22354,6 +22609,21 @@
    "source_url": ""
   },
   {
+   "company": "Banc of California, Inc.",
+   "ticker": "BANC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Baxter International Inc.",
    "ticker": "BAX",
    "exchange": "NYSE",
@@ -22411,6 +22681,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0066,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.0066",
    "source_url": ""
   },
   {
@@ -22684,18 +22969,33 @@
    "source_url": ""
   },
   {
-   "company": "ATN International, Inc.",
-   "ticker": "ATNI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.29,
+   "company": "Invesco CurrencyShares Australian Dollar Trust",
+   "ticker": "FXA",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.08764,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-07",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-08 $0.29",
+   "basis": "last confirmed 2026-10-07 $0.08764",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco CurrencyShares ® British Pound Sterling Trust",
+   "ticker": "FXB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.2154,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.2154",
    "source_url": ""
   },
   {
@@ -22819,6 +23119,21 @@
    "source_url": ""
   },
   {
+   "company": "MEDICAL PROPERTIES TRUST, INC.",
+   "ticker": "MPT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "MSC Income Fund, Inc.",
    "ticker": "MSIF",
    "exchange": "NYSE",
@@ -22891,6 +23206,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-10 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "ATN International, Inc.",
+   "ticker": "ATNI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-09 $0.29",
    "source_url": ""
   },
   {
@@ -23224,21 +23554,6 @@
    "source_url": ""
   },
   {
-   "company": "Advanced Flower Capital Inc.",
-   "ticker": "AFCG",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.05,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.05",
-   "source_url": ""
-  },
-  {
    "company": "AllianceBernstein Global High Income Fund, Inc.",
    "ticker": "AWF",
    "exchange": "NYSE",
@@ -23434,21 +23749,6 @@
    "source_url": ""
   },
   {
-   "company": "NewLake Capital Partners, Inc.",
-   "ticker": "NLCP",
-   "exchange": "OTC",
-   "security": "common",
-   "amount_per_share": 0.43,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.43",
-   "source_url": ""
-  },
-  {
    "company": "Omega Flex, Inc.",
    "ticker": "OFLX",
    "exchange": "Nasdaq",
@@ -23536,6 +23836,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "Advanced Flower Capital Inc.",
+   "ticker": "AFCG",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05",
    "source_url": ""
   },
   {
@@ -23734,6 +24049,21 @@
    "source_url": ""
   },
   {
+   "company": "CVB Financial Corp.",
+   "ticker": "CVB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.2",
+   "source_url": ""
+  },
+  {
    "company": "DYNEX CAPITAL, INC.",
    "ticker": "DX",
    "exchange": "NYSE",
@@ -23791,21 +24121,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.1265",
-   "source_url": ""
-  },
-  {
-   "company": "Fulton Financial Corporation",
-   "ticker": "FULT",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.19",
    "source_url": ""
   },
   {
@@ -24019,6 +24334,21 @@
    "source_url": ""
   },
   {
+   "company": "NewLake Capital Partners, Inc.",
+   "ticker": "NLCP",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.43,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.43",
+   "source_url": ""
+  },
+  {
    "company": "NORTHROP GRUMMAN CORP",
    "ticker": "NOC",
    "exchange": "NYSE",
@@ -24166,21 +24496,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.0833",
-   "source_url": ""
-  },
-  {
-   "company": "Sunstone Hotel Investors, Inc.",
-   "ticker": "SHO",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.35625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.35625",
    "source_url": ""
   },
   {
@@ -24379,6 +24694,21 @@
    "source_url": ""
   },
   {
+   "company": "CAMDEN PROPERTY TRUST",
+   "ticker": "CPT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $1.06",
+   "source_url": ""
+  },
+  {
    "company": "CARPENTER TECHNOLOGY CORPORATION",
    "ticker": "CRS",
    "exchange": "NYSE",
@@ -24413,14 +24743,14 @@
    "ticker": "FG",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.859375,
+   "amount_per_share": 0.8594,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-16",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2027-01-15 $0.859375",
+   "basis": "last confirmed 2027-01-15 $0.8594",
    "source_url": ""
   },
   {
@@ -24488,6 +24818,21 @@
    "ticker": "FVR",
    "exchange": "NYSE",
    "security": "common",
+   "amount_per_share": 0.215,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.215",
+   "source_url": ""
+  },
+  {
+   "company": "FrontView REIT, Inc.",
+   "ticker": "FVR",
+   "exchange": "NYSE",
+   "security": "OP Unit",
    "amount_per_share": 0.215,
    "currency": "USD",
    "record_date": "",
@@ -24754,6 +25099,51 @@
    "source_url": ""
   },
   {
+   "company": "Sunstone Hotel Investors, Inc.",
+   "ticker": "SHO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "Sunstone Hotel Investors, Inc.",
+   "ticker": "SHO",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.35625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.35625",
+   "source_url": ""
+  },
+  {
+   "company": "Sylvamo",
+   "ticker": "SLVM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.45",
+   "source_url": ""
+  },
+  {
    "company": "Sysco Corporation",
    "ticker": "SYY",
    "exchange": "NYSE",
@@ -24916,21 +25306,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.1",
-   "source_url": ""
-  },
-  {
-   "company": "CoastalSouth Bancshares, Inc.",
-   "ticker": "COSO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.06,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-19 $0.06",
    "source_url": ""
   },
   {
@@ -25141,6 +25516,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.42",
+   "source_url": ""
+  },
+  {
+   "company": "Gentex Corporation",
+   "ticker": "GNTX",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.12",
    "source_url": ""
   },
   {
@@ -25474,6 +25864,21 @@
    "source_url": ""
   },
   {
+   "company": "JACK HENRY & ASSOCIATES, INC.",
+   "ticker": "JKHY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.61,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.61",
+   "source_url": ""
+  },
+  {
    "company": "Lazard Global Total Return and Income Fund, Inc.",
    "ticker": "LGI",
    "exchange": "NYSE",
@@ -25651,6 +26056,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-26 $0.48",
+   "source_url": ""
+  },
+  {
+   "company": "RGA",
+   "ticker": "RGA",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.98,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.98",
    "source_url": ""
   },
   {
@@ -25906,21 +26326,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-29 $0.19",
-   "source_url": ""
-  },
-  {
-   "company": "Ellington Financial Inc.",
-   "ticker": "EFC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.13,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.13",
    "source_url": ""
   },
   {
@@ -26914,6 +27319,36 @@
    "source_url": ""
   },
   {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.5390625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.5390625",
+   "source_url": ""
+  },
+  {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.13",
+   "source_url": ""
+  },
+  {
    "company": "EOG Resources, Inc.",
    "ticker": "EOG",
    "exchange": "NYSE",
@@ -26989,6 +27424,21 @@
    "source_url": ""
   },
   {
+   "company": "Fulton Financial Corporation",
+   "ticker": "FULT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.19",
+   "source_url": ""
+  },
+  {
    "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
    "ticker": "HBB",
    "exchange": "NYSE",
@@ -27016,6 +27466,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.085",
+   "source_url": ""
+  },
+  {
+   "company": "Humana Inc.",
+   "ticker": "HUM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.885,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-29 $0.885",
    "source_url": ""
   },
   {
@@ -27075,7 +27540,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.45",
+   "basis": "last confirmed 2027-01-29 $0.45",
    "source_url": ""
   },
   {
@@ -27199,6 +27664,21 @@
    "source_url": ""
   },
   {
+   "company": "Watsco, Inc.",
+   "ticker": "WSO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 3.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $3.3",
+   "source_url": ""
+  },
+  {
    "company": "Chiron Real Estate Inc.",
    "ticker": "XRN",
    "exchange": "NYSE",
@@ -27256,21 +27736,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.045",
-   "source_url": ""
-  },
-  {
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "ticker": "GABC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.31,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-01 $0.31",
    "source_url": ""
   },
   {
@@ -27424,6 +27889,21 @@
    "source_url": ""
   },
   {
+   "company": "California BanCorp",
+   "ticker": "BCAL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Bank of Hawaii Corporation",
    "ticker": "BOH",
    "exchange": "NYSE",
@@ -27525,7 +28005,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.15",
+   "basis": "last confirmed 2026-11-02 $0.15",
    "source_url": ""
   },
   {
@@ -27676,6 +28156,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-04 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0066,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.0066",
+   "source_url": ""
+  },
+  {
+   "company": "GERMAN AMERICAN BANCORP, INC.",
+   "ticker": "GABC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-04 $0.31",
    "source_url": ""
   },
   {
@@ -29119,21 +29629,6 @@
    "source_url": ""
   },
   {
-   "company": "East West Bancorp, Inc.",
-   "ticker": "EWBC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.8,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.8",
-   "source_url": ""
-  },
-  {
    "company": "First Merchants Corporation",
    "ticker": "FRMEP",
    "exchange": "NASDAQ",
@@ -29356,6 +29851,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-17 $0.01",
+   "source_url": ""
+  },
+  {
+   "company": "East West Bancorp, Inc.",
+   "ticker": "EWBC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.8,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-17 $0.8",
    "source_url": ""
   },
   {
@@ -29895,7 +30405,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-21 $0.12",
+   "basis": "last confirmed 2026-11-20 $0.12",
    "source_url": ""
   },
   {
@@ -30499,6 +31009,21 @@
    "source_url": ""
   },
   {
+   "company": "CoastalSouth Bancshares, Inc.",
+   "ticker": "COSO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.06",
+   "source_url": ""
+  },
+  {
    "company": "FB Financial Corporation",
    "ticker": "FBK",
    "exchange": "NYSE",
@@ -30589,21 +31114,6 @@
    "source_url": ""
   },
   {
-   "company": "Flowco Holdings",
-   "ticker": "TX",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "VERISIGN INC",
    "ticker": "VRSN",
    "exchange": "Nasdaq",
@@ -30634,6 +31144,21 @@
    "source_url": ""
   },
   {
+   "company": "PRINCETON BANCORP, INC.",
+   "ticker": "BPRN",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.4",
+   "source_url": ""
+  },
+  {
    "company": "Colony Bankcorp, Inc.",
    "ticker": "CBAN",
    "exchange": "NYSE",
@@ -30646,6 +31171,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-25 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Capital Bancorp, Inc.",
+   "ticker": "CBNK",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.14",
    "source_url": ""
   },
   {
@@ -31186,21 +31726,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.2",
-   "source_url": ""
-  },
-  {
-   "company": "Ellington Financial Inc.",
-   "ticker": "EFC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.13,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.13",
    "source_url": ""
   },
   {
@@ -32209,6 +32734,21 @@
    "source_url": ""
   },
   {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.13",
+   "source_url": ""
+  },
+  {
    "company": "Allspring Multi-Sector Income Fund",
    "ticker": "ERC",
    "exchange": "NYSE American",
@@ -32386,6 +32926,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.88",
+   "source_url": ""
+  },
+  {
+   "company": "APOLLO GLOBAL MANAGEMENT, INC.",
+   "ticker": "APO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.5625",
    "source_url": ""
   },
   {
@@ -33349,6 +33904,21 @@
    "source_url": ""
   },
   {
+   "company": "Home BancShares, Inc.",
+   "ticker": "HOMB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-02 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Helmerich & Payne, Inc.",
    "ticker": "HP",
    "exchange": "NYSE",
@@ -33814,6 +34384,21 @@
    "source_url": ""
   },
   {
+   "company": "CONCENTRA GROUP HOLDINGS PARENT, INC.",
+   "ticker": "CON",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.0625",
+   "source_url": ""
+  },
+  {
    "company": "Del Monte Corporation",
    "ticker": "DMC",
    "exchange": "NYSE",
@@ -33856,6 +34441,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $0.05",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0066,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.0066",
    "source_url": ""
   },
   {
@@ -33931,6 +34531,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $2.0",
+   "source_url": ""
+  },
+  {
+   "company": "Primo Brands Corporation",
+   "ticker": "PRMB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.12",
    "source_url": ""
   },
   {
@@ -34186,21 +34801,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-08 $0.28",
-   "source_url": ""
-  },
-  {
-   "company": "Primo Brands Corporation",
-   "ticker": "PRMB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-08",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-08 $0.12",
    "source_url": ""
   },
   {
@@ -34486,6 +35086,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-10 $0.595",
+   "source_url": ""
+  },
+  {
+   "company": "Essent Group Ltd.",
+   "ticker": "ESNT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.35",
    "source_url": ""
   },
   {
@@ -34853,14 +35468,14 @@
    "ticker": "FBP",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.2,
+   "amount_per_share": 0.25,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-11",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-11 $0.2",
+   "basis": "last confirmed 2026-12-11 $0.25",
    "source_url": ""
   },
   {
@@ -35884,18 +36499,18 @@
    "source_url": ""
   },
   {
-   "company": "First Citizens BancShares, Inc.",
+   "company": "FIRST CITIZENS BANCSHARES INC",
    "ticker": "FCNCA",
    "exchange": "Nasdaq",
    "security": "preferred",
-   "amount_per_share": 1895.83,
+   "amount_per_share": 7.5,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-15",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-15 $1895.83",
+   "basis": "last confirmed 2026-12-15 $7.5",
    "source_url": ""
   },
   {
@@ -35986,6 +36601,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "Hancock Whitney Corporation",
+   "ticker": "HWC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.5",
    "source_url": ""
   },
   {
@@ -36285,7 +36915,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.625",
+   "basis": "last confirmed 2026-12-15 $0.625",
    "source_url": ""
   },
   {
@@ -37024,21 +37654,6 @@
    "source_url": ""
   },
   {
-   "company": "Red River Bancshares, Inc.",
-   "ticker": "RRBI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-17 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "Unity Bancorp, Inc.",
    "ticker": "UNTY",
    "exchange": "Nasdaq",
@@ -37564,6 +38179,21 @@
    "source_url": ""
   },
   {
+   "company": "Ridgepost Capital, Inc.",
+   "ticker": "TX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.04,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.04",
+   "source_url": ""
+  },
+  {
    "company": "Manulife Financial Corporation",
    "ticker": "MFC",
    "exchange": "TSX/NYSE/PSE",
@@ -37621,6 +38251,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-21 $0.05",
+   "source_url": ""
+  },
+  {
+   "company": "Knight-Swift Transportation Holdings Inc.",
+   "ticker": "KNX",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-21 $0.2",
    "source_url": ""
   },
   {
@@ -37786,21 +38431,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-23 $0.1875",
-   "source_url": ""
-  },
-  {
-   "company": "Jack Henry & Associates, Inc.",
-   "ticker": "JKHY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.61,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.61",
    "source_url": ""
   },
   {
@@ -38299,21 +38929,6 @@
    "source_url": ""
   },
   {
-   "company": "Ellington Financial Inc.",
-   "ticker": "EFC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.13,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.13",
-   "source_url": ""
-  },
-  {
    "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
    "ticker": "FOF",
    "exchange": "NYSE",
@@ -38401,6 +39016,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-29 $0.0475",
+   "source_url": ""
+  },
+  {
+   "company": "Krispy Kreme, Inc.",
+   "ticker": "KKI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.035,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-03-29 $0.035",
    "source_url": ""
   },
   {
@@ -38806,6 +39436,21 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.0631",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.46875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-28 $0.46875",
    "source_url": ""
   },
   {
@@ -39226,6 +39871,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.05268",
+   "source_url": ""
+  },
+  {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.13",
    "source_url": ""
   },
   {
@@ -39799,21 +40459,6 @@
    "source_url": ""
   },
   {
-   "company": "COUSINS PROPERTIES INCORPORATED",
-   "ticker": "CPT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.32,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.32",
-   "source_url": ""
-  },
-  {
    "company": "Diversified Energy",
    "ticker": "DEC",
    "exchange": "NYSE",
@@ -39844,18 +40489,33 @@
    "source_url": ""
   },
   {
-   "company": "Devon Energy Corporation",
-   "ticker": "DVN",
-   "exchange": "NYSE",
+   "company": "Enact Holdings, Inc.",
+   "ticker": "EHI",
+   "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.32,
+   "amount_per_share": 0.24,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-30",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-30 $0.32",
+   "basis": "last confirmed 2026-09-30 $0.24",
+   "source_url": ""
+  },
+  {
+   "company": "Eversource Energy",
+   "ticker": "ES",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.7875",
    "source_url": ""
   },
   {
@@ -40189,6 +40849,21 @@
    "source_url": ""
   },
   {
+   "company": "RED RIVER BANCSHARES, INC.",
+   "ticker": "RRBI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Redwood Trust, Inc.",
    "ticker": "RWT",
    "exchange": "NYSE",
@@ -40489,21 +41164,6 @@
    "source_url": ""
   },
   {
-   "company": "Banc of California, Inc.",
-   "ticker": "BANC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Booking Holdings Inc.",
    "ticker": "BKNG",
    "exchange": "Nasdaq",
@@ -40666,6 +41326,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.9",
+   "source_url": ""
+  },
+  {
+   "company": "DEVON ENERGY CORP",
+   "ticker": "DVN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.32",
    "source_url": ""
   },
   {
@@ -40921,21 +41596,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.3175",
-   "source_url": ""
-  },
-  {
-   "company": "Medical Properties Trust, Inc.",
-   "ticker": "MPT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.09",
    "source_url": ""
   },
   {
@@ -41509,6 +42169,21 @@
    "source_url": ""
   },
   {
+   "company": "AVNET, INC.",
+   "ticker": "AVT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.37,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-03 $0.37",
+   "source_url": ""
+  },
+  {
    "company": "LEAR CORP",
    "ticker": "LEAR",
    "exchange": "NYSE",
@@ -41554,6 +42229,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0066,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.0066",
+   "source_url": ""
+  },
+  {
    "company": "Albemarle Corporation",
    "ticker": "ALB",
    "exchange": "NYSE",
@@ -41566,6 +42256,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.41",
+   "source_url": ""
+  },
+  {
+   "company": "Banc of California, Inc.",
+   "ticker": "BANC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.12",
    "source_url": ""
   },
   {
@@ -41884,18 +42589,33 @@
    "source_url": ""
   },
   {
-   "company": "ATN International, Inc.",
-   "ticker": "ATNI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.29,
+   "company": "Invesco CurrencyShares Australian Dollar Trust",
+   "ticker": "FXA",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.08764,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-07",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-08 $0.29",
+   "basis": "last confirmed 2026-10-07 $0.08764",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco CurrencyShares ® British Pound Sterling Trust",
+   "ticker": "FXB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.2154,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.2154",
    "source_url": ""
   },
   {
@@ -42064,6 +42784,21 @@
    "source_url": ""
   },
   {
+   "company": "MEDICAL PROPERTIES TRUST, INC.",
+   "ticker": "MPT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "NXP Semiconductors",
    "ticker": "NXPI",
    "exchange": "Nasdaq",
@@ -42106,6 +42841,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-08 $0.46",
+   "source_url": ""
+  },
+  {
+   "company": "ATN International, Inc.",
+   "ticker": "ATNI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-09 $0.29",
    "source_url": ""
   },
   {
@@ -42499,21 +43249,6 @@
    "source_url": ""
   },
   {
-   "company": "Advanced Flower Capital Inc.",
-   "ticker": "AFCG",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.05,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.05",
-   "source_url": ""
-  },
-  {
    "company": "Apple Hospitality REIT, Inc.",
    "ticker": "APLE",
    "exchange": "NYSE",
@@ -42754,21 +43489,6 @@
    "source_url": ""
   },
   {
-   "company": "NewLake Capital Partners, Inc.",
-   "ticker": "NLCP",
-   "exchange": "OTC",
-   "security": "common",
-   "amount_per_share": 0.43,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.43",
-   "source_url": ""
-  },
-  {
    "company": "Omega Flex, Inc.",
    "ticker": "OFLX",
    "exchange": "Nasdaq",
@@ -42886,6 +43606,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "Advanced Flower Capital Inc.",
+   "ticker": "AFCG",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05",
    "source_url": ""
   },
   {
@@ -43039,6 +43774,21 @@
    "source_url": ""
   },
   {
+   "company": "CVB Financial Corp.",
+   "ticker": "CVB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.2",
+   "source_url": ""
+  },
+  {
    "company": "DYNEX CAPITAL, INC.",
    "ticker": "DX",
    "exchange": "NYSE",
@@ -43081,21 +43831,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.04",
-   "source_url": ""
-  },
-  {
-   "company": "Fulton Financial Corporation",
-   "ticker": "FULT",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.19",
    "source_url": ""
   },
   {
@@ -43279,6 +44014,21 @@
    "source_url": ""
   },
   {
+   "company": "NewLake Capital Partners, Inc.",
+   "ticker": "NLCP",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.43,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.43",
+   "source_url": ""
+  },
+  {
    "company": "NORTHROP GRUMMAN CORP",
    "ticker": "NOC",
    "exchange": "NYSE",
@@ -43381,21 +44131,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.177",
-   "source_url": ""
-  },
-  {
-   "company": "Sunstone Hotel Investors, Inc.",
-   "ticker": "SHO",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.35625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.35625",
    "source_url": ""
   },
   {
@@ -43594,6 +44329,21 @@
    "source_url": ""
   },
   {
+   "company": "CAMDEN PROPERTY TRUST",
+   "ticker": "CPT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $1.06",
+   "source_url": ""
+  },
+  {
    "company": "CARPENTER TECHNOLOGY CORPORATION",
    "ticker": "CRS",
    "exchange": "NYSE",
@@ -43628,14 +44378,14 @@
    "ticker": "FG",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.859375,
+   "amount_per_share": 0.8594,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-16",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2027-01-15 $0.859375",
+   "basis": "last confirmed 2027-01-15 $0.8594",
    "source_url": ""
   },
   {
@@ -43703,6 +44453,21 @@
    "ticker": "FVR",
    "exchange": "NYSE",
    "security": "common",
+   "amount_per_share": 0.215,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.215",
+   "source_url": ""
+  },
+  {
+   "company": "FrontView REIT, Inc.",
+   "ticker": "FVR",
+   "exchange": "NYSE",
+   "security": "OP Unit",
    "amount_per_share": 0.215,
    "currency": "USD",
    "record_date": "",
@@ -43969,6 +44734,51 @@
    "source_url": ""
   },
   {
+   "company": "Sunstone Hotel Investors, Inc.",
+   "ticker": "SHO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "Sunstone Hotel Investors, Inc.",
+   "ticker": "SHO",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.35625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.35625",
+   "source_url": ""
+  },
+  {
+   "company": "Sylvamo",
+   "ticker": "SLVM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.45",
+   "source_url": ""
+  },
+  {
    "company": "Sysco Corporation",
    "ticker": "SYY",
    "exchange": "NYSE",
@@ -44179,21 +44989,6 @@
    "source_url": ""
   },
   {
-   "company": "CoastalSouth Bancshares, Inc.",
-   "ticker": "COSO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.06,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-19 $0.06",
-   "source_url": ""
-  },
-  {
    "company": "Shoe Station Group, Inc.",
    "ticker": "SHOE",
    "exchange": "Nasdaq",
@@ -44371,6 +45166,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.42",
+   "source_url": ""
+  },
+  {
+   "company": "Gentex Corporation",
+   "ticker": "GNTX",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.12",
    "source_url": ""
   },
   {
@@ -44704,6 +45514,21 @@
    "source_url": ""
   },
   {
+   "company": "JACK HENRY & ASSOCIATES, INC.",
+   "ticker": "JKHY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.61,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.61",
+   "source_url": ""
+  },
+  {
    "company": "Medalist Diversified, Inc.",
    "ticker": "MDRR",
    "exchange": "Nasdaq",
@@ -44899,6 +45724,21 @@
    "source_url": ""
   },
   {
+   "company": "RGA",
+   "ticker": "RGA",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.98,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.98",
+   "source_url": ""
+  },
+  {
    "company": "TriNet",
    "ticker": "TNET",
    "exchange": "NYSE",
@@ -45031,21 +45871,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
-   "company": "Ellington Financial Inc.",
-   "ticker": "EFC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.13,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.13",
    "source_url": ""
   },
   {
@@ -45934,6 +46759,21 @@
    "source_url": ""
   },
   {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.13",
+   "source_url": ""
+  },
+  {
    "company": "Allspring Multi-Sector Income Fund",
    "ticker": "ERC",
    "exchange": "NYSE American",
@@ -46264,6 +47104,21 @@
    "source_url": ""
   },
   {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.5390625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.5390625",
+   "source_url": ""
+  },
+  {
    "company": "EOG Resources, Inc.",
    "ticker": "EOG",
    "exchange": "NYSE",
@@ -46294,6 +47149,21 @@
    "source_url": ""
   },
   {
+   "company": "Fulton Financial Corporation",
+   "ticker": "FULT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.19",
+   "source_url": ""
+  },
+  {
    "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
    "ticker": "HBB",
    "exchange": "NYSE",
@@ -46306,6 +47176,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.125",
+   "source_url": ""
+  },
+  {
+   "company": "Humana Inc.",
+   "ticker": "HUM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.885,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-29 $0.885",
    "source_url": ""
   },
   {
@@ -46350,7 +47235,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.45",
+   "basis": "last confirmed 2027-01-29 $0.45",
    "source_url": ""
   },
   {
@@ -46429,6 +47314,21 @@
    "source_url": ""
   },
   {
+   "company": "Watsco, Inc.",
+   "ticker": "WSO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 3.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $3.3",
+   "source_url": ""
+  },
+  {
    "company": "Chiron Real Estate Inc.",
    "ticker": "XRN",
    "exchange": "NYSE",
@@ -46456,21 +47356,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-31 $4.5",
-   "source_url": ""
-  },
-  {
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "ticker": "GABC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.31,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-01 $0.31",
    "source_url": ""
   },
   {
@@ -46639,6 +47524,21 @@
    "source_url": ""
   },
   {
+   "company": "California BanCorp",
+   "ticker": "BCAL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Bank of Hawaii Corporation",
    "ticker": "BOH",
    "exchange": "NYSE",
@@ -46740,7 +47640,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.15",
+   "basis": "last confirmed 2026-11-02 $0.15",
    "source_url": ""
   },
   {
@@ -46864,6 +47764,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0066,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.0066",
+   "source_url": ""
+  },
+  {
    "company": "CNB FINANCIAL CORP",
    "ticker": "CCNE",
    "exchange": "Nasdaq",
@@ -46876,6 +47791,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-04 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "GERMAN AMERICAN BANCORP, INC.",
+   "ticker": "GABC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-04 $0.31",
    "source_url": ""
   },
   {
@@ -48304,21 +49234,6 @@
    "source_url": ""
   },
   {
-   "company": "East West Bancorp, Inc.",
-   "ticker": "EWBC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.8,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-17 $0.8",
-   "source_url": ""
-  },
-  {
    "company": "First Merchants Corporation",
    "ticker": "FRMEP",
    "exchange": "NASDAQ",
@@ -48646,6 +49561,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-17 $0.01",
+   "source_url": ""
+  },
+  {
+   "company": "East West Bancorp, Inc.",
+   "ticker": "EWBC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.8,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-17 $0.8",
    "source_url": ""
   },
   {
@@ -49095,7 +50025,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-21 $0.12",
+   "basis": "last confirmed 2026-11-20 $0.12",
    "source_url": ""
   },
   {
@@ -49699,6 +50629,21 @@
    "source_url": ""
   },
   {
+   "company": "CoastalSouth Bancshares, Inc.",
+   "ticker": "COSO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.06",
+   "source_url": ""
+  },
+  {
    "company": "FB Financial Corporation",
    "ticker": "FBK",
    "exchange": "NYSE",
@@ -49774,21 +50719,6 @@
    "source_url": ""
   },
   {
-   "company": "Flowco Holdings",
-   "ticker": "TX",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "VERISIGN INC",
    "ticker": "VRSN",
    "exchange": "Nasdaq",
@@ -49819,6 +50749,21 @@
    "source_url": ""
   },
   {
+   "company": "PRINCETON BANCORP, INC.",
+   "ticker": "BPRN",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.4",
+   "source_url": ""
+  },
+  {
    "company": "Broadridge Financial Solutions, Inc.",
    "ticker": "BR",
    "exchange": "NYSE",
@@ -49846,6 +50791,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-25 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Capital Bancorp, Inc.",
+   "ticker": "CBNK",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.14",
    "source_url": ""
   },
   {
@@ -50251,21 +51211,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
-   "company": "Ellington Financial Inc.",
-   "ticker": "EFC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.13,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.13",
    "source_url": ""
   },
   {
@@ -51364,6 +52309,21 @@
    "source_url": ""
   },
   {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.13",
+   "source_url": ""
+  },
+  {
    "company": "Allspring Multi-Sector Income Fund",
    "ticker": "ERC",
    "exchange": "NYSE American",
@@ -51571,6 +52531,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.88",
+   "source_url": ""
+  },
+  {
+   "company": "APOLLO GLOBAL MANAGEMENT, INC.",
+   "ticker": "APO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.5625",
    "source_url": ""
   },
   {
@@ -52519,6 +53494,21 @@
    "source_url": ""
   },
   {
+   "company": "Home BancShares, Inc.",
+   "ticker": "HOMB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-02 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Helmerich & Payne, Inc.",
    "ticker": "HP",
    "exchange": "NYSE",
@@ -52759,6 +53749,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0066,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.0066",
+   "source_url": ""
+  },
+  {
    "company": "Jefferson Capital, Inc.",
    "ticker": "JCAP",
    "exchange": "Nasdaq",
@@ -52984,6 +53989,21 @@
    "source_url": ""
   },
   {
+   "company": "CONCENTRA GROUP HOLDINGS PARENT, INC.",
+   "ticker": "CON",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.0625",
+   "source_url": ""
+  },
+  {
    "company": "Del Monte Corporation",
    "ticker": "DMC",
    "exchange": "NYSE",
@@ -53101,6 +54121,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $2.0",
+   "source_url": ""
+  },
+  {
+   "company": "Primo Brands Corporation",
+   "ticker": "PRMB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.12",
    "source_url": ""
   },
   {
@@ -53356,21 +54391,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-08 $0.28",
-   "source_url": ""
-  },
-  {
-   "company": "Primo Brands Corporation",
-   "ticker": "PRMB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-07",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-08 $0.12",
    "source_url": ""
   },
   {
@@ -53671,6 +54691,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-10 $0.595",
+   "source_url": ""
+  },
+  {
+   "company": "Essent Group Ltd.",
+   "ticker": "ESNT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.35",
    "source_url": ""
   },
   {
@@ -54038,14 +55073,14 @@
    "ticker": "FBP",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.2,
+   "amount_per_share": 0.25,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-10",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-11 $0.2",
+   "basis": "last confirmed 2026-12-11 $0.25",
    "source_url": ""
   },
   {
@@ -55039,18 +56074,18 @@
    "source_url": ""
   },
   {
-   "company": "First Citizens BancShares, Inc.",
+   "company": "FIRST CITIZENS BANCSHARES INC",
    "ticker": "FCNCA",
    "exchange": "Nasdaq",
    "security": "preferred",
-   "amount_per_share": 1895.83,
+   "amount_per_share": 7.5,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-15 $1895.83",
+   "basis": "last confirmed 2026-12-15 $7.5",
    "source_url": ""
   },
   {
@@ -55141,6 +56176,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "Hancock Whitney Corporation",
+   "ticker": "HWC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-15 $0.5",
    "source_url": ""
   },
   {
@@ -55440,7 +56490,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.625",
+   "basis": "last confirmed 2026-12-15 $0.625",
    "source_url": ""
   },
   {
@@ -56239,21 +57289,6 @@
    "source_url": ""
   },
   {
-   "company": "Red River Bancshares, Inc.",
-   "ticker": "RRBI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-17 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "Thornburg Income Builder Opportunities Trust",
    "ticker": "TBLD",
    "exchange": "NASDAQ",
@@ -56674,6 +57709,21 @@
    "source_url": ""
   },
   {
+   "company": "Ridgepost Capital, Inc.",
+   "ticker": "TX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.04,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.04",
+   "source_url": ""
+  },
+  {
    "company": "Manulife Financial Corporation",
    "ticker": "MFC",
    "exchange": "TSX/NYSE/PSE",
@@ -56731,6 +57781,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-21 $0.05",
+   "source_url": ""
+  },
+  {
+   "company": "Knight-Swift Transportation Holdings Inc.",
+   "ticker": "KNX",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-21 $0.2",
    "source_url": ""
   },
   {
@@ -56911,21 +57976,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-23 $0.1875",
-   "source_url": ""
-  },
-  {
-   "company": "Jack Henry & Associates, Inc.",
-   "ticker": "JKHY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.61,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.61",
    "source_url": ""
   },
   {
@@ -57409,21 +58459,6 @@
    "source_url": ""
   },
   {
-   "company": "Ellington Financial Inc.",
-   "ticker": "EFC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.13,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.13",
-   "source_url": ""
-  },
-  {
    "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
    "ticker": "FOF",
    "exchange": "NYSE",
@@ -57859,6 +58894,21 @@
    "source_url": ""
   },
   {
+   "company": "Krispy Kreme, Inc.",
+   "ticker": "KKI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.035,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-03-29 $0.035",
+   "source_url": ""
+  },
+  {
    "company": "MACKENZIE REALTY CAPITAL, INC.",
    "ticker": "MKZR",
    "exchange": "Nasdaq",
@@ -58204,6 +59254,21 @@
    "source_url": ""
   },
   {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.13",
+   "source_url": ""
+  },
+  {
    "company": "Allspring Multi-Sector Income Fund",
    "ticker": "ERC",
    "exchange": "NYSE American",
@@ -58306,6 +59371,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-29 $0.296875",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.46875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-28 $0.46875",
    "source_url": ""
   },
   {
@@ -58894,21 +59974,6 @@
    "source_url": ""
   },
   {
-   "company": "COUSINS PROPERTIES INCORPORATED",
-   "ticker": "CPT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.32,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.32",
-   "source_url": ""
-  },
-  {
    "company": "Diversified Energy",
    "ticker": "DEC",
    "exchange": "NYSE",
@@ -58939,18 +60004,33 @@
    "source_url": ""
   },
   {
-   "company": "Devon Energy Corporation",
-   "ticker": "DVN",
-   "exchange": "NYSE",
+   "company": "Enact Holdings, Inc.",
+   "ticker": "EHI",
+   "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.32,
+   "amount_per_share": 0.24,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-29",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-12-30 $0.32",
+   "basis": "last confirmed 2026-09-30 $0.24",
+   "source_url": ""
+  },
+  {
+   "company": "Eversource Energy",
+   "ticker": "ES",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.7875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.7875",
    "source_url": ""
   },
   {
@@ -59254,6 +60334,21 @@
    "source_url": ""
   },
   {
+   "company": "RED RIVER BANCSHARES, INC.",
+   "ticker": "RRBI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Redwood Trust, Inc.",
    "ticker": "RWT",
    "exchange": "NYSE",
@@ -59554,21 +60649,6 @@
    "source_url": ""
   },
   {
-   "company": "Banc of California, Inc.",
-   "ticker": "BANC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Booking Holdings Inc.",
    "ticker": "BKNG",
    "exchange": "Nasdaq",
@@ -59731,6 +60811,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.9",
+   "source_url": ""
+  },
+  {
+   "company": "DEVON ENERGY CORP",
+   "ticker": "DVN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.32",
    "source_url": ""
   },
   {
@@ -60001,21 +61096,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.3175",
-   "source_url": ""
-  },
-  {
-   "company": "Medical Properties Trust, Inc.",
-   "ticker": "MPT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.09",
    "source_url": ""
   },
   {
@@ -60559,6 +61639,21 @@
    "source_url": ""
   },
   {
+   "company": "AVNET, INC.",
+   "ticker": "AVT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.37,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-03 $0.37",
+   "source_url": ""
+  },
+  {
    "company": "Bluerock Homes Trust, Inc.",
    "ticker": "BHM",
    "exchange": "NYSE American",
@@ -60571,6 +61666,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.15625",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0066,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.0066",
    "source_url": ""
   },
   {
@@ -60616,6 +61726,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.41",
+   "source_url": ""
+  },
+  {
+   "company": "Banc of California, Inc.",
+   "ticker": "BANC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.12",
    "source_url": ""
   },
   {
@@ -60964,18 +62089,33 @@
    "source_url": ""
   },
   {
-   "company": "ATN International, Inc.",
-   "ticker": "ATNI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.29,
+   "company": "Invesco CurrencyShares Australian Dollar Trust",
+   "ticker": "FXA",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.08764,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-10-06",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-08 $0.29",
+   "basis": "last confirmed 2026-10-07 $0.08764",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco CurrencyShares ® British Pound Sterling Trust",
+   "ticker": "FXB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.2154,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.2154",
    "source_url": ""
   },
   {
@@ -61114,6 +62254,21 @@
    "source_url": ""
   },
   {
+   "company": "MEDICAL PROPERTIES TRUST, INC.",
+   "ticker": "MPT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-08 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "NXP Semiconductors",
    "ticker": "NXPI",
    "exchange": "Nasdaq",
@@ -61156,6 +62311,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-08 $0.46",
+   "source_url": ""
+  },
+  {
+   "company": "ATN International, Inc.",
+   "ticker": "ATNI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-09 $0.29",
    "source_url": ""
   },
   {
@@ -61699,21 +62869,6 @@
    "source_url": ""
   },
   {
-   "company": "Advanced Flower Capital Inc.",
-   "ticker": "AFCG",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.05,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.05",
-   "source_url": ""
-  },
-  {
    "company": "BrightSpire Capital, Inc.",
    "ticker": "BRSP",
    "exchange": "NYSE",
@@ -61849,21 +63004,6 @@
    "source_url": ""
   },
   {
-   "company": "NewLake Capital Partners, Inc.",
-   "ticker": "NLCP",
-   "exchange": "OTC",
-   "security": "common",
-   "amount_per_share": 0.43,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.43",
-   "source_url": ""
-  },
-  {
    "company": "Omega Flex, Inc.",
    "ticker": "OFLX",
    "exchange": "Nasdaq",
@@ -61951,6 +63091,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "Advanced Flower Capital Inc.",
+   "ticker": "AFCG",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.05",
    "source_url": ""
   },
   {
@@ -62104,6 +63259,21 @@
    "source_url": ""
   },
   {
+   "company": "CVB Financial Corp.",
+   "ticker": "CVB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.2",
+   "source_url": ""
+  },
+  {
    "company": "DYNEX CAPITAL, INC.",
    "ticker": "DX",
    "exchange": "NYSE",
@@ -62146,21 +63316,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.04",
-   "source_url": ""
-  },
-  {
-   "company": "Fulton Financial Corporation",
-   "ticker": "FULT",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.19",
    "source_url": ""
   },
   {
@@ -62329,6 +63484,21 @@
    "source_url": ""
   },
   {
+   "company": "NewLake Capital Partners, Inc.",
+   "ticker": "NLCP",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.43,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-15 $0.43",
+   "source_url": ""
+  },
+  {
    "company": "NORTHROP GRUMMAN CORP",
    "ticker": "NOC",
    "exchange": "NYSE",
@@ -62431,21 +63601,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.177",
-   "source_url": ""
-  },
-  {
-   "company": "Sunstone Hotel Investors, Inc.",
-   "ticker": "SHO",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.35625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.35625",
    "source_url": ""
   },
   {
@@ -62659,6 +63814,21 @@
    "source_url": ""
   },
   {
+   "company": "CAMDEN PROPERTY TRUST",
+   "ticker": "CPT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $1.06",
+   "source_url": ""
+  },
+  {
    "company": "CARPENTER TECHNOLOGY CORPORATION",
    "ticker": "CRS",
    "exchange": "NYSE",
@@ -62693,14 +63863,14 @@
    "ticker": "FG",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.859375,
+   "amount_per_share": 0.8594,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-10-15",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2027-01-15 $0.859375",
+   "basis": "last confirmed 2027-01-15 $0.8594",
    "source_url": ""
   },
   {
@@ -62768,6 +63938,21 @@
    "ticker": "FVR",
    "exchange": "NYSE",
    "security": "common",
+   "amount_per_share": 0.215,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.215",
+   "source_url": ""
+  },
+  {
+   "company": "FrontView REIT, Inc.",
+   "ticker": "FVR",
+   "exchange": "NYSE",
+   "security": "OP Unit",
    "amount_per_share": 0.215,
    "currency": "USD",
    "record_date": "",
@@ -63034,6 +64219,51 @@
    "source_url": ""
   },
   {
+   "company": "Sunstone Hotel Investors, Inc.",
+   "ticker": "SHO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "Sunstone Hotel Investors, Inc.",
+   "ticker": "SHO",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.35625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.35625",
+   "source_url": ""
+  },
+  {
+   "company": "Sylvamo",
+   "ticker": "SLVM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-16 $0.45",
+   "source_url": ""
+  },
+  {
    "company": "Sysco Corporation",
    "ticker": "SYY",
    "exchange": "NYSE",
@@ -63229,21 +64459,6 @@
    "source_url": ""
   },
   {
-   "company": "CoastalSouth Bancshares, Inc.",
-   "ticker": "COSO",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.06,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-18",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-19 $0.06",
-   "source_url": ""
-  },
-  {
    "company": "SARATOGA INVESTMENT CORP.",
    "ticker": "SAR",
    "exchange": "NYSE",
@@ -63421,6 +64636,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.42",
+   "source_url": ""
+  },
+  {
+   "company": "Gentex Corporation",
+   "ticker": "GNTX",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.12",
    "source_url": ""
   },
   {
@@ -63784,6 +65014,21 @@
    "source_url": ""
   },
   {
+   "company": "JACK HENRY & ASSOCIATES, INC.",
+   "ticker": "JKHY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.61,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-23 $0.61",
+   "source_url": ""
+  },
+  {
    "company": "Medalist Diversified, Inc.",
    "ticker": "MDRR",
    "exchange": "Nasdaq",
@@ -63991,21 +65236,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
-   "company": "Ellington Financial Inc.",
-   "ticker": "EFC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.13,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.13",
    "source_url": ""
   },
   {
@@ -64246,6 +65476,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "RGA",
+   "ticker": "RGA",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.98,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-26 $0.98",
    "source_url": ""
   },
   {
@@ -64954,6 +66199,21 @@
    "source_url": ""
   },
   {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $0.13",
+   "source_url": ""
+  },
+  {
    "company": "Allspring Multi-Sector Income Fund",
    "ticker": "ERC",
    "exchange": "NYSE American",
@@ -65374,6 +66634,21 @@
    "source_url": ""
   },
   {
+   "company": "Ellington Financial Inc.",
+   "ticker": "EFC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.5390625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.5390625",
+   "source_url": ""
+  },
+  {
    "company": "EOG Resources, Inc.",
    "ticker": "EOG",
    "exchange": "NYSE",
@@ -65389,6 +66664,21 @@
    "source_url": ""
   },
   {
+   "company": "Fulton Financial Corporation",
+   "ticker": "FULT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $0.19",
+   "source_url": ""
+  },
+  {
    "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
    "ticker": "HBB",
    "exchange": "NYSE",
@@ -65401,6 +66691,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.125",
+   "source_url": ""
+  },
+  {
+   "company": "Humana Inc.",
+   "ticker": "HUM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.885,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-29 $0.885",
    "source_url": ""
   },
   {
@@ -65445,7 +66750,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.45",
+   "basis": "last confirmed 2027-01-29 $0.45",
    "source_url": ""
   },
   {
@@ -65524,6 +66829,21 @@
    "source_url": ""
   },
   {
+   "company": "Watsco, Inc.",
+   "ticker": "WSO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 3.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-30 $3.3",
+   "source_url": ""
+  },
+  {
    "company": "Chiron Real Estate Inc.",
    "ticker": "XRN",
    "exchange": "NYSE",
@@ -65551,21 +66871,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-31 $4.5",
-   "source_url": ""
-  },
-  {
-   "company": "GERMAN AMERICAN BANCORP, INC.",
-   "ticker": "GABC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.31,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-01 $0.31",
    "source_url": ""
   },
   {
@@ -65719,6 +67024,21 @@
    "source_url": ""
   },
   {
+   "company": "California BanCorp",
+   "ticker": "BCAL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Bluerock Homes Trust, Inc.",
    "ticker": "BHM",
    "exchange": "NYSE American",
@@ -65835,7 +67155,22 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-03 $0.15",
+   "basis": "last confirmed 2026-11-02 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco CurrencyShares Canadian Dollar Trust",
+   "ticker": "FXC",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0066,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-07 $0.0066",
    "source_url": ""
   },
   {
@@ -65956,6 +67291,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-04 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "GERMAN AMERICAN BANCORP, INC.",
+   "ticker": "GABC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.31,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-04 $0.31",
    "source_url": ""
   },
   {
