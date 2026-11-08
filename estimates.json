@@ -1,23 +1,8 @@
 {
- "updatedAt": "2026-11-08 06:17",
+ "updatedAt": "2026-11-08 09:44",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4510,
+ "count": 4536,
  "items": [
-  {
-   "company": "Delek US Holdings, Inc.",
-   "ticker": "DK",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.255",
-   "source_url": ""
-  },
   {
    "company": "KADANT INC.",
    "ticker": "KAI",
@@ -121,21 +106,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-17 $0.475",
-   "source_url": ""
-  },
-  {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-17",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
    "source_url": ""
   },
   {
@@ -979,6 +949,21 @@
    "source_url": ""
   },
   {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.1668,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-06",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1668",
+   "source_url": ""
+  },
+  {
    "company": "Invesco CurrencyShares Canadian Dollar Trust",
    "ticker": "FXC",
    "exchange": "NYSE",
@@ -1714,6 +1699,21 @@
    "source_url": ""
   },
   {
+   "company": "TPG Mortgage Investment Trust, Inc.",
+   "ticker": "MITT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.983129,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $1.983129",
+   "source_url": ""
+  },
+  {
    "company": "RB Global, Inc.",
    "ticker": "RBA",
    "exchange": "New York Stock Exchange",
@@ -1756,21 +1756,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-17 $0.17",
-   "source_url": ""
-  },
-  {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-17",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
    "source_url": ""
   },
   {
@@ -2371,21 +2356,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-29 $1.09",
-   "source_url": ""
-  },
-  {
-   "company": "Hudson Pacific Properties, Inc.",
-   "ticker": "HPP",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.296875,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-28",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-29 $0.296875",
    "source_url": ""
   },
   {
@@ -3289,6 +3259,21 @@
    "source_url": ""
   },
   {
+   "company": "Hudson Pacific Properties, Inc.",
+   "ticker": "HPP",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.296875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.296875",
+   "source_url": ""
+  },
+  {
    "company": "John Hancock Preferred Income Fund III",
    "ticker": "HPS",
    "exchange": "NYSE",
@@ -3436,21 +3421,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.132",
-   "source_url": ""
-  },
-  {
-   "company": "NewtekOne, Inc.",
-   "ticker": "NEWT",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 21.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $21.25",
    "source_url": ""
   },
   {
@@ -4265,6 +4235,21 @@
   },
   {
    "company": "NewtekOne, Inc.",
+   "ticker": "NEWT",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 21.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $21.25",
+   "source_url": ""
+  },
+  {
+   "company": "NewtekOne, Inc.",
    "ticker": "NEWTP",
    "exchange": "NASDAQ",
    "security": "preferred",
@@ -4576,6 +4561,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-06 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.1668,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1668",
    "source_url": ""
   },
   {
@@ -6034,21 +6034,6 @@
    "source_url": ""
   },
   {
-   "company": "HA Sustainable Infrastructure Capital, Inc.",
-   "ticker": "HASI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-16 $0.425",
-   "source_url": ""
-  },
-  {
    "company": "Intuit Inc.",
    "ticker": "INTU",
    "exchange": "Nasdaq",
@@ -6241,21 +6226,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.23",
-   "source_url": ""
-  },
-  {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-16",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
    "source_url": ""
   },
   {
@@ -7935,7 +7905,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.24",
+   "basis": "last confirmed 2026-10-30 $0.24",
    "source_url": ""
   },
   {
@@ -8085,7 +8055,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $1.63",
+   "basis": "last confirmed 2026-10-30 $1.63",
    "source_url": ""
   },
   {
@@ -8311,21 +8281,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $3.3",
-   "source_url": ""
-  },
-  {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.5",
    "source_url": ""
   },
   {
@@ -8854,6 +8809,21 @@
    "source_url": ""
   },
   {
+   "company": "Company",
+   "ticker": "XRN",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.46875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.46875",
+   "source_url": ""
+  },
+  {
    "company": "BANKUNITED, INC.",
    "ticker": "BKU",
    "exchange": "NYSE",
@@ -8971,6 +8941,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.15625",
+   "source_url": ""
+  },
+  {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.1668,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1668",
    "source_url": ""
   },
   {
@@ -9166,21 +9151,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-09 $0.27",
-   "source_url": ""
-  },
-  {
-   "company": "Delek US Holdings, Inc.",
-   "ticker": "DK",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-08",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.255",
    "source_url": ""
   },
   {
@@ -10459,21 +10429,6 @@
    "source_url": ""
   },
   {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
-   "source_url": ""
-  },
-  {
    "company": "Byline Bancorp, Inc.",
    "ticker": "BY",
    "exchange": "NYSE",
@@ -10621,6 +10576,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-18 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Delek US Holdings, Inc.",
+   "ticker": "DK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-18 $0.3",
    "source_url": ""
   },
   {
@@ -11359,6 +11329,21 @@
    "source_url": ""
   },
   {
+   "company": "The Carlyle Group Inc.",
+   "ticker": "CG",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.35",
+   "source_url": ""
+  },
+  {
    "company": "CVR Partners",
    "ticker": "CVI",
    "exchange": "NYSE",
@@ -11596,6 +11581,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-23 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Ubiquiti Inc.",
+   "ticker": "UI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $1.0",
    "source_url": ""
   },
   {
@@ -11881,6 +11881,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-25 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "JBG SMITH PROPERTIES",
+   "ticker": "JBGS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.175",
    "source_url": ""
   },
   {
@@ -13534,6 +13549,21 @@
    "source_url": ""
   },
   {
+   "company": "Summit Hotel Properties, Inc.",
+   "ticker": "INN",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.328125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.328125",
+   "source_url": ""
+  },
+  {
    "company": "Lithia Motors, Inc.",
    "ticker": "LAD",
    "exchange": "NYSE",
@@ -13846,6 +13876,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "A10 Networks, Inc.",
+   "ticker": "ATEN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.06",
    "source_url": ""
   },
   {
@@ -15181,6 +15226,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.15625",
+   "source_url": ""
+  },
+  {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.1668,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-06",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1668",
    "source_url": ""
   },
   {
@@ -17944,21 +18004,6 @@
    "source_url": ""
   },
   {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-17",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
-   "source_url": ""
-  },
-  {
    "company": "iShares Core Dividend Growth ETF",
    "ticker": "DGRO",
    "exchange": "NYSE ARCA",
@@ -18046,6 +18091,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-18 $1.995653",
+   "source_url": ""
+  },
+  {
+   "company": "TPG Mortgage Investment Trust, Inc.",
+   "ticker": "MITT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.983129,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $1.983129",
    "source_url": ""
   },
   {
@@ -18499,6 +18559,36 @@
    "source_url": ""
   },
   {
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "ticker": "SEI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "ticker": "SEI",
+   "exchange": "NYSE",
+   "security": "other",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Molson Coors Beverage Company",
    "ticker": "TAP",
    "exchange": "NYSE",
@@ -18526,6 +18616,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Company",
+   "ticker": "XRN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.16,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.16",
    "source_url": ""
   },
   {
@@ -19471,21 +19576,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.15",
-   "source_url": ""
-  },
-  {
-   "company": "Hudson Pacific Properties, Inc.",
-   "ticker": "HPP",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.296875,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-29 $0.296875",
    "source_url": ""
   },
   {
@@ -20974,6 +21064,21 @@
    "source_url": ""
   },
   {
+   "company": "Hudson Pacific Properties, Inc.",
+   "ticker": "HPP",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.296875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.296875",
+   "source_url": ""
+  },
+  {
    "company": "Insteel Industries Inc.",
    "ticker": "IIIN",
    "exchange": "NYSE",
@@ -21061,21 +21166,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $4.75",
-   "source_url": ""
-  },
-  {
-   "company": "NewtekOne, Inc.",
-   "ticker": "NEWT",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 21.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $21.25",
    "source_url": ""
   },
   {
@@ -22040,6 +22130,21 @@
   },
   {
    "company": "NewtekOne, Inc.",
+   "ticker": "NEWT",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 21.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $21.25",
+   "source_url": ""
+  },
+  {
+   "company": "NewtekOne, Inc.",
    "ticker": "NEWTP",
    "exchange": "NASDAQ",
    "security": "preferred",
@@ -22669,6 +22774,21 @@
    "source_url": ""
   },
   {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.1668,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1668",
+   "source_url": ""
+  },
+  {
    "company": "First Horizon Corporation",
    "ticker": "FHN",
    "exchange": "NYSE",
@@ -23266,6 +23386,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-10 $0.20833",
+   "source_url": ""
+  },
+  {
+   "company": "HA SUSTAINABLE INFRASTRUCTURE CAPITAL, INC.",
+   "ticker": "HASI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-08 $0.425",
    "source_url": ""
   },
   {
@@ -24874,21 +25009,6 @@
    "source_url": ""
   },
   {
-   "company": "HA Sustainable Infrastructure Capital, Inc.",
-   "ticker": "HASI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-16 $0.425",
-   "source_url": ""
-  },
-  {
    "company": "Huntington Bancshares Incorporated",
    "ticker": "HBAN",
    "exchange": "Nasdaq",
@@ -25216,21 +25336,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.23",
-   "source_url": ""
-  },
-  {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-16",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
    "source_url": ""
   },
   {
@@ -27525,7 +27630,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.24",
+   "basis": "last confirmed 2026-10-30 $0.24",
    "source_url": ""
   },
   {
@@ -27585,7 +27690,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $1.63",
+   "basis": "last confirmed 2026-10-30 $1.63",
    "source_url": ""
   },
   {
@@ -27676,21 +27781,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $3.3",
-   "source_url": ""
-  },
-  {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.5",
    "source_url": ""
   },
   {
@@ -28099,6 +28189,21 @@
    "source_url": ""
   },
   {
+   "company": "Company",
+   "ticker": "XRN",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.46875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.46875",
+   "source_url": ""
+  },
+  {
    "company": "BANKUNITED, INC.",
    "ticker": "BKU",
    "exchange": "NYSE",
@@ -28141,6 +28246,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.15625",
+   "source_url": ""
+  },
+  {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.1668,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1668",
    "source_url": ""
   },
   {
@@ -28426,21 +28546,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-09 $0.27",
-   "source_url": ""
-  },
-  {
-   "company": "Delek US Holdings, Inc.",
-   "ticker": "DK",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-10",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.255",
    "source_url": ""
   },
   {
@@ -29554,21 +29659,6 @@
    "source_url": ""
   },
   {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-16",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
-   "source_url": ""
-  },
-  {
    "company": "Apple",
    "ticker": "AAPL",
    "exchange": "Nasdaq",
@@ -30076,6 +30166,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-21 $0.135",
+   "source_url": ""
+  },
+  {
+   "company": "Delek US Holdings, Inc.",
+   "ticker": "DK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-18 $0.3",
    "source_url": ""
   },
   {
@@ -30739,6 +30844,21 @@
    "source_url": ""
   },
   {
+   "company": "The Carlyle Group Inc.",
+   "ticker": "CG",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.35",
+   "source_url": ""
+  },
+  {
    "company": "CVR Partners",
    "ticker": "CVI",
    "exchange": "NYSE",
@@ -30961,6 +31081,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-23 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Ubiquiti Inc.",
+   "ticker": "UI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $1.0",
    "source_url": ""
   },
   {
@@ -31306,6 +31441,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-25 $0.94",
+   "source_url": ""
+  },
+  {
+   "company": "JBG SMITH PROPERTIES",
+   "ticker": "JBGS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-26",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.175",
    "source_url": ""
   },
   {
@@ -33034,6 +33184,21 @@
    "source_url": ""
   },
   {
+   "company": "Summit Hotel Properties, Inc.",
+   "ticker": "INN",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.328125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.328125",
+   "source_url": ""
+  },
+  {
    "company": "Lithia Motors, Inc.",
    "ticker": "LAD",
    "exchange": "NYSE",
@@ -33271,6 +33436,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "A10 Networks, Inc.",
+   "ticker": "ATEN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.06",
    "source_url": ""
   },
   {
@@ -34351,6 +34531,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.1668,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1668",
    "source_url": ""
   },
   {
@@ -37294,21 +37489,6 @@
    "source_url": ""
   },
   {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
-   "source_url": ""
-  },
-  {
    "company": "Amcor",
    "ticker": "AMCR",
    "exchange": "NYSE",
@@ -37591,6 +37771,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-18 $1.995653",
+   "source_url": ""
+  },
+  {
+   "company": "TPG Mortgage Investment Trust, Inc.",
+   "ticker": "MITT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.983129,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $1.983129",
    "source_url": ""
   },
   {
@@ -38149,6 +38344,36 @@
    "source_url": ""
   },
   {
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "ticker": "SEI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "ticker": "SEI",
+   "exchange": "NYSE",
+   "security": "other",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Molson Coors Beverage Company",
    "ticker": "TAP",
    "exchange": "NYSE",
@@ -38191,6 +38416,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Company",
+   "ticker": "XRN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.16,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.16",
    "source_url": ""
   },
   {
@@ -39361,21 +39601,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1235",
-   "source_url": ""
-  },
-  {
-   "company": "Hudson Pacific Properties, Inc.",
-   "ticker": "HPP",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.296875,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-28",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-29 $0.296875",
    "source_url": ""
   },
   {
@@ -40669,6 +40894,21 @@
    "source_url": ""
   },
   {
+   "company": "Hudson Pacific Properties, Inc.",
+   "ticker": "HPP",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.296875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.296875",
+   "source_url": ""
+  },
+  {
    "company": "Insteel Industries Inc.",
    "ticker": "IIIN",
    "exchange": "NYSE",
@@ -40756,21 +40996,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.1",
-   "source_url": ""
-  },
-  {
-   "company": "NewtekOne, Inc.",
-   "ticker": "NEWT",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 21.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $21.25",
    "source_url": ""
   },
   {
@@ -41660,6 +41885,21 @@
   },
   {
    "company": "NewtekOne, Inc.",
+   "ticker": "NEWT",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 21.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $21.25",
+   "source_url": ""
+  },
+  {
+   "company": "NewtekOne, Inc.",
    "ticker": "NEWTP",
    "exchange": "NASDAQ",
    "security": "preferred",
@@ -42226,6 +42466,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.15625",
+   "source_url": ""
+  },
+  {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.1668,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1668",
    "source_url": ""
   },
   {
@@ -42886,6 +43141,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-08 $0.5425",
+   "source_url": ""
+  },
+  {
+   "company": "HA SUSTAINABLE INFRASTRUCTURE CAPITAL, INC.",
+   "ticker": "HASI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-08 $0.425",
    "source_url": ""
   },
   {
@@ -44269,21 +44539,6 @@
    "source_url": ""
   },
   {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
-   "source_url": ""
-  },
-  {
    "company": "Brixmor Property Group Inc.",
    "ticker": "BRX",
    "exchange": "NYSE",
@@ -44506,21 +44761,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $1.0625",
-   "source_url": ""
-  },
-  {
-   "company": "HA Sustainable Infrastructure Capital, Inc.",
-   "ticker": "HASI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-16 $0.425",
    "source_url": ""
   },
   {
@@ -47220,7 +47460,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.24",
+   "basis": "last confirmed 2026-10-30 $0.24",
    "source_url": ""
   },
   {
@@ -47265,7 +47505,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $1.63",
+   "basis": "last confirmed 2026-10-30 $1.63",
    "source_url": ""
   },
   {
@@ -47326,21 +47566,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $3.3",
-   "source_url": ""
-  },
-  {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.5",
    "source_url": ""
   },
   {
@@ -47719,6 +47944,21 @@
    "source_url": ""
   },
   {
+   "company": "Company",
+   "ticker": "XRN",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.46875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.46875",
+   "source_url": ""
+  },
+  {
    "company": "Bluerock Homes Trust, Inc.",
    "ticker": "BHM",
    "exchange": "NYSE American",
@@ -47746,6 +47986,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-03 $0.33",
+   "source_url": ""
+  },
+  {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.1668,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1668",
    "source_url": ""
   },
   {
@@ -48061,21 +48316,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-09 $0.27",
-   "source_url": ""
-  },
-  {
-   "company": "Delek US Holdings, Inc.",
-   "ticker": "DK",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-10 $0.255",
    "source_url": ""
   },
   {
@@ -49099,21 +49339,6 @@
    "source_url": ""
   },
   {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
-   "source_url": ""
-  },
-  {
    "company": "Ally Financial",
    "ticker": "ALLY",
    "exchange": "NYSE",
@@ -49696,6 +49921,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-18 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Delek US Holdings, Inc.",
+   "ticker": "DK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-18 $0.3",
    "source_url": ""
   },
   {
@@ -50344,6 +50584,21 @@
    "source_url": ""
   },
   {
+   "company": "The Carlyle Group Inc.",
+   "ticker": "CG",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.35,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $0.35",
+   "source_url": ""
+  },
+  {
    "company": "CION Investment Corporation",
    "ticker": "CION",
    "exchange": "NYSE",
@@ -50581,6 +50836,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-23 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Ubiquiti Inc.",
+   "ticker": "UI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-23 $1.0",
    "source_url": ""
   },
   {
@@ -50911,6 +51181,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-25 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "JBG SMITH PROPERTIES",
+   "ticker": "JBGS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-25 $0.175",
    "source_url": ""
   },
   {
@@ -52624,6 +52909,21 @@
    "source_url": ""
   },
   {
+   "company": "Summit Hotel Properties, Inc.",
+   "ticker": "INN",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.328125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.328125",
+   "source_url": ""
+  },
+  {
    "company": "Lithia Motors, Inc.",
    "ticker": "LAD",
    "exchange": "NYSE",
@@ -52861,6 +53161,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "A10 Networks, Inc.",
+   "ticker": "ATEN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.06",
    "source_url": ""
   },
   {
@@ -53656,6 +53971,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-03 $0.78",
+   "source_url": ""
+  },
+  {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.1668,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1668",
    "source_url": ""
   },
   {
@@ -55609,21 +55939,6 @@
    "source_url": ""
   },
   {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
-   "source_url": ""
-  },
-  {
    "company": "Associated Banc-Corp",
    "ticker": "ABC",
    "exchange": "NYSE",
@@ -57229,6 +57544,21 @@
    "source_url": ""
   },
   {
+   "company": "TPG Mortgage Investment Trust, Inc.",
+   "ticker": "MITT",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.983129,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-17 $1.983129",
+   "source_url": ""
+  },
+  {
    "company": "Qualcomm Incorporated",
    "ticker": "QCOM",
    "exchange": "NASDAQ",
@@ -57694,6 +58024,36 @@
    "source_url": ""
   },
   {
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "ticker": "SEI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "ticker": "SEI",
+   "exchange": "NYSE",
+   "security": "other",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Molson Coors Beverage Company",
    "ticker": "TAP",
    "exchange": "NYSE",
@@ -57721,6 +58081,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Company",
+   "ticker": "XRN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.16,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.16",
    "source_url": ""
   },
   {
@@ -59359,21 +59734,6 @@
    "source_url": ""
   },
   {
-   "company": "Hudson Pacific Properties, Inc.",
-   "ticker": "HPP",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.296875,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-27",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-29 $0.296875",
-   "source_url": ""
-  },
-  {
    "company": "Invesco Mortgage Capital Inc.",
    "ticker": "IVR",
    "exchange": "NYSE",
@@ -60169,6 +60529,21 @@
    "source_url": ""
   },
   {
+   "company": "Hudson Pacific Properties, Inc.",
+   "ticker": "HPP",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.296875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-09-30 $0.296875",
+   "source_url": ""
+  },
+  {
    "company": "Insteel Industries Inc.",
    "ticker": "IIIN",
    "exchange": "NYSE",
@@ -60241,21 +60616,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $4.75",
-   "source_url": ""
-  },
-  {
-   "company": "NewtekOne, Inc.",
-   "ticker": "NEWT",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 21.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-01 $21.25",
    "source_url": ""
   },
   {
@@ -61160,6 +61520,21 @@
   },
   {
    "company": "NewtekOne, Inc.",
+   "ticker": "NEWT",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 21.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $21.25",
+   "source_url": ""
+  },
+  {
+   "company": "NewtekOne, Inc.",
    "ticker": "NEWTP",
    "exchange": "NASDAQ",
    "security": "preferred",
@@ -61666,6 +62041,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.15625",
+   "source_url": ""
+  },
+  {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.1668,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1668",
    "source_url": ""
   },
   {
@@ -62359,6 +62749,21 @@
    "source_url": ""
   },
   {
+   "company": "HA SUSTAINABLE INFRASTRUCTURE CAPITAL, INC.",
+   "ticker": "HASI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-08 $0.425",
+   "source_url": ""
+  },
+  {
    "company": "ICF",
    "ticker": "ICFI",
    "exchange": "NASDAQ",
@@ -63046,21 +63451,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.3",
-   "source_url": ""
-  },
-  {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.16,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.16",
    "source_url": ""
   },
   {
@@ -63991,21 +64381,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $1.0625",
-   "source_url": ""
-  },
-  {
-   "company": "HA Sustainable Infrastructure Capital, Inc.",
-   "ticker": "HASI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-16 $0.425",
    "source_url": ""
   },
   {
@@ -66735,7 +67110,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.24",
+   "basis": "last confirmed 2026-10-30 $0.24",
    "source_url": ""
   },
   {
@@ -66780,7 +67155,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $1.63",
+   "basis": "last confirmed 2026-10-30 $1.63",
    "source_url": ""
   },
   {
@@ -66841,21 +67216,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $3.3",
-   "source_url": ""
-  },
-  {
-   "company": "Chiron Real Estate Inc.",
-   "ticker": "XRN",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-31 $0.5",
    "source_url": ""
   },
   {
@@ -67099,6 +67459,21 @@
    "source_url": ""
   },
   {
+   "company": "Blackstone Real Estate Income Trust, Inc.",
+   "ticker": "BSTT",
+   "exchange": "OTC",
+   "security": "common",
+   "amount_per_share": 0.1668,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1668",
+   "source_url": ""
+  },
+  {
    "company": "Cass Information Systems, Inc.",
    "ticker": "CASS",
    "exchange": "Nasdaq",
@@ -67246,6 +67621,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-03 $0.7075",
+   "source_url": ""
+  },
+  {
+   "company": "Company",
+   "ticker": "XRN",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.46875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-02 $0.46875",
    "source_url": ""
   },
   {
