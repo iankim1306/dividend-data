@@ -1,22 +1,7 @@
 {
- "updatedAt": "2026-11-09 12:17",
+ "updatedAt": "2026-11-09 15:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
-  {
-   "company": "Arhaus, Inc.",
-   "exchange": "Nasdaq",
-   "ticker": "ARHS",
-   "security": "common",
-   "amount_per_share": 0.5,
-   "currency": "USD",
-   "record_date": "2024-03-21",
-   "payable_date": "2024-04-04",
-   "frequency": "special",
-   "us_listed": true,
-   "wire": "EDGAR",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1875444/000187544426000038/arhs-20260930.htm",
-   "collected_at": "2026-11-07 09:47"
-  },
   {
    "company": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
    "exchange": "Nasdaq",
@@ -66187,6 +66172,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1475922/000119312526447427/pri-ex99_1.htm",
    "collected_at": "2026-11-05 09:38"
+  },
+  {
+   "company": "Strathcona Resources Ltd.",
+   "exchange": "TSX",
+   "ticker": "SCR",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "CAD",
+   "record_date": "2026-12-04",
+   "payable_date": "2026-12-14",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/strathcona-resources-ltd-reports-third-quarter-2026-financial-and-operating-results-and-announces-quarterly-dividend-302932929.html",
+   "collected_at": "2026-11-09 15:17"
   },
   {
    "company": "Selective Insurance Group, Inc.",
