@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-09 18:17",
+ "updatedAt": "2026-11-09 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4541,
+ "count": 4544,
  "items": [
   {
    "company": "KADANT INC.",
@@ -15301,6 +15301,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-07 $0.43",
+   "source_url": ""
+  },
+  {
+   "company": "Somnigroup International Inc.",
+   "ticker": "SGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-07 $0.17",
    "source_url": ""
   },
   {
@@ -34876,6 +34891,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-07 $0.43",
+   "source_url": ""
+  },
+  {
+   "company": "Somnigroup International Inc.",
+   "ticker": "SGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-07 $0.17",
    "source_url": ""
   },
   {
@@ -54631,6 +54661,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-07 $0.43",
+   "source_url": ""
+  },
+  {
+   "company": "Somnigroup International Inc.",
+   "ticker": "SGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-07 $0.17",
    "source_url": ""
   },
   {
