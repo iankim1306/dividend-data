@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11 03:17",
+ "updatedAt": "2026-11-11 06:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -61929,6 +61929,21 @@
    "collected_at": "2026-11-07 09:46"
   },
   {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "ARDC",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "2026-11-20",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ares-dynamic-credit-allocation-fund-declares-a-monthly-distribution-of-0-1125-per-share-302934776.html",
+   "collected_at": "2026-11-11 06:17"
+  },
+  {
    "company": "Avidia Bancorp, Inc.",
    "exchange": "NYSE",
    "ticker": "AVBC",
@@ -67837,6 +67852,21 @@
    "collected_at": "2026-10-29 21:17"
   },
   {
+   "company": "Hyster-Yale, Inc.",
+   "exchange": "NYSE",
+   "ticker": "HY",
+   "security": "common",
+   "amount_per_share": 0.365,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/hyster-yale-declares-quarterly-dividend-302935365.html",
+   "collected_at": "2026-11-11 06:17"
+  },
+  {
    "company": "International Paper",
    "exchange": "NYSE",
    "ticker": "IP",
@@ -67895,6 +67925,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1925283/000162828026070566/earningsreleaseq32026_draft.htm",
    "collected_at": "2026-11-06 09:19"
+  },
+  {
+   "company": "ManpowerGroup",
+   "exchange": "NYSE",
+   "ticker": "MAN",
+   "security": "common",
+   "amount_per_share": 0.72,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/manpowergroup-declares-0-72-dividend-302934805.html",
+   "collected_at": "2026-11-11 06:17"
   },
   {
    "company": "McDonald's Corporation",
@@ -68105,6 +68150,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1798100/000162828026066715/netstreitearningsrelease.htm",
    "collected_at": "2026-10-22 09:18"
+  },
+  {
+   "company": "Realty Income Corporation",
+   "exchange": "NYSE",
+   "ticker": "O",
+   "security": "common",
+   "amount_per_share": 0.274,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/137th-common-stock-monthly-dividend-increase-declared-by-realty-income-302935556.html",
+   "collected_at": "2026-11-11 06:17"
   },
   {
    "company": "Pangaea Logistics Solutions Ltd.",
@@ -73656,6 +73716,21 @@
    "collected_at": "2026-11-04 09:38"
   },
   {
+   "company": "Quest Diagnostics",
+   "exchange": "NYSE",
+   "ticker": "DGX",
+   "security": "common",
+   "amount_per_share": 0.86,
+   "currency": "USD",
+   "record_date": "2027-01-12",
+   "payable_date": "2027-01-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/quest-diagnostics-declares-quarterly-cash-dividend-302935557.html",
+   "collected_at": "2026-11-11 06:17"
+  },
+  {
    "company": "Simpson Manufacturing Co., Inc.",
    "exchange": "NYSE",
    "ticker": "SSD",
@@ -74271,5 +74346,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 4972
+ "count": 4977
 }

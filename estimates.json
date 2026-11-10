@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-11 03:17",
+ "updatedAt": "2026-11-11 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4582,
+ "count": 4581,
  "items": [
   {
    "company": "KADANT INC.",
@@ -286,21 +286,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.1",
-   "source_url": ""
-  },
-  {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1125",
    "source_url": ""
   },
   {
@@ -964,21 +949,6 @@
    "source_url": ""
   },
   {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
    "company": "Columbia Banking System, Inc.",
    "ticker": "COLB",
    "exchange": "Nasdaq",
@@ -991,21 +961,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-14 $0.37",
-   "source_url": ""
-  },
-  {
-   "company": "ManpowerGroup Inc.",
-   "ticker": "MAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.72,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-14",
-   "frequency": "semiannual",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-15 $0.72",
    "source_url": ""
   },
   {
@@ -1156,21 +1111,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.5",
-   "source_url": ""
-  },
-  {
-   "company": "Hyster-Yale, Inc.",
-   "ticker": "HY",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.365,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.365",
    "source_url": ""
   },
   {
@@ -2194,21 +2134,6 @@
    "source_url": ""
   },
   {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1125",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Infrastructure Income Fund",
    "ticker": "ASGI",
    "exchange": "NYSE",
@@ -2671,6 +2596,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.39063",
+   "source_url": ""
+  },
+  {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "ticker": "ARDC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1125",
    "source_url": ""
   },
   {
@@ -4699,21 +4639,6 @@
    "source_url": ""
   },
   {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
    "company": "BrightSpire Capital, Inc.",
    "ticker": "BRSP",
    "exchange": "NYSE",
@@ -5386,6 +5311,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-16 $2.47",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.274,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.274",
    "source_url": ""
   },
   {
@@ -6844,21 +6784,6 @@
    "source_url": ""
   },
   {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1125",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Infrastructure Income Fund",
    "ticker": "ASGI",
    "exchange": "NYSE",
@@ -7261,6 +7186,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.7",
+   "source_url": ""
+  },
+  {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "ticker": "ARDC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1125",
    "source_url": ""
   },
   {
@@ -9109,21 +9049,6 @@
    "source_url": ""
   },
   {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
    "company": "RBB Bancorp",
    "ticker": "RBB",
    "exchange": "NASDAQ",
@@ -9631,6 +9556,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.31",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.274,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.274",
    "source_url": ""
   },
   {
@@ -12199,21 +12139,6 @@
    "source_url": ""
   },
   {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1125",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Infrastructure Income Fund",
    "ticker": "ASGI",
    "exchange": "NYSE",
@@ -12496,6 +12421,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.165",
+   "source_url": ""
+  },
+  {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "ticker": "ARDC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1125",
    "source_url": ""
   },
   {
@@ -16024,21 +15964,6 @@
    "source_url": ""
   },
   {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
    "company": "Adeia Inc.",
    "ticker": "ADEA",
    "exchange": "Nasdaq",
@@ -16186,6 +16111,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-14 $0.21",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.274,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.274",
    "source_url": ""
   },
   {
@@ -16860,7 +16800,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.365",
+   "basis": "last confirmed 2026-12-15 $0.365",
    "source_url": ""
   },
   {
@@ -19249,21 +19189,6 @@
    "source_url": ""
   },
   {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1125",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Infrastructure Income Fund",
    "ticker": "ASGI",
    "exchange": "NYSE",
@@ -19681,6 +19606,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-29 $0.48",
+   "source_url": ""
+  },
+  {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "ticker": "ARDC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1125",
    "source_url": ""
   },
   {
@@ -23479,21 +23419,6 @@
    "source_url": ""
   },
   {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
    "company": "Benchmark Electronics, Inc.",
    "ticker": "BHE",
    "exchange": "NYSE",
@@ -23746,6 +23671,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.460938",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.274,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.274",
    "source_url": ""
   },
   {
@@ -26209,21 +26149,6 @@
    "source_url": ""
   },
   {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1125",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Infrastructure Income Fund",
    "ticker": "ASGI",
    "exchange": "NYSE",
@@ -26281,6 +26206,21 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-10-28 $0.156",
+   "source_url": ""
+  },
+  {
+   "company": "Quest Diagnostics",
+   "ticker": "DGX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.86,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-27 $0.86",
    "source_url": ""
   },
   {
@@ -26581,6 +26521,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.165",
+   "source_url": ""
+  },
+  {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "ticker": "ARDC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1125",
    "source_url": ""
   },
   {
@@ -28594,21 +28549,6 @@
    "source_url": ""
   },
   {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
    "company": "Riley Exploration Permian, Inc.",
    "ticker": "REPX",
    "exchange": "NYSE American",
@@ -29161,6 +29101,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $0.5",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.274,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.274",
    "source_url": ""
   },
   {
@@ -31639,21 +31594,6 @@
    "source_url": ""
   },
   {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1125",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Infrastructure Income Fund",
    "ticker": "ASGI",
    "exchange": "NYSE",
@@ -32236,6 +32176,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.46",
+   "source_url": ""
+  },
+  {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "ticker": "ARDC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1125",
    "source_url": ""
   },
   {
@@ -35749,21 +35704,6 @@
    "source_url": ""
   },
   {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
    "company": "Piper Sandler Companies",
    "ticker": "PIPR",
    "exchange": "NYSE",
@@ -35896,6 +35836,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-15 $0.27",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.274,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.274",
    "source_url": ""
   },
   {
@@ -36091,21 +36046,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-14 $0.09",
-   "source_url": ""
-  },
-  {
-   "company": "ManpowerGroup Inc.",
-   "ticker": "MAN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.72,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-14",
-   "frequency": "semiannual",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-06-15 $0.72",
    "source_url": ""
   },
   {
@@ -36780,7 +36720,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.365",
+   "basis": "last confirmed 2026-12-15 $0.365",
    "source_url": ""
   },
   {
@@ -36856,6 +36796,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.242",
+   "source_url": ""
+  },
+  {
+   "company": "ManpowerGroup",
+   "ticker": "MAN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.72,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "semiannual",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.72",
    "source_url": ""
   },
   {
@@ -39094,21 +39049,6 @@
    "source_url": ""
   },
   {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1125",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Infrastructure Income Fund",
    "ticker": "ASGI",
    "exchange": "NYSE",
@@ -39436,6 +39376,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-28 $0.88",
+   "source_url": ""
+  },
+  {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "ticker": "ARDC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1125",
    "source_url": ""
   },
   {
@@ -43384,21 +43339,6 @@
    "source_url": ""
   },
   {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
    "company": "Broadridge Financial Solutions, Inc.",
    "ticker": "BR",
    "exchange": "NYSE",
@@ -43546,6 +43486,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-15 $0.27",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.274,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.274",
    "source_url": ""
   },
   {
@@ -46114,21 +46069,6 @@
    "source_url": ""
   },
   {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1125",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Infrastructure Income Fund",
    "ticker": "ASGI",
    "exchange": "NYSE",
@@ -46474,6 +46414,21 @@
    "source_url": ""
   },
   {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "ticker": "ARDC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1125",
+   "source_url": ""
+  },
+  {
    "company": "Bluerock Private Real Estate Fund",
    "ticker": "BPRE",
    "exchange": "NYSE",
@@ -46516,6 +46471,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Quest Diagnostics",
+   "ticker": "DGX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.86,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-27 $0.86",
    "source_url": ""
   },
   {
@@ -48514,21 +48484,6 @@
    "source_url": ""
   },
   {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
    "company": "Orrstown Financial Services, Inc.",
    "ticker": "ORRF",
    "exchange": "Nasdaq",
@@ -48736,6 +48691,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-12 $0.07",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.274,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.274",
    "source_url": ""
   },
   {
@@ -51499,21 +51469,6 @@
    "source_url": ""
   },
   {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1125",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Infrastructure Income Fund",
    "ticker": "ASGI",
    "exchange": "NYSE",
@@ -51841,6 +51796,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "ticker": "ARDC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1125",
    "source_url": ""
   },
   {
@@ -55309,21 +55279,6 @@
    "source_url": ""
   },
   {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-09",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
    "company": "Organon & Co.",
    "ticker": "OGN",
    "exchange": "NYSE",
@@ -55801,6 +55756,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-15 $0.27",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.274,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.274",
    "source_url": ""
   },
   {
@@ -56670,7 +56640,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.365",
+   "basis": "last confirmed 2026-12-15 $0.365",
    "source_url": ""
   },
   {
@@ -58954,21 +58924,6 @@
    "source_url": ""
   },
   {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1125",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Infrastructure Income Fund",
    "ticker": "ASGI",
    "exchange": "NYSE",
@@ -59251,6 +59206,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.165",
+   "source_url": ""
+  },
+  {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "ticker": "ARDC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1125",
    "source_url": ""
   },
   {
@@ -63184,21 +63154,6 @@
    "source_url": ""
   },
   {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-09",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
    "ticker": "AFB",
    "exchange": "NYSE",
@@ -63316,6 +63271,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-15 $0.27",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.274,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.274",
    "source_url": ""
   },
   {
@@ -65794,21 +65764,6 @@
    "source_url": ""
   },
   {
-   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
-   "ticker": "ARDC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.1125",
-   "source_url": ""
-  },
-  {
    "company": "abrdn Global Infrastructure Income Fund",
    "ticker": "ASGI",
    "exchange": "NYSE",
@@ -66226,6 +66181,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-27 $0.125",
+   "source_url": ""
+  },
+  {
+   "company": "Ares Dynamic Credit Allocation Fund, Inc.",
+   "ticker": "ARDC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.1125",
    "source_url": ""
   },
   {
@@ -66781,6 +66751,21 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-10-28 $0.156",
+   "source_url": ""
+  },
+  {
+   "company": "Quest Diagnostics",
+   "ticker": "DGX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.86,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-27 $0.86",
    "source_url": ""
   },
   {
@@ -68254,21 +68239,6 @@
    "source_url": ""
   },
   {
-   "company": "Realty Income Corporation",
-   "ticker": "O",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2715,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-11-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.2715",
-   "source_url": ""
-  },
-  {
    "company": "Old Second Bancorp, Inc",
    "ticker": "OSBC",
    "exchange": "Nasdaq",
@@ -68431,6 +68401,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-15 $0.27",
+   "source_url": ""
+  },
+  {
+   "company": "Realty Income Corporation",
+   "ticker": "O",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.274,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.274",
    "source_url": ""
   },
   {
