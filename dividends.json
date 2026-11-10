@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10 21:17",
+ "updatedAt": "2026-11-11 00:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -63699,6 +63699,21 @@
    "collected_at": "2026-09-30 06:18"
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "exchange": "NYSE",
+   "ticker": "FMN",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "2026-11-23",
+   "payable_date": "2026-12-01",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/federated-hermes-premier-municipal-income-fund-declares-dividend-302934970.html",
+   "collected_at": "2026-11-11 00:17"
+  },
+  {
    "company": "Federal Signal Corporation",
    "exchange": "NYSE",
    "ticker": "FSS",
@@ -68540,6 +68555,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/752642/000149315226045445/ex99-1.htm",
    "collected_at": "2026-10-03 09:22"
+  },
+  {
+   "company": "Virginia National Bankshares Corporation",
+   "exchange": "NASDAQ",
+   "ticker": "VABK",
+   "security": "common",
+   "amount_per_share": 0.38,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/virginia-national-bankshares-corporation-announces-stock-and-cash-dividends-302934442.html",
+   "collected_at": "2026-11-11 00:17"
   },
   {
    "company": "Virtu Financial, Inc.",
@@ -74196,5 +74226,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 4967
+ "count": 4969
 }

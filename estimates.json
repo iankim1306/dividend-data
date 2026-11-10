@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-10 21:17",
+ "updatedAt": "2026-11-11 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4560,
+ "count": 4577,
  "items": [
   {
    "company": "KADANT INC.",
@@ -721,21 +721,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.08854",
-   "source_url": ""
-  },
-  {
-   "company": "Federated Hermes Premier Municipal Income Fund",
-   "ticker": "FMN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-02",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.045",
    "source_url": ""
   },
   {
@@ -3934,6 +3919,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "Hecla Mining Company",
    "ticker": "HL",
    "exchange": "NYSE",
@@ -4201,21 +4201,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-02 $0.03",
-   "source_url": ""
-  },
-  {
-   "company": "Federated Hermes Premier Municipal Income Fund",
-   "ticker": "FMN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.045",
    "source_url": ""
   },
   {
@@ -8059,6 +8044,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -8266,21 +8266,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-01 $0.26",
-   "source_url": ""
-  },
-  {
-   "company": "Federated Hermes Premier Municipal Income Fund",
-   "ticker": "FMN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.045",
    "source_url": ""
   },
   {
@@ -13189,6 +13174,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -13801,21 +13801,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.465",
-   "source_url": ""
-  },
-  {
-   "company": "Federated Hermes Premier Municipal Income Fund",
-   "ticker": "FMN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-02",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.045",
    "source_url": ""
   },
   {
@@ -20689,6 +20674,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "FRIEDMAN INDUSTRIES INCORPORATED",
    "ticker": "FRD",
    "exchange": "Nasdaq",
@@ -21691,21 +21691,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $5.6",
-   "source_url": ""
-  },
-  {
-   "company": "Federated Hermes Premier Municipal Income Fund",
-   "ticker": "FMN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.045",
    "source_url": ""
   },
   {
@@ -27349,6 +27334,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -27691,21 +27691,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-31 $4.5",
-   "source_url": ""
-  },
-  {
-   "company": "Federated Hermes Premier Municipal Income Fund",
-   "ticker": "FMN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.045",
    "source_url": ""
   },
   {
@@ -32779,6 +32764,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -33031,21 +33031,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.34",
-   "source_url": ""
-  },
-  {
-   "company": "Federated Hermes Premier Municipal Income Fund",
-   "ticker": "FMN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.045",
    "source_url": ""
   },
   {
@@ -40129,6 +40114,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -40726,21 +40726,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-01 $3.33",
-   "source_url": ""
-  },
-  {
-   "company": "Federated Hermes Premier Municipal Income Fund",
-   "ticker": "FMN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.045",
    "source_url": ""
   },
   {
@@ -47059,6 +47044,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -47401,21 +47401,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-29 $1.1",
-   "source_url": ""
-  },
-  {
-   "company": "Federated Hermes Premier Municipal Income Fund",
-   "ticker": "FMN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.045",
    "source_url": ""
   },
   {
@@ -52654,6 +52639,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -52801,21 +52801,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.08854",
-   "source_url": ""
-  },
-  {
-   "company": "Federated Hermes Premier Municipal Income Fund",
-   "ticker": "FMN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.045",
    "source_url": ""
   },
   {
@@ -59809,6 +59794,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -60091,21 +60091,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.28",
-   "source_url": ""
-  },
-  {
-   "company": "Federated Hermes Premier Municipal Income Fund",
-   "ticker": "FMN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.045",
    "source_url": ""
   },
   {
@@ -66799,6 +66784,21 @@
    "source_url": ""
   },
   {
+   "company": "Federated Hermes Premier Municipal Income Fund",
+   "ticker": "FMN",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.045,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $0.045",
+   "source_url": ""
+  },
+  {
    "company": "FS Credit Opportunities Corp.",
    "ticker": "FSCO",
    "exchange": "NYSE",
@@ -66991,21 +66991,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-30 $0.07",
-   "source_url": ""
-  },
-  {
-   "company": "Federated Hermes Premier Municipal Income Fund",
-   "ticker": "FMN",
-   "exchange": "NYSE",
-   "security": "fund",
-   "amount_per_share": 0.045,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-02 $0.045",
    "source_url": ""
   },
   {
@@ -68401,6 +68386,276 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-11 $0.42",
+   "source_url": ""
+  },
+  {
+   "company": "Apple Hospitality REIT, Inc.",
+   "ticker": "APLE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Braemar Hotels & Resorts Inc.",
+   "ticker": "BHR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.17708,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.17708",
+   "source_url": ""
+  },
+  {
+   "company": "Bank of Marin Bancorp",
+   "ticker": "BMRC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "Cracker Barrel Old Country Store, Inc.",
+   "ticker": "CBRL",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.277908,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.277908",
+   "source_url": ""
+  },
+  {
+   "company": "DIVERSIFIED HEALTHCARE TRUST",
+   "ticker": "DHC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.01",
+   "source_url": ""
+  },
+  {
+   "company": "FOUR CORNERS PROPERTY TRUST, INC.",
+   "ticker": "FCPT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1265,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.1265",
+   "source_url": ""
+  },
+  {
+   "company": "Horizon Technology Finance Corp",
+   "ticker": "HRZN",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-03-16 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "INDUSTRIAL LOGISTICS PROPERTIES TRUST",
+   "ticker": "ILPT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "NB Bancorp, Inc.",
+   "ticker": "NBBK",
+   "exchange": "Nasdaq Capital Market",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.07",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.05417",
+   "source_url": ""
+  },
+  {
+   "company": "Permian Basin Royalty Trust",
+   "ticker": "PBT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.045191,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.045191",
+   "source_url": ""
+  },
+  {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.016204,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-16 $0.016204",
+   "source_url": ""
+  },
+  {
+   "company": "RBB Bancorp",
+   "ticker": "RBB",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.16,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.16",
+   "source_url": ""
+  },
+  {
+   "company": "Stellus Capital Investment Corporation",
+   "ticker": "SCM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0833,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.0833",
+   "source_url": ""
+  },
+  {
+   "company": "Seven Hills Realty Trust",
+   "ticker": "SEVN",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.28,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.28",
+   "source_url": ""
+  },
+  {
+   "company": "SERVICE PROPERTIES TRUST",
+   "ticker": "SVC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-12 $0.05",
    "source_url": ""
   }
  ]
