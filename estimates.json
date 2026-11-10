@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-10 18:17",
+ "updatedAt": "2026-11-10 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4561,
+ "count": 4560,
  "items": [
   {
    "company": "KADANT INC.",
@@ -1891,21 +1891,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-24 $0.0625",
-   "source_url": ""
-  },
-  {
-   "company": "AAON, Inc.",
-   "ticker": "AAON",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.1",
    "source_url": ""
   },
   {
@@ -17824,6 +17809,21 @@
    "source_url": ""
   },
   {
+   "company": "AAON, Inc.",
+   "ticker": "AAON",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.1",
+   "source_url": ""
+  },
+  {
    "company": "iShares Core Dividend Growth ETF",
    "ticker": "DGRO",
    "exchange": "NYSE ARCA",
@@ -18976,21 +18976,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-24 $0.0625",
-   "source_url": ""
-  },
-  {
-   "company": "AAON, Inc.",
-   "ticker": "AAON",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.1",
    "source_url": ""
   },
   {
@@ -37669,6 +37654,21 @@
    "source_url": ""
   },
   {
+   "company": "AAON, Inc.",
+   "ticker": "AAON",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.1",
+   "source_url": ""
+  },
+  {
    "company": "iShares Core Dividend Growth ETF",
    "ticker": "DGRO",
    "exchange": "NYSE ARCA",
@@ -38836,21 +38836,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-24 $0.0625",
-   "source_url": ""
-  },
-  {
-   "company": "AAON, Inc.",
-   "ticker": "AAON",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.1",
    "source_url": ""
   },
   {
@@ -57499,6 +57484,21 @@
    "source_url": ""
   },
   {
+   "company": "AAON, Inc.",
+   "ticker": "AAON",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.1",
+   "source_url": ""
+  },
+  {
    "company": "Calamos Dynamic Convertible and Income Fund",
    "ticker": "CCD",
    "exchange": "NASDAQ",
@@ -58681,21 +58681,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-24 $0.0625",
-   "source_url": ""
-  },
-  {
-   "company": "AAON, Inc.",
-   "ticker": "AAON",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.1",
    "source_url": ""
   },
   {
