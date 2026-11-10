@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11 00:17",
+ "updatedAt": "2026-11-11 03:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -60610,6 +60610,21 @@
    "collected_at": "2026-10-23 09:33"
   },
   {
+   "company": "JLL Income Property Trust",
+   "exchange": "NASDAQ",
+   "ticker": "ZIPTAX",
+   "security": "common",
+   "amount_per_share": 0.0525,
+   "currency": "USD",
+   "record_date": "2026-11-19",
+   "payable_date": "2026-11-24",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/jll-income-property-trust-declares-november-distribution-to-investors-302932163.html",
+   "collected_at": "2026-11-11 03:17"
+  },
+  {
    "company": "Bank of Montreal",
    "exchange": null,
    "ticker": null,
@@ -65602,6 +65617,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000197/jnj-20260927.htm",
    "collected_at": "2026-10-22 09:22"
+  },
+  {
+   "company": "Loews Corporation",
+   "exchange": "NYSE",
+   "ticker": "L",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "2026-11-25",
+   "payable_date": "2026-12-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/loews-corporation-announces-quarterly-dividend-on-common-stock-302935170.html",
+   "collected_at": "2026-11-11 03:17"
   },
   {
    "company": "Landstar System, Inc.",
@@ -72381,6 +72411,21 @@
    "collected_at": "2026-10-27 09:17"
   },
   {
+   "company": "Broadridge Financial Solutions, Inc.",
+   "exchange": "NYSE",
+   "ticker": "BR",
+   "security": "common",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "2026-12-10",
+   "payable_date": "2027-01-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/broadridge-declares-quarterly-dividend-of-1-09-per-share-302935291.html",
+   "collected_at": "2026-11-11 03:17"
+  },
+  {
    "company": "Community Financial System, Inc.",
    "exchange": "NYSE",
    "ticker": "CBU",
@@ -74226,5 +74271,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 4969
+ "count": 4972
 }

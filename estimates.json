@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-11 00:17",
+ "updatedAt": "2026-11-11 03:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4577,
+ "count": 4582,
  "items": [
   {
    "company": "KADANT INC.",
@@ -256,21 +256,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-28 $0.62",
-   "source_url": ""
-  },
-  {
-   "company": "Broadridge Financial Solutions, Inc.",
-   "ticker": "BR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $1.09",
    "source_url": ""
   },
   {
@@ -1879,6 +1864,21 @@
    "source_url": ""
   },
   {
+   "company": "JLL Income Property Trust",
+   "ticker": "ZIPTAX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.0525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-24",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
    "company": "Auburn National Bancorporation, Inc.",
    "ticker": "AUBN",
    "exchange": "Nasdaq",
@@ -2101,21 +2101,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-28 $0.88",
-   "source_url": ""
-  },
-  {
-   "company": "Broadridge Financial Solutions, Inc.",
-   "ticker": "BR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $1.09",
    "source_url": ""
   },
   {
@@ -6574,6 +6559,21 @@
    "source_url": ""
   },
   {
+   "company": "JLL Income Property Trust",
+   "ticker": "ZIPTAX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.0525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
    "company": "Franklin BSP Realty Trust, Inc.",
    "ticker": "FBRT",
    "exchange": "NYSE",
@@ -6751,21 +6751,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.14583",
-   "source_url": ""
-  },
-  {
-   "company": "Broadridge Financial Solutions, Inc.",
-   "ticker": "BR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $1.09",
    "source_url": ""
   },
   {
@@ -11284,6 +11269,21 @@
    "source_url": ""
   },
   {
+   "company": "JLL Income Property Trust",
+   "ticker": "ZIPTAX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.0525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-22",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
    "company": "THE CHEESECAKE FACTORY INCORPORATED",
    "ticker": "CAKE",
    "exchange": "The Nasdaq Stock Market LLC",
@@ -11881,21 +11881,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.4",
-   "source_url": ""
-  },
-  {
-   "company": "Broadridge Financial Solutions, Inc.",
-   "ticker": "BR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $1.09",
    "source_url": ""
   },
   {
@@ -15091,6 +15076,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-08 $1.34",
+   "source_url": ""
+  },
+  {
+   "company": "Loews Corporation",
+   "ticker": "L",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-08 $0.0625",
    "source_url": ""
   },
   {
@@ -18889,6 +18889,21 @@
    "source_url": ""
   },
   {
+   "company": "JLL Income Property Trust",
+   "ticker": "ZIPTAX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.0525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-24",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
    "company": "Bank of America",
    "ticker": "BAC",
    "exchange": "NYSE",
@@ -19156,21 +19171,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.14583",
-   "source_url": ""
-  },
-  {
-   "company": "Broadridge Financial Solutions, Inc.",
-   "ticker": "BR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $1.09",
    "source_url": ""
   },
   {
@@ -23434,6 +23434,21 @@
    "source_url": ""
   },
   {
+   "company": "Broadridge Financial Solutions, Inc.",
+   "ticker": "BR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-11 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Community Financial System, Inc.",
    "ticker": "CBU",
    "exchange": "NYSE",
@@ -25909,6 +25924,21 @@
    "source_url": ""
   },
   {
+   "company": "JLL Income Property Trust",
+   "ticker": "ZIPTAX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.0525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
    "company": "CION Investment Corporation",
    "ticker": "CION",
    "exchange": "NYSE",
@@ -26086,21 +26116,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.14583",
-   "source_url": ""
-  },
-  {
-   "company": "Broadridge Financial Solutions, Inc.",
-   "ticker": "BR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $1.09",
    "source_url": ""
   },
   {
@@ -30664,6 +30679,21 @@
    "source_url": ""
   },
   {
+   "company": "JLL Income Property Trust",
+   "ticker": "ZIPTAX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.0525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
    "company": "Arrow Financial Corporation",
    "ticker": "AROW",
    "exchange": "NASDAQ",
@@ -31531,21 +31561,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.14583",
-   "source_url": ""
-  },
-  {
-   "company": "Broadridge Financial Solutions, Inc.",
-   "ticker": "BR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $1.09",
    "source_url": ""
   },
   {
@@ -34861,6 +34876,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-08 $1.34",
+   "source_url": ""
+  },
+  {
+   "company": "Loews Corporation",
+   "ticker": "L",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-08 $0.0625",
    "source_url": ""
   },
   {
@@ -38629,6 +38659,21 @@
    "source_url": ""
   },
   {
+   "company": "JLL Income Property Trust",
+   "ticker": "ZIPTAX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.0525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-22",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
    "company": "Genpact Limited",
    "ticker": "G",
    "exchange": "NYSE",
@@ -39016,21 +39061,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.14583",
-   "source_url": ""
-  },
-  {
-   "company": "Broadridge Financial Solutions, Inc.",
-   "ticker": "BR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $1.09",
    "source_url": ""
   },
   {
@@ -43369,6 +43399,21 @@
    "source_url": ""
   },
   {
+   "company": "Broadridge Financial Solutions, Inc.",
+   "ticker": "BR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-11 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Community Financial System, Inc.",
    "ticker": "CBU",
    "exchange": "NYSE",
@@ -45604,6 +45649,21 @@
    "source_url": ""
   },
   {
+   "company": "JLL Income Property Trust",
+   "ticker": "ZIPTAX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.0525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-22",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
    "company": "Advance Auto Parts, Inc.",
    "ticker": "AAP",
    "exchange": "NYSE",
@@ -45901,21 +45961,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-25 $1.75",
-   "source_url": ""
-  },
-  {
-   "company": "Broadridge Financial Solutions, Inc.",
-   "ticker": "BR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $1.09",
    "source_url": ""
   },
   {
@@ -50569,6 +50614,21 @@
    "source_url": ""
   },
   {
+   "company": "JLL Income Property Trust",
+   "ticker": "ZIPTAX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.0525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-21",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
    "company": "Arrow Financial Corporation",
    "ticker": "AROW",
    "exchange": "NASDAQ",
@@ -51031,21 +51091,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-25 $0.4",
-   "source_url": ""
-  },
-  {
-   "company": "Broadridge Financial Solutions, Inc.",
-   "ticker": "BR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $1.09",
    "source_url": ""
   },
   {
@@ -54754,6 +54799,21 @@
    "source_url": ""
   },
   {
+   "company": "Loews Corporation",
+   "ticker": "L",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.0625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-08 $0.0625",
+   "source_url": ""
+  },
+  {
    "company": "Landstar System, Inc.",
    "ticker": "LSTR",
    "exchange": "Nasdaq",
@@ -58369,6 +58429,21 @@
    "source_url": ""
   },
   {
+   "company": "JLL Income Property Trust",
+   "ticker": "ZIPTAX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.0525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-20",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
    "company": "VAALCO ENERGY INC",
    "ticker": "EGY",
    "exchange": "NYSE",
@@ -58696,21 +58771,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-25 $0.27",
-   "source_url": ""
-  },
-  {
-   "company": "Broadridge Financial Solutions, Inc.",
-   "ticker": "BR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-24",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $1.09",
    "source_url": ""
   },
   {
@@ -63184,6 +63244,21 @@
    "source_url": ""
   },
   {
+   "company": "Broadridge Financial Solutions, Inc.",
+   "ticker": "BR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-11 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Community Financial System, Inc.",
    "ticker": "CBU",
    "exchange": "NYSE",
@@ -65284,6 +65359,21 @@
    "source_url": ""
   },
   {
+   "company": "JLL Income Property Trust",
+   "ticker": "ZIPTAX",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.0525,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-20",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
    "company": "The Andersons, Inc.",
    "ticker": "ANDE",
    "exchange": "Nasdaq",
@@ -65671,21 +65761,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.14583",
-   "source_url": ""
-  },
-  {
-   "company": "Broadridge Financial Solutions, Inc.",
-   "ticker": "BR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-24",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-29 $1.09",
    "source_url": ""
   },
   {
