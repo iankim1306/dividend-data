@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-11 09:32",
+ "updatedAt": "2026-11-11 12:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4574,
+ "count": 4579,
  "items": [
   {
    "company": "TriMas Corporation",
@@ -24934,6 +24934,21 @@
    "source_url": ""
   },
   {
+   "company": "Public Service Company of New Mexico",
+   "ticker": "TXNM",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.145,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $1.145",
+   "source_url": ""
+  },
+  {
    "company": "UMB Financial Corporation",
    "ticker": "UMBFO",
    "exchange": "Nasdaq",
@@ -26026,6 +26041,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.087",
+   "source_url": ""
+  },
+  {
+   "company": "Gap Inc.",
+   "ticker": "GAP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-27 $0.175",
    "source_url": ""
   },
   {
@@ -44929,6 +44959,21 @@
    "source_url": ""
   },
   {
+   "company": "Public Service Company of New Mexico",
+   "ticker": "TXNM",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.145,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $1.145",
+   "source_url": ""
+  },
+  {
    "company": "UMB Financial Corporation",
    "ticker": "UMBFO",
    "exchange": "Nasdaq",
@@ -46321,6 +46366,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-29 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "Gap Inc.",
+   "ticker": "GAP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-27 $0.175",
    "source_url": ""
   },
   {
@@ -64789,6 +64849,21 @@
    "source_url": ""
   },
   {
+   "company": "Public Service Company of New Mexico",
+   "ticker": "TXNM",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.145,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $1.145",
+   "source_url": ""
+  },
+  {
    "company": "UMB Financial Corporation",
    "ticker": "UMBFO",
    "exchange": "Nasdaq",
@@ -66799,6 +66874,21 @@
    "source_url": ""
   },
   {
+   "company": "Gap Inc.",
+   "ticker": "GAP",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-27 $0.175",
+   "source_url": ""
+  },
+  {
    "company": "Highland Global Allocation Fund",
    "ticker": "HGLB",
    "exchange": "NYSE",
@@ -66946,21 +67036,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-30 $0.07",
-   "source_url": ""
-  },
-  {
-   "company": "Gap Inc.",
-   "ticker": "GAP",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.175,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-28",
-   "frequency": "annual",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-28 $0.175",
    "source_url": ""
   },
   {
