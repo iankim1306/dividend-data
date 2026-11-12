@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-13 00:17",
+ "updatedAt": "2026-11-13 03:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4605,
+ "count": 4604,
  "items": [
   {
    "company": "Synchrony Financial",
@@ -3421,21 +3421,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.055",
-   "source_url": ""
-  },
-  {
-   "company": "Allstate Corporation",
-   "ticker": "ALL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $1.08",
    "source_url": ""
   },
   {
@@ -20914,21 +20899,6 @@
    "source_url": ""
   },
   {
-   "company": "Allstate Corporation",
-   "ticker": "ALL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $1.08",
-   "source_url": ""
-  },
-  {
    "company": "AMH",
    "ticker": "AMH",
    "exchange": "NYSE",
@@ -22156,6 +22126,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.41",
+   "source_url": ""
+  },
+  {
+   "company": "Allstate Corporation",
+   "ticker": "ALL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $1.08",
    "source_url": ""
   },
   {
@@ -40969,21 +40954,6 @@
    "source_url": ""
   },
   {
-   "company": "Allstate Corporation",
-   "ticker": "ALL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $1.08",
-   "source_url": ""
-  },
-  {
    "company": "AMH",
    "ticker": "AMH",
    "exchange": "NYSE",
@@ -42256,6 +42226,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.41",
+   "source_url": ""
+  },
+  {
+   "company": "Allstate Corporation",
+   "ticker": "ALL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $1.08",
    "source_url": ""
   },
   {
@@ -60889,21 +60874,6 @@
    "source_url": ""
   },
   {
-   "company": "Allstate Corporation",
-   "ticker": "ALL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $1.08",
-   "source_url": ""
-  },
-  {
    "company": "AMH",
    "ticker": "AMH",
    "exchange": "NYSE",
@@ -62161,6 +62131,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.41",
+   "source_url": ""
+  },
+  {
+   "company": "Allstate Corporation",
+   "ticker": "ALL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $1.08",
    "source_url": ""
   },
   {
