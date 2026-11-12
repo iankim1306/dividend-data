@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-13 03:17",
+ "updatedAt": "2026-11-13 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4604,
+ "count": 4627,
  "items": [
   {
    "company": "Synchrony Financial",
@@ -691,21 +691,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-09 $0.09",
-   "source_url": ""
-  },
-  {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -4129,6 +4114,21 @@
    "source_url": ""
   },
   {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "ATN International, Inc.",
    "ticker": "ATNI",
    "exchange": "Nasdaq",
@@ -4246,21 +4246,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-09 $0.19",
-   "source_url": ""
-  },
-  {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-09",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -8366,11 +8351,11 @@
    "amount_per_share": 0.12,
    "currency": "USD",
    "record_date": "",
-   "payable_date": "2027-02-08",
+   "payable_date": "2027-02-07",
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.12",
+   "basis": "last confirmed 2026-12-09 $0.12",
    "source_url": ""
   },
   {
@@ -14599,6 +14584,21 @@
    "source_url": ""
   },
   {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "CompX International Inc.",
    "ticker": "CIX",
    "exchange": "NYSE",
@@ -14731,21 +14731,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-09 $0.075",
-   "source_url": ""
-  },
-  {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -16486,6 +16471,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.12",
+   "source_url": ""
+  },
+  {
+   "company": "KeyCorp",
+   "ticker": "KEY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.205,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.205",
    "source_url": ""
   },
   {
@@ -20899,6 +20899,21 @@
    "source_url": ""
   },
   {
+   "company": "Farmer Mac",
+   "ticker": "AGM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.6,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $1.6",
+   "source_url": ""
+  },
+  {
    "company": "AMH",
    "ticker": "AMH",
    "exchange": "NYSE",
@@ -22669,6 +22684,21 @@
    "source_url": ""
   },
   {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "AH Realty Trust, Inc.",
    "ticker": "AHRT",
    "exchange": "NYSE",
@@ -22786,21 +22816,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-08 $0.46",
-   "source_url": ""
-  },
-  {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-09",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -24856,6 +24871,96 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.23",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.D",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.35625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.35625",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.E",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.359375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.359375",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.F",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.328125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.328125",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.G",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.3046875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.3046875",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.H",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.40625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.40625",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.I",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.4296875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.4296875",
    "source_url": ""
   },
   {
@@ -28009,6 +28114,21 @@
    "source_url": ""
   },
   {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-08",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "MSC Income Fund, Inc.",
    "ticker": "MSIF",
    "exchange": "NYSE",
@@ -28021,21 +28141,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-09 $0.11",
-   "source_url": ""
-  },
-  {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-09",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -34399,6 +34504,21 @@
    "source_url": ""
   },
   {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-07",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Company",
    "ticker": "CHRD",
    "exchange": "Nasdaq",
@@ -34471,21 +34591,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-07 $0.17",
-   "source_url": ""
-  },
-  {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -36481,6 +36586,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.4625",
+   "source_url": ""
+  },
+  {
+   "company": "KeyCorp",
+   "ticker": "KEY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.205,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.205",
    "source_url": ""
   },
   {
@@ -40954,6 +41074,21 @@
    "source_url": ""
   },
   {
+   "company": "Farmer Mac",
+   "ticker": "AGM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.6,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $1.6",
+   "source_url": ""
+  },
+  {
    "company": "AMH",
    "ticker": "AMH",
    "exchange": "NYSE",
@@ -42589,6 +42724,21 @@
    "source_url": ""
   },
   {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-07",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Invesco CurrencyShares Australian Dollar Trust",
    "ticker": "FXA",
    "exchange": "NYSE",
@@ -42736,21 +42886,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-06 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-08",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -45046,6 +45181,96 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-20 $0.10417",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.D",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.35625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.35625",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.E",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.359375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.359375",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.F",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.328125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.328125",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.G",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.3046875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.3046875",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.H",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.40625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.40625",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.I",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.4296875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.4296875",
    "source_url": ""
   },
   {
@@ -48019,6 +48244,21 @@
    "source_url": ""
   },
   {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-06",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Ennis, Inc.",
    "ticker": "EBF",
    "exchange": "NYSE",
@@ -48091,21 +48331,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-07 $0.16",
-   "source_url": ""
-  },
-  {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-07",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -54424,6 +54649,21 @@
    "source_url": ""
   },
   {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "MSC Income Fund, Inc.",
    "ticker": "MSIF",
    "exchange": "NYSE",
@@ -54436,21 +54676,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-09 $0.11",
-   "source_url": ""
-  },
-  {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-06",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -56491,6 +56716,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.4625",
+   "source_url": ""
+  },
+  {
+   "company": "KeyCorp",
+   "ticker": "KEY",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.205,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.205",
    "source_url": ""
   },
   {
@@ -60874,6 +61114,21 @@
    "source_url": ""
   },
   {
+   "company": "Farmer Mac",
+   "ticker": "AGM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.6,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $1.6",
+   "source_url": ""
+  },
+  {
    "company": "AMH",
    "ticker": "AMH",
    "exchange": "NYSE",
@@ -62299,6 +62554,21 @@
    "source_url": ""
   },
   {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "BRT APARTMENTS CORP.",
    "ticker": "BRT",
    "exchange": "NYSE",
@@ -62506,21 +62776,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-07 $0.39",
-   "source_url": ""
-  },
-  {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-06",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
@@ -64951,6 +65206,96 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-20 $0.10417",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.D",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.35625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.35625",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.E",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.359375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.359375",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.F",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.328125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.328125",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.G",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.3046875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.3046875",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.H",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.40625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.40625",
+   "source_url": ""
+  },
+  {
+   "company": "Farmer Mac",
+   "ticker": "AGM.PR.I",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.4296875,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-18 $0.4296875",
    "source_url": ""
   },
   {
@@ -67849,6 +68194,21 @@
    "source_url": ""
   },
   {
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "AZZ Inc.",
    "ticker": "AZZ",
    "exchange": "NYSE",
@@ -67936,21 +68296,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-05 $0.36",
-   "source_url": ""
-  },
-  {
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-11-05",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.12",
    "source_url": ""
   },
   {
