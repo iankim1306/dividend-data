@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-12 06:17",
+ "updatedAt": "2026-11-12 09:29",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4605,
+ "count": 4607,
  "items": [
   {
    "company": "Synchrony Financial",
@@ -3514,51 +3514,6 @@
    "source_url": ""
   },
   {
-   "company": "Allspring Income Opportunities Fund",
-   "ticker": "EAD",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.05268,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.05268",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Multi-Sector Income Fund",
-   "ticker": "ERC",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.07227,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.07227",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Utilities and High Income Fund",
-   "ticker": "ERH",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.08697,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.08697",
-   "source_url": ""
-  },
-  {
    "company": "Financial Institutions, Inc.",
    "ticker": "FISI",
    "exchange": "Nasdaq",
@@ -4666,21 +4621,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.375",
-   "source_url": ""
-  },
-  {
-   "company": "Cardinal Health",
-   "ticker": "CAH",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.5158,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.5158",
    "source_url": ""
   },
   {
@@ -7669,21 +7609,6 @@
    "source_url": ""
   },
   {
-   "company": "Allspring Income Opportunities Fund",
-   "ticker": "EAD",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.05268,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.05268",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -7696,36 +7621,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.13",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Multi-Sector Income Fund",
-   "ticker": "ERC",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.07227,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.07227",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Utilities and High Income Fund",
-   "ticker": "ERH",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.08697,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.08697",
    "source_url": ""
   },
   {
@@ -8236,6 +8131,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-05 $0.130208",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Income Opportunities Fund",
+   "ticker": "EAD",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.05234,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05234",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Multi-Sector Income Fund",
+   "ticker": "ERC",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.07192,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07192",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Utilities and High Income Fund",
+   "ticker": "ERH",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.08594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.08594",
    "source_url": ""
   },
   {
@@ -12754,21 +12694,6 @@
    "source_url": ""
   },
   {
-   "company": "Allspring Income Opportunities Fund",
-   "ticker": "EAD",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.05268,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.05268",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -12781,36 +12706,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.13",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Multi-Sector Income Fund",
-   "ticker": "ERC",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.07227,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.07227",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Utilities and High Income Fund",
-   "ticker": "ERH",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.08697,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-01",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.08697",
    "source_url": ""
   },
   {
@@ -13549,21 +13444,6 @@
    "source_url": ""
   },
   {
-   "company": "Kimberly-Clark Corporation",
-   "ticker": "KMB",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.28,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $1.28",
-   "source_url": ""
-  },
-  {
    "company": "LINCOLN NATIONAL CORPORATION",
    "ticker": "LNC",
    "exchange": "NYSE",
@@ -14284,6 +14164,21 @@
    "source_url": ""
   },
   {
+   "company": "Allison Transmission Holdings Inc.",
+   "ticker": "ALSN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.29",
+   "source_url": ""
+  },
+  {
    "company": "Barrett Business Services, Inc.",
    "ticker": "BBSI",
    "exchange": "Nasdaq",
@@ -14389,6 +14284,21 @@
    "source_url": ""
   },
   {
+   "company": "Allspring Income Opportunities Fund",
+   "ticker": "EAD",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.05234,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05234",
+   "source_url": ""
+  },
+  {
    "company": "Eagle Bancorp Montana, Inc.",
    "ticker": "EBMT",
    "exchange": "NASDAQ",
@@ -14401,6 +14311,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $0.1475",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Multi-Sector Income Fund",
+   "ticker": "ERC",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.07192,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07192",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Utilities and High Income Fund",
+   "ticker": "ERH",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.08594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-05",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.08594",
    "source_url": ""
   },
   {
@@ -20224,21 +20164,6 @@
    "source_url": ""
   },
   {
-   "company": "Allspring Income Opportunities Fund",
-   "ticker": "EAD",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.05268,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.05268",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -20266,36 +20191,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Multi-Sector Income Fund",
-   "ticker": "ERC",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.07227,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.07227",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Utilities and High Income Fund",
-   "ticker": "ERH",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.08697,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.08697",
    "source_url": ""
   },
   {
@@ -22219,6 +22114,51 @@
    "source_url": ""
   },
   {
+   "company": "Allspring Income Opportunities Fund",
+   "ticker": "EAD",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.05234,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05234",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Multi-Sector Income Fund",
+   "ticker": "ERC",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.07192,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07192",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Utilities and High Income Fund",
+   "ticker": "ERH",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.08594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.08594",
+   "source_url": ""
+  },
+  {
    "company": "Interface, Inc.",
    "ticker": "NASDAQ: TILE",
    "exchange": "Nasdaq",
@@ -22516,6 +22456,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.67",
+   "source_url": ""
+  },
+  {
+   "company": "Kimberly-Clark Corporation",
+   "ticker": "KMB",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 1.28,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-05 $1.28",
    "source_url": ""
   },
   {
@@ -23614,21 +23569,6 @@
    "source_url": ""
   },
   {
-   "company": "Cardinal Health",
-   "ticker": "CAH",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.5158,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.5158",
-   "source_url": ""
-  },
-  {
    "company": "Cadiz, Inc.",
    "ticker": "CDZIP",
    "exchange": "NASDAQ",
@@ -24409,6 +24349,21 @@
    "source_url": ""
   },
   {
+   "company": "Cardinal Health",
+   "ticker": "CAH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5158,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.5158",
+   "source_url": ""
+  },
+  {
    "company": "Charter Communications, Inc.",
    "ticker": "CHTRP",
    "exchange": "NASDAQ",
@@ -24841,6 +24796,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.45",
+   "source_url": ""
+  },
+  {
+   "company": "Sempra",
+   "ticker": "SRE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.6575,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.6575",
    "source_url": ""
   },
   {
@@ -27019,21 +26989,6 @@
    "source_url": ""
   },
   {
-   "company": "Allspring Income Opportunities Fund",
-   "ticker": "EAD",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.05268,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.05268",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -27076,36 +27031,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-29 $1.1",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Multi-Sector Income Fund",
-   "ticker": "ERC",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.07227,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.07227",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Utilities and High Income Fund",
-   "ticker": "ERH",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.08697,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.08697",
    "source_url": ""
   },
   {
@@ -27871,6 +27796,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-03 $0.275",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Income Opportunities Fund",
+   "ticker": "EAD",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.05234,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05234",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Multi-Sector Income Fund",
+   "ticker": "ERC",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.07192,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07192",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Utilities and High Income Fund",
+   "ticker": "ERH",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.08594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-04",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.08594",
    "source_url": ""
   },
   {
@@ -32464,21 +32434,6 @@
    "source_url": ""
   },
   {
-   "company": "Allspring Income Opportunities Fund",
-   "ticker": "EAD",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.05268,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.05268",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -32491,36 +32446,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.13",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Multi-Sector Income Fund",
-   "ticker": "ERC",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.07227,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.07227",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Utilities and High Income Fund",
-   "ticker": "ERH",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.08697,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.08697",
    "source_url": ""
   },
   {
@@ -33394,21 +33319,6 @@
    "source_url": ""
   },
   {
-   "company": "Kimberly-Clark Corporation",
-   "ticker": "KMB",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.28,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $1.28",
-   "source_url": ""
-  },
-  {
    "company": "Magnolia Oil & Gas Corporation",
    "ticker": "MGY",
    "exchange": "NYSE",
@@ -33919,6 +33829,21 @@
    "source_url": ""
   },
   {
+   "company": "Allspring Income Opportunities Fund",
+   "ticker": "EAD",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.05234,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05234",
+   "source_url": ""
+  },
+  {
    "company": "Employers Holdings, Inc.",
    "ticker": "EIG",
    "exchange": "NYSE",
@@ -33931,6 +33856,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-03 $0.34",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Multi-Sector Income Fund",
+   "ticker": "ERC",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.07192,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07192",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Utilities and High Income Fund",
+   "ticker": "ERH",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.08594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.08594",
    "source_url": ""
   },
   {
@@ -34111,6 +34066,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $0.05",
+   "source_url": ""
+  },
+  {
+   "company": "Allison Transmission Holdings Inc.",
+   "ticker": "ALSN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.29",
    "source_url": ""
   },
   {
@@ -39829,21 +39799,6 @@
    "source_url": ""
   },
   {
-   "company": "Allspring Income Opportunities Fund",
-   "ticker": "EAD",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.05268,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.05268",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -39856,36 +39811,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.13",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Multi-Sector Income Fund",
-   "ticker": "ERC",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.07227,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.07227",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Utilities and High Income Fund",
-   "ticker": "ERH",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.08697,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.08697",
    "source_url": ""
   },
   {
@@ -42214,6 +42139,51 @@
    "source_url": ""
   },
   {
+   "company": "Allspring Income Opportunities Fund",
+   "ticker": "EAD",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.05234,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05234",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Multi-Sector Income Fund",
+   "ticker": "ERC",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.07192,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07192",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Utilities and High Income Fund",
+   "ticker": "ERH",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.08594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-03",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.08594",
+   "source_url": ""
+  },
+  {
    "company": "LEAR CORP",
    "ticker": "LEAR",
    "exchange": "NYSE",
@@ -42541,6 +42511,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.67",
+   "source_url": ""
+  },
+  {
+   "company": "Kimberly-Clark Corporation",
+   "ticker": "KMB",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 1.28,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-05 $1.28",
    "source_url": ""
   },
   {
@@ -43759,21 +43744,6 @@
    "source_url": ""
   },
   {
-   "company": "Cardinal Health",
-   "ticker": "CAH",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.5158,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.5158",
-   "source_url": ""
-  },
-  {
    "company": "Cadiz, Inc.",
    "ticker": "CDZIP",
    "exchange": "NASDAQ",
@@ -44434,6 +44404,21 @@
    "source_url": ""
   },
   {
+   "company": "Cardinal Health",
+   "ticker": "CAH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5158,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.5158",
+   "source_url": ""
+  },
+  {
    "company": "Charter Communications, Inc.",
    "ticker": "CHTRP",
    "exchange": "NASDAQ",
@@ -44866,6 +44851,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.45",
+   "source_url": ""
+  },
+  {
+   "company": "Sempra",
+   "ticker": "SRE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.6575,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.6575",
    "source_url": ""
   },
   {
@@ -46864,21 +46864,6 @@
    "source_url": ""
   },
   {
-   "company": "Allspring Income Opportunities Fund",
-   "ticker": "EAD",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.05268,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.05268",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -46891,36 +46876,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.13",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Multi-Sector Income Fund",
-   "ticker": "ERC",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.07227,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.07227",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Utilities and High Income Fund",
-   "ticker": "ERH",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.08697,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.08697",
    "source_url": ""
   },
   {
@@ -47746,6 +47701,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $1.62",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Income Opportunities Fund",
+   "ticker": "EAD",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.05234,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05234",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Multi-Sector Income Fund",
+   "ticker": "ERC",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.07192,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07192",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Utilities and High Income Fund",
+   "ticker": "ERH",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.08594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.08594",
    "source_url": ""
   },
   {
@@ -52444,21 +52444,6 @@
    "source_url": ""
   },
   {
-   "company": "Allspring Income Opportunities Fund",
-   "ticker": "EAD",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.05268,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.05268",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -52471,36 +52456,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.13",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Multi-Sector Income Fund",
-   "ticker": "ERC",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.07227,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.07227",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Utilities and High Income Fund",
-   "ticker": "ERH",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.08697,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.08697",
    "source_url": ""
   },
   {
@@ -53374,21 +53329,6 @@
    "source_url": ""
   },
   {
-   "company": "Kimberly-Clark Corporation",
-   "ticker": "KMB",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.28,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $1.28",
-   "source_url": ""
-  },
-  {
    "company": "LINCOLN NATIONAL CORPORATION",
    "ticker": "LNC",
    "exchange": "NYSE",
@@ -53641,6 +53581,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.895",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Income Opportunities Fund",
+   "ticker": "EAD",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.05234,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05234",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Multi-Sector Income Fund",
+   "ticker": "ERC",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.07192,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07192",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Utilities and High Income Fund",
+   "ticker": "ERH",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.08594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.08594",
    "source_url": ""
   },
   {
@@ -54151,6 +54136,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $0.05",
+   "source_url": ""
+  },
+  {
+   "company": "Allison Transmission Holdings Inc.",
+   "ticker": "ALSN",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.29",
    "source_url": ""
   },
   {
@@ -59629,21 +59629,6 @@
    "source_url": ""
   },
   {
-   "company": "Allspring Income Opportunities Fund",
-   "ticker": "EAD",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.05268,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.05268",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -59656,36 +59641,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.13",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Multi-Sector Income Fund",
-   "ticker": "ERC",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.07227,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.07227",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Utilities and High Income Fund",
-   "ticker": "ERH",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.08697,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.08697",
    "source_url": ""
   },
   {
@@ -62029,6 +61984,51 @@
    "source_url": ""
   },
   {
+   "company": "Allspring Income Opportunities Fund",
+   "ticker": "EAD",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.05234,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05234",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Multi-Sector Income Fund",
+   "ticker": "ERC",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.07192,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07192",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Utilities and High Income Fund",
+   "ticker": "ERH",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.08594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.08594",
+   "source_url": ""
+  },
+  {
    "company": "Hawthorn Bancshares, Inc.",
    "ticker": "HWBK",
    "exchange": "Nasdaq",
@@ -62416,6 +62416,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-05 $0.67",
+   "source_url": ""
+  },
+  {
+   "company": "Kimberly-Clark Corporation",
+   "ticker": "KMB",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 1.28,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-05 $1.28",
    "source_url": ""
   },
   {
@@ -63634,21 +63649,6 @@
    "source_url": ""
   },
   {
-   "company": "Cardinal Health",
-   "ticker": "CAH",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.5158,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.5158",
-   "source_url": ""
-  },
-  {
    "company": "Cadiz, Inc.",
    "ticker": "CDZIP",
    "exchange": "NASDAQ",
@@ -64324,6 +64324,21 @@
    "source_url": ""
   },
   {
+   "company": "Cardinal Health",
+   "ticker": "CAH",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.5158,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.5158",
+   "source_url": ""
+  },
+  {
    "company": "Charter Communications, Inc.",
    "ticker": "CHTRP",
    "exchange": "NASDAQ",
@@ -64756,6 +64771,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.45",
+   "source_url": ""
+  },
+  {
+   "company": "Sempra",
+   "ticker": "SRE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.6575,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.6575",
    "source_url": ""
   },
   {
@@ -66694,21 +66724,6 @@
    "source_url": ""
   },
   {
-   "company": "Allspring Income Opportunities Fund",
-   "ticker": "EAD",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.05268,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.05268",
-   "source_url": ""
-  },
-  {
    "company": "Ellington Financial Inc.",
    "ticker": "EFC",
    "exchange": "NYSE",
@@ -66721,36 +66736,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.13",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Multi-Sector Income Fund",
-   "ticker": "ERC",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.07227,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.07227",
-   "source_url": ""
-  },
-  {
-   "company": "Allspring Utilities and High Income Fund",
-   "ticker": "ERH",
-   "exchange": "NYSE American",
-   "security": "fund",
-   "amount_per_share": 0.08697,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.08697",
    "source_url": ""
   },
   {
@@ -67486,6 +67471,51 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-01 $0.26",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Income Opportunities Fund",
+   "ticker": "EAD",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.05234,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05234",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Multi-Sector Income Fund",
+   "ticker": "ERC",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.07192,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07192",
+   "source_url": ""
+  },
+  {
+   "company": "Allspring Utilities and High Income Fund",
+   "ticker": "ERH",
+   "exchange": "NYSE American",
+   "security": "fund",
+   "amount_per_share": 0.08594,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.08594",
    "source_url": ""
   },
   {
