@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12 15:17",
+ "updatedAt": "2026-11-12 18:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -74781,6 +74781,21 @@
    "collected_at": "2026-11-06 09:51"
   },
   {
+   "company": "Aflac Incorporated",
+   "exchange": "NYSE",
+   "ticker": "AFL",
+   "security": "common",
+   "amount_per_share": 0.64,
+   "currency": "USD",
+   "record_date": "2027-02-17",
+   "payable_date": "2027-03-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/aflac-incorporated-announces-4-9-increase-in-the-first-quarter-2027-dividend-302937426.html",
+   "collected_at": "2026-11-12 18:17"
+  },
+  {
    "company": "Main Street Capital Corporation",
    "exchange": "NYSE",
    "ticker": "MAIN",
@@ -75036,5 +75051,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 5023
+ "count": 5024
 }

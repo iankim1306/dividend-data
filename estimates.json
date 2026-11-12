@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-12 15:17",
+ "updatedAt": "2026-11-12 18:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4607,
+ "count": 4606,
  "items": [
   {
    "company": "Synchrony Financial",
@@ -13081,21 +13081,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.08854",
-   "source_url": ""
-  },
-  {
-   "company": "Aflac Incorporated",
-   "ticker": "AFL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.61,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-02",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.61",
    "source_url": ""
   },
   {
@@ -32599,6 +32584,21 @@
    "source_url": ""
   },
   {
+   "company": "Aflac Incorporated",
+   "ticker": "AFL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.64,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-03-01 $0.64",
+   "source_url": ""
+  },
+  {
    "company": "Angel Oak Mortgage REIT, Inc.",
    "ticker": "AOMR",
    "exchange": "NYSE",
@@ -32926,21 +32926,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "Aflac Incorporated",
-   "ticker": "AFL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.61,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.61",
    "source_url": ""
   },
   {
@@ -52624,6 +52609,21 @@
    "source_url": ""
   },
   {
+   "company": "Aflac Incorporated",
+   "ticker": "AFL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.64,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-03-01 $0.64",
+   "source_url": ""
+  },
+  {
    "company": "Angel Oak Mortgage REIT, Inc.",
    "ticker": "AOMR",
    "exchange": "NYSE",
@@ -52951,21 +52951,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "Aflac Incorporated",
-   "ticker": "AFL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.61,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-12-01 $0.61",
    "source_url": ""
   },
   {
