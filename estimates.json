@@ -1,23 +1,8 @@
 {
- "updatedAt": "2026-11-13 21:17",
+ "updatedAt": "2026-11-14 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4628,
+ "count": 4633,
  "items": [
-  {
-   "company": "Synchrony Financial",
-   "ticker": "SYF",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-15 $1",
-   "source_url": ""
-  },
   {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
    "ticker": "AFB",
@@ -676,21 +661,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $0.271",
-   "source_url": ""
-  },
-  {
-   "company": "Columbia Banking System, Inc.",
-   "ticker": "COLB",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.37,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-14 $0.37",
    "source_url": ""
   },
   {
@@ -3031,21 +3001,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
-   "source_url": ""
-  },
-  {
-   "company": "The Timken Company",
-   "ticker": "TKR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.36",
    "source_url": ""
   },
   {
@@ -14269,6 +14224,21 @@
    "source_url": ""
   },
   {
+   "company": "Patrick Industries, Inc.",
+   "ticker": "PATK",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-07 $0.52",
+   "source_url": ""
+  },
+  {
    "company": "Paycom Software, Inc.",
    "ticker": "PAYC",
    "exchange": "NYSE",
@@ -14326,6 +14296,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-07 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "The Timken Company",
+   "ticker": "TKR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-07 $0.36",
    "source_url": ""
   },
   {
@@ -15428,14 +15413,14 @@
    "ticker": "COLB",
    "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.37,
+   "amount_per_share": 0.38,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-15",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-14 $0.37",
+   "basis": "last confirmed 2026-12-14 $0.38",
    "source_url": ""
   },
   {
@@ -20536,21 +20521,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.12",
-   "source_url": ""
-  },
-  {
-   "company": "The Timken Company",
-   "ticker": "TKR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.36",
    "source_url": ""
   },
   {
@@ -34369,6 +34339,21 @@
    "source_url": ""
   },
   {
+   "company": "Patrick Industries, Inc.",
+   "ticker": "PATK",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-07 $0.52",
+   "source_url": ""
+  },
+  {
    "company": "Paycom Software, Inc.",
    "ticker": "PAYC",
    "exchange": "NYSE",
@@ -34426,6 +34411,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-07 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "The Timken Company",
+   "ticker": "TKR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-07 $0.36",
    "source_url": ""
   },
   {
@@ -35633,14 +35633,14 @@
    "ticker": "COLB",
    "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.37,
+   "amount_per_share": 0.38,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-14 $0.37",
+   "basis": "last confirmed 2026-12-14 $0.38",
    "source_url": ""
   },
   {
@@ -40846,21 +40846,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.12",
-   "source_url": ""
-  },
-  {
-   "company": "The Timken Company",
-   "ticker": "TKR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.36",
    "source_url": ""
   },
   {
@@ -54619,6 +54604,21 @@
    "source_url": ""
   },
   {
+   "company": "Patrick Industries, Inc.",
+   "ticker": "PATK",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.52,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-07 $0.52",
+   "source_url": ""
+  },
+  {
    "company": "Paycom Software, Inc.",
    "ticker": "PAYC",
    "exchange": "NYSE",
@@ -54676,6 +54676,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-07 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "The Timken Company",
+   "ticker": "TKR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-07 $0.36",
    "source_url": ""
   },
   {
@@ -55973,14 +55988,14 @@
    "ticker": "COLB",
    "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.37,
+   "amount_per_share": 0.38,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-13",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-14 $0.37",
+   "basis": "last confirmed 2026-12-14 $0.38",
    "source_url": ""
   },
   {
@@ -60976,21 +60991,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.12",
-   "source_url": ""
-  },
-  {
-   "company": "The Timken Company",
-   "ticker": "TKR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.36",
    "source_url": ""
   },
   {
@@ -69421,6 +69421,81 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $0.48",
+   "source_url": ""
+  },
+  {
+   "company": "Synchrony Financial",
+   "ticker": "SYF",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-08-15 $1",
+   "source_url": ""
+  },
+  {
+   "company": "Ally Financial",
+   "ticker": "ALLY",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 17.75,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-15 $17.75",
+   "source_url": ""
+  },
+  {
+   "company": "Citi",
+   "ticker": "C",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1000,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-15 $1000",
+   "source_url": ""
+  },
+  {
+   "company": "Keurig Dr Pepper Inc.",
+   "ticker": "KDP",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.69,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-15 $0.69",
+   "source_url": ""
+  },
+  {
+   "company": "WHIRLPOOL CORP",
+   "ticker": "WHR",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 85.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-15 $85.0",
    "source_url": ""
   }
  ]
