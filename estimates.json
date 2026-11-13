@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-14 03:17",
+ "updatedAt": "2026-11-14 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4639,
+ "count": 4644,
  "items": [
   {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
@@ -946,21 +946,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.277908",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-16",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
@@ -4144,6 +4129,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Kimco Realty Corporation",
    "ticker": "KIM",
    "exchange": "NYSE",
@@ -5071,21 +5071,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.3",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
@@ -8659,6 +8644,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Kaiser Aluminum Corporation",
    "ticker": "KALU",
    "exchange": "NASDAQ",
@@ -9046,21 +9046,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.1265",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
@@ -15349,6 +15334,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Adeia Inc.",
    "ticker": "ADEA",
    "exchange": "Nasdaq",
@@ -16246,21 +16246,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.4625",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-16",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
@@ -18181,6 +18166,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-22 $0.29",
+   "source_url": ""
+  },
+  {
+   "company": "CNO Financial Group",
+   "ticker": "CNO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.18,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.18",
    "source_url": ""
   },
   {
@@ -22999,6 +22999,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Schneider National, Inc.",
    "ticker": "SNDR",
    "exchange": "NYSE",
@@ -23659,21 +23674,6 @@
    "source_url": ""
   },
   {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Korn Ferry",
    "ticker": "KFY",
    "exchange": "NYSE",
@@ -24166,6 +24166,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.94",
+   "source_url": ""
+  },
+  {
+   "company": "CMS Energy",
+   "ticker": "CMS PRC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.2625",
    "source_url": ""
   },
   {
@@ -28279,6 +28294,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Kadant Inc.",
    "ticker": "KAI",
    "exchange": "NYSE",
@@ -28981,21 +29011,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-16 $0.06",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
@@ -35494,6 +35509,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
    "ticker": "AFB",
    "exchange": "NYSE",
@@ -35746,21 +35776,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-14 $0.15",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
@@ -38446,6 +38461,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
+   "company": "CNO Financial Group",
+   "ticker": "CNO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.18,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.18",
    "source_url": ""
   },
   {
@@ -43279,6 +43309,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
    "ticker": "AFB",
    "exchange": "NYSE",
@@ -43561,21 +43606,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-14 $0.07",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
@@ -44476,6 +44506,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.94",
+   "source_url": ""
+  },
+  {
+   "company": "CMS Energy",
+   "ticker": "CMS PRC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.2625",
    "source_url": ""
   },
   {
@@ -48514,6 +48559,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "Riley Exploration Permian, Inc.",
    "ticker": "REPX",
    "exchange": "NYSE American",
@@ -49051,21 +49111,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-16 $0.06",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
@@ -55609,6 +55654,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "The St. Joe Company",
    "ticker": "JOE",
    "exchange": "NYSE",
@@ -55936,21 +55996,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-16 $0.06",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
@@ -58681,6 +58726,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-26 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "CNO Financial Group",
+   "ticker": "CNO",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.18,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.18",
    "source_url": ""
   },
   {
@@ -63394,6 +63454,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
    "ticker": "AFB",
    "exchange": "NYSE",
@@ -63646,21 +63721,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $0.15",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
@@ -64651,6 +64711,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.94",
+   "source_url": ""
+  },
+  {
+   "company": "CMS Energy",
+   "ticker": "CMS PRC",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 0.2625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.2625",
    "source_url": ""
   },
   {
@@ -68614,6 +68689,21 @@
    "source_url": ""
   },
   {
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.12",
+   "source_url": ""
+  },
+  {
    "company": "METROPOLITAN BANK HOLDING CORP.",
    "ticker": "MCB",
    "exchange": "New York Stock Exchange",
@@ -68911,21 +69001,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-12 $0.1",
-   "source_url": ""
-  },
-  {
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-11-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.12",
    "source_url": ""
   },
   {
