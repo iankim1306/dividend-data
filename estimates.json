@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-14 00:17",
+ "updatedAt": "2026-11-14 03:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4633,
+ "count": 4639,
  "items": [
   {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
@@ -21784,6 +21784,21 @@
    "source_url": ""
   },
   {
+   "company": "Consumers Energy",
+   "ticker": "CMS_PB",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $1.125",
+   "source_url": ""
+  },
+  {
    "company": "Hawthorn Bancshares, Inc.",
    "ticker": "HWBK",
    "exchange": "Nasdaq",
@@ -24136,6 +24151,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.43750001",
+   "source_url": ""
+  },
+  {
+   "company": "Cincinnati Financial Corporation",
+   "ticker": "CINF",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.94,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.94",
    "source_url": ""
   },
   {
@@ -42064,6 +42094,21 @@
    "source_url": ""
   },
   {
+   "company": "Consumers Energy",
+   "ticker": "CMS_PB",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $1.125",
+   "source_url": ""
+  },
+  {
    "company": "Gladstone Capital Corporation",
    "ticker": "GLAD",
    "exchange": "Nasdaq",
@@ -44416,6 +44461,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.43750001",
+   "source_url": ""
+  },
+  {
+   "company": "Cincinnati Financial Corporation",
+   "ticker": "CINF",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.94,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.94",
    "source_url": ""
   },
   {
@@ -62209,6 +62269,21 @@
    "source_url": ""
   },
   {
+   "company": "Consumers Energy",
+   "ticker": "CMS_PB",
+   "exchange": "NYSE",
+   "security": "preferred",
+   "amount_per_share": 1.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $1.125",
+   "source_url": ""
+  },
+  {
    "company": "Allspring Income Opportunities Fund",
    "ticker": "EAD",
    "exchange": "NYSE American",
@@ -64561,6 +64636,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.43750001",
+   "source_url": ""
+  },
+  {
+   "company": "Cincinnati Financial Corporation",
+   "ticker": "CINF",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.94,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.94",
    "source_url": ""
   },
   {
