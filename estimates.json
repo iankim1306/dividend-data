@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-13 18:17",
+ "updatedAt": "2026-11-13 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4627,
+ "count": 4628,
  "items": [
   {
    "company": "Synchrony Financial",
@@ -1456,21 +1456,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-24 $0.1534",
-   "source_url": ""
-  },
-  {
-   "company": "Vertiv Holdings Co",
-   "ticker": "VRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-24 $0.0625",
    "source_url": ""
   },
   {
@@ -5011,21 +4996,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.96",
-   "source_url": ""
-  },
-  {
-   "company": "Xenia Hotels & Resorts, Inc.",
-   "ticker": "XHR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.14",
    "source_url": ""
   },
   {
@@ -16609,6 +16579,21 @@
    "source_url": ""
   },
   {
+   "company": "Old Republic International Corporation",
+   "ticker": "ORI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.315,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.315",
+   "source_url": ""
+  },
+  {
    "company": "Pangaea Logistics Solutions Ltd.",
    "ticker": "PANL",
    "exchange": "Nasdaq",
@@ -17431,6 +17416,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Vertiv Holdings Co",
+   "ticker": "VRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.1",
    "source_url": ""
   },
   {
@@ -18391,21 +18391,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-24 $0.21",
-   "source_url": ""
-  },
-  {
-   "company": "Vertiv Holdings Co",
-   "ticker": "VRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-24 $0.0625",
    "source_url": ""
   },
   {
@@ -24109,21 +24094,6 @@
    "source_url": ""
   },
   {
-   "company": "Xenia Hotels & Resorts, Inc.",
-   "ticker": "XHR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.14",
-   "source_url": ""
-  },
-  {
    "company": "ARES COMMERCIAL REAL ESTATE CORPORATION",
    "ticker": "ARES",
    "exchange": "NYSE",
@@ -24706,6 +24676,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.23",
+   "source_url": ""
+  },
+  {
+   "company": "Xenia Hotels & Resorts, Inc.",
+   "ticker": "XHR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.14",
    "source_url": ""
   },
   {
@@ -36799,6 +36784,21 @@
    "source_url": ""
   },
   {
+   "company": "Old Republic International Corporation",
+   "ticker": "ORI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.315,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.315",
+   "source_url": ""
+  },
+  {
    "company": "Pangaea Logistics Solutions Ltd.",
    "ticker": "PANL",
    "exchange": "Nasdaq",
@@ -37606,6 +37606,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-17 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Vertiv Holdings Co",
+   "ticker": "VRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.1",
    "source_url": ""
   },
   {
@@ -38581,21 +38596,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-24 $0.21",
-   "source_url": ""
-  },
-  {
-   "company": "Vertiv Holdings Co",
-   "ticker": "VRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-24 $0.0625",
    "source_url": ""
   },
   {
@@ -44359,21 +44359,6 @@
    "source_url": ""
   },
   {
-   "company": "Xenia Hotels & Resorts, Inc.",
-   "ticker": "XHR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.14",
-   "source_url": ""
-  },
-  {
    "company": "ARES COMMERCIAL REAL ESTATE CORPORATION",
    "ticker": "ARES",
    "exchange": "NYSE",
@@ -44971,6 +44956,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.23",
+   "source_url": ""
+  },
+  {
+   "company": "Xenia Hotels & Resorts, Inc.",
+   "ticker": "XHR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.14",
    "source_url": ""
   },
   {
@@ -56989,6 +56989,21 @@
    "source_url": ""
   },
   {
+   "company": "Old Republic International Corporation",
+   "ticker": "ORI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.315,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.315",
+   "source_url": ""
+  },
+  {
    "company": "Pangaea Logistics Solutions Ltd.",
    "ticker": "PANL",
    "exchange": "Nasdaq",
@@ -57889,6 +57904,21 @@
    "source_url": ""
   },
   {
+   "company": "Vertiv Holdings Co",
+   "ticker": "VRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.1",
+   "source_url": ""
+  },
+  {
    "company": "Western Digital Corporation",
    "ticker": "WDC",
    "exchange": "Nasdaq",
@@ -58756,21 +58786,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-24 $0.21",
-   "source_url": ""
-  },
-  {
-   "company": "Vertiv Holdings Co",
-   "ticker": "VRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.0625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-24 $0.0625",
    "source_url": ""
   },
   {
@@ -64474,21 +64489,6 @@
    "source_url": ""
   },
   {
-   "company": "Xenia Hotels & Resorts, Inc.",
-   "ticker": "XHR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.14",
-   "source_url": ""
-  },
-  {
    "company": "ARES COMMERCIAL REAL ESTATE CORPORATION",
    "ticker": "ARES",
    "exchange": "NYSE",
@@ -65071,6 +65071,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.23",
+   "source_url": ""
+  },
+  {
+   "company": "Xenia Hotels & Resorts, Inc.",
+   "ticker": "XHR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-15 $0.14",
    "source_url": ""
   },
   {
