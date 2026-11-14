@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14 06:17",
+ "updatedAt": "2026-11-14 09:36",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
  "count": 4644,
  "items": [
@@ -601,21 +601,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-09 $0.06",
-   "source_url": ""
-  },
-  {
-   "company": "Cinemark Holdings, Inc.",
-   "ticker": "CNK",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-09 $0.09",
    "source_url": ""
   },
   {
@@ -3244,21 +3229,6 @@
    "source_url": ""
   },
   {
-   "company": "C&F Financial Corporation",
-   "ticker": "CFFI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "CRANE COMPANY",
    "ticker": "CR",
    "exchange": "NYSE",
@@ -4178,14 +4148,14 @@
    "ticker": "LFT",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.04,
+   "amount_per_share": 0.4,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-01-13",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.04",
+   "basis": "last confirmed 2026-07-15 $0.4",
    "source_url": ""
   },
   {
@@ -4628,14 +4598,14 @@
    "ticker": "LFT",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.4921875,
+   "amount_per_share": 0.49219,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-01-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.4921875",
+   "basis": "last confirmed 2026-10-15 $0.49219",
    "source_url": ""
   },
   {
@@ -7849,21 +7819,6 @@
    "source_url": ""
   },
   {
-   "company": "Lowe's Companies, Inc.",
-   "ticker": "LOW",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-03",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-04 $1.25",
-   "source_url": ""
-  },
-  {
    "company": "AZZ Inc.",
    "ticker": "AZZ",
    "exchange": "NYSE",
@@ -8445,7 +8400,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-13 $0.04",
+   "basis": "last confirmed 2026-11-12 $0.04",
    "source_url": ""
   },
   {
@@ -14565,7 +14520,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-09 $0.09",
+   "basis": "last confirmed 2026-12-09 $0.09",
    "source_url": ""
   },
   {
@@ -15136,6 +15091,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-11 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "First National Corporation",
+   "ticker": "FXNC",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-11 $0.19",
    "source_url": ""
   },
   {
@@ -20809,21 +20779,6 @@
    "source_url": ""
   },
   {
-   "company": "C&F Financial Corporation",
-   "ticker": "CFFI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "Cannae Holdings, Inc.",
    "ticker": "CNNE",
    "exchange": "NYSE",
@@ -21781,6 +21736,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-02 $1.02",
+   "source_url": ""
+  },
+  {
+   "company": "C&F Financial Corporation",
+   "ticker": "CFFI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5",
    "source_url": ""
   },
   {
@@ -23183,14 +23153,14 @@
    "ticker": "LFT",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.04,
+   "amount_per_share": 0.4,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.04",
+   "basis": "last confirmed 2026-07-15 $0.4",
    "source_url": ""
   },
   {
@@ -23708,14 +23678,14 @@
    "ticker": "LFT",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.4921875,
+   "amount_per_share": 0.49219,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-04-15",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.4921875",
+   "basis": "last confirmed 2026-10-15 $0.49219",
    "source_url": ""
   },
   {
@@ -27810,7 +27780,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-04 $1.25",
+   "basis": "last confirmed 2027-02-03 $1.25",
    "source_url": ""
   },
   {
@@ -28395,7 +28365,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-13 $0.04",
+   "basis": "last confirmed 2026-11-12 $0.04",
    "source_url": ""
   },
   {
@@ -34740,7 +34710,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-09 $0.09",
+   "basis": "last confirmed 2026-12-09 $0.09",
    "source_url": ""
   },
   {
@@ -35311,6 +35281,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-11 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "First National Corporation",
+   "ticker": "FXNC",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-11 $0.19",
    "source_url": ""
   },
   {
@@ -41149,21 +41134,6 @@
    "source_url": ""
   },
   {
-   "company": "C&F Financial Corporation",
-   "ticker": "CFFI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "Cannae Holdings, Inc.",
    "ticker": "CNNE",
    "exchange": "NYSE",
@@ -42121,6 +42091,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-02 $1.02",
+   "source_url": ""
+  },
+  {
+   "company": "C&F Financial Corporation",
+   "ticker": "CFFI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5",
    "source_url": ""
   },
   {
@@ -43643,14 +43628,14 @@
    "ticker": "LFT",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.04,
+   "amount_per_share": 0.4,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.04",
+   "basis": "last confirmed 2026-07-15 $0.4",
    "source_url": ""
   },
   {
@@ -44108,14 +44093,14 @@
    "ticker": "LFT",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.4921875,
+   "amount_per_share": 0.49219,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-07-15",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.4921875",
+   "basis": "last confirmed 2026-10-15 $0.49219",
    "source_url": ""
   },
   {
@@ -48165,7 +48150,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-04 $1.25",
+   "basis": "last confirmed 2027-02-03 $1.25",
    "source_url": ""
   },
   {
@@ -48840,7 +48825,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-13 $0.04",
+   "basis": "last confirmed 2026-11-12 $0.04",
    "source_url": ""
   },
   {
@@ -55050,7 +55035,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-09 $0.09",
+   "basis": "last confirmed 2026-12-09 $0.09",
    "source_url": ""
   },
   {
@@ -55621,6 +55606,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-11 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "First National Corporation",
+   "ticker": "FXNC",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-11 $0.19",
    "source_url": ""
   },
   {
@@ -61354,21 +61354,6 @@
    "source_url": ""
   },
   {
-   "company": "C&F Financial Corporation",
-   "ticker": "CFFI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "Cannae Holdings, Inc.",
    "ticker": "CNNE",
    "exchange": "NYSE",
@@ -62326,6 +62311,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-02 $1.02",
+   "source_url": ""
+  },
+  {
+   "company": "C&F Financial Corporation",
+   "ticker": "CFFI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5",
    "source_url": ""
   },
   {
@@ -63893,14 +63893,14 @@
    "ticker": "LFT",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.04,
+   "amount_per_share": 0.4,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-10-13",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-07-15 $0.04",
+   "basis": "last confirmed 2026-07-15 $0.4",
    "source_url": ""
   },
   {
@@ -64298,14 +64298,14 @@
    "ticker": "LFT",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.4921875,
+   "amount_per_share": 0.49219,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-10-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-15 $0.4921875",
+   "basis": "last confirmed 2026-10-15 $0.49219",
    "source_url": ""
   },
   {
@@ -68355,7 +68355,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-04 $1.25",
+   "basis": "last confirmed 2027-02-03 $1.25",
    "source_url": ""
   },
   {
@@ -69150,7 +69150,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-13 $0.04",
+   "basis": "last confirmed 2026-11-12 $0.04",
    "source_url": ""
   },
   {
