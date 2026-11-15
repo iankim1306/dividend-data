@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15 06:17",
+ "updatedAt": "2026-11-15 09:32",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -47490,6 +47490,36 @@
    "collected_at": "2026-08-07 00:29"
   },
   {
+   "company": "New EIDP",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 4.5,
+   "currency": "USD",
+   "record_date": "2026-09-24",
+   "payable_date": "2026-10-01",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1755672/000175567226000037/newcorteva-q326_25carvexou.htm",
+   "collected_at": "2026-11-15 09:19"
+  },
+  {
+   "company": "New EIDP",
+   "exchange": null,
+   "ticker": null,
+   "security": "preferred",
+   "amount_per_share": 3.5,
+   "currency": "USD",
+   "record_date": "2026-09-24",
+   "payable_date": "2026-10-01",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1755672/000175567226000037/newcorteva-q326_25carvexou.htm",
+   "collected_at": "2026-11-15 09:19"
+  },
+  {
    "company": "Agree Realty Corporation",
    "exchange": "NYSE",
    "ticker": "ADC",
@@ -76146,5 +76176,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 5097
+ "count": 5099
 }
