@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16 18:17",
+ "updatedAt": "2026-11-16 21:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -62769,6 +62769,21 @@
    "collected_at": "2026-10-02 06:18"
   },
   {
+   "company": "Highway Holdings Limited",
+   "exchange": "Nasdaq",
+   "ticker": "HIHO",
+   "security": "common",
+   "amount_per_share": 0.43228,
+   "currency": "USD",
+   "record_date": "2026-11-27",
+   "payable_date": "2026-11-30",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/highway-holdings-declares-us0-43228-cash-per-share-special-dividend-302939872.html",
+   "collected_at": "2026-11-16 21:17"
+  },
+  {
    "company": "John Hancock Preferred Income Fund II",
    "exchange": "NYSE",
    "ticker": "HPF",
@@ -63157,6 +63172,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1516912/000151691226000064/a4q2026dividenddeclaration.htm",
    "collected_at": "2026-10-29 09:18"
+  },
+  {
+   "company": "T. Rowe Price OHA Select Private Credit Fund",
+   "exchange": null,
+   "ticker": "OCREDIT",
+   "security": "common",
+   "amount_per_share": 0.6,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-11-30",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/t-rowe-price-oha-select-private-credit-fund-announces-september-30--2026-financial-results-and-declared-total-distributions-of-0-60-per-share-in-q3-2026--302939652.html",
+   "collected_at": "2026-11-16 21:17"
+  },
+  {
+   "company": "T. Rowe Price OHA Select Private Credit Fund",
+   "exchange": null,
+   "ticker": "OCREDIT",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "2026-10-31",
+   "payable_date": "2026-11-30",
+   "frequency": "special",
+   "us_listed": false,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/t-rowe-price-oha-select-private-credit-fund-announces-september-30--2026-financial-results-and-declared-total-distributions-of-0-60-per-share-in-q3-2026--302939652.html",
+   "collected_at": "2026-11-16 21:17"
   },
   {
    "company": "Invesco Municipal Income Opportunities Trust",
@@ -76176,5 +76221,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 5099
+ "count": 5102
 }
