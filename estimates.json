@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-17 18:17",
+ "updatedAt": "2026-11-17 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4680,
+ "count": 4682,
  "items": [
   {
    "company": "Dolby Laboratories, Inc.",
@@ -3766,21 +3766,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-09 $0.4",
-   "source_url": ""
-  },
-  {
-   "company": "Quanta Services, Inc.",
-   "ticker": "PWR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.11,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-08",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.11",
    "source_url": ""
   },
   {
@@ -16729,6 +16714,21 @@
    "source_url": ""
   },
   {
+   "company": "Visteon Corporation",
+   "ticker": "VC",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.375",
+   "source_url": ""
+  },
+  {
    "company": "Virtu Financial, Inc.",
    "ticker": "VIRT",
    "exchange": "NYSE",
@@ -22654,21 +22654,6 @@
    "source_url": ""
   },
   {
-   "company": "Quanta Services, Inc.",
-   "ticker": "PWR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.11,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.11",
-   "source_url": ""
-  },
-  {
    "company": "Invesco QQQ Trust",
    "ticker": "QQQ",
    "exchange": "NASDAQ",
@@ -23146,6 +23131,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $1562.5",
+   "source_url": ""
+  },
+  {
+   "company": "Quanta Services, Inc.",
+   "ticker": "PWR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-13 $0.13",
    "source_url": ""
   },
   {
@@ -37039,6 +37039,21 @@
    "source_url": ""
   },
   {
+   "company": "Visteon Corporation",
+   "ticker": "VC",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.375",
+   "source_url": ""
+  },
+  {
    "company": "Virtu Financial, Inc.",
    "ticker": "VIRT",
    "exchange": "NYSE",
@@ -43054,21 +43069,6 @@
    "source_url": ""
   },
   {
-   "company": "Quanta Services, Inc.",
-   "ticker": "PWR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.11,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.11",
-   "source_url": ""
-  },
-  {
    "company": "Invesco QQQ Trust",
    "ticker": "QQQ",
    "exchange": "NASDAQ",
@@ -43651,6 +43651,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.016204",
+   "source_url": ""
+  },
+  {
+   "company": "Quanta Services, Inc.",
+   "ticker": "PWR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-13 $0.13",
    "source_url": ""
   },
   {
@@ -57364,6 +57379,21 @@
    "source_url": ""
   },
   {
+   "company": "Visteon Corporation",
+   "ticker": "VC",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.375",
+   "source_url": ""
+  },
+  {
    "company": "Virtu Financial, Inc.",
    "ticker": "VIRT",
    "exchange": "NYSE",
@@ -63304,21 +63334,6 @@
    "source_url": ""
   },
   {
-   "company": "Quanta Services, Inc.",
-   "ticker": "PWR",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.11,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-08",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.11",
-   "source_url": ""
-  },
-  {
    "company": "Invesco QQQ Trust",
    "ticker": "QQQ",
    "exchange": "NASDAQ",
@@ -63916,6 +63931,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-14 $0.34",
+   "source_url": ""
+  },
+  {
+   "company": "Quanta Services, Inc.",
+   "ticker": "PWR",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.13,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-13 $0.13",
    "source_url": ""
   },
   {
