@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-18 00:17",
+ "updatedAt": "2026-11-18 03:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4694,
+ "count": 4693,
  "items": [
   {
    "company": "Calamos Dynamic Convertible and Income Fund",
@@ -751,21 +751,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.242",
-   "source_url": ""
-  },
-  {
-   "company": "NACCO Industries",
-   "ticker": "NC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.2625",
    "source_url": ""
   },
   {
@@ -16260,7 +16245,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.2625",
+   "basis": "last confirmed 2026-12-15 $0.2625",
    "source_url": ""
   },
   {
@@ -36615,7 +36600,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.2625",
+   "basis": "last confirmed 2026-12-15 $0.2625",
    "source_url": ""
   },
   {
@@ -56970,7 +56955,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.2625",
+   "basis": "last confirmed 2026-12-15 $0.2625",
    "source_url": ""
   },
   {
