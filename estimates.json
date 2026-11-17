@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-17 06:17",
+ "updatedAt": "2026-11-17 09:33",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4679,
+ "count": 4680,
  "items": [
   {
    "company": "Dolby Laboratories, Inc.",
@@ -319,21 +319,6 @@
    "source_url": ""
   },
   {
-   "company": "MACKENZIE REALTY CAPITAL, INC.",
-   "ticker": "MKZR",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 0.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5625",
-   "source_url": ""
-  },
-  {
    "company": "Mount Logan Capital Inc.",
    "ticker": "MLCI",
    "exchange": "Nasdaq",
@@ -541,21 +526,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-08 $0.28",
-   "source_url": ""
-  },
-  {
-   "company": "Aramark",
-   "ticker": "ARMK",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-09 $0.12",
    "source_url": ""
   },
   {
@@ -799,51 +769,6 @@
    "source_url": ""
   },
   {
-   "company": "MetLife, Inc.",
-   "ticker": "MET PRA",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 0.31471411,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.31471411",
-   "source_url": ""
-  },
-  {
-   "company": "MetLife, Inc.",
-   "ticker": "MET PRE",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 351.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $351.5625",
-   "source_url": ""
-  },
-  {
-   "company": "MetLife, Inc.",
-   "ticker": "MET PRF",
-   "exchange": "NYSE",
-   "security": "preferred",
-   "amount_per_share": 296.875,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $296.875",
-   "source_url": ""
-  },
-  {
    "company": "NACCO Industries",
    "ticker": "NC",
    "exchange": "NYSE",
@@ -901,21 +826,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.277908",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-16",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -2524,21 +2434,6 @@
    "source_url": ""
   },
   {
-   "company": "MACKENZIE REALTY CAPITAL, INC.",
-   "ticker": "MKZR",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 0.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5625",
-   "source_url": ""
-  },
-  {
    "company": "Aberdeen Multi-Market Income Fund",
    "ticker": "MMT",
    "exchange": "NYSE",
@@ -3241,21 +3136,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-02 $2.12",
-   "source_url": ""
-  },
-  {
-   "company": "Farmers & Merchants Bancorp",
-   "ticker": "FMCB",
-   "exchange": "OTCQX",
-   "security": "common",
-   "amount_per_share": 5.6,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $5.6",
    "source_url": ""
   },
   {
@@ -4609,6 +4489,21 @@
    "source_url": ""
   },
   {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "NewLake Capital Partners, Inc.",
    "ticker": "NLCP",
    "exchange": "OTC",
@@ -5041,21 +4936,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.72",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -6274,21 +6154,6 @@
    "source_url": ""
   },
   {
-   "company": "AECOM",
-   "ticker": "ACM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.31,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.31",
-   "source_url": ""
-  },
-  {
    "company": "ACRES Commercial Realty Corp.",
    "ticker": "ACR",
    "exchange": "NYSE",
@@ -6751,21 +6616,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "MACKENZIE REALTY CAPITAL, INC.",
-   "ticker": "MKZR",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 0.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5625",
    "source_url": ""
   },
   {
@@ -7429,6 +7279,21 @@
    "source_url": ""
   },
   {
+   "company": "MacKenzie Realty Capital, Inc.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5625",
+   "source_url": ""
+  },
+  {
    "company": "Marsh & McLennan Companies, Inc.",
    "ticker": "MMC",
    "exchange": "NYSE",
@@ -7943,6 +7808,21 @@
    "ticker": "PBHC",
    "exchange": "Nasdaq",
    "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "PATHFINDER BANCORP, INC.",
+   "ticker": "PBHC",
+   "exchange": "Nasdaq",
+   "security": "non-voting common",
    "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
@@ -8839,6 +8719,21 @@
    "source_url": ""
   },
   {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -8986,21 +8881,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-15 $0.69",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -11809,21 +11689,6 @@
    "source_url": ""
   },
   {
-   "company": "MACKENZIE REALTY CAPITAL, INC.",
-   "ticker": "MKZR",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 0.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5625",
-   "source_url": ""
-  },
-  {
    "company": "Aberdeen Multi-Market Income Fund",
    "ticker": "MMT",
    "exchange": "NYSE",
@@ -13021,6 +12886,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $0.18",
+   "source_url": ""
+  },
+  {
+   "company": "MacKenzie Realty Capital, Inc.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5625",
    "source_url": ""
   },
   {
@@ -14389,21 +14269,6 @@
    "source_url": ""
   },
   {
-   "company": "Aramark",
-   "ticker": "ARMK",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-10",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Atmus Filtration Technologies Inc.",
    "ticker": "ATMU",
    "exchange": "NYSE",
@@ -15439,6 +15304,21 @@
    "source_url": ""
   },
   {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -16313,14 +16193,14 @@
    "ticker": "MET PRA",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.31471411,
+   "amount_per_share": 0.32584066,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-16",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.31471411",
+   "basis": "last confirmed 2026-12-15 $0.32584066",
    "source_url": ""
   },
   {
@@ -16335,7 +16215,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $351.5625",
+   "basis": "last confirmed 2026-12-15 $351.5625",
    "source_url": ""
   },
   {
@@ -16350,7 +16230,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $296.875",
+   "basis": "last confirmed 2026-12-15 $296.875",
    "source_url": ""
   },
   {
@@ -16381,21 +16261,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $165.63",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-16",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -16936,6 +16801,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-16 $0.66",
+   "source_url": ""
+  },
+  {
+   "company": "Aramark",
+   "ticker": "ARMK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.14",
    "source_url": ""
   },
   {
@@ -19234,21 +19114,6 @@
    "source_url": ""
   },
   {
-   "company": "MACKENZIE REALTY CAPITAL, INC.",
-   "ticker": "MKZR",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 0.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-30",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5625",
-   "source_url": ""
-  },
-  {
    "company": "Aberdeen Multi-Market Income Fund",
    "ticker": "MMT",
    "exchange": "NYSE",
@@ -20959,21 +20824,6 @@
    "source_url": ""
   },
   {
-   "company": "Farmers & Merchants Bancorp",
-   "ticker": "FMCB",
-   "exchange": "OTCQX",
-   "security": "common",
-   "amount_per_share": 5.6,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $5.6",
-   "source_url": ""
-  },
-  {
    "company": "Fidelity National Financial, Inc.",
    "ticker": "FNF",
    "exchange": "NYSE",
@@ -21154,6 +21004,21 @@
    "source_url": ""
   },
   {
+   "company": "MacKenzie Realty Capital, Inc.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5625",
+   "source_url": ""
+  },
+  {
    "company": "Merck & Co., Inc.",
    "ticker": "MRK",
    "exchange": "NYSE",
@@ -21166,6 +21031,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.85",
+   "source_url": ""
+  },
+  {
+   "company": "M&T Bank Corporation",
+   "ticker": "MTB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.8,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $1.8",
    "source_url": ""
   },
   {
@@ -22054,6 +21934,21 @@
    "source_url": ""
   },
   {
+   "company": "Farmers & Merchants Bancorp",
+   "ticker": "FMCB",
+   "exchange": "OTCQX",
+   "security": "common",
+   "amount_per_share": 5.85,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $5.85",
+   "source_url": ""
+  },
+  {
    "company": "Invesco CurrencyShares Canadian Dollar Trust",
    "ticker": "FXC",
    "exchange": "NYSE",
@@ -22531,6 +22426,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-07 $0.23",
+   "source_url": ""
+  },
+  {
+   "company": "BRUKER CORPORATION",
+   "ticker": "BRKR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-07 $0.05",
    "source_url": ""
   },
   {
@@ -23179,6 +23089,21 @@
    "source_url": ""
   },
   {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -23686,21 +23611,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.79",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -25219,6 +25129,21 @@
    "source_url": ""
   },
   {
+   "company": "AECOM",
+   "ticker": "ACM",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-22 $0.34",
+   "source_url": ""
+  },
+  {
    "company": "AMERICAN EAGLE OUTFITTERS, INC.",
    "ticker": "AEO",
    "exchange": "NYSE",
@@ -26314,21 +26239,6 @@
    "source_url": ""
   },
   {
-   "company": "MACKENZIE REALTY CAPITAL, INC.",
-   "ticker": "MKZR",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 0.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5625",
-   "source_url": ""
-  },
-  {
    "company": "Aberdeen Multi-Market Income Fund",
    "ticker": "MMT",
    "exchange": "NYSE",
@@ -26716,21 +26626,6 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.029",
-   "source_url": ""
-  },
-  {
-   "company": "AECOM",
-   "ticker": "ACM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.31,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.31",
    "source_url": ""
   },
   {
@@ -27241,6 +27136,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-31 $1.65",
+   "source_url": ""
+  },
+  {
+   "company": "MacKenzie Realty Capital, Inc.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-01",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5625",
    "source_url": ""
   },
   {
@@ -27863,6 +27773,21 @@
    "ticker": "PBHC",
    "exchange": "Nasdaq",
    "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "PATHFINDER BANCORP, INC.",
+   "ticker": "PBHC",
+   "exchange": "Nasdaq",
+   "security": "non-voting common",
    "amount_per_share": 0.1,
    "currency": "USD",
    "record_date": "",
@@ -28699,6 +28624,21 @@
    "source_url": ""
   },
   {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "NNN REIT, Inc.",
    "ticker": "NNN",
    "exchange": "NYSE",
@@ -28951,21 +28891,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-16 $0.06",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -31939,21 +31864,6 @@
    "source_url": ""
   },
   {
-   "company": "MACKENZIE REALTY CAPITAL, INC.",
-   "ticker": "MKZR",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 0.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5625",
-   "source_url": ""
-  },
-  {
    "company": "Aberdeen Multi-Market Income Fund",
    "ticker": "MMT",
    "exchange": "NYSE",
@@ -32611,6 +32521,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-31 $0.7",
+   "source_url": ""
+  },
+  {
+   "company": "MacKenzie Realty Capital, Inc.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-31",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5625",
    "source_url": ""
   },
   {
@@ -34579,21 +34504,6 @@
    "source_url": ""
   },
   {
-   "company": "Aramark",
-   "ticker": "ARMK",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-09",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Atmus Filtration Technologies Inc.",
    "ticker": "ATMU",
    "exchange": "NYSE",
@@ -35554,6 +35464,21 @@
    "source_url": ""
   },
   {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -35761,21 +35686,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-14 $0.21",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -36623,14 +36533,14 @@
    "ticker": "MET PRA",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.31471411,
+   "amount_per_share": 0.32584066,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-15",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.31471411",
+   "basis": "last confirmed 2026-12-15 $0.32584066",
    "source_url": ""
   },
   {
@@ -36645,7 +36555,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $351.5625",
+   "basis": "last confirmed 2026-12-15 $351.5625",
    "source_url": ""
   },
   {
@@ -36660,7 +36570,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $296.875",
+   "basis": "last confirmed 2026-12-15 $296.875",
    "source_url": ""
   },
   {
@@ -37201,6 +37111,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-16 $0.66",
+   "source_url": ""
+  },
+  {
+   "company": "Aramark",
+   "ticker": "ARMK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.14",
    "source_url": ""
   },
   {
@@ -39379,21 +39304,6 @@
    "source_url": ""
   },
   {
-   "company": "MACKENZIE REALTY CAPITAL, INC.",
-   "ticker": "MKZR",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 0.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5625",
-   "source_url": ""
-  },
-  {
    "company": "Aberdeen Multi-Market Income Fund",
    "ticker": "MMT",
    "exchange": "NYSE",
@@ -40609,6 +40519,21 @@
    "source_url": ""
   },
   {
+   "company": "MacKenzie Realty Capital, Inc.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5625",
+   "source_url": ""
+  },
+  {
    "company": "Midland States Bancorp, Inc.",
    "ticker": "MSBI",
    "exchange": "Nasdaq",
@@ -41314,21 +41239,6 @@
    "source_url": ""
   },
   {
-   "company": "Farmers & Merchants Bancorp",
-   "ticker": "FMCB",
-   "exchange": "OTCQX",
-   "security": "common",
-   "amount_per_share": 5.6,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $5.6",
-   "source_url": ""
-  },
-  {
    "company": "Fidelity National Financial, Inc.",
    "ticker": "FNF",
    "exchange": "NYSE",
@@ -41521,6 +41431,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.85",
+   "source_url": ""
+  },
+  {
+   "company": "M&T Bank Corporation",
+   "ticker": "MTB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.8,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $1.8",
    "source_url": ""
   },
   {
@@ -42424,6 +42349,21 @@
    "source_url": ""
   },
   {
+   "company": "Farmers & Merchants Bancorp",
+   "ticker": "FMCB",
+   "exchange": "OTCQX",
+   "security": "common",
+   "amount_per_share": 5.85,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $5.85",
+   "source_url": ""
+  },
+  {
    "company": "Huntington Bancshares Incorporated",
    "ticker": "HBAN",
    "exchange": "Nasdaq",
@@ -42901,6 +42841,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-07 $0.23",
+   "source_url": ""
+  },
+  {
+   "company": "BRUKER CORPORATION",
+   "ticker": "BRKR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-07 $0.05",
    "source_url": ""
   },
   {
@@ -43384,6 +43339,21 @@
    "source_url": ""
   },
   {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -43636,21 +43606,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-15 $0.460938",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -45619,6 +45574,21 @@
    "source_url": ""
   },
   {
+   "company": "AECOM",
+   "ticker": "ACM",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-22 $0.34",
+   "source_url": ""
+  },
+  {
    "company": "AMERICAN EAGLE OUTFITTERS, INC.",
    "ticker": "AEO",
    "exchange": "NYSE",
@@ -46609,21 +46579,6 @@
    "source_url": ""
   },
   {
-   "company": "MACKENZIE REALTY CAPITAL, INC.",
-   "ticker": "MKZR",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 0.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5625",
-   "source_url": ""
-  },
-  {
    "company": "Aberdeen Multi-Market Income Fund",
    "ticker": "MMT",
    "exchange": "NYSE",
@@ -47224,21 +47179,6 @@
    "source_url": ""
   },
   {
-   "company": "AECOM",
-   "ticker": "ACM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.31,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.31",
-   "source_url": ""
-  },
-  {
    "company": "ACRES Commercial Realty Corp.",
    "ticker": "ACR",
    "exchange": "NYSE",
@@ -47446,6 +47386,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.24",
+   "source_url": ""
+  },
+  {
+   "company": "MacKenzie Realty Capital, Inc.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5625",
    "source_url": ""
   },
   {
@@ -48274,6 +48229,21 @@
    "source_url": ""
   },
   {
+   "company": "PATHFINDER BANCORP, INC.",
+   "ticker": "PBHC",
+   "exchange": "Nasdaq",
+   "security": "non-voting common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1",
+   "source_url": ""
+  },
+  {
    "company": "Universal Insurance Holdings, Inc.",
    "ticker": "UVE",
    "exchange": "NYSE",
@@ -48706,6 +48676,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-12 $0.07",
+   "source_url": ""
+  },
+  {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.05417",
    "source_url": ""
   },
   {
@@ -49156,21 +49141,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $1.15",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -52069,21 +52039,6 @@
    "source_url": ""
   },
   {
-   "company": "MACKENZIE REALTY CAPITAL, INC.",
-   "ticker": "MKZR",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 0.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5625",
-   "source_url": ""
-  },
-  {
    "company": "Aberdeen Multi-Market Income Fund",
    "ticker": "MMT",
    "exchange": "NYSE",
@@ -52771,6 +52726,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.08854",
+   "source_url": ""
+  },
+  {
+   "company": "MacKenzie Realty Capital, Inc.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5625",
    "source_url": ""
   },
   {
@@ -54904,21 +54874,6 @@
    "source_url": ""
   },
   {
-   "company": "Aramark",
-   "ticker": "ARMK",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-08",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-09 $0.12",
-   "source_url": ""
-  },
-  {
    "company": "Atmus Filtration Technologies Inc.",
    "ticker": "ATMU",
    "exchange": "NYSE",
@@ -55864,6 +55819,21 @@
    "source_url": ""
   },
   {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -55966,21 +55936,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-03-16 $0.06",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -56918,14 +56873,14 @@
    "ticker": "MET PRA",
    "exchange": "NYSE",
    "security": "preferred",
-   "amount_per_share": 0.31471411,
+   "amount_per_share": 0.32584066,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.31471411",
+   "basis": "last confirmed 2026-12-15 $0.32584066",
    "source_url": ""
   },
   {
@@ -56940,7 +56895,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $351.5625",
+   "basis": "last confirmed 2026-12-15 $351.5625",
    "source_url": ""
   },
   {
@@ -56955,7 +56910,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $296.875",
+   "basis": "last confirmed 2026-12-15 $296.875",
    "source_url": ""
   },
   {
@@ -57481,6 +57436,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-16 $0.66",
+   "source_url": ""
+  },
+  {
+   "company": "Aramark",
+   "ticker": "ARMK",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.14",
    "source_url": ""
   },
   {
@@ -59539,21 +59509,6 @@
    "source_url": ""
   },
   {
-   "company": "MACKENZIE REALTY CAPITAL, INC.",
-   "ticker": "MKZR",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 0.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5625",
-   "source_url": ""
-  },
-  {
    "company": "Aberdeen Multi-Market Income Fund",
    "ticker": "MMT",
    "exchange": "NYSE",
@@ -60301,6 +60256,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $2.38",
+   "source_url": ""
+  },
+  {
+   "company": "MacKenzie Realty Capital, Inc.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5625",
    "source_url": ""
   },
   {
@@ -61534,21 +61504,6 @@
    "source_url": ""
   },
   {
-   "company": "Farmers & Merchants Bancorp",
-   "ticker": "FMCB",
-   "exchange": "OTCQX",
-   "security": "common",
-   "amount_per_share": 5.6,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $5.6",
-   "source_url": ""
-  },
-  {
    "company": "Fidelity National Financial, Inc.",
    "ticker": "FNF",
    "exchange": "NYSE",
@@ -61756,6 +61711,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.85",
+   "source_url": ""
+  },
+  {
+   "company": "M&T Bank Corporation",
+   "ticker": "MTB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.8,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $1.8",
    "source_url": ""
   },
   {
@@ -62629,6 +62599,21 @@
    "source_url": ""
   },
   {
+   "company": "Farmers & Merchants Bancorp",
+   "ticker": "FMCB",
+   "exchange": "OTCQX",
+   "security": "common",
+   "amount_per_share": 5.85,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $5.85",
+   "source_url": ""
+  },
+  {
    "company": "Huntington Bancshares Incorporated",
    "ticker": "HBAN",
    "exchange": "Nasdaq",
@@ -63124,6 +63109,21 @@
    "source_url": ""
   },
   {
+   "company": "BRUKER CORPORATION",
+   "ticker": "BRKR",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-07 $0.05",
+   "source_url": ""
+  },
+  {
    "company": "Edgewell Personal Care Company",
    "ticker": "EPC",
    "exchange": "NYSE",
@@ -63559,6 +63559,21 @@
    "source_url": ""
   },
   {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -63691,21 +63706,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-13 $0.15",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
@@ -65824,6 +65824,21 @@
    "source_url": ""
   },
   {
+   "company": "AECOM",
+   "ticker": "ACM",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.34,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-22 $0.34",
+   "source_url": ""
+  },
+  {
    "company": "AMERICAN EAGLE OUTFITTERS, INC.",
    "ticker": "AEO",
    "exchange": "NYSE",
@@ -66709,21 +66724,6 @@
    "source_url": ""
   },
   {
-   "company": "MACKENZIE REALTY CAPITAL, INC.",
-   "ticker": "MKZR",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 0.5625,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.5625",
-   "source_url": ""
-  },
-  {
    "company": "Aberdeen Multi-Market Income Fund",
    "ticker": "MMT",
    "exchange": "NYSE",
@@ -67414,6 +67414,21 @@
    "source_url": ""
   },
   {
+   "company": "MacKenzie Realty Capital, Inc.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5625",
+   "source_url": ""
+  },
+  {
    "company": "Marvell Technology, Inc.",
    "ticker": "MRVL",
    "exchange": "NASDAQ",
@@ -67471,21 +67486,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-28 $0.3",
-   "source_url": ""
-  },
-  {
-   "company": "AECOM",
-   "ticker": "ACM",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.31,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.31",
    "source_url": ""
   },
   {
@@ -68494,6 +68494,21 @@
    "source_url": ""
   },
   {
+   "company": "PATHFINDER BANCORP, INC.",
+   "ticker": "PBHC",
+   "exchange": "Nasdaq",
+   "security": "non-voting common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-06 $0.1",
+   "source_url": ""
+  },
+  {
    "company": "Universal Insurance Holdings, Inc.",
    "ticker": "UVE",
    "exchange": "NYSE",
@@ -68824,6 +68839,21 @@
    "source_url": ""
   },
   {
+   "company": "Neuberger Municipal Fund Inc.",
+   "ticker": "NBH",
+   "exchange": "NYSE American",
+   "security": "common",
+   "amount_per_share": 0.05417,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.05417",
+   "source_url": ""
+  },
+  {
    "company": "Realty Income Corporation",
    "ticker": "O",
    "exchange": "NYSE",
@@ -69031,21 +69061,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-12 $0.07",
-   "source_url": ""
-  },
-  {
-   "company": "Neuberger Municipal Fund Inc.",
-   "ticker": "NBH",
-   "exchange": "NYSE American",
-   "security": "common",
-   "amount_per_share": 0.05417,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-11-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.05417",
    "source_url": ""
   },
   {
