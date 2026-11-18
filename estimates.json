@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-18 06:17",
+ "updatedAt": "2026-11-18 09:31",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4696,
+ "count": 4705,
  "items": [
   {
    "company": "Calamos Dynamic Convertible and Income Fund",
@@ -169,21 +169,6 @@
    "source_url": ""
   },
   {
-   "company": "Gladstone Capital Corporation",
-   "ticker": "GLAD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.15",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -286,6 +271,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.165",
+   "source_url": ""
+  },
+  {
+   "company": "Gladstone Investment Corporation",
+   "ticker": "GLAD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-11-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -736,21 +736,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.05",
-   "source_url": ""
-  },
-  {
-   "company": "La-Z-Boy Incorporated",
-   "ticker": "LZB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.242,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.242",
    "source_url": ""
   },
   {
@@ -1594,21 +1579,6 @@
    "source_url": ""
   },
   {
-   "company": "Gladstone Capital Corporation",
-   "ticker": "GLAD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.15",
-   "source_url": ""
-  },
-  {
    "company": "Honeywell International Inc.",
    "ticker": "HON",
    "exchange": "Nasdaq",
@@ -2146,6 +2116,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.35",
+   "source_url": ""
+  },
+  {
+   "company": "Gladstone Investment Corporation",
+   "ticker": "GLAD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -5659,21 +5644,6 @@
    "source_url": ""
   },
   {
-   "company": "McCormick & Company, Incorporated",
-   "ticker": "MKC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-26 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "RGA",
    "ticker": "RGA",
    "exchange": "NYSE",
@@ -5911,21 +5881,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
-   "company": "Gladstone Capital Corporation",
-   "ticker": "GLAD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.15",
    "source_url": ""
   },
   {
@@ -6376,6 +6331,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "Gladstone Investment Corporation",
+   "ticker": "GLAD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -9304,21 +9274,6 @@
    "source_url": ""
   },
   {
-   "company": "Dolby Laboratories, Inc.",
-   "ticker": "DLB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-19 $0.36",
-   "source_url": ""
-  },
-  {
    "company": "Entegris, Inc.",
    "ticker": "ENTG",
    "exchange": "Nasdaq",
@@ -11209,21 +11164,6 @@
    "source_url": ""
   },
   {
-   "company": "Gladstone Capital Corporation",
-   "ticker": "GLAD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.15",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -11491,6 +11431,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Gladstone Investment Corporation",
+   "ticker": "GLAD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -14314,6 +14269,21 @@
    "source_url": ""
   },
   {
+   "company": "Dolby Laboratories, Inc.",
+   "ticker": "DLB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.39",
+   "source_url": ""
+  },
+  {
    "company": "Energizer Holdings, Inc.",
    "ticker": "ENR",
    "exchange": "NYSE",
@@ -14746,6 +14716,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-10 $0.54",
+   "source_url": ""
+  },
+  {
+   "company": "Star Equity Holdings, Inc.",
+   "ticker": "STRRP",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.25",
    "source_url": ""
   },
   {
@@ -16088,14 +16073,14 @@
    "ticker": "LZB",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.242,
+   "amount_per_share": 0.27,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-16",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.242",
+   "basis": "last confirmed 2026-12-15 $0.27",
    "source_url": ""
   },
   {
@@ -16729,6 +16714,21 @@
    "source_url": ""
   },
   {
+   "company": "Vishay Intertechnology, Inc.",
+   "ticker": "VSH",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.1",
+   "source_url": ""
+  },
+  {
    "company": "The Wendy’s Company",
    "ticker": "WEN",
    "exchange": "Nasdaq",
@@ -16831,6 +16831,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-16 $5.16",
+   "source_url": ""
+  },
+  {
+   "company": "Griffon Corporation",
+   "ticker": "GFF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.25",
    "source_url": ""
   },
   {
@@ -18469,21 +18484,6 @@
    "source_url": ""
   },
   {
-   "company": "Gladstone Capital Corporation",
-   "ticker": "GLAD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.15",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -18916,6 +18916,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-29 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Gladstone Investment Corporation",
+   "ticker": "GLAD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -19876,6 +19891,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Golub Capital BDC, Inc.",
+   "ticker": "GBDC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.33,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.33",
    "source_url": ""
   },
   {
@@ -22789,6 +22819,21 @@
    "source_url": ""
   },
   {
+   "company": "McCormick & Company, Incorporated",
+   "ticker": "MKC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.51,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-11 $0.51",
+   "source_url": ""
+  },
+  {
    "company": "Benchmark Electronics, Inc.",
    "ticker": "BHE",
    "exchange": "NYSE",
@@ -25474,21 +25519,6 @@
    "source_url": ""
   },
   {
-   "company": "McCormick & Company, Incorporated",
-   "ticker": "MKC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-26 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "RGA",
    "ticker": "RGA",
    "exchange": "NYSE",
@@ -25711,21 +25741,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-27 $0.175",
-   "source_url": ""
-  },
-  {
-   "company": "Gladstone Capital Corporation",
-   "ticker": "GLAD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.15",
    "source_url": ""
   },
   {
@@ -26056,6 +26071,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Gladstone Investment Corporation",
+   "ticker": "GLAD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -29524,21 +29554,6 @@
    "source_url": ""
   },
   {
-   "company": "Dolby Laboratories, Inc.",
-   "ticker": "DLB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-19",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-19 $0.36",
-   "source_url": ""
-  },
-  {
    "company": "Entegris, Inc.",
    "ticker": "ENTG",
    "exchange": "Nasdaq",
@@ -31174,21 +31189,6 @@
    "source_url": ""
   },
   {
-   "company": "Gladstone Capital Corporation",
-   "ticker": "GLAD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.15",
-   "source_url": ""
-  },
-  {
    "company": "HealthStream, Inc.",
    "ticker": "HSTM",
    "exchange": "Nasdaq",
@@ -31696,6 +31696,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Gladstone Investment Corporation",
+   "ticker": "GLAD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -34579,6 +34594,21 @@
    "source_url": ""
   },
   {
+   "company": "Dolby Laboratories, Inc.",
+   "ticker": "DLB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.39",
+   "source_url": ""
+  },
+  {
    "company": "Energizer Holdings, Inc.",
    "ticker": "ENR",
    "exchange": "NYSE",
@@ -34996,6 +35026,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-10 $0.54",
+   "source_url": ""
+  },
+  {
+   "company": "Star Equity Holdings, Inc.",
+   "ticker": "STRRP",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.25",
    "source_url": ""
   },
   {
@@ -36443,14 +36488,14 @@
    "ticker": "LZB",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.242,
+   "amount_per_share": 0.27,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-15",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.242",
+   "basis": "last confirmed 2026-12-15 $0.27",
    "source_url": ""
   },
   {
@@ -37069,6 +37114,21 @@
    "source_url": ""
   },
   {
+   "company": "Vishay Intertechnology, Inc.",
+   "ticker": "VSH",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.1",
+   "source_url": ""
+  },
+  {
    "company": "The Wendy’s Company",
    "ticker": "WEN",
    "exchange": "Nasdaq",
@@ -37186,6 +37246,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-16 $5.16",
+   "source_url": ""
+  },
+  {
+   "company": "Griffon Corporation",
+   "ticker": "GFF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.25",
    "source_url": ""
   },
   {
@@ -38764,21 +38839,6 @@
    "source_url": ""
   },
   {
-   "company": "Gladstone Capital Corporation",
-   "ticker": "GLAD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.15",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -39121,6 +39181,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.44",
+   "source_url": ""
+  },
+  {
+   "company": "Gladstone Investment Corporation",
+   "ticker": "GLAD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -40381,6 +40456,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-01 $0.01",
+   "source_url": ""
+  },
+  {
+   "company": "Golub Capital BDC, Inc.",
+   "ticker": "GBDC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.33,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.33",
    "source_url": ""
   },
   {
@@ -43234,6 +43324,21 @@
    "source_url": ""
   },
   {
+   "company": "McCormick & Company, Incorporated",
+   "ticker": "MKC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.51,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-12",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-11 $0.51",
+   "source_url": ""
+  },
+  {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
    "ticker": "AFB",
    "exchange": "NYSE",
@@ -45934,21 +46039,6 @@
    "source_url": ""
   },
   {
-   "company": "McCormick & Company, Incorporated",
-   "ticker": "MKC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-26 $0.48",
-   "source_url": ""
-  },
-  {
    "company": "RGA",
    "ticker": "RGA",
    "exchange": "NYSE",
@@ -46036,21 +46126,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
-   "company": "Gladstone Capital Corporation",
-   "ticker": "GLAD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.15",
    "source_url": ""
   },
   {
@@ -46441,6 +46516,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-27 $0.175",
+   "source_url": ""
+  },
+  {
+   "company": "Gladstone Investment Corporation",
+   "ticker": "GLAD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -49954,21 +50044,6 @@
    "source_url": ""
   },
   {
-   "company": "Dolby Laboratories, Inc.",
-   "ticker": "DLB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-18",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-19 $0.36",
-   "source_url": ""
-  },
-  {
    "company": "Entegris, Inc.",
    "ticker": "ENTG",
    "exchange": "Nasdaq",
@@ -51469,21 +51544,6 @@
    "source_url": ""
   },
   {
-   "company": "Gladstone Capital Corporation",
-   "ticker": "GLAD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.15",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -51841,6 +51901,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.26",
+   "source_url": ""
+  },
+  {
+   "company": "Gladstone Investment Corporation",
+   "ticker": "GLAD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -54979,6 +55054,21 @@
    "source_url": ""
   },
   {
+   "company": "Dolby Laboratories, Inc.",
+   "ticker": "DLB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-09 $0.39",
+   "source_url": ""
+  },
+  {
    "company": "Energizer Holdings, Inc.",
    "ticker": "ENR",
    "exchange": "NYSE",
@@ -55411,6 +55501,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-10 $0.54",
+   "source_url": ""
+  },
+  {
+   "company": "Star Equity Holdings, Inc.",
+   "ticker": "STRRP",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.25",
    "source_url": ""
   },
   {
@@ -56828,14 +56933,14 @@
    "ticker": "LZB",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 0.242,
+   "amount_per_share": 0.27,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-09-14",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.242",
+   "basis": "last confirmed 2026-12-15 $0.27",
    "source_url": ""
   },
   {
@@ -57424,6 +57529,21 @@
    "source_url": ""
   },
   {
+   "company": "Vishay Intertechnology, Inc.",
+   "ticker": "VSH",
+   "exchange": "New York Stock Exchange",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.1",
+   "source_url": ""
+  },
+  {
    "company": "The Wendy’s Company",
    "ticker": "WEN",
    "exchange": "Nasdaq",
@@ -57526,6 +57646,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-16 $5.16",
+   "source_url": ""
+  },
+  {
+   "company": "Griffon Corporation",
+   "ticker": "GFF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.25",
    "source_url": ""
   },
   {
@@ -59104,21 +59239,6 @@
    "source_url": ""
   },
   {
-   "company": "Gladstone Capital Corporation",
-   "ticker": "GLAD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.15",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -59386,6 +59506,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Gladstone Investment Corporation",
+   "ticker": "GLAD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -60706,6 +60841,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-01 $0.01",
+   "source_url": ""
+  },
+  {
+   "company": "Golub Capital BDC, Inc.",
+   "ticker": "GBDC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.33,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.33",
    "source_url": ""
   },
   {
@@ -63589,6 +63739,21 @@
    "source_url": ""
   },
   {
+   "company": "McCormick & Company, Incorporated",
+   "ticker": "MKC",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.51,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-11 $0.51",
+   "source_url": ""
+  },
+  {
    "company": "Neuberger Municipal Fund Inc.",
    "ticker": "NBH",
    "exchange": "NYSE American",
@@ -66244,21 +66409,6 @@
    "source_url": ""
   },
   {
-   "company": "Gladstone Capital Corporation",
-   "ticker": "GLAD",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.15,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.15",
-   "source_url": ""
-  },
-  {
    "company": "Helios Technologies, Inc.",
    "ticker": "HLIO",
    "exchange": "NYSE",
@@ -66316,21 +66466,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-29 $0.0475",
-   "source_url": ""
-  },
-  {
-   "company": "McCormick & Company, Incorporated",
-   "ticker": "MKC",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.48,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-26 $0.48",
    "source_url": ""
   },
   {
@@ -66616,6 +66751,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Gladstone Investment Corporation",
+   "ticker": "GLAD",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-01 $0.5",
    "source_url": ""
   },
   {
@@ -70156,21 +70306,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-18 $0.3",
-   "source_url": ""
-  },
-  {
-   "company": "Dolby Laboratories, Inc.",
-   "ticker": "DLB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-11-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-19 $0.36",
    "source_url": ""
   },
   {
