@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-18 18:17",
+ "updatedAt": "2026-11-18 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4708,
+ "count": 4706,
  "items": [
   {
    "company": "Calamos Dynamic Convertible and Income Fund",
@@ -526,21 +526,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-09 $0.06",
-   "source_url": ""
-  },
-  {
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "exchange": "NYSE American",
-   "security": "preferred",
-   "amount_per_share": 0.20833,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-10",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.20833",
    "source_url": ""
   },
   {
@@ -3780,7 +3765,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.20833",
+   "basis": "last confirmed 2026-12-10 $0.20833",
    "source_url": ""
   },
   {
@@ -7845,7 +7830,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.20833",
+   "basis": "last confirmed 2026-12-10 $0.20833",
    "source_url": ""
   },
   {
@@ -8191,21 +8176,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $1.71",
-   "source_url": ""
-  },
-  {
-   "company": "The AES Corporation",
-   "ticker": "AES",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.17595,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-12",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.17595",
    "source_url": ""
   },
   {
@@ -13909,6 +13879,21 @@
    "source_url": ""
   },
   {
+   "company": "The AES Corporation",
+   "ticker": "AES",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.06369,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-07 $0.06369",
+   "source_url": ""
+  },
+  {
    "company": "Company",
    "ticker": "CHRD",
    "exchange": "Nasdaq",
@@ -14340,7 +14325,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.20833",
+   "basis": "last confirmed 2026-12-10 $0.20833",
    "source_url": ""
   },
   {
@@ -22605,7 +22590,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.20833",
+   "basis": "last confirmed 2026-12-10 $0.20833",
    "source_url": ""
   },
   {
@@ -27870,7 +27855,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.20833",
+   "basis": "last confirmed 2026-12-10 $0.20833",
    "source_url": ""
   },
   {
@@ -28291,21 +28276,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $1.71",
-   "source_url": ""
-  },
-  {
-   "company": "The AES Corporation",
-   "ticker": "AES",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.17595,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.17595",
    "source_url": ""
   },
   {
@@ -34219,6 +34189,21 @@
    "source_url": ""
   },
   {
+   "company": "The AES Corporation",
+   "ticker": "AES",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.06369,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-07 $0.06369",
+   "source_url": ""
+  },
+  {
    "company": "AGNC Investment Corp.",
    "ticker": "AGNC",
    "exchange": "Nasdaq",
@@ -34380,7 +34365,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.20833",
+   "basis": "last confirmed 2026-12-10 $0.20833",
    "source_url": ""
   },
   {
@@ -43005,7 +42990,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.20833",
+   "basis": "last confirmed 2026-12-10 $0.20833",
    "source_url": ""
   },
   {
@@ -48390,7 +48375,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.20833",
+   "basis": "last confirmed 2026-12-10 $0.20833",
    "source_url": ""
   },
   {
@@ -48916,21 +48901,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $1.71",
-   "source_url": ""
-  },
-  {
-   "company": "The AES Corporation",
-   "ticker": "AES",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.17595,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.17595",
    "source_url": ""
   },
   {
@@ -54724,6 +54694,21 @@
    "source_url": ""
   },
   {
+   "company": "The AES Corporation",
+   "ticker": "AES",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.06369,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-07 $0.06369",
+   "source_url": ""
+  },
+  {
    "company": "Company",
    "ticker": "CHRD",
    "exchange": "Nasdaq",
@@ -54750,7 +54735,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.20833",
+   "basis": "last confirmed 2026-12-10 $0.20833",
    "source_url": ""
   },
   {
@@ -63195,7 +63180,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.20833",
+   "basis": "last confirmed 2026-12-10 $0.20833",
    "source_url": ""
   },
   {
@@ -68685,7 +68670,7 @@
    "frequency": "monthly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-11-10 $0.20833",
+   "basis": "last confirmed 2026-12-10 $0.20833",
    "source_url": ""
   },
   {
@@ -69406,21 +69391,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $1.71",
-   "source_url": ""
-  },
-  {
-   "company": "The AES Corporation",
-   "ticker": "AES",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.17595,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-11-12",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-13 $0.17595",
    "source_url": ""
   },
   {
