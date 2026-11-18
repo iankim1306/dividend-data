@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-19 03:17",
+ "updatedAt": "2026-11-19 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4728,
+ "count": 4751,
  "items": [
   {
    "company": "Calamos Dynamic Convertible and Income Fund",
@@ -3481,21 +3481,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-07 $0.0066",
-   "source_url": ""
-  },
-  {
-   "company": "Graphic Packaging Holding Company",
-   "ticker": "GPK",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.11,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-05",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-06 $0.11",
    "source_url": ""
   },
   {
@@ -17899,6 +17884,21 @@
    "source_url": ""
   },
   {
+   "company": "Katahdin Bankshares Corp.",
+   "ticker": "KTHN",
+   "exchange": "OTCQX",
+   "security": "common",
+   "amount_per_share": 0.276,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.276",
+   "source_url": ""
+  },
+  {
    "company": "Movado Group, Inc.",
    "ticker": "MOV",
    "exchange": "NYSE",
@@ -21949,6 +21949,21 @@
    "source_url": ""
   },
   {
+   "company": "First US Bancshares, Inc.",
+   "ticker": "FUSB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07",
+   "source_url": ""
+  },
+  {
    "company": "Invesco CurrencyShares Canadian Dollar Trust",
    "ticker": "FXC",
    "exchange": "NYSE",
@@ -21976,6 +21991,66 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.155",
+   "source_url": ""
+  },
+  {
+   "company": "Merchants Bancorp",
+   "ticker": "MBIN",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.11,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Merchants Bancorp",
+   "ticker": "MBINL",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 19.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $19.06",
+   "source_url": ""
+  },
+  {
+   "company": "Merchants Bancorp",
+   "ticker": "MBINM",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 20.625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $20.625",
+   "source_url": ""
+  },
+  {
+   "company": "Merchants Bancorp",
+   "ticker": "MBINN",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 15.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $15.0",
    "source_url": ""
   },
   {
@@ -22054,6 +22129,36 @@
    "source_url": ""
   },
   {
+   "company": "WesBanco, Inc.",
+   "ticker": "WSBC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.39",
+   "source_url": ""
+  },
+  {
+   "company": "WesBanco, Inc.",
+   "ticker": "WSBCO",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 18.4375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $18.4375",
+   "source_url": ""
+  },
+  {
    "company": "BRT APARTMENTS CORP.",
    "ticker": "BRT",
    "exchange": "NYSE",
@@ -22110,7 +22215,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-06 $0.11",
+   "basis": "last confirmed 2027-01-05 $0.11",
    "source_url": ""
   },
   {
@@ -38329,6 +38434,21 @@
    "source_url": ""
   },
   {
+   "company": "Katahdin Bankshares Corp.",
+   "ticker": "KTHN",
+   "exchange": "OTCQX",
+   "security": "common",
+   "amount_per_share": 0.276,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.276",
+   "source_url": ""
+  },
+  {
    "company": "Lazard Global Total Return and Income Fund, Inc.",
    "ticker": "LGI",
    "exchange": "NYSE",
@@ -42469,6 +42589,21 @@
    "source_url": ""
   },
   {
+   "company": "First US Bancshares, Inc.",
+   "ticker": "FUSB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07",
+   "source_url": ""
+  },
+  {
    "company": "Huntington Bancshares Incorporated",
    "ticker": "HBAN",
    "exchange": "Nasdaq",
@@ -42481,6 +42616,66 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.155",
+   "source_url": ""
+  },
+  {
+   "company": "Merchants Bancorp",
+   "ticker": "MBIN",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.11,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Merchants Bancorp",
+   "ticker": "MBINL",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 19.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $19.06",
+   "source_url": ""
+  },
+  {
+   "company": "Merchants Bancorp",
+   "ticker": "MBINM",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 20.625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $20.625",
+   "source_url": ""
+  },
+  {
+   "company": "Merchants Bancorp",
+   "ticker": "MBINN",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 15.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $15.0",
    "source_url": ""
   },
   {
@@ -42559,6 +42754,36 @@
    "source_url": ""
   },
   {
+   "company": "WesBanco, Inc.",
+   "ticker": "WSBC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.39",
+   "source_url": ""
+  },
+  {
+   "company": "WesBanco, Inc.",
+   "ticker": "WSBCO",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 18.4375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $18.4375",
+   "source_url": ""
+  },
+  {
    "company": "BRT APARTMENTS CORP.",
    "ticker": "BRT",
    "exchange": "NYSE",
@@ -42615,7 +42840,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-06 $0.11",
+   "basis": "last confirmed 2027-01-05 $0.11",
    "source_url": ""
   },
   {
@@ -58774,6 +58999,21 @@
    "source_url": ""
   },
   {
+   "company": "Katahdin Bankshares Corp.",
+   "ticker": "KTHN",
+   "exchange": "OTCQX",
+   "security": "common",
+   "amount_per_share": 0.276,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-22 $0.276",
+   "source_url": ""
+  },
+  {
    "company": "Movado Group, Inc.",
    "ticker": "MOV",
    "exchange": "NYSE",
@@ -62824,6 +63064,21 @@
    "source_url": ""
   },
   {
+   "company": "First US Bancshares, Inc.",
+   "ticker": "FUSB",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.07",
+   "source_url": ""
+  },
+  {
    "company": "Huntington Bancshares Incorporated",
    "ticker": "HBAN",
    "exchange": "Nasdaq",
@@ -62836,6 +63091,66 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.155",
+   "source_url": ""
+  },
+  {
+   "company": "Merchants Bancorp",
+   "ticker": "MBIN",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.11,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Merchants Bancorp",
+   "ticker": "MBINL",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 19.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $19.06",
+   "source_url": ""
+  },
+  {
+   "company": "Merchants Bancorp",
+   "ticker": "MBINM",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 20.625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $20.625",
+   "source_url": ""
+  },
+  {
+   "company": "Merchants Bancorp",
+   "ticker": "MBINN",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 15.0,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $15.0",
    "source_url": ""
   },
   {
@@ -62914,6 +63229,36 @@
    "source_url": ""
   },
   {
+   "company": "WesBanco, Inc.",
+   "ticker": "WSBC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.39",
+   "source_url": ""
+  },
+  {
+   "company": "WesBanco, Inc.",
+   "ticker": "WSBCO",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 18.4375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $18.4375",
+   "source_url": ""
+  },
+  {
    "company": "AGNC Investment Corp.",
    "ticker": "AGNC",
    "exchange": "Nasdaq",
@@ -62985,7 +63330,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-06 $0.11",
+   "basis": "last confirmed 2027-01-05 $0.11",
    "source_url": ""
   },
   {
