@@ -1,113 +1,8 @@
 {
- "updatedAt": "2026-11-19 21:17",
+ "updatedAt": "2026-11-20 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4756,
+ "count": 4763,
  "items": [
-  {
-   "company": "Calamos Dynamic Convertible and Income Fund",
-   "ticker": "CCD",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.195,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-21 $0.195",
-   "source_url": ""
-  },
-  {
-   "company": "Calamos Global Total Return Fund",
-   "ticker": "CGO",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-21 $0.09",
-   "source_url": ""
-  },
-  {
-   "company": "Calamos Convertible Opportunities and Income Fund",
-   "ticker": "CHI",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.095,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-21 $0.095",
-   "source_url": ""
-  },
-  {
-   "company": "Calamos Global Dynamic Income Fund",
-   "ticker": "CHW",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.06,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-21 $0.06",
-   "source_url": ""
-  },
-  {
-   "company": "Calamos Convertible and High Income Fund",
-   "ticker": "CHY",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-21 $0.1",
-   "source_url": ""
-  },
-  {
-   "company": "Calamos Long/Short Equity & Dynamic Income Trust",
-   "ticker": "CPZ",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-21 $0.14",
-   "source_url": ""
-  },
-  {
-   "company": "Calamos Strategic Total Return Fund",
-   "ticker": "CSQ",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.135,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-21 $0.135",
-   "source_url": ""
-  },
   {
    "company": "iShares Core High Dividend ETF",
    "ticker": "HDV",
@@ -736,21 +631,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.277908,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-16",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -3724,6 +3604,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.118138,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.118138",
+   "source_url": ""
+  },
+  {
    "company": "DIAMONDROCK HOSPITALITY COMPANY",
    "ticker": "DRH",
    "exchange": "Nasdaq",
@@ -4666,21 +4561,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.2",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.277908,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -8119,6 +7999,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.118138,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.118138",
+   "source_url": ""
+  },
+  {
    "company": "CSW Industrials, Inc.",
    "ticker": "CSW",
    "exchange": "NYSE",
@@ -8626,21 +8521,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-15 $1000",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.277908,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -14929,6 +14809,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.118138,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.118138",
+   "source_url": ""
+  },
+  {
    "company": "Invesco Mortgage Capital Inc.",
    "ticker": "IVR",
    "exchange": "NYSE",
@@ -15466,21 +15361,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.1",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.277908,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-16",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -18481,6 +18361,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Marine Petroleum Trust",
+   "ticker": "MARPS",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.129648,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-28 $0.129648",
    "source_url": ""
   },
   {
@@ -21814,6 +21709,21 @@
    "source_url": ""
   },
   {
+   "company": "CW BANCORP",
+   "ticker": "CWBK",
+   "exchange": "OTCQX",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "First Horizon Corporation",
    "ticker": "FHN",
    "exchange": "NYSE",
@@ -22879,6 +22789,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.118138,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.118138",
+   "source_url": ""
+  },
+  {
    "company": "Iridium Communications Inc.",
    "ticker": "IRDM",
    "exchange": "Nasdaq",
@@ -23401,21 +23326,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.33",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.277908,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -28189,6 +28099,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.118138,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.118138",
+   "source_url": ""
+  },
+  {
    "company": "DIVERSIFIED HEALTHCARE TRUST",
    "ticker": "DHC",
    "exchange": "Nasdaq",
@@ -28921,21 +28846,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.17708",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.277908,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -35449,6 +35359,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.118138,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.118138",
+   "source_url": ""
+  },
+  {
    "company": "Invesco Mortgage Capital Inc.",
    "ticker": "IVR",
    "exchange": "NYSE",
@@ -35671,21 +35596,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-14 $0.38",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.277908,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -39454,6 +39364,21 @@
    "source_url": ""
   },
   {
+   "company": "Marine Petroleum Trust",
+   "ticker": "MARPS",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.129648,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-28 $0.129648",
+   "source_url": ""
+  },
+  {
    "company": "Aberdeen Municipal Income Fund",
    "ticker": "MFM",
    "exchange": "NYSE",
@@ -42514,6 +42439,21 @@
    "source_url": ""
   },
   {
+   "company": "CW BANCORP",
+   "ticker": "CWBK",
+   "exchange": "OTCQX",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "First Horizon Corporation",
    "ticker": "FHN",
    "exchange": "NYSE",
@@ -43519,6 +43459,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.118138,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.118138",
+   "source_url": ""
+  },
+  {
    "company": "FIRST HORIZON CORP",
    "ticker": "FHN",
    "exchange": "NYSE",
@@ -43786,21 +43741,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-14 $0.16",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.277908,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -48829,6 +48769,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.118138,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.118138",
+   "source_url": ""
+  },
+  {
    "company": "Invesco Mortgage Capital Inc.",
    "ticker": "IVR",
    "exchange": "NYSE",
@@ -49261,21 +49216,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $1.47",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.277908,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -55849,6 +55789,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.118138,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.118138",
+   "source_url": ""
+  },
+  {
    "company": "Dow",
    "ticker": "DOW",
    "exchange": "NYSE",
@@ -56266,21 +56221,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.17708",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.277908,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -60529,6 +60469,21 @@
    "source_url": ""
   },
   {
+   "company": "Marine Petroleum Trust",
+   "ticker": "MARPS",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.129648,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-28 $0.129648",
+   "source_url": ""
+  },
+  {
    "company": "NIKE, INC.",
    "ticker": "NKE",
    "exchange": "NYSE",
@@ -63049,6 +63004,21 @@
    "source_url": ""
   },
   {
+   "company": "CW BANCORP",
+   "ticker": "CWBK",
+   "exchange": "OTCQX",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "First Horizon Corporation",
    "ticker": "FHN",
    "exchange": "NYSE",
@@ -64024,6 +63994,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.118138,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.118138",
+   "source_url": ""
+  },
+  {
    "company": "Invesco Mortgage Capital Inc.",
    "ticker": "IVR",
    "exchange": "NYSE",
@@ -64276,21 +64261,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.17708",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.277908,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -69304,6 +69274,21 @@
    "source_url": ""
   },
   {
+   "company": "Cross Timbers Royalty Trust",
+   "ticker": "CRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.118138,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.118138",
+   "source_url": ""
+  },
+  {
    "company": "Invesco Mortgage Capital Inc.",
    "ticker": "IVR",
    "exchange": "NYSE",
@@ -69601,21 +69586,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-12 $0.25",
-   "source_url": ""
-  },
-  {
-   "company": "Cross Timbers Royalty Trust",
-   "ticker": "CRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.277908,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-11-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.277908",
    "source_url": ""
   },
   {
@@ -70339,6 +70309,81 @@
    "source_url": ""
   },
   {
+   "company": "Calamos Dynamic Convertible and Income Fund",
+   "ticker": "CCD",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.195,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.195",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Global Total Return Fund",
+   "ticker": "CGO",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.09",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Convertible Opportunities and Income Fund",
+   "ticker": "CHI",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.095,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.095",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Global Dynamic Income Fund",
+   "ticker": "CHW",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Convertible and High Income Fund",
+   "ticker": "CHY",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.1",
+   "source_url": ""
+  },
+  {
    "company": "Columbus McKinnon Corporation",
    "ticker": "CMCO",
    "exchange": "Nasdaq",
@@ -70351,6 +70396,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.07",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Long/Short Equity & Dynamic Income Trust",
+   "ticker": "CPZ",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.14,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.14",
+   "source_url": ""
+  },
+  {
+   "company": "Calamos Strategic Total Return Fund",
+   "ticker": "CSQ",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.135,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-10-21 $0.135",
    "source_url": ""
   },
   {
@@ -71341,6 +71416,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-24 $0.0525",
+   "source_url": ""
+  },
+  {
+   "company": "Old National Bancorp",
+   "ticker": "ONBPO",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 17.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-02-20 $17.5",
+   "source_url": ""
+  },
+  {
+   "company": "Old National Bancorp",
+   "ticker": "ONBPP",
+   "exchange": "NASDAQ",
+   "security": "preferred",
+   "amount_per_share": 17.5,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-02-20 $17.5",
    "source_url": ""
   }
  ]
