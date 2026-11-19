@@ -1,7 +1,157 @@
 {
- "updatedAt": "2026-11-19 06:17",
+ "updatedAt": "2026-11-19 09:31",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
+  {
+   "company": "WAFD, INC.",
+   "exchange": "Nasdaq",
+   "ticker": "WAFD",
+   "security": "preferred",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2021-04-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/936528/000093652826000079/wfsl-20260930.htm",
+   "collected_at": "2026-11-19 09:28"
+  },
+  {
+   "company": "NJR",
+   "exchange": "NYSE",
+   "ticker": "NJR",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": "2022-09-26",
+   "payable_date": "2022-10-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-2.htm",
+   "collected_at": "2026-11-19 09:24"
+  },
+  {
+   "company": "NJR",
+   "exchange": "NYSE",
+   "ticker": "NJR",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": "2022-12-14",
+   "payable_date": "2023-01-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-2.htm",
+   "collected_at": "2026-11-19 09:24"
+  },
+  {
+   "company": "NJR",
+   "exchange": "NYSE",
+   "ticker": "NJR",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": "2023-03-15",
+   "payable_date": "2023-04-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-2.htm",
+   "collected_at": "2026-11-19 09:24"
+  },
+  {
+   "company": "NJR",
+   "exchange": "NYSE",
+   "ticker": "NJR",
+   "security": "common",
+   "amount_per_share": 0.39,
+   "currency": "USD",
+   "record_date": "2023-06-14",
+   "payable_date": "2023-07-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-2.htm",
+   "collected_at": "2026-11-19 09:24"
+  },
+  {
+   "company": "NJR",
+   "exchange": "NYSE",
+   "ticker": "NJR",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "2023-09-20",
+   "payable_date": "2023-10-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-2.htm",
+   "collected_at": "2026-11-19 09:24"
+  },
+  {
+   "company": "NJR",
+   "exchange": "NYSE",
+   "ticker": "NJR",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "2023-12-13",
+   "payable_date": "2024-01-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-2.htm",
+   "collected_at": "2026-11-19 09:24"
+  },
+  {
+   "company": "NJR",
+   "exchange": "NYSE",
+   "ticker": "NJR",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "2024-03-13",
+   "payable_date": "2024-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-2.htm",
+   "collected_at": "2026-11-19 09:24"
+  },
+  {
+   "company": "NJR",
+   "exchange": "NYSE",
+   "ticker": "NJR",
+   "security": "common",
+   "amount_per_share": 0.42,
+   "currency": "USD",
+   "record_date": "2024-06-12",
+   "payable_date": "2024-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-2.htm",
+   "collected_at": "2026-11-19 09:24"
+  },
+  {
+   "company": "NJR",
+   "exchange": "NYSE",
+   "ticker": "NJR",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "2024-09-23",
+   "payable_date": "2024-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-2.htm",
+   "collected_at": "2026-11-19 09:24"
+  },
   {
    "company": "Jacobs Solutions Inc.",
    "exchange": "NYSE",
@@ -48524,6 +48674,21 @@
    "collected_at": "2026-09-15 09:18"
   },
   {
+   "company": "NJR",
+   "exchange": "NYSE",
+   "ticker": "NJR",
+   "security": "common",
+   "amount_per_share": 0.5,
+   "currency": "USD",
+   "record_date": "2026-09-24",
+   "payable_date": "2026-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/ef20085865_ex99-2.htm",
+   "collected_at": "2026-11-19 09:24"
+  },
+  {
    "company": "NRC Health",
    "exchange": "Nasdaq",
    "ticker": "NRC",
@@ -58107,6 +58272,21 @@
    "collected_at": "2026-11-06 09:19"
   },
   {
+   "company": "ReposiTrak",
+   "exchange": null,
+   "ticker": null,
+   "security": "common",
+   "amount_per_share": 0.02,
+   "currency": "USD",
+   "record_date": "2026-09-30",
+   "payable_date": "2026-11-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/ex_1048115.htm",
+   "collected_at": "2026-11-19 09:18"
+  },
+  {
    "company": "Altaba",
    "exchange": "Nasdaq",
    "ticker": "AABA",
@@ -67089,6 +67269,21 @@
    "collected_at": "2026-10-22 21:17"
   },
   {
+   "company": "BankFirst Capital Corporation",
+   "exchange": "OTCQX",
+   "ticker": "BFCC",
+   "security": "common",
+   "amount_per_share": 1.15,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-10",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/bankfirst-capital-corporation-announces-cash-dividend-302944476.html",
+   "collected_at": "2026-11-19 09:17"
+  },
+  {
    "company": "BWX Technologies, Inc.",
    "exchange": "NYSE",
    "ticker": "BWXT",
@@ -68724,6 +68919,21 @@
    "collected_at": "2026-11-06 09:53"
   },
   {
+   "company": "CSB Bancorp, Inc.",
+   "exchange": "OTC",
+   "ticker": "CSBB",
+   "security": "common",
+   "amount_per_share": 0.47,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/880417/000119312526467070/csbb-ex99_1.htm",
+   "collected_at": "2026-11-19 09:27"
+  },
+  {
    "company": "Corteva, Inc.",
    "exchange": "NYSE",
    "ticker": "CTVA",
@@ -69652,6 +69862,21 @@
    "collected_at": "2026-10-21 06:17"
   },
   {
+   "company": "MVB Financial Corp",
+   "exchange": "The Nasdaq Stock Market LLC",
+   "ticker": "MVBF",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1277902/000127790226000103/mvbf-20261118.htm",
+   "collected_at": "2026-11-19 09:17"
+  },
+  {
    "company": "Neuberger Municipal Fund Inc.",
    "exchange": "NYSE American",
    "ticker": "NBH",
@@ -70492,6 +70717,21 @@
    "collected_at": "2026-11-17 09:22"
   },
   {
+   "company": "Atmus Filtration Technologies Inc.",
+   "exchange": "NYSE",
+   "ticker": "ATMU",
+   "security": "common",
+   "amount_per_share": 0.06,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1921963/000192196326000084/atmu2026q4dividend8-kex991.htm",
+   "collected_at": "2026-11-19 09:17"
+  },
+  {
    "company": "Avery Dennison Corporation",
    "exchange": "NYSE",
    "ticker": "AVY",
@@ -70595,6 +70835,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/50725/000162828026074580/gff-20260930.htm",
    "collected_at": "2026-11-18 09:21"
+  },
+  {
+   "company": "Lake Ridge Bancorp, Inc.",
+   "exchange": "OTCQX",
+   "ticker": "LRBI",
+   "security": "common",
+   "amount_per_share": 0.68,
+   "currency": "USD",
+   "record_date": "2026-11-30",
+   "payable_date": "2026-12-16",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/lake-ridge-bancorp-inc-declares-fourth-quarter-2026-dividend-of-0-68-per-share-302944514.html",
+   "collected_at": "2026-11-19 09:17"
   },
   {
    "company": "Mercantile Bank Corporation",
@@ -70910,6 +71165,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1046102/000162828026071893/rba-20261109.htm",
    "collected_at": "2026-11-10 09:18"
+  },
+  {
+   "company": "Richmond Mutual Bancorporation, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "RMBI",
+   "security": "common",
+   "amount_per_share": 0.15,
+   "currency": "USD",
+   "record_date": "2026-12-03",
+   "payable_date": "2026-12-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/richmond-mutual-bancorporation-inc-announces-quarterly-dividend-302944549.html",
+   "collected_at": "2026-11-19 09:17"
   },
   {
    "company": "ResMed Inc.",
@@ -71930,6 +72200,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745926000081/khc-20260926.htm",
    "collected_at": "2026-11-05 09:41"
+  },
+  {
+   "company": "KOHL'S CORPORATION",
+   "exchange": "New York Stock Exchange",
+   "ticker": "KSS",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "2026-12-09",
+   "payable_date": "2026-12-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/885639/000119312526467271/kss-20261118.htm",
+   "collected_at": "2026-11-19 09:17"
   },
   {
    "company": "MSC Income Fund, Inc.",
@@ -74286,6 +74571,21 @@
    "collected_at": "2026-10-21 21:17"
   },
   {
+   "company": "Simmons First National Corporation",
+   "exchange": "NASDAQ",
+   "ticker": "SFNC",
+   "security": "common",
+   "amount_per_share": 0.215,
+   "currency": "USD",
+   "record_date": "2026-12-15",
+   "payable_date": "2027-01-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/simmons-first-national-corporation-declares-0-215-per-share-dividend-302943994.html",
+   "collected_at": "2026-11-19 09:17"
+  },
+  {
    "company": "TELUS Corporation",
    "exchange": "TSX",
    "ticker": "T",
@@ -74299,6 +74599,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/telus-corporation-notice-of-cash-dividend-847859672.html",
    "collected_at": "2026-11-06 21:17"
+  },
+  {
+   "company": "TrustCo Bank Corp NY",
+   "exchange": "Nasdaq Global Select Market",
+   "ticker": "TRST",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "2026-12-04",
+   "payable_date": "2027-01-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/357301/000114036126044724/ef20085941_8k.htm",
+   "collected_at": "2026-11-19 09:17"
   },
   {
    "company": "UMB Financial Corporation",
@@ -74646,6 +74961,21 @@
    "collected_at": "2026-11-06 06:17"
   },
   {
+   "company": "PepsiCo, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "PEP",
+   "security": "common",
+   "amount_per_share": 1.48,
+   "currency": "USD",
+   "record_date": "2026-12-04",
+   "payable_date": "2027-01-06",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/pepsico-declares-quarterly-dividend-302944380.html",
+   "collected_at": "2026-11-19 09:17"
+  },
+  {
    "company": "Universal Logistics Holdings, Inc.",
    "exchange": "NASDAQ",
    "ticker": "ULH",
@@ -74824,6 +75154,36 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/70487/000143774926033639/ex_1031593.htm",
    "collected_at": "2026-10-28 09:18"
+  },
+  {
+   "company": "Republic Bancorp, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "RBCAA",
+   "security": "common",
+   "amount_per_share": 5.5,
+   "currency": "USD",
+   "record_date": "2026-12-11",
+   "payable_date": "2027-01-08",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/921557/000110465926129688/rbcaa-ex99d1.htm",
+   "collected_at": "2026-11-19 09:17"
+  },
+  {
+   "company": "Republic Bancorp, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "RBCAA",
+   "security": "common",
+   "amount_per_share": 5.0,
+   "currency": "USD",
+   "record_date": "2026-12-11",
+   "payable_date": "2027-01-08",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/921557/000110465926129688/rbcaa-ex99d1.htm",
+   "collected_at": "2026-11-19 09:17"
   },
   {
    "company": "Steel Dynamics, Inc.",
@@ -75891,6 +76251,36 @@
    "collected_at": "2026-11-04 09:31"
   },
   {
+   "company": "Republic Bancorp, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "RBCAA",
+   "security": "common",
+   "amount_per_share": 0.495,
+   "currency": "USD",
+   "record_date": "2026-12-18",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/921557/000110465926129688/rbcaa-ex99d1.htm",
+   "collected_at": "2026-11-19 09:17"
+  },
+  {
+   "company": "Republic Bancorp, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "RBCAA",
+   "security": "common",
+   "amount_per_share": 0.45,
+   "currency": "USD",
+   "record_date": "2026-12-18",
+   "payable_date": "2027-01-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/921557/000110465926129688/rbcaa-ex99d1.htm",
+   "collected_at": "2026-11-19 09:17"
+  },
+  {
    "company": "Rexford Industrial Realty, Inc.",
    "exchange": "NYSE",
    "ticker": "REXR",
@@ -76489,6 +76879,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/49071/000004907126000066/hum-20260930.htm",
    "collected_at": "2026-11-07 09:50"
+  },
+  {
+   "company": "Quaker Houghton",
+   "exchange": "NYSE",
+   "ticker": "KWR",
+   "security": "common",
+   "amount_per_share": 0.53,
+   "currency": "USD",
+   "record_date": "2027-01-15",
+   "payable_date": "2027-01-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/quaker-houghton-announces-quarterly-dividend-302944251.html",
+   "collected_at": "2026-11-19 09:17"
   },
   {
    "company": "National Health Investors, Inc.",
@@ -77121,5 +77526,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 5162
+ "count": 5189
 }
