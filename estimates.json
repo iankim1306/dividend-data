@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-19 18:17",
+ "updatedAt": "2026-11-19 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4757,
+ "count": 4756,
  "items": [
   {
    "company": "Calamos Dynamic Convertible and Income Fund",
@@ -766,21 +766,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.045191",
-   "source_url": ""
-  },
-  {
-   "company": "PermRock Royalty Trust",
-   "ticker": "PRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.016204,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-16",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -3889,6 +3874,21 @@
    "source_url": ""
   },
   {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.008479,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.008479",
+   "source_url": ""
+  },
+  {
    "company": "ACRE Commercial Real Estate Corporation",
    "ticker": "ACRE",
    "exchange": "NYSE",
@@ -4786,21 +4786,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.045191",
-   "source_url": ""
-  },
-  {
-   "company": "PermRock Royalty Trust",
-   "ticker": "PRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.016204,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -8374,6 +8359,21 @@
    "source_url": ""
   },
   {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.008479,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.008479",
+   "source_url": ""
+  },
+  {
    "company": "Tanger",
    "ticker": "SKT",
    "exchange": "NYSE",
@@ -8686,21 +8686,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.045191",
-   "source_url": ""
-  },
-  {
-   "company": "PermRock Royalty Trust",
-   "ticker": "PRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.016204,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -14959,6 +14944,21 @@
    "source_url": ""
   },
   {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.008479,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.008479",
+   "source_url": ""
+  },
+  {
    "company": "Adeia Inc.",
    "ticker": "ADEA",
    "exchange": "Nasdaq",
@@ -16276,21 +16276,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.29",
-   "source_url": ""
-  },
-  {
-   "company": "PermRock Royalty Trust",
-   "ticker": "PRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.016204,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-16",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -22924,6 +22909,21 @@
    "source_url": ""
   },
   {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.008479,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.008479",
+   "source_url": ""
+  },
+  {
    "company": "Schneider National, Inc.",
    "ticker": "SNDR",
    "exchange": "NYSE",
@@ -23761,21 +23761,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.36",
-   "source_url": ""
-  },
-  {
-   "company": "PermRock Royalty Trust",
-   "ticker": "PRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.016204,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -28279,6 +28264,21 @@
    "source_url": ""
   },
   {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.008479,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.008479",
+   "source_url": ""
+  },
+  {
    "company": "RBB Bancorp",
    "ticker": "RBB",
    "exchange": "NASDAQ",
@@ -28981,21 +28981,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.045191",
-   "source_url": ""
-  },
-  {
-   "company": "PermRock Royalty Trust",
-   "ticker": "PRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.016204,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-15",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -35479,6 +35464,21 @@
    "source_url": ""
   },
   {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.008479,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.008479",
+   "source_url": ""
+  },
+  {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
    "ticker": "AFB",
    "exchange": "NYSE",
@@ -35806,21 +35806,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-14 $1.2",
-   "source_url": ""
-  },
-  {
-   "company": "PermRock Royalty Trust",
-   "ticker": "PRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.016204,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -43579,6 +43564,21 @@
    "source_url": ""
   },
   {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.008479,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-12",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.008479",
+   "source_url": ""
+  },
+  {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
    "ticker": "AFB",
    "exchange": "NYSE",
@@ -43981,21 +43981,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.045191",
-   "source_url": ""
-  },
-  {
-   "company": "PermRock Royalty Trust",
-   "ticker": "PRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.016204,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-14",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -48859,6 +48844,21 @@
    "source_url": ""
   },
   {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.008479,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-11",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.008479",
+   "source_url": ""
+  },
+  {
    "company": "Riley Exploration Permian, Inc.",
    "ticker": "REPX",
    "exchange": "NYSE American",
@@ -49561,21 +49561,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.045191",
-   "source_url": ""
-  },
-  {
-   "company": "PermRock Royalty Trust",
-   "ticker": "PRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.016204,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-13",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -56059,6 +56044,21 @@
    "source_url": ""
   },
   {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.008479,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.008479",
+   "source_url": ""
+  },
+  {
    "company": "SAGA COMMUNICATIONS, INC.",
    "ticker": "SGA",
    "exchange": "NASDAQ",
@@ -56326,21 +56326,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.045191",
-   "source_url": ""
-  },
-  {
-   "company": "PermRock Royalty Trust",
-   "ticker": "PRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.016204,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -64054,6 +64039,21 @@
    "source_url": ""
   },
   {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.008479,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-10",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.008479",
+   "source_url": ""
+  },
+  {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
    "ticker": "AFB",
    "exchange": "NYSE",
@@ -64351,21 +64351,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.045191",
-   "source_url": ""
-  },
-  {
-   "company": "PermRock Royalty Trust",
-   "ticker": "PRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.016204,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-12",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
@@ -69394,6 +69379,21 @@
    "source_url": ""
   },
   {
+   "company": "PermRock Royalty Trust",
+   "ticker": "PRT",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.008479,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-09",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.008479",
+   "source_url": ""
+  },
+  {
    "company": "AllianceBernstein National Municipal Income Fund, Inc.",
    "ticker": "AFB",
    "exchange": "NYSE",
@@ -69721,21 +69721,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.045191",
-   "source_url": ""
-  },
-  {
-   "company": "PermRock Royalty Trust",
-   "ticker": "PRT",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.016204,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-11-11",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.016204",
    "source_url": ""
   },
   {
