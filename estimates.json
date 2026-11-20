@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-20 06:17",
+ "updatedAt": "2026-11-20 09:34",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4766,
+ "count": 4770,
  "items": [
   {
    "company": "iShares Core High Dividend ETF",
@@ -16,21 +16,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-24 $0.104616",
-   "source_url": ""
-  },
-  {
-   "company": "Matthews International Corporation",
-   "ticker": "MATW",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-24 $0.255",
    "source_url": ""
   },
   {
@@ -211,21 +196,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-08-31 $0.03",
-   "source_url": ""
-  },
-  {
-   "company": "Maximus",
-   "ticker": "MMS",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.33,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-31 $0.33",
    "source_url": ""
   },
   {
@@ -724,21 +694,6 @@
    "source_url": ""
   },
   {
-   "company": "Unity Bancorp, Inc.",
-   "ticker": "UNTY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-17 $0.17",
-   "source_url": ""
-  },
-  {
    "company": "Jacobs Solutions Inc.",
    "ticker": "J",
    "exchange": "NYSE",
@@ -979,21 +934,6 @@
    "source_url": ""
   },
   {
-   "company": "TFS Financial Corporation",
-   "ticker": "TFSL",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.3175,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.3175",
-   "source_url": ""
-  },
-  {
    "company": "Lazard Global Total Return and Income Fund, Inc.",
    "ticker": "LGI",
    "exchange": "NYSE",
@@ -1021,21 +961,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-24 $0.0525",
-   "source_url": ""
-  },
-  {
-   "company": "Carter’s, Inc.",
-   "ticker": "CRI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.25",
    "source_url": ""
   },
   {
@@ -2359,21 +2284,6 @@
    "source_url": ""
   },
   {
-   "company": "RED RIVER BANCSHARES, INC.",
-   "ticker": "RRBI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "Redwood Trust, Inc.",
    "ticker": "RWT",
    "exchange": "NYSE",
@@ -2794,21 +2704,6 @@
    "source_url": ""
   },
   {
-   "company": "Pathward Financial, Inc.",
-   "ticker": "CASH",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.05,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.05",
-   "source_url": ""
-  },
-  {
    "company": "CRANE COMPANY",
    "ticker": "CR",
    "exchange": "NYSE",
@@ -2836,21 +2731,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-02 $0.44",
-   "source_url": ""
-  },
-  {
-   "company": "Financial Institutions, Inc.",
-   "ticker": "FISI",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 2.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-02 $2.12",
    "source_url": ""
   },
   {
@@ -3061,21 +2941,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-01-01 $0.4",
-   "source_url": ""
-  },
-  {
-   "company": "UGI",
-   "ticker": "UGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.375,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.375",
    "source_url": ""
   },
   {
@@ -4546,21 +4411,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-16 $0.19",
-   "source_url": ""
-  },
-  {
-   "company": "Intuit Inc.",
-   "ticker": "INTU",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 1.38,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-16 $1.38",
    "source_url": ""
   },
   {
@@ -6046,21 +5896,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-01 $0.5",
-   "source_url": ""
-  },
-  {
-   "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
-   "ticker": "HBB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.125",
    "source_url": ""
   },
   {
@@ -9799,21 +9634,6 @@
    "source_url": ""
   },
   {
-   "company": "Matthews International Corporation",
-   "ticker": "MATW",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-24 $0.255",
-   "source_url": ""
-  },
-  {
    "company": "MGIC Investment Corporation",
    "ticker": "MTG",
    "exchange": "NYSE",
@@ -11895,7 +11715,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-31 $0.33",
+   "basis": "last confirmed 2026-11-30 $0.33",
    "source_url": ""
   },
   {
@@ -13216,6 +13036,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "BATH & BODY WORKS, INC.",
+   "ticker": "BBWI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.2",
    "source_url": ""
   },
   {
@@ -14959,6 +14794,21 @@
    "source_url": ""
   },
   {
+   "company": "Matthews International Corporation",
+   "ticker": "MATW",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.26",
+   "source_url": ""
+  },
+  {
    "company": "MILLER INDUSTRIES, INC.",
    "ticker": "MLR",
    "exchange": "NYSE",
@@ -15646,6 +15496,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Hamilton Beach Brands Holding Company",
+   "ticker": "HBB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.125",
    "source_url": ""
   },
   {
@@ -16714,6 +16579,21 @@
    "source_url": ""
   },
   {
+   "company": "TFS Financial Corporation",
+   "ticker": "TFSL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.3175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.3175",
+   "source_url": ""
+  },
+  {
    "company": "Viatris Inc.",
    "ticker": "VTRS",
    "exchange": "Nasdaq",
@@ -16924,18 +16804,18 @@
    "source_url": ""
   },
   {
-   "company": "Unity Bancorp, Inc.",
-   "ticker": "UNTY",
+   "company": "Red River Bancshares, Inc.",
+   "ticker": "RRBI",
    "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.17,
+   "amount_per_share": 0.25,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-03-18",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-17 $0.17",
+   "basis": "last confirmed 2026-12-17 $0.25",
    "source_url": ""
   },
   {
@@ -17044,6 +16924,21 @@
    "source_url": ""
   },
   {
+   "company": "Carter’s, Inc.",
+   "ticker": "CRI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Elevance Health, Inc.",
    "ticker": "ELV",
    "exchange": "NYSE",
@@ -17131,6 +17026,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.045",
+   "source_url": ""
+  },
+  {
+   "company": "Isabella Bank Corporation",
+   "ticker": "ISBA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.29",
    "source_url": ""
   },
   {
@@ -17371,6 +17281,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Unity Bancorp, Inc.",
+   "ticker": "UNTY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.17",
    "source_url": ""
   },
   {
@@ -17854,21 +17779,6 @@
    "source_url": ""
   },
   {
-   "company": "TFS Financial Corporation",
-   "ticker": "TFSL",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.3175,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.3175",
-   "source_url": ""
-  },
-  {
    "company": "Victory Capital Holdings, Inc.",
    "ticker": "VCTR",
    "exchange": "Nasdaq",
@@ -17956,21 +17866,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-24 $0.21",
-   "source_url": ""
-  },
-  {
-   "company": "Carter’s, Inc.",
-   "ticker": "CRI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.25",
    "source_url": ""
   },
   {
@@ -19984,21 +19879,6 @@
    "source_url": ""
   },
   {
-   "company": "RED RIVER BANCSHARES, INC.",
-   "ticker": "RRBI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-31",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "Redwood Trust, Inc.",
    "ticker": "RWT",
    "exchange": "NYSE",
@@ -20359,21 +20239,6 @@
    "source_url": ""
   },
   {
-   "company": "Pathward Financial, Inc.",
-   "ticker": "CASH",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.05,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.05",
-   "source_url": ""
-  },
-  {
    "company": "CBL Properties",
    "ticker": "CBL",
    "exchange": "NYSE",
@@ -20596,21 +20461,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.26",
-   "source_url": ""
-  },
-  {
-   "company": "Financial Institutions, Inc.",
-   "ticker": "FISI",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 2.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-02 $2.12",
    "source_url": ""
   },
   {
@@ -21259,21 +21109,6 @@
    "source_url": ""
   },
   {
-   "company": "UGI",
-   "ticker": "UGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.375,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.375",
-   "source_url": ""
-  },
-  {
    "company": "Verisk Analytics, Inc.",
    "ticker": "VRSK",
    "exchange": "Nasdaq",
@@ -21436,6 +21271,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-01 $3.25",
+   "source_url": ""
+  },
+  {
+   "company": "UGI Corporation",
+   "ticker": "UGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.375",
    "source_url": ""
   },
   {
@@ -21664,6 +21514,21 @@
    "source_url": ""
   },
   {
+   "company": "Pathward Financial, Inc.",
+   "ticker": "CASH",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05",
+   "source_url": ""
+  },
+  {
    "company": "Crown Crafts, Inc.",
    "ticker": "CRWS",
    "exchange": "NASDAQ-CM",
@@ -21706,6 +21571,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Financial Institutions, Inc.",
+   "ticker": "FISI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.32",
+   "source_url": ""
+  },
+  {
+   "company": "Financial Institutions, Inc.",
+   "ticker": "FISI",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 2.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $2.12",
    "source_url": ""
   },
   {
@@ -22366,6 +22261,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-07 $0.23",
+   "source_url": ""
+  },
+  {
+   "company": "BayCom Corp",
+   "ticker": "BCML",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-07 $0.3",
    "source_url": ""
   },
   {
@@ -24225,7 +24135,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-16 $1.38",
+   "basis": "last confirmed 2027-01-15 $1.38",
    "source_url": ""
   },
   {
@@ -26779,21 +26689,6 @@
    "source_url": ""
   },
   {
-   "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
-   "ticker": "HBB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.125",
-   "source_url": ""
-  },
-  {
    "company": "Highland Global Allocation Fund",
    "ticker": "HGLB",
    "exchange": "NYSE",
@@ -27811,6 +27706,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-10 $0.20833",
+   "source_url": ""
+  },
+  {
+   "company": "Air Products",
+   "ticker": "APD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.81,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-02-08 $1.81",
    "source_url": ""
   },
   {
@@ -30289,21 +30199,6 @@
    "source_url": ""
   },
   {
-   "company": "Matthews International Corporation",
-   "ticker": "MATW",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-24 $0.255",
-   "source_url": ""
-  },
-  {
    "company": "MGIC Investment Corporation",
    "ticker": "MTG",
    "exchange": "NYSE",
@@ -32505,7 +32400,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-31 $0.33",
+   "basis": "last confirmed 2026-11-30 $0.33",
    "source_url": ""
   },
   {
@@ -33811,6 +33706,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "BATH & BODY WORKS, INC.",
+   "ticker": "BBWI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.2",
    "source_url": ""
   },
   {
@@ -35674,6 +35584,21 @@
    "source_url": ""
   },
   {
+   "company": "Matthews International Corporation",
+   "ticker": "MATW",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.26",
+   "source_url": ""
+  },
+  {
    "company": "MILLER INDUSTRIES, INC.",
    "ticker": "MLR",
    "exchange": "NYSE",
@@ -36301,6 +36226,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Hamilton Beach Brands Holding Company",
+   "ticker": "HBB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.125",
    "source_url": ""
   },
   {
@@ -37384,6 +37324,21 @@
    "source_url": ""
   },
   {
+   "company": "TFS Financial Corporation",
+   "ticker": "TFSL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.3175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.3175",
+   "source_url": ""
+  },
+  {
    "company": "Viatris Inc.",
    "ticker": "VTRS",
    "exchange": "Nasdaq",
@@ -37594,18 +37549,18 @@
    "source_url": ""
   },
   {
-   "company": "Unity Bancorp, Inc.",
-   "ticker": "UNTY",
+   "company": "Red River Bancshares, Inc.",
+   "ticker": "RRBI",
    "exchange": "Nasdaq",
    "security": "common",
-   "amount_per_share": 0.17,
+   "amount_per_share": 0.25,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-06-17",
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-17 $0.17",
+   "basis": "last confirmed 2026-12-17 $0.25",
    "source_url": ""
   },
   {
@@ -37804,6 +37759,21 @@
    "source_url": ""
   },
   {
+   "company": "Carter’s, Inc.",
+   "ticker": "CRI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Calamos Strategic Total Return Fund",
    "ticker": "CSQ",
    "exchange": "NASDAQ",
@@ -37906,6 +37876,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.045",
+   "source_url": ""
+  },
+  {
+   "company": "Isabella Bank Corporation",
+   "ticker": "ISBA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.29",
    "source_url": ""
   },
   {
@@ -38161,6 +38146,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Unity Bancorp, Inc.",
+   "ticker": "UNTY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.17",
    "source_url": ""
   },
   {
@@ -38539,21 +38539,6 @@
    "source_url": ""
   },
   {
-   "company": "TFS Financial Corporation",
-   "ticker": "TFSL",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.3175,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.3175",
-   "source_url": ""
-  },
-  {
    "company": "Victory Capital Holdings, Inc.",
    "ticker": "VCTR",
    "exchange": "Nasdaq",
@@ -38656,21 +38641,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "Carter’s, Inc.",
-   "ticker": "CRI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.25",
    "source_url": ""
   },
   {
@@ -40789,21 +40759,6 @@
    "source_url": ""
   },
   {
-   "company": "RED RIVER BANCSHARES, INC.",
-   "ticker": "RRBI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "Redwood Trust, Inc.",
    "ticker": "RWT",
    "exchange": "NYSE",
@@ -41119,21 +41074,6 @@
    "source_url": ""
   },
   {
-   "company": "Pathward Financial, Inc.",
-   "ticker": "CASH",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.05,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.05",
-   "source_url": ""
-  },
-  {
    "company": "CBL Properties",
    "ticker": "CBL",
    "exchange": "NYSE",
@@ -41356,21 +41296,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.26",
-   "source_url": ""
-  },
-  {
-   "company": "Financial Institutions, Inc.",
-   "ticker": "FISI",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 2.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-02 $2.12",
    "source_url": ""
   },
   {
@@ -42004,21 +41929,6 @@
    "source_url": ""
   },
   {
-   "company": "UGI",
-   "ticker": "UGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.375,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-01",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.375",
-   "source_url": ""
-  },
-  {
    "company": "Verisk Analytics, Inc.",
    "ticker": "VRSK",
    "exchange": "Nasdaq",
@@ -42196,6 +42106,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-01 $3.25",
+   "source_url": ""
+  },
+  {
+   "company": "UGI Corporation",
+   "ticker": "UGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.375",
    "source_url": ""
   },
   {
@@ -42424,6 +42349,21 @@
    "source_url": ""
   },
   {
+   "company": "Pathward Financial, Inc.",
+   "ticker": "CASH",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05",
+   "source_url": ""
+  },
+  {
    "company": "Crown Crafts, Inc.",
    "ticker": "CRWS",
    "exchange": "NASDAQ-CM",
@@ -42466,6 +42406,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Financial Institutions, Inc.",
+   "ticker": "FISI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.32",
+   "source_url": ""
+  },
+  {
+   "company": "Financial Institutions, Inc.",
+   "ticker": "FISI",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 2.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-05",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $2.12",
    "source_url": ""
   },
   {
@@ -43126,6 +43096,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-07 $0.23",
+   "source_url": ""
+  },
+  {
+   "company": "BayCom Corp",
+   "ticker": "BCML",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-07 $0.3",
    "source_url": ""
   },
   {
@@ -44970,7 +44955,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-16 $1.38",
+   "basis": "last confirmed 2027-01-15 $1.38",
    "source_url": ""
   },
   {
@@ -47614,21 +47599,6 @@
    "source_url": ""
   },
   {
-   "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
-   "ticker": "HBB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.125",
-   "source_url": ""
-  },
-  {
    "company": "Humana Inc.",
    "ticker": "HUM",
    "exchange": "NYSE",
@@ -48571,6 +48541,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-10 $0.20833",
+   "source_url": ""
+  },
+  {
+   "company": "Air Products",
+   "ticker": "APD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.81,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-02-08 $1.81",
    "source_url": ""
   },
   {
@@ -51034,21 +51019,6 @@
    "source_url": ""
   },
   {
-   "company": "Matthews International Corporation",
-   "ticker": "MATW",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-08-24 $0.255",
-   "source_url": ""
-  },
-  {
    "company": "MGIC Investment Corporation",
    "ticker": "MTG",
    "exchange": "NYSE",
@@ -53220,7 +53190,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-31 $0.33",
+   "basis": "last confirmed 2026-11-30 $0.33",
    "source_url": ""
   },
   {
@@ -54571,6 +54541,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-04 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "BATH & BODY WORKS, INC.",
+   "ticker": "BBWI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-03",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-04 $0.2",
    "source_url": ""
   },
   {
@@ -56404,6 +56389,21 @@
    "source_url": ""
   },
   {
+   "company": "Matthews International Corporation",
+   "ticker": "MATW",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.26,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-13",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-14 $0.26",
+   "source_url": ""
+  },
+  {
    "company": "MILLER INDUSTRIES, INC.",
    "ticker": "MLR",
    "exchange": "NYSE",
@@ -57001,6 +57001,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.55",
+   "source_url": ""
+  },
+  {
+   "company": "Hamilton Beach Brands Holding Company",
+   "ticker": "HBB",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.125,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.125",
    "source_url": ""
   },
   {
@@ -58039,6 +58054,21 @@
    "source_url": ""
   },
   {
+   "company": "TFS Financial Corporation",
+   "ticker": "TFSL",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.3175,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.3175",
+   "source_url": ""
+  },
+  {
    "company": "Viatris Inc.",
    "ticker": "VTRS",
    "exchange": "Nasdaq",
@@ -58354,6 +58384,21 @@
    "source_url": ""
   },
   {
+   "company": "Red River Bancshares, Inc.",
+   "ticker": "RRBI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-17 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Thornburg Income Builder Opportunities Trust",
    "ticker": "TBLD",
    "exchange": "NASDAQ",
@@ -58366,21 +58411,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-20 $0.10417",
-   "source_url": ""
-  },
-  {
-   "company": "Unity Bancorp, Inc.",
-   "ticker": "UNTY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.17,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-17 $0.17",
    "source_url": ""
   },
   {
@@ -58489,6 +58519,21 @@
    "source_url": ""
   },
   {
+   "company": "Carter’s, Inc.",
+   "ticker": "CRI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.25",
+   "source_url": ""
+  },
+  {
    "company": "Elevance Health, Inc.",
    "ticker": "ELV",
    "exchange": "NYSE",
@@ -58576,6 +58621,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.045",
+   "source_url": ""
+  },
+  {
+   "company": "Isabella Bank Corporation",
+   "ticker": "ISBA",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.29",
    "source_url": ""
   },
   {
@@ -58816,6 +58876,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "Unity Bancorp, Inc.",
+   "ticker": "UNTY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.17",
    "source_url": ""
   },
   {
@@ -59209,21 +59284,6 @@
    "source_url": ""
   },
   {
-   "company": "TFS Financial Corporation",
-   "ticker": "TFSL",
-   "exchange": "NASDAQ",
-   "security": "common",
-   "amount_per_share": 0.3175,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-23 $0.3175",
-   "source_url": ""
-  },
-  {
    "company": "Victory Capital Holdings, Inc.",
    "ticker": "VCTR",
    "exchange": "Nasdaq",
@@ -59326,21 +59386,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.14583",
-   "source_url": ""
-  },
-  {
-   "company": "Carter’s, Inc.",
-   "ticker": "CRI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.25",
    "source_url": ""
   },
   {
@@ -61399,21 +61444,6 @@
    "source_url": ""
   },
   {
-   "company": "RED RIVER BANCSHARES, INC.",
-   "ticker": "RRBI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-30 $0.25",
-   "source_url": ""
-  },
-  {
    "company": "Redwood Trust, Inc.",
    "ticker": "RWT",
    "exchange": "NYSE",
@@ -61729,21 +61759,6 @@
    "source_url": ""
   },
   {
-   "company": "Pathward Financial, Inc.",
-   "ticker": "CASH",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.05,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.05",
-   "source_url": ""
-  },
-  {
    "company": "CBL Properties",
    "ticker": "CBL",
    "exchange": "NYSE",
@@ -61966,21 +61981,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.26",
-   "source_url": ""
-  },
-  {
-   "company": "Financial Institutions, Inc.",
-   "ticker": "FISI",
-   "exchange": "Nasdaq",
-   "security": "preferred",
-   "amount_per_share": 2.12,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-02 $2.12",
    "source_url": ""
   },
   {
@@ -62614,21 +62614,6 @@
    "source_url": ""
   },
   {
-   "company": "UGI",
-   "ticker": "UGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.375,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-30",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-01 $0.375",
-   "source_url": ""
-  },
-  {
    "company": "Verisk Analytics, Inc.",
    "ticker": "VRSK",
    "exchange": "Nasdaq",
@@ -62839,6 +62824,21 @@
    "source_url": ""
   },
   {
+   "company": "UGI Corporation",
+   "ticker": "UGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.375,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.375",
+   "source_url": ""
+  },
+  {
    "company": "AVNET, INC.",
    "ticker": "AVT",
    "exchange": "Nasdaq",
@@ -63019,6 +63019,21 @@
    "source_url": ""
   },
   {
+   "company": "Pathward Financial, Inc.",
+   "ticker": "CASH",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.05",
+   "source_url": ""
+  },
+  {
    "company": "Crown Crafts, Inc.",
    "ticker": "CRWS",
    "exchange": "NASDAQ-CM",
@@ -63061,6 +63076,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-04 $0.17",
+   "source_url": ""
+  },
+  {
+   "company": "Financial Institutions, Inc.",
+   "ticker": "FISI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.32,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $0.32",
+   "source_url": ""
+  },
+  {
+   "company": "Financial Institutions, Inc.",
+   "ticker": "FISI",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 2.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-04 $2.12",
    "source_url": ""
   },
   {
@@ -63736,6 +63781,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-07 $0.23",
+   "source_url": ""
+  },
+  {
+   "company": "BayCom Corp",
+   "ticker": "BCML",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-07",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-07 $0.3",
    "source_url": ""
   },
   {
@@ -65580,7 +65640,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-16 $1.38",
+   "basis": "last confirmed 2027-01-15 $1.38",
    "source_url": ""
   },
   {
@@ -68254,21 +68314,6 @@
    "source_url": ""
   },
   {
-   "company": "HAMILTON BEACH BRANDS HOLDING COMPANY",
-   "ticker": "HBB",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.125,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.125",
-   "source_url": ""
-  },
-  {
    "company": "Humana Inc.",
    "ticker": "HUM",
    "exchange": "NYSE",
@@ -69181,6 +69226,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $0.271",
+   "source_url": ""
+  },
+  {
+   "company": "Air Products",
+   "ticker": "APD",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.81,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-02-08 $1.81",
    "source_url": ""
   },
   {
