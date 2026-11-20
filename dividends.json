@@ -1,22 +1,7 @@
 {
- "updatedAt": "2026-11-20 21:17",
+ "updatedAt": "2026-11-21 00:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
-  {
-   "company": "Northern Technologies International Corporation",
-   "exchange": "Nasdaq",
-   "ticker": "NTIC",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "2024-10-30",
-   "payable_date": "2024-11-13",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "wire": "EDGAR",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/875582/000117184326007589/ntic20260831_10k.htm",
-   "collected_at": "2026-11-20 09:28"
-  },
   {
    "company": "Jacobs Solutions Inc.",
    "exchange": "NYSE",
@@ -71512,6 +71497,21 @@
    "collected_at": "2026-10-30 09:18"
   },
   {
+   "company": "Flowers Foods, Inc.",
+   "exchange": "NYSE",
+   "ticker": "FLO",
+   "security": "common",
+   "amount_per_share": 0.03,
+   "currency": "USD",
+   "record_date": "2026-12-04",
+   "payable_date": "2026-12-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/flowers-foods-declares-quarterly-dividend-302947021.html",
+   "collected_at": "2026-11-21 00:17"
+  },
+  {
    "company": "CGI Inc.",
    "exchange": "TSX",
    "ticker": "GIB.A",
@@ -75021,6 +75021,21 @@
    "collected_at": "2026-10-21 21:17"
   },
   {
+   "company": "PPL Corporation",
+   "exchange": "NYSE",
+   "ticker": "PPL",
+   "security": "common",
+   "amount_per_share": 0.285,
+   "currency": "USD",
+   "record_date": "2026-12-10",
+   "payable_date": "2027-01-04",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/ppl-to-pay-quarterly-stock-dividend-jan-4-2027-302946945.html",
+   "collected_at": "2026-11-21 00:17"
+  },
+  {
    "company": "Simmons First National Corporation",
    "exchange": "NASDAQ",
    "ticker": "SFNC",
@@ -78036,5 +78051,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 5223
+ "count": 5224
 }
