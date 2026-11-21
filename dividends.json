@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21 06:17",
+ "updatedAt": "2026-11-21 09:33",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -10137,6 +10137,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/62709/000006270926000258/mrsh-20260930.htm",
    "collected_at": "2026-10-16 09:19"
+  },
+  {
+   "company": "The Home Depot, Inc.",
+   "exchange": "NYSE",
+   "ticker": "NYSE: HD",
+   "security": "common",
+   "amount_per_share": 2.33,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-02-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/354950/000162828026075287/hd-20261101.htm",
+   "collected_at": "2026-11-21 09:25"
   },
   {
    "company": "Rithm Property Trust Inc.",
@@ -67209,6 +67224,21 @@
    "collected_at": "2026-11-19 09:17"
   },
   {
+   "company": "Bentley Systems, Incorporated",
+   "exchange": "Nasdaq",
+   "ticker": "BSY",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "2026-12-01",
+   "payable_date": "2026-12-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1031308/000110465926130659/tm2630325d1_ex99-1.htm",
+   "collected_at": "2026-11-21 09:30"
+  },
+  {
    "company": "BWX Technologies, Inc.",
    "exchange": "NYSE",
    "ticker": "BWXT",
@@ -70012,6 +70042,21 @@
    "collected_at": "2026-11-11 06:17"
   },
   {
+   "company": "Orange County Bancorp, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "OBT",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "2026-12-04",
+   "payable_date": "2026-12-15",
+   "frequency": null,
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1754226/000110465926130632/tm2630373d1_ex99-1.htm",
+   "collected_at": "2026-11-21 09:19"
+  },
+  {
    "company": "Old National Bancorp",
    "exchange": "NASDAQ",
    "ticker": "ONB",
@@ -70865,6 +70910,21 @@
    "wire": "PRN",
    "source_url": "https://www.prnewswire.com/news-releases/mercantile-bank-corporation-declares-regular-cash-dividend-302912984.html",
    "collected_at": "2026-10-21 00:17"
+  },
+  {
+   "company": "Moog Inc.",
+   "exchange": "NYSE",
+   "ticker": "MOG-A",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "2026-12-07",
+   "payable_date": "2026-12-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075202/mog-20261003.htm",
+   "collected_at": "2026-11-21 09:23"
   },
   {
    "company": "Enpro",
@@ -71795,6 +71855,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1841968/000119312526449297/rpc-20260930.htm",
    "collected_at": "2026-11-07 09:46"
+  },
+  {
+   "company": "United Fire Group, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "UFCS",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "2026-12-04",
+   "payable_date": "2026-12-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/101199/000010119926000069/ufgpressrelease11-20x2026.htm",
+   "collected_at": "2026-11-21 09:17"
   },
   {
    "company": "Unity Bancorp, Inc.",
@@ -75591,6 +75666,21 @@
    "collected_at": "2026-10-28 09:18"
   },
   {
+   "company": "Dine Brands Global, Inc.",
+   "exchange": "NYSE",
+   "ticker": "DIN",
+   "security": "common",
+   "amount_per_share": 0.19,
+   "currency": "USD",
+   "record_date": "2026-12-23",
+   "payable_date": "2027-01-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/49754/000119312526469349/d116446dex991.htm",
+   "collected_at": "2026-11-21 09:18"
+  },
+  {
    "company": "Equity LifeStyle Properties, Inc.",
    "exchange": "NYSE",
    "ticker": "ELS",
@@ -78051,5 +78141,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 5224
+ "count": 5230
 }

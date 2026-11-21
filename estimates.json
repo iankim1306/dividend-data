@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-21 06:17",
+ "updatedAt": "2026-11-21 09:33",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4765,
+ "count": 4772,
  "items": [
   {
    "company": "iShares Core High Dividend ETF",
@@ -3229,21 +3229,6 @@
    "source_url": ""
   },
   {
-   "company": "Dine Brands Global, Inc.",
-   "ticker": "DIN",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.19,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-08",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.19",
-   "source_url": ""
-  },
-  {
    "company": "INTERNATIONAL FLAVORS & FRAGRANCES INC.",
    "ticker": "IFF",
    "exchange": "NYSE",
@@ -5371,21 +5356,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
-   "company": "Bentley Systems, Incorporated",
-   "ticker": "BSY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-30 $0.07",
    "source_url": ""
   },
   {
@@ -13909,6 +13879,21 @@
    "source_url": ""
   },
   {
+   "company": "Bentley Systems, Incorporated",
+   "ticker": "BSY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-11",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "Muncy Columbia Financial Corporation",
    "ticker": "CCFN",
    "exchange": "OTC",
@@ -15829,6 +15814,21 @@
    "source_url": ""
   },
   {
+   "company": "Orange County Bancorp, Inc.",
+   "ticker": "OBT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Old National Bancorp",
    "ticker": "ONB",
    "exchange": "NASDAQ",
@@ -16411,6 +16411,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-16 $0.68",
+   "source_url": ""
+  },
+  {
+   "company": "Moog Inc.",
+   "ticker": "MOG-A",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.3",
    "source_url": ""
   },
   {
@@ -17251,6 +17266,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "United Fire Group, Inc.",
+   "ticker": "UFCS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.2",
    "source_url": ""
   },
   {
@@ -22350,7 +22380,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.19",
+   "basis": "last confirmed 2027-01-08 $0.19",
    "source_url": ""
   },
   {
@@ -25786,21 +25816,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1371",
-   "source_url": ""
-  },
-  {
-   "company": "Bentley Systems, Incorporated",
-   "ticker": "BSY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-30 $0.07",
    "source_url": ""
   },
   {
@@ -34534,6 +34549,21 @@
    "source_url": ""
   },
   {
+   "company": "Bentley Systems, Incorporated",
+   "ticker": "BSY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-10",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "Muncy Columbia Financial Corporation",
    "ticker": "CCFN",
    "exchange": "OTC",
@@ -36559,6 +36589,21 @@
    "source_url": ""
   },
   {
+   "company": "Orange County Bancorp, Inc.",
+   "ticker": "OBT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Old National Bancorp",
    "ticker": "ONB",
    "exchange": "NASDAQ",
@@ -37141,6 +37186,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-16 $0.68",
+   "source_url": ""
+  },
+  {
+   "company": "Moog Inc.",
+   "ticker": "MOG-A",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.3",
    "source_url": ""
   },
   {
@@ -38101,6 +38161,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "United Fire Group, Inc.",
+   "ticker": "UFCS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.2",
    "source_url": ""
   },
   {
@@ -43170,7 +43245,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.19",
+   "basis": "last confirmed 2027-01-08 $0.19",
    "source_url": ""
   },
   {
@@ -47146,21 +47221,6 @@
    "us_listed": false,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.029",
-   "source_url": ""
-  },
-  {
-   "company": "Bentley Systems, Incorporated",
-   "ticker": "BSY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-30 $0.07",
    "source_url": ""
   },
   {
@@ -55324,6 +55384,21 @@
    "source_url": ""
   },
   {
+   "company": "Bentley Systems, Incorporated",
+   "ticker": "BSY",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-10 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "Muncy Columbia Financial Corporation",
    "ticker": "CCFN",
    "exchange": "OTC",
@@ -57304,6 +57379,21 @@
    "source_url": ""
   },
   {
+   "company": "Orange County Bancorp, Inc.",
+   "ticker": "OBT",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.23,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.23",
+   "source_url": ""
+  },
+  {
    "company": "Old National Bancorp",
    "ticker": "ONB",
    "exchange": "NASDAQ",
@@ -57856,6 +57946,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-16 $0.68",
+   "source_url": ""
+  },
+  {
+   "company": "Moog Inc.",
+   "ticker": "MOG-A",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.3,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-15",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-16 $0.3",
    "source_url": ""
   },
   {
@@ -58816,6 +58921,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-18 $0.04",
+   "source_url": ""
+  },
+  {
+   "company": "United Fire Group, Inc.",
+   "ticker": "UFCS",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.2",
    "source_url": ""
   },
   {
@@ -63825,7 +63945,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-10-09 $0.19",
+   "basis": "last confirmed 2027-01-08 $0.19",
    "source_url": ""
   },
   {
@@ -67996,21 +68116,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-02 $0.08854",
-   "source_url": ""
-  },
-  {
-   "company": "Bentley Systems, Incorporated",
-   "ticker": "BSY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-28",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-07-30 $0.07",
    "source_url": ""
   },
   {
