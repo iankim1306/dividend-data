@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-24 03:17",
+ "updatedAt": "2026-11-24 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4825,
+ "count": 4845,
  "items": [
   {
    "company": "Infrastructure Capital",
@@ -586,21 +586,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.045191",
-   "source_url": ""
-  },
-  {
-   "company": "Shore Bancshares, Inc.",
-   "ticker": "SHBI",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.14,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-16 $0.14",
    "source_url": ""
   },
   {
@@ -4414,6 +4399,36 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.067,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-17",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.067",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-17",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.0655",
+   "source_url": ""
+  },
+  {
    "company": "Shoe Station Group, Inc.",
    "ticker": "SHOE",
    "exchange": "Nasdaq",
@@ -4951,21 +4966,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.18",
-   "source_url": ""
-  },
-  {
-   "company": "JACK HENRY & ASSOCIATES, INC.",
-   "ticker": "JKHY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.61,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-23 $0.61",
    "source_url": ""
   },
   {
@@ -8491,6 +8491,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.067,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.067",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.0655",
    "source_url": ""
   },
   {
@@ -16485,7 +16515,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-16 $0.14",
+   "basis": "last confirmed 2026-12-16 $0.14",
    "source_url": ""
   },
   {
@@ -16531,6 +16561,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-17 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.067,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.067",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-18",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.0655",
    "source_url": ""
   },
   {
@@ -19606,6 +19666,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.46",
+   "source_url": ""
+  },
+  {
+   "company": "Jack Henry & Associates, Inc.",
+   "ticker": "JKHY",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.61,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.61",
    "source_url": ""
   },
   {
@@ -24349,6 +24424,36 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.067,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-17",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.067",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-17",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.0655",
+   "source_url": ""
+  },
+  {
    "company": "Farmer Mac",
    "ticker": "AGM.PR.D",
    "exchange": "NYSE",
@@ -25081,21 +25186,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.18",
-   "source_url": ""
-  },
-  {
-   "company": "JACK HENRY & ASSOCIATES, INC.",
-   "ticker": "JKHY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.61,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-23 $0.61",
    "source_url": ""
   },
   {
@@ -28789,6 +28879,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.067,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-17",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.067",
+   "source_url": ""
+  },
+  {
    "company": "AmeriServ Financial, Inc.",
    "ticker": "ASRV",
    "exchange": "Nasdaq",
@@ -28801,6 +28906,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $0.03",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-17",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.0655",
    "source_url": ""
   },
   {
@@ -37009,6 +37129,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.067,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.067",
+   "source_url": ""
+  },
+  {
    "company": "Amcor",
    "ticker": "AMCR",
    "exchange": "NYSE",
@@ -37051,6 +37186,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-16 $0.06",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.0655",
    "source_url": ""
   },
   {
@@ -37260,7 +37410,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-16 $0.14",
+   "basis": "last confirmed 2026-12-16 $0.14",
    "source_url": ""
   },
   {
@@ -40516,6 +40666,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.46",
+   "source_url": ""
+  },
+  {
+   "company": "Jack Henry & Associates, Inc.",
+   "ticker": "JKHY",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.61,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.61",
    "source_url": ""
   },
   {
@@ -44554,6 +44719,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.067,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.067",
+   "source_url": ""
+  },
+  {
    "company": "ARES COMMERCIAL REAL ESTATE CORPORATION",
    "ticker": "ARES",
    "exchange": "NYSE",
@@ -44566,6 +44746,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-15 $0.15",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-16",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.0655",
    "source_url": ""
   },
   {
@@ -45976,21 +46171,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.18",
-   "source_url": ""
-  },
-  {
-   "company": "JACK HENRY & ASSOCIATES, INC.",
-   "ticker": "JKHY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.61,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-23 $0.61",
    "source_url": ""
   },
   {
@@ -49549,6 +49729,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.067,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.067",
+   "source_url": ""
+  },
+  {
    "company": "Ally Financial",
    "ticker": "ALLY",
    "exchange": "NYSE",
@@ -49561,6 +49756,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-15 $17.75",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-15",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.0655",
    "source_url": ""
   },
   {
@@ -56404,6 +56614,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.067,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.067",
+   "source_url": ""
+  },
+  {
    "company": "AGCO",
    "ticker": "AGCO",
    "exchange": "NYSE",
@@ -56461,6 +56686,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-15 $0.24",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.0655",
    "source_url": ""
   },
   {
@@ -58020,7 +58260,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-16 $0.14",
+   "basis": "last confirmed 2026-12-16 $0.14",
    "source_url": ""
   },
   {
@@ -61261,6 +61501,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.46",
+   "source_url": ""
+  },
+  {
+   "company": "Jack Henry & Associates, Inc.",
+   "ticker": "JKHY",
+   "exchange": "NASDAQ",
+   "security": "common",
+   "amount_per_share": 0.61,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-30 $0.61",
    "source_url": ""
   },
   {
@@ -64624,6 +64879,21 @@
    "source_url": ""
   },
   {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.067,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.067",
+   "source_url": ""
+  },
+  {
    "company": "Advanced Flower Capital Inc.",
    "ticker": "AFCG",
    "exchange": "Nasdaq",
@@ -64666,6 +64936,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-15 $0.4609375",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-14",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.0655",
    "source_url": ""
   },
   {
@@ -66706,21 +66991,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.18",
-   "source_url": ""
-  },
-  {
-   "company": "JACK HENRY & ASSOCIATES, INC.",
-   "ticker": "JKHY",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.61,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-23 $0.61",
    "source_url": ""
   },
   {
@@ -70261,6 +70531,36 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-13 $0.48",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein National Municipal Income Fund, Inc.",
+   "ticker": "AFB",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.067,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.067",
+   "source_url": ""
+  },
+  {
+   "company": "AllianceBernstein Global High Income Fund, Inc.",
+   "ticker": "AWF",
+   "exchange": "NYSE",
+   "security": "fund",
+   "amount_per_share": 0.0655,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-13",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.0655",
    "source_url": ""
   },
   {
