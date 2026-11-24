@@ -1,7 +1,22 @@
 {
- "updatedAt": "2026-11-24 06:17",
+ "updatedAt": "2026-11-24 09:35",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
+  {
+   "company": "Jacobs Solutions Inc.",
+   "exchange": "NYSE",
+   "ticker": "J",
+   "security": "common",
+   "amount_per_share": 0.29,
+   "currency": "USD",
+   "record_date": "2024-10-25",
+   "payable_date": "2024-11-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/52988/000162828026075495/jec-20261002.htm",
+   "collected_at": "2026-11-24 09:21"
+  },
   {
    "company": "Jabil Inc.",
    "exchange": "NYSE",
@@ -59965,6 +59980,21 @@
    "collected_at": "2026-10-27 06:17"
   },
   {
+   "company": "Alico, Inc.",
+   "exchange": "Nasdaq",
+   "ticker": "ALCO",
+   "security": "common",
+   "amount_per_share": 0.05,
+   "currency": "USD",
+   "record_date": null,
+   "payable_date": "2026-11-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/3545/000000354526000054/alco-20260930.htm",
+   "collected_at": "2026-11-24 09:18"
+  },
+  {
    "company": "ARMSTRONG WORLD INDUSTRIES, INC.",
    "exchange": "New York Stock Exchange",
    "ticker": "AWI",
@@ -71677,6 +71707,21 @@
    "collected_at": "2026-11-20 09:27"
   },
   {
+   "company": "Jacobs Solutions Inc.",
+   "exchange": "NYSE",
+   "ticker": "J",
+   "security": "common",
+   "amount_per_share": 0.36,
+   "currency": "USD",
+   "record_date": "2026-12-03",
+   "payable_date": "2026-12-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/52988/000162828026075495/jec-20261002.htm",
+   "collected_at": "2026-11-24 09:21"
+  },
+  {
    "company": "Kimco Realty Corporation",
    "exchange": "NYSE",
    "ticker": "KIM",
@@ -72619,6 +72664,21 @@
    "us_listed": true,
    "source_url": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926091692/tm2622057d1_ex99-1.htm",
    "collected_at": "2026-08-13 11:18"
+  },
+  {
+   "company": "Covenant Logistics Group, Inc.",
+   "exchange": "NYSE",
+   "ticker": "CVLG",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "2026-12-04",
+   "payable_date": "2026-12-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "wire": "EDGAR",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/928658/000100888626000252/exhibit991.htm",
+   "collected_at": "2026-11-24 09:17"
   },
   {
    "company": "FIDELITY NATIONAL INFORMATION SERVICES, INC.",
@@ -78231,5 +78291,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 5236
+ "count": 5240
 }

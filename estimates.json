@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-24 06:17",
+ "updatedAt": "2026-11-24 09:35",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4845,
+ "count": 4843,
  "items": [
   {
    "company": "Infrastructure Capital",
@@ -664,21 +664,6 @@
    "source_url": ""
   },
   {
-   "company": "Jacobs Solutions Inc.",
-   "ticker": "J",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.36,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-18",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.36",
-   "source_url": ""
-  },
-  {
    "company": "LIBERTY ENERGY INC.",
    "ticker": "LBRT",
    "exchange": "NYSE",
@@ -931,21 +916,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-24 $0.0525",
-   "source_url": ""
-  },
-  {
-   "company": "Covenant Logistics Group, Inc.",
-   "ticker": "CVLG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.07",
    "source_url": ""
   },
   {
@@ -17040,7 +17010,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.36",
+   "basis": "last confirmed 2026-12-18 $0.36",
    "source_url": ""
   },
   {
@@ -17869,21 +17839,6 @@
    "source_url": ""
   },
   {
-   "company": "Covenant Logistics Group, Inc.",
-   "ticker": "CVLG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.07",
-   "source_url": ""
-  },
-  {
    "company": "DICK’S SPORTING GOODS, INC.",
    "ticker": "DKS",
    "exchange": "NYSE",
@@ -18076,6 +18031,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.3425",
+   "source_url": ""
+  },
+  {
+   "company": "Covenant Logistics Group, Inc.",
+   "ticker": "CVLG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-29",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-28 $0.07",
    "source_url": ""
   },
   {
@@ -38010,7 +37980,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.36",
+   "basis": "last confirmed 2026-12-18 $0.36",
    "source_url": ""
   },
   {
@@ -38764,21 +38734,6 @@
    "source_url": ""
   },
   {
-   "company": "Covenant Logistics Group, Inc.",
-   "ticker": "CVLG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.07",
-   "source_url": ""
-  },
-  {
    "company": "DICK’S SPORTING GOODS, INC.",
    "ticker": "DKS",
    "exchange": "NYSE",
@@ -39181,6 +39136,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1371",
+   "source_url": ""
+  },
+  {
+   "company": "Covenant Logistics Group, Inc.",
+   "ticker": "CVLG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-28 $0.07",
    "source_url": ""
   },
   {
@@ -58875,7 +58845,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-18 $0.36",
+   "basis": "last confirmed 2026-12-18 $0.36",
    "source_url": ""
   },
   {
@@ -59626,21 +59596,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.14583",
-   "source_url": ""
-  },
-  {
-   "company": "Covenant Logistics Group, Inc.",
-   "ticker": "CVLG",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.07,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $0.07",
    "source_url": ""
   },
   {
@@ -60586,6 +60541,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.27",
+   "source_url": ""
+  },
+  {
+   "company": "Covenant Logistics Group, Inc.",
+   "ticker": "CVLG",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.07,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-27",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-28 $0.07",
    "source_url": ""
   },
   {
