@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25 03:17",
+ "updatedAt": "2026-11-25 06:17",
  "source": "company press releases via GNW/PRN newswires",
  "items": [
   {
@@ -72352,6 +72352,21 @@
    "collected_at": "2026-11-19 06:17"
   },
   {
+   "company": "Magyar Bancorp, Inc.",
+   "exchange": "NASDAQ",
+   "ticker": "MGYR",
+   "security": "common",
+   "amount_per_share": 0.2,
+   "currency": "USD",
+   "record_date": "2026-12-08",
+   "payable_date": "2026-12-22",
+   "frequency": "special",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/magyar-bancorp-inc-declares-special-cash-dividend-302949810.html",
+   "collected_at": "2026-11-25 06:17"
+  },
+  {
    "company": "SARATOGA INVESTMENT CORP.",
    "exchange": "NYSE",
    "ticker": "SAR",
@@ -72455,6 +72470,21 @@
    "wire": "EDGAR",
    "source_url": "https://www.sec.gov/Archives/edgar/data/885639/000119312526467271/kss-20261118.htm",
    "collected_at": "2026-11-19 09:17"
+  },
+  {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "exchange": "NYSE",
+   "ticker": "LGI",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "2026-12-10",
+   "payable_date": "2026-12-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "wire": "PRN",
+   "source_url": "https://www.prnewswire.com/news-releases/lazard-global-total-return-and-income-fund-declares-monthly-distribution-and-issues-estimated-sources-of-the-distribution-announced-in-october-302949838.html",
+   "collected_at": "2026-11-25 06:17"
   },
   {
    "company": "MSC Income Fund, Inc.",
@@ -78291,5 +78321,5 @@
    "collected_at": "2026-11-06 09:37"
   }
  ],
- "count": 5240
+ "count": 5242
 }

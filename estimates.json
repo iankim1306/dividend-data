@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-25 03:17",
+ "updatedAt": "2026-11-25 06:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4884,
+ "count": 4883,
  "items": [
   {
    "company": "Infrastructure Capital",
@@ -886,21 +886,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-24 $0.54285",
-   "source_url": ""
-  },
-  {
-   "company": "Lazard Global Total Return and Income Fund, Inc.",
-   "ticker": "LGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1534,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-24",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -4939,6 +4924,21 @@
    "source_url": ""
   },
   {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-22",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1534",
+   "source_url": ""
+  },
+  {
    "company": "Medalist Diversified, Inc.",
    "ticker": "MDRR",
    "exchange": "Nasdaq",
@@ -4996,21 +4996,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "Lazard Global Total Return and Income Fund, Inc.",
-   "ticker": "LGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1534,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-23",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -9319,6 +9304,21 @@
    "source_url": ""
   },
   {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-21",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1534",
+   "source_url": ""
+  },
+  {
    "company": "Arrow Financial Corporation",
    "ticker": "AROW",
    "exchange": "NASDAQ",
@@ -9466,21 +9466,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-23 $0.2",
-   "source_url": ""
-  },
-  {
-   "company": "Lazard Global Total Return and Income Fund, Inc.",
-   "ticker": "LGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1534,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-22",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -17554,6 +17539,21 @@
    "source_url": ""
   },
   {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-23",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1534",
+   "source_url": ""
+  },
+  {
    "company": "Movado Group, Inc.",
    "ticker": "MOV",
    "exchange": "NYSE",
@@ -17686,21 +17686,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-23 $0.125",
-   "source_url": ""
-  },
-  {
-   "company": "Lazard Global Total Return and Income Fund, Inc.",
-   "ticker": "LGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1534,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-24",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -24934,6 +24919,21 @@
    "source_url": ""
   },
   {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-22",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1534",
+   "source_url": ""
+  },
+  {
    "company": "Match Group",
    "ticker": "MTCH",
    "exchange": "Nasdaq",
@@ -25141,21 +25141,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-23 $0.18",
-   "source_url": ""
-  },
-  {
-   "company": "Lazard Global Total Return and Income Fund, Inc.",
-   "ticker": "LGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1534,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-23",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -29959,6 +29944,21 @@
    "source_url": ""
   },
   {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-22",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1534",
+   "source_url": ""
+  },
+  {
    "company": "Old National Bancorp",
    "ticker": "ONBPO",
    "exchange": "NASDAQ",
@@ -29986,21 +29986,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-02-20 $17.5",
-   "source_url": ""
-  },
-  {
-   "company": "Lazard Global Total Return and Income Fund, Inc.",
-   "ticker": "LGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1534,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-23",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -38344,6 +38329,21 @@
    "source_url": ""
   },
   {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-21",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1534",
+   "source_url": ""
+  },
+  {
    "company": "Manulife Financial Corporation",
    "ticker": "MFC",
    "exchange": "TSX/NYSE/PSE",
@@ -38416,21 +38416,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-22 $0.276",
-   "source_url": ""
-  },
-  {
-   "company": "Lazard Global Total Return and Income Fund, Inc.",
-   "ticker": "LGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1534,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-22",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -45814,6 +45799,21 @@
    "source_url": ""
   },
   {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-21",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1534",
+   "source_url": ""
+  },
+  {
    "company": "Altria Group, Inc.",
    "ticker": "MO",
    "exchange": "NYSE",
@@ -45886,21 +45886,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-22 $0.32",
-   "source_url": ""
-  },
-  {
-   "company": "Lazard Global Total Return and Income Fund, Inc.",
-   "ticker": "LGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1534,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-22",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -50749,6 +50734,21 @@
    "source_url": ""
   },
   {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-20",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1534",
+   "source_url": ""
+  },
+  {
    "company": "Midland States Bancorp, Inc.",
    "ticker": "MSBI",
    "exchange": "Nasdaq",
@@ -50881,21 +50881,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-20 $0.2",
-   "source_url": ""
-  },
-  {
-   "company": "Lazard Global Total Return and Income Fund, Inc.",
-   "ticker": "LGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1534,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-21",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -59149,6 +59134,21 @@
    "source_url": ""
   },
   {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-19",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1534",
+   "source_url": ""
+  },
+  {
    "company": "The Bank of New York Mellon Corporation",
    "ticker": "BNY",
    "exchange": "NYSE",
@@ -59191,21 +59191,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-21 $0.2",
-   "source_url": ""
-  },
-  {
-   "company": "Lazard Global Total Return and Income Fund, Inc.",
-   "ticker": "LGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1534,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -66514,6 +66499,21 @@
    "source_url": ""
   },
   {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-19",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1534",
+   "source_url": ""
+  },
+  {
    "company": "CENTERPOINT ENERGY, INC.",
    "ticker": "CNP",
    "exchange": "NYSE",
@@ -66601,21 +66601,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-22 $0.4",
-   "source_url": ""
-  },
-  {
-   "company": "Lazard Global Total Return and Income Fund, Inc.",
-   "ticker": "LGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1534,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-20",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
@@ -71314,6 +71299,21 @@
    "source_url": ""
   },
   {
+   "company": "Lazard Global Total Return and Income Fund, Inc.",
+   "ticker": "LGI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.1534,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-18",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-23 $0.1534",
+   "source_url": ""
+  },
+  {
    "company": "MUELLER WATER PRODUCTS, INC.",
    "ticker": "MWA",
    "exchange": "New York Stock Exchange",
@@ -71566,21 +71566,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-20 $0.45",
-   "source_url": ""
-  },
-  {
-   "company": "Lazard Global Total Return and Income Fund, Inc.",
-   "ticker": "LGI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.1534,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-11-19",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-24 $0.1534",
    "source_url": ""
   },
   {
