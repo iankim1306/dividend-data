@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-24 09:35",
+ "updatedAt": "2026-11-24 12:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4843,
+ "count": 4842,
  "items": [
   {
    "company": "Infrastructure Capital",
@@ -8326,21 +8326,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-16 $375.0",
-   "source_url": ""
-  },
-  {
-   "company": "Hormel Foods Corporation",
-   "ticker": "HRL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2925,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.2925",
    "source_url": ""
   },
   {
@@ -28969,21 +28954,6 @@
    "source_url": ""
   },
   {
-   "company": "Hormel Foods Corporation",
-   "ticker": "HRL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2925,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-17",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.2925",
-   "source_url": ""
-  },
-  {
    "company": "Kinder Morgan, Inc.",
    "ticker": "KMI",
    "exchange": "NYSE",
@@ -29191,6 +29161,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-17 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "Hormel Foods Corporation",
+   "ticker": "HRL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.295,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-02-16 $0.295",
    "source_url": ""
   },
   {
@@ -49894,21 +49879,6 @@
    "source_url": ""
   },
   {
-   "company": "Hormel Foods Corporation",
-   "ticker": "HRL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2925,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.2925",
-   "source_url": ""
-  },
-  {
    "company": "Kinder Morgan, Inc.",
    "ticker": "KMI",
    "exchange": "NYSE",
@@ -50221,6 +50191,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-17 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "Hormel Foods Corporation",
+   "ticker": "HRL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.295,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-02-16 $0.295",
    "source_url": ""
   },
   {
@@ -70819,21 +70804,6 @@
    "source_url": ""
   },
   {
-   "company": "Hormel Foods Corporation",
-   "ticker": "HRL",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.2925,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-11-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-11-16 $0.2925",
-   "source_url": ""
-  },
-  {
    "company": "Kinder Morgan, Inc.",
    "ticker": "KMI",
    "exchange": "NYSE",
@@ -71056,6 +71026,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-17 $0.25",
+   "source_url": ""
+  },
+  {
+   "company": "Hormel Foods Corporation",
+   "ticker": "HRL",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.295,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-16",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-02-16 $0.295",
    "source_url": ""
   },
   {
