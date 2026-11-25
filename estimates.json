@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-25 06:17",
+ "updatedAt": "2026-11-25 09:33",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4883,
+ "count": 4893,
  "items": [
   {
    "company": "Infrastructure Capital",
@@ -16,21 +16,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
-   "ticker": "FOF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.087,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.087",
    "source_url": ""
   },
   {
@@ -79,36 +64,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "Infrastructure Capital",
    "ticker": "SCAP",
    "exchange": "NYSE Arca",
@@ -121,21 +76,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Infrastructure Fund, Inc.",
-   "ticker": "UTF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.165,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -484,21 +424,6 @@
    "source_url": ""
   },
   {
-   "company": "Embecta Corp.",
-   "ticker": "EMBC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "Hancock Whitney Corporation",
    "ticker": "HWC",
    "exchange": "Nasdaq",
@@ -814,21 +739,6 @@
    "source_url": ""
   },
   {
-   "company": "Movado Group, Inc.",
-   "ticker": "MOV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.4,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-22 $0.4",
-   "source_url": ""
-  },
-  {
    "company": "UnitedHealth Group",
    "ticker": "UNH",
    "exchange": "NYSE",
@@ -901,21 +811,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-24 $0.0525",
-   "source_url": ""
-  },
-  {
-   "company": "DICK’S SPORTING GOODS, INC.",
-   "ticker": "DKS",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $1.25",
    "source_url": ""
   },
   {
@@ -1144,36 +1039,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
-   "ticker": "FOF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.087,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
-   "company": "G-III Apparel Group, Ltd.",
-   "ticker": "GIII",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.1,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-29 $0.1",
-   "source_url": ""
-  },
-  {
    "company": "Honeywell International Inc.",
    "ticker": "HON",
    "exchange": "Nasdaq",
@@ -1279,36 +1144,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "Infrastructure Capital",
    "ticker": "SCAP",
    "exchange": "NYSE Arca",
@@ -1351,21 +1186,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $0.31",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Infrastructure Fund, Inc.",
-   "ticker": "UTF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.165,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -1651,6 +1471,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-01 $3.33",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.087",
    "source_url": ""
   },
   {
@@ -2104,6 +1939,21 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.08",
+   "source_url": ""
+  },
+  {
    "company": "RenaissanceRe Holdings Ltd.",
    "ticker": "RNR",
    "exchange": "NYSE",
@@ -2146,6 +1996,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.235",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.09",
    "source_url": ""
   },
   {
@@ -2356,6 +2221,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.145",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.165",
    "source_url": ""
   },
   {
@@ -5254,21 +5134,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
-   "ticker": "FOF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.087,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -5374,36 +5239,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "Infrastructure Capital",
    "ticker": "SCAP",
    "exchange": "NYSE Arca",
@@ -5416,21 +5251,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Infrastructure Fund, Inc.",
-   "ticker": "UTF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.165,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -5686,6 +5506,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.5390625",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.087",
    "source_url": ""
   },
   {
@@ -6049,6 +5884,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -6136,6 +6001,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-05-01 $0.39",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.165",
    "source_url": ""
   },
   {
@@ -6593,14 +6473,14 @@
    "ticker": "WSM",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 1.52,
+   "amount_per_share": 0.76,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-01-31",
-   "frequency": "semiannual",
+   "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-02 $1.52",
+   "basis": "last confirmed 2026-11-01 $0.76",
    "source_url": ""
   },
   {
@@ -10489,21 +10369,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
-   "ticker": "FOF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.087,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -10564,36 +10429,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "Infrastructure Capital",
    "ticker": "SCAP",
    "exchange": "NYSE Arca",
@@ -10606,21 +10441,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Infrastructure Fund, Inc.",
-   "ticker": "UTF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.165,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -10771,6 +10591,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.087",
    "source_url": ""
   },
   {
@@ -11059,6 +10894,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -11116,6 +10981,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.165",
    "source_url": ""
   },
   {
@@ -12241,6 +12121,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $359.375",
+   "source_url": ""
+  },
+  {
+   "company": "The J.M. Smucker Co.",
+   "ticker": "SJM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $1.12",
    "source_url": ""
   },
   {
@@ -15184,21 +15079,6 @@
    "source_url": ""
   },
   {
-   "company": "Embecta Corp.",
-   "ticker": "EMBC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-16",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "Exelon Corporation",
    "ticker": "EXC",
    "exchange": "Nasdaq",
@@ -16864,6 +16744,21 @@
    "source_url": ""
   },
   {
+   "company": "Embecta Corp.",
+   "ticker": "EMBC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-19",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.01",
+   "source_url": ""
+  },
+  {
    "company": "Evergy, Inc.",
    "ticker": "EVRG",
    "exchange": "NASDAQ",
@@ -17404,6 +17299,21 @@
    "source_url": ""
   },
   {
+   "company": "Analog Devices, Inc.",
+   "ticker": "ADI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-21 $1.1",
+   "source_url": ""
+  },
+  {
    "company": "The Bank of New York Mellon Corporation",
    "ticker": "BNY",
    "exchange": "NYSE",
@@ -17461,6 +17371,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-21 $0.485",
+   "source_url": ""
+  },
+  {
+   "company": "Movado Group, Inc.",
+   "ticker": "MOV",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-22",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-21 $0.4",
    "source_url": ""
   },
   {
@@ -17551,21 +17476,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-23 $0.1534",
-   "source_url": ""
-  },
-  {
-   "company": "Movado Group, Inc.",
-   "ticker": "MOV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.4,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-23",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-22 $0.4",
    "source_url": ""
   },
   {
@@ -17764,6 +17674,21 @@
    "source_url": ""
   },
   {
+   "company": "DICK'S Sporting Goods, Inc.",
+   "ticker": "DKS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-25",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-24 $1.25",
+   "source_url": ""
+  },
+  {
    "company": "FS KKR Capital Corp.",
    "ticker": "FSK",
    "exchange": "NYSE",
@@ -17806,21 +17731,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-24 $0.21",
-   "source_url": ""
-  },
-  {
-   "company": "DICK’S SPORTING GOODS, INC.",
-   "ticker": "DKS",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-26",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $1.25",
    "source_url": ""
   },
   {
@@ -18034,21 +17944,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
-   "ticker": "FOF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.087,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -18199,36 +18094,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "Infrastructure Capital",
    "ticker": "SCAP",
    "exchange": "NYSE Arca",
@@ -18256,21 +18121,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-29 $0.2525",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Infrastructure Fund, Inc.",
-   "ticker": "UTF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.165,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -18484,9 +18334,24 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.087",
+   "source_url": ""
+  },
+  {
    "company": "G-III Apparel Group, Ltd.",
    "ticker": "GIII",
-   "exchange": "Nasdaq",
+   "exchange": "NASDAQ",
    "security": "common",
    "amount_per_share": 0.1,
    "currency": "USD",
@@ -18495,7 +18360,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-29 $0.1",
+   "basis": "last confirmed 2026-12-29 $0.1",
    "source_url": ""
   },
   {
@@ -18859,6 +18724,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -18976,6 +18871,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-29 $0.75",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.165",
    "source_url": ""
   },
   {
@@ -20101,6 +20011,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.39063",
+   "source_url": ""
+  },
+  {
+   "company": "BD (Becton, Dickinson and Company)",
+   "ticker": "BDX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $1.06",
    "source_url": ""
   },
   {
@@ -22381,6 +22306,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-08 $0.425",
+   "source_url": ""
+  },
+  {
+   "company": "Hewlett Packard Enterprise",
+   "ticker": "HPE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-08 $0.17",
    "source_url": ""
   },
   {
@@ -25504,21 +25444,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
-   "ticker": "FOF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.087,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
    "company": "Gap Inc.",
    "ticker": "GAP",
    "exchange": "NYSE",
@@ -25609,21 +25534,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.08",
-   "source_url": ""
-  },
-  {
    "company": "Roper Technologies, Inc.",
    "ticker": "ROP",
    "exchange": "Nasdaq",
@@ -25636,21 +25546,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-28 $0.91",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -25681,21 +25576,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-28 $0.7",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Infrastructure Fund, Inc.",
-   "ticker": "UTF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.165,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -25846,6 +25726,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.087",
    "source_url": ""
   },
   {
@@ -26179,6 +26074,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -26251,6 +26176,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.165",
    "source_url": ""
   },
   {
@@ -27031,6 +26971,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-31 $1.5",
+   "source_url": ""
+  },
+  {
+   "company": "WILLIAMS-SONOMA, INC.",
+   "ticker": "WSM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.76,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-02",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-01 $0.76",
    "source_url": ""
   },
   {
@@ -30964,21 +30919,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
-   "ticker": "FOF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.087,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
    "company": "HealthStream, Inc.",
    "ticker": "HSTM",
    "exchange": "Nasdaq",
@@ -31189,36 +31129,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "SB Financial Group, Inc.",
    "ticker": "SBFG",
    "exchange": "NASDAQ",
@@ -31291,21 +31201,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.36",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Infrastructure Fund, Inc.",
-   "ticker": "UTF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.165,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -31486,6 +31381,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.087",
    "source_url": ""
   },
   {
@@ -31774,6 +31684,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -31831,6 +31771,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.165",
    "source_url": ""
   },
   {
@@ -32986,6 +32941,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $359.375",
+   "source_url": ""
+  },
+  {
+   "company": "The J.M. Smucker Co.",
+   "ticker": "SJM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $1.12",
    "source_url": ""
   },
   {
@@ -36049,21 +36019,6 @@
    "source_url": ""
   },
   {
-   "company": "Embecta Corp.",
-   "ticker": "EMBC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-15",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "Exelon Corporation",
    "ticker": "EXC",
    "exchange": "Nasdaq",
@@ -37834,6 +37789,21 @@
    "source_url": ""
   },
   {
+   "company": "Embecta Corp.",
+   "ticker": "EMBC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-18",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.01",
+   "source_url": ""
+  },
+  {
    "company": "Evergy, Inc.",
    "ticker": "EVRG",
    "exchange": "NASDAQ",
@@ -38284,6 +38254,21 @@
    "source_url": ""
   },
   {
+   "company": "Analog Devices, Inc.",
+   "ticker": "ADI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-21 $1.1",
+   "source_url": ""
+  },
+  {
    "company": "The Bank of New York Mellon Corporation",
    "ticker": "BNY",
    "exchange": "NYSE",
@@ -38359,6 +38344,21 @@
    "source_url": ""
   },
   {
+   "company": "Movado Group, Inc.",
+   "ticker": "MOV",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-21",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-21 $0.4",
+   "source_url": ""
+  },
+  {
    "company": "Tapestry, Inc.",
    "ticker": "TPR",
    "exchange": "NYSE",
@@ -38416,21 +38416,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-22 $0.276",
-   "source_url": ""
-  },
-  {
-   "company": "Movado Group, Inc.",
-   "ticker": "MOV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.4,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-22",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-22 $0.4",
    "source_url": ""
   },
   {
@@ -38644,6 +38629,21 @@
    "source_url": ""
   },
   {
+   "company": "DICK'S Sporting Goods, Inc.",
+   "ticker": "DKS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-24",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-24 $1.25",
+   "source_url": ""
+  },
+  {
    "company": "FS KKR Capital Corp.",
    "ticker": "FSK",
    "exchange": "NYSE",
@@ -38701,21 +38701,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.24",
-   "source_url": ""
-  },
-  {
-   "company": "DICK’S SPORTING GOODS, INC.",
-   "ticker": "DKS",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-25",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $1.25",
    "source_url": ""
   },
   {
@@ -38839,21 +38824,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
-   "ticker": "FOF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.087,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -38929,36 +38899,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "Infrastructure Capital",
    "ticker": "SCAP",
    "exchange": "NYSE Arca",
@@ -38971,21 +38911,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Infrastructure Fund, Inc.",
-   "ticker": "UTF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.165,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -39196,6 +39121,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.44",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.087",
    "source_url": ""
   },
   {
@@ -39574,6 +39514,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -39646,6 +39616,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.165",
    "source_url": ""
   },
   {
@@ -39936,7 +39921,7 @@
   {
    "company": "G-III Apparel Group, Ltd.",
    "ticker": "GIII",
-   "exchange": "Nasdaq",
+   "exchange": "NASDAQ",
    "security": "common",
    "amount_per_share": 0.1,
    "currency": "USD",
@@ -39945,7 +39930,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-29 $0.1",
+   "basis": "last confirmed 2026-12-29 $0.1",
    "source_url": ""
   },
   {
@@ -41056,6 +41041,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.39063",
+   "source_url": ""
+  },
+  {
+   "company": "BD (Becton, Dickinson and Company)",
+   "ticker": "BDX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-01",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $1.06",
    "source_url": ""
   },
   {
@@ -43321,6 +43321,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-08 $0.425",
+   "source_url": ""
+  },
+  {
+   "company": "Hewlett Packard Enterprise",
+   "ticker": "HPE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-09",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-08 $0.17",
    "source_url": ""
   },
   {
@@ -46354,21 +46369,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
-   "ticker": "FOF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.087,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -46444,36 +46444,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "Infrastructure Capital",
    "ticker": "SCAP",
    "exchange": "NYSE Arca",
@@ -46501,21 +46471,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-27 $0.05",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Infrastructure Fund, Inc.",
-   "ticker": "UTF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.165,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -46741,6 +46696,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-07-29 $0.19",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.087",
    "source_url": ""
   },
   {
@@ -47059,6 +47029,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -47131,6 +47131,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-28 $0.7",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.165",
    "source_url": ""
   },
   {
@@ -47978,14 +47993,14 @@
    "ticker": "WSM",
    "exchange": "NYSE",
    "security": "common",
-   "amount_per_share": 1.52,
+   "amount_per_share": 0.76,
    "currency": "USD",
    "record_date": "",
    "payable_date": "2027-08-01",
-   "frequency": "semiannual",
+   "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-08-02 $1.52",
+   "basis": "last confirmed 2026-11-01 $0.76",
    "source_url": ""
   },
   {
@@ -51769,21 +51784,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
-   "ticker": "FOF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.087,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -51844,36 +51844,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "Infrastructure Capital",
    "ticker": "SCAP",
    "exchange": "NYSE Arca",
@@ -51886,21 +51856,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Infrastructure Fund, Inc.",
-   "ticker": "UTF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.165,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -52141,6 +52096,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.26",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.087",
    "source_url": ""
   },
   {
@@ -52579,6 +52549,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "SB Financial Group, Inc.",
    "ticker": "SBFG",
    "exchange": "NASDAQ",
@@ -52696,6 +52696,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.165",
    "source_url": ""
   },
   {
@@ -53911,6 +53926,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-01 $359.375",
+   "source_url": ""
+  },
+  {
+   "company": "The J.M. Smucker Co.",
+   "ticker": "SJM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.12,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-01 $1.12",
    "source_url": ""
   },
   {
@@ -56974,21 +57004,6 @@
    "source_url": ""
   },
   {
-   "company": "Embecta Corp.",
-   "ticker": "EMBC",
-   "exchange": "Nasdaq",
-   "security": "common",
-   "amount_per_share": 0.01,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-14",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-15 $0.01",
-   "source_url": ""
-  },
-  {
    "company": "Exelon Corporation",
    "ticker": "EXC",
    "exchange": "Nasdaq",
@@ -58699,6 +58714,21 @@
    "source_url": ""
   },
   {
+   "company": "Embecta Corp.",
+   "ticker": "EMBC",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 0.01,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-17",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-18 $0.01",
+   "source_url": ""
+  },
+  {
    "company": "Evergy, Inc.",
    "ticker": "EVRG",
    "exchange": "NASDAQ",
@@ -59149,6 +59179,21 @@
    "source_url": ""
   },
   {
+   "company": "Analog Devices, Inc.",
+   "ticker": "ADI",
+   "exchange": "Nasdaq",
+   "security": "common",
+   "amount_per_share": 1.1,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-21 $1.1",
+   "source_url": ""
+  },
+  {
    "company": "The Bank of New York Mellon Corporation",
    "ticker": "BNY",
    "exchange": "NYSE",
@@ -59206,6 +59251,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-21 $0.485",
+   "source_url": ""
+  },
+  {
+   "company": "Movado Group, Inc.",
+   "ticker": "MOV",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.4,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-20",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-21 $0.4",
    "source_url": ""
   },
   {
@@ -59281,21 +59341,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-22 $0.276",
-   "source_url": ""
-  },
-  {
-   "company": "Movado Group, Inc.",
-   "ticker": "MOV",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.4,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-21",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-22 $0.4",
    "source_url": ""
   },
   {
@@ -59509,6 +59554,21 @@
    "source_url": ""
   },
   {
+   "company": "DICK'S Sporting Goods, Inc.",
+   "ticker": "DKS",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.25,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-23",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-24 $1.25",
+   "source_url": ""
+  },
+  {
    "company": "FS KKR Capital Corp.",
    "ticker": "FSK",
    "exchange": "NYSE",
@@ -59566,21 +59626,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-28 $0.14583",
-   "source_url": ""
-  },
-  {
-   "company": "DICK’S SPORTING GOODS, INC.",
-   "ticker": "DKS",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 1.25,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-24",
-   "frequency": "quarterly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-09-25 $1.25",
    "source_url": ""
   },
   {
@@ -59689,21 +59734,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
-   "ticker": "FOF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.087,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -59764,36 +59794,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.08",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.09",
-   "source_url": ""
-  },
-  {
    "company": "Infrastructure Capital",
    "ticker": "SCAP",
    "exchange": "NYSE Arca",
@@ -59806,21 +59806,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Infrastructure Fund, Inc.",
-   "ticker": "UTF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.165,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -59971,6 +59956,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.087",
    "source_url": ""
   },
   {
@@ -60274,6 +60274,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -60331,6 +60361,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.165",
    "source_url": ""
   },
   {
@@ -60876,7 +60921,7 @@
   {
    "company": "G-III Apparel Group, Ltd.",
    "ticker": "GIII",
-   "exchange": "Nasdaq",
+   "exchange": "NASDAQ",
    "security": "common",
    "amount_per_share": 0.1,
    "currency": "USD",
@@ -60885,7 +60930,7 @@
    "frequency": "quarterly",
    "us_listed": true,
    "status": "estimated",
-   "basis": "last confirmed 2026-09-29 $0.1",
+   "basis": "last confirmed 2026-12-29 $0.1",
    "source_url": ""
   },
   {
@@ -61861,6 +61906,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-31 $0.39063",
+   "source_url": ""
+  },
+  {
+   "company": "BD (Becton, Dickinson and Company)",
+   "ticker": "BDX",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 1.06,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-30",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-31 $1.06",
    "source_url": ""
   },
   {
@@ -64111,6 +64171,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-08 $0.425",
+   "source_url": ""
+  },
+  {
+   "company": "Hewlett Packard Enterprise",
+   "ticker": "HPE",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.17,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-08",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-08 $0.17",
    "source_url": ""
   },
   {
@@ -67084,21 +67159,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
-   "ticker": "FOF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.087,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.087",
-   "source_url": ""
-  },
-  {
    "company": "Helios Technologies, Inc.",
    "ticker": "HLIO",
    "exchange": "NYSE",
@@ -67174,21 +67234,6 @@
    "source_url": ""
   },
   {
-   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
-   "ticker": "RFI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.08,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.08",
-   "source_url": ""
-  },
-  {
    "company": "RGA",
    "ticker": "RGA",
    "exchange": "NYSE",
@@ -67201,21 +67246,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-26 $0.98",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
-   "ticker": "RQI",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.09",
    "source_url": ""
   },
   {
@@ -67246,21 +67276,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-26 $0.29",
-   "source_url": ""
-  },
-  {
-   "company": "Cohen & Steers Infrastructure Fund, Inc.",
-   "ticker": "UTF",
-   "exchange": "NYSE",
-   "security": "common",
-   "amount_per_share": 0.165,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.165",
    "source_url": ""
   },
   {
@@ -67441,6 +67456,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.087",
    "source_url": ""
   },
   {
@@ -67744,6 +67774,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -67816,6 +67876,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-27 $0.05",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.165",
    "source_url": ""
   },
   {
@@ -68836,6 +68911,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2027-01-31 $1.5",
+   "source_url": ""
+  },
+  {
+   "company": "WILLIAMS-SONOMA, INC.",
+   "ticker": "WSM",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.76,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-31",
+   "frequency": "quarterly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-01 $0.76",
    "source_url": ""
   },
   {
@@ -72769,6 +72859,21 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+   "ticker": "FOF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.087,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.087",
+   "source_url": ""
+  },
+  {
    "company": "Highland Opportunities and Income Fund",
    "ticker": "HFRO",
    "exchange": "NYSE",
@@ -73039,6 +73144,36 @@
    "source_url": ""
   },
   {
+   "company": "Cohen & Steers Total Return Realty Fund, Inc.",
+   "ticker": "RFI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.08,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.08",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Quality Income Realty Fund, Inc.",
+   "ticker": "RQI",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.09",
+   "source_url": ""
+  },
+  {
    "company": "Sabine Royalty Trust",
    "ticker": "SBR",
    "exchange": "NYSE",
@@ -73096,6 +73231,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.11",
+   "source_url": ""
+  },
+  {
+   "company": "Cohen & Steers Infrastructure Fund, Inc.",
+   "ticker": "UTF",
+   "exchange": "NYSE",
+   "security": "common",
+   "amount_per_share": 0.165,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.165",
    "source_url": ""
   },
   {
