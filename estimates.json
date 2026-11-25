@@ -1,23 +1,8 @@
 {
- "updatedAt": "2026-11-25 18:17",
+ "updatedAt": "2026-11-25 21:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
  "count": 4893,
  "items": [
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
   {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
@@ -31,51 +16,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.158",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $1.09",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-11-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -1009,21 +949,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
    "company": "First Keystone Corporation",
    "ticker": "FKYS",
    "exchange": "OTCID",
@@ -1069,21 +994,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
    "company": "Alliant Energy Corporation",
    "ticker": "NASDAQ: LNT",
    "exchange": "Nasdaq",
@@ -1126,36 +1036,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-30 $1.58",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $1.09",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2026-12-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -1336,6 +1216,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.3425",
    "source_url": ""
   },
   {
@@ -1654,6 +1549,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
+   "source_url": ""
+  },
+  {
    "company": "Insteel Industries Inc.",
    "ticker": "IIIN",
    "exchange": "NYSE",
@@ -1939,6 +1849,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Cohen & Steers Total Return Realty Fund, Inc.",
    "ticker": "RFI",
    "exchange": "NYSE",
@@ -2056,6 +1981,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-30 $0.37",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2026-12-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -5119,21 +5059,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -5146,21 +5071,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.158",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -5209,21 +5119,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $1.09",
-   "source_url": ""
-  },
-  {
    "company": "ROCKY BRANDS, INC.",
    "ticker": "RCKY",
    "exchange": "Nasdaq",
@@ -5236,21 +5131,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-04-30 $0.155",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-01-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -5371,6 +5251,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.59",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.3425",
    "source_url": ""
   },
   {
@@ -5629,6 +5524,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
+   "source_url": ""
+  },
+  {
    "company": "Invesco Value Municipal Income Trust",
    "ticker": "IIM",
    "exchange": "",
@@ -5869,6 +5779,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Company",
    "ticker": "RC",
    "exchange": "NYSE",
@@ -5926,6 +5851,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.36039",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-01-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -10354,21 +10294,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -10384,21 +10309,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
    "company": "Janus Living, Inc.",
    "ticker": "JAN",
    "exchange": "NYSE",
@@ -10411,36 +10321,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-29 $0.0475",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $1.09",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-02-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -10516,6 +10396,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.3425",
    "source_url": ""
   },
   {
@@ -10696,6 +10591,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.158",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -10894,6 +10804,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Cohen & Steers Total Return Realty Fund, Inc.",
    "ticker": "RFI",
    "exchange": "NYSE",
@@ -10936,6 +10861,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.36039",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-02-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -17899,21 +17839,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
    "company": "Covenant Logistics Group, Inc.",
    "ticker": "CVLG",
    "exchange": "NYSE",
@@ -17956,21 +17881,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.158",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -18076,36 +17986,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-09-28 $0.1",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $1.09",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-03-29",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -18226,6 +18106,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.3425",
    "source_url": ""
   },
   {
@@ -18484,6 +18379,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
+   "source_url": ""
+  },
+  {
    "company": "Invesco Value Municipal Income Trust",
    "ticker": "IIM",
    "exchange": "",
@@ -18724,6 +18634,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Cohen & Steers Total Return Realty Fund, Inc.",
    "ticker": "RFI",
    "exchange": "NYSE",
@@ -18766,6 +18691,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.36039",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-30",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -25384,21 +25324,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
    "company": "Boyd Group Services Inc.",
    "ticker": "BYD",
    "exchange": "TSX",
@@ -25474,21 +25399,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
    "company": "Janus Living, Inc.",
    "ticker": "JAN",
    "exchange": "NYSE",
@@ -25519,21 +25429,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $1.09",
-   "source_url": ""
-  },
-  {
    "company": "Roper Technologies, Inc.",
    "ticker": "ROP",
    "exchange": "Nasdaq",
@@ -25546,21 +25441,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-28 $0.91",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-04-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -25651,6 +25531,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.3425",
    "source_url": ""
   },
   {
@@ -25831,6 +25726,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.158",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -26059,6 +25969,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "ROCKY BRANDS, INC.",
    "ticker": "RCKY",
    "exchange": "Nasdaq",
@@ -26116,6 +26041,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.36039",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-04-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -30859,21 +30799,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
    "company": "CB Financial Services, Inc.",
    "ticker": "CBFV",
    "exchange": "NASDAQGM",
@@ -30946,21 +30871,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.158",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -31114,21 +31024,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $1.09",
-   "source_url": ""
-  },
-  {
    "company": "SB Financial Group, Inc.",
    "ticker": "SBFG",
    "exchange": "NASDAQ",
@@ -31156,21 +31051,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.63",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-05-28",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -31306,6 +31186,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.3425",
    "source_url": ""
   },
   {
@@ -31486,6 +31381,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.158",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -31684,6 +31594,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Cohen & Steers Total Return Realty Fund, Inc.",
    "ticker": "RFI",
    "exchange": "NYSE",
@@ -31726,6 +31651,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.36039",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-05-29",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -38809,21 +38749,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -38836,21 +38761,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.158",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -38881,36 +38791,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-06-28 $0.46",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $1.09",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-06-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -39016,6 +38896,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.3425",
    "source_url": ""
   },
   {
@@ -39226,6 +39121,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.158",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -39514,6 +39424,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Cohen & Steers Total Return Realty Fund, Inc.",
    "ticker": "RFI",
    "exchange": "NYSE",
@@ -39556,6 +39481,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.36039",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -46354,21 +46294,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -46381,21 +46306,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-30 $0.158",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -46426,36 +46336,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-27 $2.22",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $1.09",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-07-27",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -46576,6 +46456,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.3425",
    "source_url": ""
   },
   {
@@ -46819,6 +46714,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
+   "source_url": ""
+  },
+  {
    "company": "Invesco Value Municipal Income Trust",
    "ticker": "IIM",
    "exchange": "",
@@ -47029,6 +46939,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Cohen & Steers Total Return Realty Fund, Inc.",
    "ticker": "RFI",
    "exchange": "NYSE",
@@ -47071,6 +46996,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.36039",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-07-28",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -51769,21 +51709,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -51799,21 +51724,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
    "company": "Janus Living, Inc.",
    "ticker": "JAN",
    "exchange": "NYSE",
@@ -51826,36 +51736,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-29 $0.0475",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $1.09",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-08-26",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -51976,6 +51856,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.3425",
    "source_url": ""
   },
   {
@@ -52216,6 +52111,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.158",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -52549,6 +52459,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Cohen & Steers Total Return Realty Fund, Inc.",
    "ticker": "RFI",
    "exchange": "NYSE",
@@ -52621,6 +52546,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.63",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-08-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -59719,21 +59659,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
    "ticker": "HTD",
    "exchange": "NYSE",
@@ -59749,21 +59674,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
    "company": "Janus Living, Inc.",
    "ticker": "JAN",
    "exchange": "NYSE",
@@ -59776,36 +59686,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-29 $0.0475",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $1.09",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-09-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -59881,6 +59761,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.3425",
    "source_url": ""
   },
   {
@@ -60061,6 +59956,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.158",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -60274,6 +60184,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Cohen & Steers Total Return Realty Fund, Inc.",
    "ticker": "RFI",
    "exchange": "NYSE",
@@ -60316,6 +60241,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.36039",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -67114,21 +67054,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "BNDS",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.3425,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.3425",
-   "source_url": ""
-  },
-  {
    "company": "EIDP, Inc.",
    "ticker": "EIDP",
    "exchange": "",
@@ -67189,21 +67114,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "ICAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
-   "source_url": ""
-  },
-  {
    "company": "Janus Living, Inc.",
    "ticker": "JAN",
    "exchange": "NYSE",
@@ -67219,21 +67129,6 @@
    "source_url": ""
   },
   {
-   "company": "Infrastructure Capital",
-   "ticker": "QVOL",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 1.09,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $1.09",
-   "source_url": ""
-  },
-  {
    "company": "RGA",
    "ticker": "RGA",
    "exchange": "NYSE",
@@ -67246,21 +67141,6 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-10-26 $0.98",
-   "source_url": ""
-  },
-  {
-   "company": "Infrastructure Capital",
-   "ticker": "SCAP",
-   "exchange": "NYSE Arca",
-   "security": "fund",
-   "amount_per_share": 0.255,
-   "currency": "USD",
-   "record_date": "",
-   "payable_date": "2027-10-25",
-   "frequency": "monthly",
-   "us_listed": true,
-   "status": "estimated",
-   "basis": "last confirmed 2026-10-30 $0.255",
    "source_url": ""
   },
   {
@@ -67381,6 +67261,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.1",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.3425",
    "source_url": ""
   },
   {
@@ -67561,6 +67456,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.158",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -67774,6 +67684,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Cohen & Steers Total Return Realty Fund, Inc.",
    "ticker": "RFI",
    "exchange": "NYSE",
@@ -67816,6 +67741,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.36039",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-10-26",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -72784,6 +72724,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "BNDS",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.3425,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.3425",
+   "source_url": ""
+  },
+  {
    "company": "Bluerock Private Real Estate Fund",
    "ticker": "BPRE",
    "exchange": "NYSE",
@@ -72946,6 +72901,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.158",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "ICAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
@@ -73144,6 +73114,21 @@
    "source_url": ""
   },
   {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "QVOL",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 1.09,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $1.09",
+   "source_url": ""
+  },
+  {
    "company": "Cohen & Steers Total Return Realty Fund, Inc.",
    "ticker": "RFI",
    "exchange": "NYSE",
@@ -73186,6 +73171,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-30 $0.36039",
+   "source_url": ""
+  },
+  {
+   "company": "Infrastructure Capital Advisors",
+   "ticker": "SCAP",
+   "exchange": "NYSE Arca",
+   "security": "fund",
+   "amount_per_share": 0.255,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-25",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2026-11-30 $0.255",
    "source_url": ""
   },
   {
