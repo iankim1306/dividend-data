@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-26 21:17",
+ "updatedAt": "2026-11-27 00:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4937,
+ "count": 4938,
  "items": [
   {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
@@ -74056,6 +74056,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-11-27 $0.46",
+   "source_url": ""
+  },
+  {
+   "company": "MacKenzie Realty Capital, Inc.",
+   "ticker": "MKZR",
+   "exchange": "Nasdaq",
+   "security": "preferred",
+   "amount_per_share": 0.5625,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-11-27",
+   "frequency": "monthly",
+   "us_listed": true,
+   "status": "estimated",
+   "basis": "last confirmed 2027-01-01 $0.5625",
    "source_url": ""
   }
  ]
