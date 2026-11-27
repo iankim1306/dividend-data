@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-27 15:17",
+ "updatedAt": "2026-11-27 18:17",
  "note": "Estimated from each company's own confirmed declaration history. Amounts = most recent declared amount. Not declarations.",
- "count": 4938,
+ "count": 4941,
  "items": [
   {
    "company": "John Hancock Tax-Advantaged Dividend Income Fund",
@@ -15691,6 +15691,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.68",
+   "source_url": ""
+  },
+  {
+   "company": "Paratus Energy Services Ltd.",
+   "ticker": "PLSV",
+   "exchange": "OSLO",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-03-16",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.22",
    "source_url": ""
   },
   {
@@ -36661,6 +36676,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.68",
+   "source_url": ""
+  },
+  {
+   "company": "Paratus Energy Services Ltd.",
+   "ticker": "PLSV",
+   "exchange": "OSLO",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-06-15",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.22",
    "source_url": ""
   },
   {
@@ -57676,6 +57706,21 @@
    "us_listed": true,
    "status": "estimated",
    "basis": "last confirmed 2026-12-15 $0.68",
+   "source_url": ""
+  },
+  {
+   "company": "Paratus Energy Services Ltd.",
+   "ticker": "PLSV",
+   "exchange": "OSLO",
+   "security": "common",
+   "amount_per_share": 0.22,
+   "currency": "USD",
+   "record_date": "",
+   "payable_date": "2027-09-14",
+   "frequency": "quarterly",
+   "us_listed": false,
+   "status": "estimated",
+   "basis": "last confirmed 2026-12-15 $0.22",
    "source_url": ""
   },
   {
